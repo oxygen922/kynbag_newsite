@@ -172,7 +172,7 @@ function brandSlug(brand) {
   return brand.toLowerCase().replace(/\s+/g, '-');
 }
 
-const R2_DOMAIN = 'https://kynbag.com';
+const R2_DOMAIN = 'https://img.kynbag.com';
 
 // 全局价格映射（从 yutulu 抓取的真实价格）
 let PRICES_MAP = {};
