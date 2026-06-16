@@ -345,13 +345,19 @@ function main() {
   );
   console.log(`输出 search-index.json（全站搜索索引，${fullIndex.length} 条）`);
 
-  // 精选商品
-  const featuredBrands = ['Louis Vuitton', 'Chanel', 'Dior', 'Hermes', 'Gucci'];
+  // 精选商品：Chanel 和 Louis Vuitton 优先，各取更多
+  const featuredConfig = [
+    { brand: 'Chanel', count: 6 },
+    { brand: 'Louis Vuitton', count: 6 },
+    { brand: 'Dior', count: 4 },
+    { brand: 'Hermes', count: 4 },
+    { brand: 'Gucci', count: 4 },
+  ];
   const featured = [];
-  for (const b of featuredBrands) {
-    const list = (brandProductsMap[b] || [])
+  for (const { brand, count } of featuredConfig) {
+    const list = (brandProductsMap[brand] || [])
       .filter(p => p.images.length >= 4)
-      .slice(0, 8);
+      .slice(0, count);
     featured.push(...list);
   }
   fs.writeFileSync(path.join(OUT_DIR, 'featured.json'), JSON.stringify(featured));

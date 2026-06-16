@@ -10,15 +10,22 @@ import type { Product } from '@/types';
 export default function Home() {
   const [featured, setFeatured] = useState<Product[]>([]);
 
-  // 加载精选商品（头部 5 个品牌各取最新 4 个）
+  // 加载精选商品（Chanel 和 LV 优先，各取最新6个；其他品牌各取4个）
   useEffect(() => {
-    const featuredBrands = ['louis-vuitton', 'chanel', 'dior', 'hermes', 'gucci'];
-    Promise.all(featuredBrands.map((b) => getProductsByBrand(b))).then((results) => {
-      const combined = results
-        .flat()
-        .filter((p) => p.images.length >= 4)
-        .sort((a, b) => (b.createdAt || '').localeCompare(a.createdAt || ''))
-        .slice(0, 12);
+    const brandConfigs = [
+      { slug: 'chanel', count: 6 },
+      { slug: 'louis-vuitton', count: 6 },
+      { slug: 'dior', count: 4 },
+      { slug: 'hermes', count: 4 },
+      { slug: 'gucci', count: 4 },
+    ];
+    Promise.all(brandConfigs.map(({ slug }) => getProductsByBrand(slug))).then((results) => {
+      const combined = results.flatMap((products, i) =>
+        products
+          .filter((p) => p.images.length >= 4)
+          .sort((a, b) => (b.createdAt || '').localeCompare(a.createdAt || ''))
+          .slice(0, brandConfigs[i].count)
+      );
       setFeatured(combined);
     });
   }, []);

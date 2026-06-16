@@ -50,7 +50,9 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10">
           {/* 品牌 */}
           <div className="md:col-span-2">
-            <h3 className="font-serif text-3xl font-semibold mb-3">{SITE_CONFIG.brandName}</h3>
+            <h3 className="font-serif text-3xl font-light mb-3">
+              Kyn<span className="text-champagne italic">bag</span>
+            </h3>
             <p className="text-ivory/60 text-sm leading-relaxed max-w-md mb-6">
               A curated atelier of the world's finest luxury designer bags. Each piece is crafted
               with exceptional attention to detail, bringing you timeless elegance and unmatched

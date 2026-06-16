@@ -36,12 +36,9 @@ export default function Header() {
       <div className="container max-w-8xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between">
           {/* Logo */}
-          <Link to="/" className="flex flex-col leading-none">
-            <span className="font-serif text-2xl md:text-3xl font-semibold text-ink tracking-wide">
-              {SITE_CONFIG.brandName}
-            </span>
-            <span className="text-[10px] tracking-[0.3em] text-champagne uppercase mt-0.5 hidden sm:block">
-              Luxury Bags
+          <Link to="/" className="flex items-center gap-2.5 leading-none">
+            <span className="font-serif text-2xl md:text-3xl font-light text-ink tracking-wide">
+              Kyn<span className="text-champagne italic">bag</span>
             </span>
           </Link>
 
