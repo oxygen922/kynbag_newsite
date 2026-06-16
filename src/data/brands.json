@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Louis Vuitton",
+    "slug": "louis-vuitton",
+    "count": 1420,
+    "description": "French fashion house renowned for its iconic monogram canvas and timeless travel heritage since 1854."
+  },
+  {
+    "name": "Chanel",
+    "slug": "chanel",
+    "count": 1033,
+    "description": "Synonymous with timeless elegance, Chanel defines Parisian luxury with the iconic 2.55 and Classic Flap."
+  },
+  {
+    "name": "Dior",
+    "slug": "dior",
+    "count": 628,
+    "description": "Christian Dior's vision of refined femininity, crafting the legendary Lady Dior and Saddle bags."
+  },
+  {
+    "name": "Hermes",
+    "slug": "hermes",
+    "count": 552,
+    "description": "The pinnacle of artisanal leather goods, famed for the Birkin, Kelly, and unparalleled craftsmanship."
+  },
+  {
+    "name": "Gucci",
+    "slug": "gucci",
+    "count": 506,
+    "description": "Italian maximalism meets heritage craftsmanship, home to the Horsebit, Dionysus, and Marmont."
+  },
+  {
+    "name": "YSL",
+    "slug": "ysl",
+    "count": 488,
+    "description": "Saint Laurent's edgy Parisian-chic, defining modern luxury with the Loulou, Kate, and Niki."
+  },
+  {
+    "name": "Prada",
+    "slug": "prada",
+    "count": 287,
+    "description": "Miuccia Prada's intellectual luxury, blending nylon innovation with refined Italian leather goods."
+  },
+  {
+    "name": "Bottega Veneta",
+    "slug": "bottega-veneta",
+    "count": 243,
+    "description": "Master of intrecciato woven leather, understated luxury with the Cassette and Jodie."
+  },
+  {
+    "name": "Celine",
+    "slug": "celine",
+    "count": 221,
+    "description": "Phoebe Philo and Hedi Slimane's minimalist vision of modern French elegance."
+  },
+  {
+    "name": "Goyard",
+    "slug": "goyard",
+    "count": 208,
+    "description": "The most discreet of luxury houses, hand-painted chevron canvas since 1853."
+  },
+  {
+    "name": "Loewe",
+    "slug": "loewe",
+    "count": 177,
+    "description": "Jonathan Anderson's craft revival, blending Spanish leather heritage with modern artistry."
+  },
+  {
+    "name": "Balenciaga",
+    "slug": "balenciaga",
+    "count": 100,
+    "description": "Cristobal Balenciaga's architectural heritage reimagined for the streetwear age."
+  },
+  {
+    "name": "MiuMiu",
+    "slug": "miumiu",
+    "count": 93,
+    "description": "Playful, rebellious sister to Prada, defining youthful luxury."
+  },
+  {
+    "name": "Fendi",
+    "slug": "fendi",
+    "count": 75,
+    "description": "Roman luxury with the iconic Baguette and Peekaboo, defined by Karl Lagerfeld's vision."
+  },
+  {
+    "name": "Burberry",
+    "slug": "burberry",
+    "count": 29,
+    "description": "British heritage icon, the quintessential trench coat house with the iconic check."
+  },
+  {
+    "name": "Loro Piana",
+    "slug": "loro-piana",
+    "count": 20,
+    "description": "The world's finest cashmere and vicuna, Italian quiet luxury at its peak."
+  },
+  {
+    "name": "Givenchy",
+    "slug": "givenchy",
+    "count": 4,
+    "description": "Hubert de Givenchy's aristocratic elegance, beloved by Audrey Hepburn."
+  }
+]
