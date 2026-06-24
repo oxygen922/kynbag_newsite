@@ -2,7 +2,7 @@
 
 // 站点配置（部署时修改为实际号码）
 export const SITE_CONFIG = {
-  whatsappNumber: '1234567890', // 替换为实际 WhatsApp 号码（含国家代码，无+号）
+  whatsappNumber: '85266861587', // +852 66861587
   email: 'ladybags.service@gmail.com',
   brandName: 'Kynbag',
 };
