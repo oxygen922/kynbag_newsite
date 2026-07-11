@@ -1,10 +1,19 @@
 // 数据加载层：统一管理静态 JSON 的加载与查询
 // 性能优化：列表页用精简索引，详情页用完整数据
-import type { Product, Brand, ProductIndex } from '@/types';
+import type { Product, Brand, ProductIndex, BrandSubcategories } from '@/types';
 import brandsData from '@/data/brands.json';
+import subcategoriesData from '@/data/subcategories.json';
 
 // 品牌列表
 export const brands: Brand[] = brandsData as Brand[];
+
+// 品牌子分类列表
+export const brandSubcategories: Record<string, BrandSubcategories> = subcategoriesData as Record<string, BrandSubcategories>;
+
+// 获取指定品牌的子分类
+export function getSubcategoriesByBrand(brandSlug: string): BrandSubcategories | null {
+  return brandSubcategories[brandSlug] || null;
+}
 
 // 品牌查找映射
 const brandMap = new Map<string, Brand>(brands.map(b => [b.slug, b]));

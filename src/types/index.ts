@@ -5,6 +5,7 @@ export interface Product {
   name: string;
   brand: string;
   category: string;
+  subcategory: string;
   details: string[];
   shipping: string;
   price: number;
@@ -21,6 +22,18 @@ export interface Brand {
   description: string;
 }
 
+// 品牌子分类数据类型
+export interface BrandSubcategory {
+  id: string;
+  name: string;
+  count: number;
+}
+
+export interface BrandSubcategories {
+  name: string;
+  subcategories: BrandSubcategory[];
+}
+
 // 精简索引项（用于列表页和搜索）
 export interface ProductIndex {
   id: string;
@@ -28,6 +41,7 @@ export interface ProductIndex {
   name: string;
   brand: string;
   category: string;
+  subcategory: string;
   price: number;
   originalPrice: number;
   thumb: string;

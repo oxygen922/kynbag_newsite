@@ -1,9 +1,9 @@
-// 全部商品页（筛选/排序/分页）- 使用精简索引提升性能
+// 全部商品页（筛选/排序/分页）- 使用精简索引提升性能 + 子分类筛选
 import { useEffect, useState, useMemo } from 'react';
 import { SlidersHorizontal, X, ChevronDown } from 'lucide-react';
 import ProductCard from '@/components/ProductCard';
 import Pagination from '@/components/Pagination';
-import { brands, getAllProductIndex } from '@/lib/data';
+import { brands, getAllProductIndex, getSubcategoriesByBrand } from '@/lib/data';
 import { useFilterStore, type SortOption } from '@/store/useFilterStore';
 import type { ProductIndex } from '@/types';
 
@@ -25,11 +25,13 @@ export default function Products() {
   const {
     selectedBrands,
     selectedCategories,
+    selectedSubcategories,
     sortBy,
     page,
     pageSize,
     toggleBrand,
     toggleCategory,
+    toggleSubcategory,
     setSortBy,
     setPage,
     resetFilters,
@@ -58,6 +60,9 @@ export default function Products() {
     if (selectedCategories.length > 0) {
       result = result.filter((p) => selectedCategories.includes(p.category));
     }
+    if (selectedSubcategories.length > 0) {
+      result = result.filter((p) => selectedSubcategories.includes(p.subcategory));
+    }
 
     switch (sortBy) {
       case 'newest':
@@ -78,12 +83,20 @@ export default function Products() {
     }
 
     return result;
-  }, [allProducts, selectedBrands, selectedCategories, sortBy]);
+  }, [allProducts, selectedBrands, selectedCategories, selectedSubcategories, sortBy]);
 
   const totalPages = Math.ceil(filtered.length / pageSize);
   const paged = filtered.slice((page - 1) * pageSize, page * pageSize);
 
-  const hasFilters = selectedBrands.length > 0 || selectedCategories.length > 0;
+  // 获取选中品牌的子分类
+  const selectedBrandSubcategories = useMemo(() => {
+    if (selectedBrands.length === 1) {
+      return getSubcategoriesByBrand(selectedBrands[0].toLowerCase().replace(/\s+/g, '-'));
+    }
+    return null;
+  }, [selectedBrands]);
+
+  const hasFilters = selectedBrands.length > 0 || selectedCategories.length > 0 || selectedSubcategories.length > 0;
 
   return (
     <div className="min-h-screen">
@@ -131,6 +144,34 @@ export default function Products() {
                 </div>
               </div>
 
+              {/* 品牌子分类 - 仅在选中单个品牌时显示 */}
+              {selectedBrandSubcategories && (
+                <div>
+                  <h3 className="text-xs uppercase tracking-widest text-champagne mb-3 font-medium">
+                    {selectedBrandSubcategories.name} Styles
+                  </h3>
+                  <div className="space-y-2">
+                    {selectedBrandSubcategories.subcategories.map((subcat) => (
+                      <label
+                        key={subcat.id}
+                        className="flex items-center gap-2 cursor-pointer group"
+                      >
+                        <input
+                          type="checkbox"
+                          checked={selectedSubcategories.includes(subcat.id)}
+                          onChange={() => toggleSubcategory(subcat.id)}
+                          className="w-4 h-4 accent-champagne border-champagne/30 rounded"
+                        />
+                        <span className="text-sm text-ink/70 group-hover:text-ink transition-colors">
+                          {subcat.name}
+                          <span className="text-ink/30 ml-1">({subcat.count})</span>
+                        </span>
+                      </label>
+                    ))}
+                  </div>
+                </div>
+              )}
+
               {/* 品类 */}
               <div>
                 <h3 className="text-xs uppercase tracking-widest text-champagne mb-3 font-medium">
@@ -176,7 +217,7 @@ export default function Products() {
                 Filters
                 {hasFilters && (
                   <span className="w-5 h-5 bg-champagne text-ivory text-xs rounded-full flex items-center justify-center">
-                    {selectedBrands.length + selectedCategories.length}
+                    {selectedBrands.length + selectedCategories.length + selectedSubcategories.length}
                   </span>
                 )}
               </button>
@@ -231,6 +272,29 @@ export default function Products() {
                       ))}
                     </div>
                   </div>
+
+                  {/* 品牌子分类筛选 - 移动端 */}
+                  {selectedBrandSubcategories && (
+                    <div>
+                      <p className="text-xs uppercase tracking-widest text-champagne mb-2">
+                        {selectedBrandSubcategories.name} Styles
+                      </p>
+                      <div className="grid grid-cols-2 gap-2">
+                        {selectedBrandSubcategories.subcategories.map((subcat) => (
+                          <label key={subcat.id} className="flex items-center gap-2 cursor-pointer">
+                            <input
+                              type="checkbox"
+                              checked={selectedSubcategories.includes(subcat.id)}
+                              onChange={() => toggleSubcategory(subcat.id)}
+                              className="w-4 h-4 accent-champagne rounded"
+                            />
+                            <span className="text-xs text-ink/70">{subcat.name}</span>
+                          </label>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+
                   <div>
                     <p className="text-xs uppercase tracking-widest text-champagne mb-2">Category</p>
                     <div className="flex flex-wrap gap-2">

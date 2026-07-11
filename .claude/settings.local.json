@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git pull *)",
+      "mcp__web-reader__webReader",
+      "Bash(python scripts/fix_subcategories.py)",
+      "Bash(python -m json.tool)",
+      "Bash(python -c \"import json; data=json.load\\(open\\('src/data/products-chanel.json'\\)\\); print\\('Sample product:', json.dumps\\(data[0], indent=2\\)\\)\")",
+      "Bash(python -c \"import json; data=json.load\\(open\\('src/data/search-index.json'\\)\\); print\\('Total products:', len\\(data\\)\\); print\\('Sample with subcategory:'\\); sample=[p for p in data if p.get\\('brand'\\)=='Chanel'][:3]; [print\\(f\\\\\"  {p['name']} -> {p.get\\('subcategory', 'MISSING'\\)}\\\\\"\\) for p in sample]\")",
+      "Bash(python -c \"import json; data=json.load\\(open\\('src/data/search-index.json', encoding='utf-8'\\)\\); print\\('Total products:', len\\(data\\)\\); print\\('Sample Chanel products:'\\); sample=[p for p in data if p.get\\('brand'\\)=='Chanel'][:3]; [print\\(f\\\\\"  {p['name'][:50]}... -> {p.get\\('subcategory', 'MISSING'\\)}\\\\\"\\) for p in sample]\")",
+      "Bash(pip install *)",
+      "Bash(python scripts/test_scraper.py)",
+      "Bash(git add *)"
+    ]
+  }
+}
