@@ -449,7 +449,8 @@ def sync_new_products(new_products):
             'reviewCount': 0,
             'isNew': True,
             'isFeatured': False,
-            'tags': []
+            'tags': [],
+            'createdAt': product.get('date', datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%S'))
         }
 
         project_products.append(new_product)

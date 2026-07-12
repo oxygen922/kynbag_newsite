@@ -17398,7 +17398,8 @@
     "reviewCount": 0,
     "isNew": true,
     "isFeatured": false,
-    "tags": []
+    "tags": [],
+    "createdAt": "2025-02-21T15:07:50"
   },
   {
     "id": 10087,
@@ -17425,7 +17426,8 @@
     "reviewCount": 0,
     "isNew": true,
     "isFeatured": false,
-    "tags": []
+    "tags": [],
+    "createdAt": "2025-02-20T15:07:50"
   },
   {
     "id": 10086,
@@ -17452,7 +17454,8 @@
     "reviewCount": 0,
     "isNew": true,
     "isFeatured": false,
-    "tags": []
+    "tags": [],
+    "createdAt": "2025-02-19T15:07:50"
   },
   {
     "id": 10045,
@@ -17479,6 +17482,7 @@
     "reviewCount": 0,
     "isNew": true,
     "isFeatured": false,
-    "tags": []
+    "tags": [],
+    "createdAt": "2025-02-18T15:07:50"
   }
 ]

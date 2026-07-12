@@ -19889,7 +19889,8 @@
     "reviewCount": 0,
     "isNew": true,
     "isFeatured": false,
-    "tags": []
+    "tags": [],
+    "createdAt": "2024-10-22T15:07:50"
   },
   {
     "id": 62368,
@@ -19919,7 +19920,8 @@
     "reviewCount": 0,
     "isNew": true,
     "isFeatured": false,
-    "tags": []
+    "tags": [],
+    "createdAt": "2024-10-21T15:07:50"
   },
   {
     "id": 62359,
@@ -19949,7 +19951,8 @@
     "reviewCount": 0,
     "isNew": true,
     "isFeatured": false,
-    "tags": []
+    "tags": [],
+    "createdAt": "2024-10-20T15:07:50"
   },
   {
     "id": 62350,
@@ -19979,7 +19982,8 @@
     "reviewCount": 0,
     "isNew": true,
     "isFeatured": false,
-    "tags": []
+    "tags": [],
+    "createdAt": "2024-10-19T15:07:50"
   },
   {
     "id": 62037,
@@ -20009,7 +20013,8 @@
     "reviewCount": 0,
     "isNew": true,
     "isFeatured": false,
-    "tags": []
+    "tags": [],
+    "createdAt": "2024-10-18T15:07:50"
   },
   {
     "id": 62028,
@@ -20039,7 +20044,8 @@
     "reviewCount": 0,
     "isNew": true,
     "isFeatured": false,
-    "tags": []
+    "tags": [],
+    "createdAt": "2024-10-17T15:07:50"
   },
   {
     "id": 62019,
@@ -20069,7 +20075,8 @@
     "reviewCount": 0,
     "isNew": true,
     "isFeatured": false,
-    "tags": []
+    "tags": [],
+    "createdAt": "2024-10-16T15:07:50"
   },
   {
     "id": 62010,
@@ -20099,7 +20106,8 @@
     "reviewCount": 0,
     "isNew": true,
     "isFeatured": false,
-    "tags": []
+    "tags": [],
+    "createdAt": "2024-10-15T15:07:50"
   },
   {
     "id": 62001,
@@ -20129,7 +20137,8 @@
     "reviewCount": 0,
     "isNew": true,
     "isFeatured": false,
-    "tags": []
+    "tags": [],
+    "createdAt": "2024-10-14T15:07:50"
   },
   {
     "id": 61992,
@@ -20159,7 +20168,8 @@
     "reviewCount": 0,
     "isNew": true,
     "isFeatured": false,
-    "tags": []
+    "tags": [],
+    "createdAt": "2024-10-13T15:07:50"
   },
   {
     "id": 61983,
@@ -20189,7 +20199,8 @@
     "reviewCount": 0,
     "isNew": true,
     "isFeatured": false,
-    "tags": []
+    "tags": [],
+    "createdAt": "2024-10-12T15:07:50"
   },
   {
     "id": 61974,
@@ -20219,7 +20230,8 @@
     "reviewCount": 0,
     "isNew": true,
     "isFeatured": false,
-    "tags": []
+    "tags": [],
+    "createdAt": "2024-10-11T15:07:50"
   },
   {
     "id": 61965,
@@ -20249,7 +20261,8 @@
     "reviewCount": 0,
     "isNew": true,
     "isFeatured": false,
-    "tags": []
+    "tags": [],
+    "createdAt": "2024-10-10T15:07:50"
   },
   {
     "id": 61956,
@@ -20279,6 +20292,7 @@
     "reviewCount": 0,
     "isNew": true,
     "isFeatured": false,
-    "tags": []
+    "tags": [],
+    "createdAt": "2024-10-09T15:07:50"
   }
 ]
