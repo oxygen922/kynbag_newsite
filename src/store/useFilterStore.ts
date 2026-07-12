@@ -56,9 +56,7 @@ export const useFilterStore = create<FilterState>((set) => ({
     set((state) => {
       const exists = state.selectedSubcategories.includes(subcat);
       return {
-        selectedSubcategories: exists
-          ? state.selectedSubcategories.filter((s) => s !== subcat)
-          : [...state.selectedSubcategories, subcat],
+        selectedSubcategories: exists ? [] : [subcat],
         page: 1,
       };
     }),
