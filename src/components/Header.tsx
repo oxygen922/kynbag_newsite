@@ -93,6 +93,14 @@ export default function Header() {
             >
               About
             </Link>
+            <a
+              href="https://luxbag.blog"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sm font-medium text-ink/80 hover:text-champagne transition-colors tracking-wide"
+            >
+              Blog
+            </a>
             <Link
               to="/contact"
               className="text-sm font-medium text-ink/80 hover:text-champagne transition-colors tracking-wide"
@@ -151,6 +159,14 @@ export default function Header() {
               <Link to="/about" className="text-sm font-medium text-ink/80 hover:text-champagne">
                 About
               </Link>
+              <a
+                href="https://luxbag.blog"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-sm font-medium text-ink/80 hover:text-champagne"
+              >
+                Blog
+              </a>
               <Link to="/contact" className="text-sm font-medium text-ink/80 hover:text-champagne">
                 Contact
               </Link>

@@ -2,234 +2,826 @@
   "chanel": {
     "name": "Chanel",
     "subcategories": [
-      { "id": "classic-flap", "name": "Classic Flap", "count": 156 },
-      { "id": "2-55", "name": "2.55", "count": 89 },
-      { "id": "cf", "name": "CF", "count": 134 },
-      { "id": "boy-bag", "name": "Boy Bag", "count": 78 },
-      { "id": "backpack", "name": "Backpack", "count": 45 },
-      { "id": "wallet-on-chain", "name": "Wallet on Chain", "count": 67 },
-      { "id": "tote", "name": "Tote", "count": 34 },
-      { "id": "crossbody", "name": "Crossbody", "count": 56 },
-      { "id": "mini-bag", "name": "Mini Bag", "count": 89 },
-      { "id": "shoulder-bag", "name": "Shoulder Bag", "count": 123 },
-      { "id": "evening-bag", "name": "Evening Bag", "count": 23 },
-      { "id": "belt-bag", "name": "Belt Bag", "count": 12 },
-      { "id": "shopping-bag", "name": "Shopping Bag", "count": 18 },
-      { "id": "other", "name": "Other", "count": 108 }
+      {
+        "id": "classic-flap",
+        "name": "Classic Flap",
+        "count": 75
+      },
+      {
+        "id": "2-55",
+        "name": "2.55",
+        "count": 5
+      },
+      {
+        "id": "cf",
+        "name": "CF",
+        "count": 0
+      },
+      {
+        "id": "boy-bag",
+        "name": "Boy Bag",
+        "count": 16
+      },
+      {
+        "id": "backpack",
+        "name": "Backpack",
+        "count": 40
+      },
+      {
+        "id": "wallet-on-chain",
+        "name": "Wallet on Chain",
+        "count": 44
+      },
+      {
+        "id": "tote",
+        "name": "Tote",
+        "count": 72
+      },
+      {
+        "id": "crossbody",
+        "name": "Crossbody",
+        "count": 0
+      },
+      {
+        "id": "mini-bag",
+        "name": "Mini Bag",
+        "count": 72
+      },
+      {
+        "id": "shoulder-bag",
+        "name": "Shoulder Bag",
+        "count": 20
+      },
+      {
+        "id": "evening-bag",
+        "name": "Evening Bag",
+        "count": 2
+      },
+      {
+        "id": "belt-bag",
+        "name": "Belt Bag",
+        "count": 0
+      },
+      {
+        "id": "shopping-bag",
+        "name": "Shopping Bag",
+        "count": 72
+      },
+      {
+        "id": "other",
+        "name": "Other",
+        "count": 428
+      }
     ]
   },
   "louis-vuitton": {
     "name": "Louis Vuitton",
     "subcategories": [
-      { "id": "neverfull", "name": "Neverfull", "count": 145 },
-      { "id": "speedy", "name": "Speedy", "count": 134 },
-      { "id": "keepall", "name": "Keepall", "count": 67 },
-      { "id": "carryall", "name": "Carryall", "count": 89 },
-      { "id": "onthego", "name": "OnTheGo", "count": 78 },
-      { "id": "neverwoof", "name": "Neverwoof", "count": 23 },
-      { "id": "coussin", "name": "Coussin", "count": 45 },
-      { "id": "dauphine", "name": "Dauphine", "count": 56 },
-      { "id": "petite-malle", "name": "Petite Malle", "count": 34 },
-      { "id": "capucines", "name": "Capucines", "count": 67 },
-      { "id": "multi-pocket", "name": "Multi Pocket", "count": 45 },
-      { "id": "tote", "name": "Tote", "count": 123 },
-      { "id": "backpack", "name": "Backpack", "count": 56 },
-      { "id": "crossbody", "name": "Crossbody", "count": 89 },
-      { "id": "belt-bag", "name": "Belt Bag", "count": 34 },
-      { "id": "other", "name": "Other", "count": 389 }
+      {
+        "id": "neverfull",
+        "name": "Neverfull",
+        "count": 64
+      },
+      {
+        "id": "speedy",
+        "name": "Speedy",
+        "count": 131
+      },
+      {
+        "id": "keepall",
+        "name": "Keepall",
+        "count": 37
+      },
+      {
+        "id": "carryall",
+        "name": "Carryall",
+        "count": 60
+      },
+      {
+        "id": "onthego",
+        "name": "OnTheGo",
+        "count": 58
+      },
+      {
+        "id": "neverwoof",
+        "name": "Neverwoof",
+        "count": 1
+      },
+      {
+        "id": "coussin",
+        "name": "Coussin",
+        "count": 22
+      },
+      {
+        "id": "dauphine",
+        "name": "Dauphine",
+        "count": 9
+      },
+      {
+        "id": "petite-malle",
+        "name": "Petite Malle",
+        "count": 8
+      },
+      {
+        "id": "capucines",
+        "name": "Capucines",
+        "count": 41
+      },
+      {
+        "id": "multi-pocket",
+        "name": "Multi Pocket",
+        "count": 0
+      },
+      {
+        "id": "tote",
+        "name": "Tote",
+        "count": 32
+      },
+      {
+        "id": "backpack",
+        "name": "Backpack",
+        "count": 45
+      },
+      {
+        "id": "crossbody",
+        "name": "Crossbody",
+        "count": 6
+      },
+      {
+        "id": "belt-bag",
+        "name": "Belt Bag",
+        "count": 0
+      },
+      {
+        "id": "other",
+        "name": "Other",
+        "count": 788
+      }
     ]
   },
   "dior": {
     "name": "Dior",
     "subcategories": [
-      { "id": "lady-dior", "name": "Lady Dior", "count": 167 },
-      { "id": "saddle", "name": "Saddle", "count": 89 },
-      { "id": "book-tote", "name": "Book Tote", "count": 78 },
-      { "id": "miss-dior", "name": "Miss Dior", "count": 45 },
-      { "id": "dioriviera", "name": "Dioriviera", "count": 34 },
-      { "id": "caro", "name": "Caro", "count": 23 },
-      { "id": "bobby", "name": "Bobby", "count": 45 },
-      { "id": "tote", "name": "Tote", "count": 56 },
-      { "id": "crossbody", "name": "Crossbody", "count": 34 },
-      { "id": "backpack", "name": "Backpack", "count": 12 },
-      { "id": "other", "name": "Other", "count": 89 }
+      {
+        "id": "lady-dior",
+        "name": "Lady Dior",
+        "count": 49
+      },
+      {
+        "id": "saddle",
+        "name": "Saddle",
+        "count": 49
+      },
+      {
+        "id": "book-tote",
+        "name": "Book Tote",
+        "count": 105
+      },
+      {
+        "id": "miss-dior",
+        "name": "Miss Dior",
+        "count": 7
+      },
+      {
+        "id": "dioriviera",
+        "name": "Dioriviera",
+        "count": 15
+      },
+      {
+        "id": "caro",
+        "name": "Caro",
+        "count": 47
+      },
+      {
+        "id": "bobby",
+        "name": "Bobby",
+        "count": 34
+      },
+      {
+        "id": "tote",
+        "name": "Tote",
+        "count": 23
+      },
+      {
+        "id": "crossbody",
+        "name": "Crossbody",
+        "count": 0
+      },
+      {
+        "id": "backpack",
+        "name": "Backpack",
+        "count": 20
+      },
+      {
+        "id": "other",
+        "name": "Other",
+        "count": 265
+      }
     ]
   },
   "hermes": {
     "name": "Hermes",
     "subcategories": [
-      { "id": "birkin", "name": "Birkin", "count": 189 },
-      { "id": "kelly", "name": "Kelly", "count": 167 },
-      { "id": "constance", "name": "Constance", "count": 45 },
-      { "id": "lindy", "name": "Lindy", "count": 34 },
-      { "id": "bolide", "name": "Bolide", "count": 23 },
-      { "id": "picotin", "name": "Picotin", "count": 34 },
-      { "id": "garden-party", "name": "Garden Party", "count": 12 },
-      { "id": "kelly-bag", "name": "Kelly Bag", "count": 45 },
-      { "id": "tote", "name": "Tote", "count": 23 },
-      { "id": "other", "name": "Other", "count": 89 }
+      {
+        "id": "birkin",
+        "name": "Birkin",
+        "count": 62
+      },
+      {
+        "id": "kelly",
+        "name": "Kelly",
+        "count": 116
+      },
+      {
+        "id": "constance",
+        "name": "Constance",
+        "count": 66
+      },
+      {
+        "id": "lindy",
+        "name": "Lindy",
+        "count": 11
+      },
+      {
+        "id": "bolide",
+        "name": "Bolide",
+        "count": 31
+      },
+      {
+        "id": "picotin",
+        "name": "Picotin",
+        "count": 5
+      },
+      {
+        "id": "garden-party",
+        "name": "Garden Party",
+        "count": 9
+      },
+      {
+        "id": "kelly-bag",
+        "name": "Kelly Bag",
+        "count": 0
+      },
+      {
+        "id": "tote",
+        "name": "Tote",
+        "count": 0
+      },
+      {
+        "id": "other",
+        "name": "Other",
+        "count": 161
+      }
     ]
   },
   "gucci": {
     "name": "Gucci",
     "subcategories": [
-      { "id": "horsebit", "name": "Horsebit", "count": 89 },
-      { "id": "dionysus", "name": "Dionysus", "count": 78 },
-      { "id": "marmont", "name": "Marmont", "count": 67 },
-      { "id": "jackie", "name": "Jackie", "count": 56 },
-      { "id": "bamboo", "name": "Bamboo", "count": 45 },
-      { "id": "diana", "name": "Diana", "count": 34 },
-      { "id": "tori", "name": "Tori", "count": 23 },
-      { "id": "gg-marmont", "name": "GG Marmont", "count": 45 },
-      { "id": "tote", "name": "Tote", "count": 34 },
-      { "id": "crossbody", "name": "Crossbody", "count": 56 },
-      { "id": "backpack", "name": "Backpack", "count": 23 },
-      { "id": "other", "name": "Other", "count": 67 }
+      {
+        "id": "horsebit",
+        "name": "Horsebit",
+        "count": 56
+      },
+      {
+        "id": "dionysus",
+        "name": "Dionysus",
+        "count": 16
+      },
+      {
+        "id": "marmont",
+        "name": "Marmont",
+        "count": 4
+      },
+      {
+        "id": "jackie",
+        "name": "Jackie",
+        "count": 27
+      },
+      {
+        "id": "bamboo",
+        "name": "Bamboo",
+        "count": 17
+      },
+      {
+        "id": "diana",
+        "name": "Diana",
+        "count": 25
+      },
+      {
+        "id": "tori",
+        "name": "Tori",
+        "count": 0
+      },
+      {
+        "id": "gg-marmont",
+        "name": "GG Marmont",
+        "count": 68
+      },
+      {
+        "id": "tote",
+        "name": "Tote",
+        "count": 77
+      },
+      {
+        "id": "crossbody",
+        "name": "Crossbody",
+        "count": 6
+      },
+      {
+        "id": "backpack",
+        "name": "Backpack",
+        "count": 0
+      },
+      {
+        "id": "other",
+        "name": "Other",
+        "count": 85
+      }
     ]
   },
   "ysl": {
     "name": "YSL",
     "subcategories": [
-      { "id": "loulou", "name": "Loulou", "count": 89 },
-      { "id": "kate", "name": "Kate", "count": 78 },
-      { "id": "niki", "name": "Niki", "count": 67 },
-      { "id": "puffer", "name": "Puffer", "count": 45 },
-      { "id": "manhattan", "name": "Manhattan", "count": 34 },
-      { "id": "vanity", "name": "Vanity", "count": 56 },
-      { "id": "le-5-a-7", "name": "Le 5 à 7", "count": 23 },
-      { "id": "wallet-on-chain", "name": "Wallet on Chain", "count": 45 },
-      { "id": "crossbody", "name": "Crossbody", "count": 34 },
-      { "id": "tote", "name": "Tote", "count": 23 },
-      { "id": "other", "name": "Other", "count": 56 }
+      {
+        "id": "loulou",
+        "name": "Loulou",
+        "count": 31
+      },
+      {
+        "id": "kate",
+        "name": "Kate",
+        "count": 19
+      },
+      {
+        "id": "niki",
+        "name": "Niki",
+        "count": 49
+      },
+      {
+        "id": "puffer",
+        "name": "Puffer",
+        "count": 40
+      },
+      {
+        "id": "manhattan",
+        "name": "Manhattan",
+        "count": 6
+      },
+      {
+        "id": "vanity",
+        "name": "Vanity",
+        "count": 7
+      },
+      {
+        "id": "le-5-a-7",
+        "name": "Le 5 à 7",
+        "count": 24
+      },
+      {
+        "id": "wallet-on-chain",
+        "name": "Wallet on Chain",
+        "count": 17
+      },
+      {
+        "id": "crossbody",
+        "name": "Crossbody",
+        "count": 0
+      },
+      {
+        "id": "tote",
+        "name": "Tote",
+        "count": 17
+      },
+      {
+        "id": "other",
+        "name": "Other",
+        "count": 230
+      }
     ]
   },
   "prada": {
     "name": "Prada",
     "subcategories": [
-      { "id": "re-edition", "name": "Re-Edition", "count": 67 },
-      { "id": "nylon", "name": "Nylon", "count": 89 },
-      { "id": "saffiano", "name": "Saffiano", "count": 45 },
-      { "id": "symbol", "name": "Symbol", "count": 34 },
-      { "id": "cleo", "name": "Cleo", "count": 23 },
-      { "id": "tote", "name": "Tote", "count": 56 },
-      { "id": "crossbody", "name": "Crossbody", "count": 45 },
-      { "id": "backpack", "name": "Backpack", "count": 12 },
-      { "id": "other", "name": "Other", "count": 67 }
+      {
+        "id": "re-edition",
+        "name": "Re-Edition",
+        "count": 19
+      },
+      {
+        "id": "nylon",
+        "name": "Nylon",
+        "count": 14
+      },
+      {
+        "id": "saffiano",
+        "name": "Saffiano",
+        "count": 43
+      },
+      {
+        "id": "symbol",
+        "name": "Symbol",
+        "count": 6
+      },
+      {
+        "id": "cleo",
+        "name": "Cleo",
+        "count": 0
+      },
+      {
+        "id": "tote",
+        "name": "Tote",
+        "count": 25
+      },
+      {
+        "id": "crossbody",
+        "name": "Crossbody",
+        "count": 0
+      },
+      {
+        "id": "backpack",
+        "name": "Backpack",
+        "count": 0
+      },
+      {
+        "id": "other",
+        "name": "Other",
+        "count": 76
+      }
     ]
   },
   "bottega-veneta": {
     "name": "Bottega Veneta",
     "subcategories": [
-      { "id": "cassette", "name": "Cassette", "count": 78 },
-      { "id": "jodie", "name": "Jodie", "count": 67 },
-      { "id": "andiamo", "name": "Andiamo", "count": 45 },
-      { "id": "kalimero", "name": "Kalimero", "count": 34 },
-      { "id": "minidomingo", "name": "Minidomingo", "count": 23 },
-      { "id": "tote", "name": "Tote", "count": 34 },
-      { "id": "crossbody", "name": "Crossbody", "count": 45 },
-      { "id": "shoulder-bag", "name": "Shoulder Bag", "count": 56 },
-      { "id": "other", "name": "Other", "count": 45 }
+      {
+        "id": "cassette",
+        "name": "Cassette",
+        "count": 0
+      },
+      {
+        "id": "jodie",
+        "name": "Jodie",
+        "count": 26
+      },
+      {
+        "id": "andiamo",
+        "name": "Andiamo",
+        "count": 68
+      },
+      {
+        "id": "kalimero",
+        "name": "Kalimero",
+        "count": 0
+      },
+      {
+        "id": "minidomingo",
+        "name": "Minidomingo",
+        "count": 0
+      },
+      {
+        "id": "tote",
+        "name": "Tote",
+        "count": 0
+      },
+      {
+        "id": "crossbody",
+        "name": "Crossbody",
+        "count": 0
+      },
+      {
+        "id": "shoulder-bag",
+        "name": "Shoulder Bag",
+        "count": 0
+      },
+      {
+        "id": "other",
+        "name": "Other",
+        "count": 138
+      }
     ]
   },
   "celine": {
     "name": "Celine",
     "subcategories": [
-      { "id": "triomphe", "name": "Triomphe", "count": 67 },
-      { "id": "ava", "name": "Ava", "count": 56 },
-      { "id": "belt", "name": "Belt", "count": 45 },
-      { "id": "luggage", "name": "Luggage", "count": 34 },
-      { "id": "box", "name": "Box", "count": 23 },
-      { "id": "tote", "name": "Tote", "count": 45 },
-      { "id": "crossbody", "name": "Crossbody", "count": 34 },
-      { "id": "shoulder-bag", "name": "Shoulder Bag", "count": 56 },
-      { "id": "other", "name": "Other", "count": 34 }
+      {
+        "id": "triomphe",
+        "name": "Triomphe",
+        "count": 61
+      },
+      {
+        "id": "ava",
+        "name": "Ava",
+        "count": 1
+      },
+      {
+        "id": "belt",
+        "name": "Belt",
+        "count": 0
+      },
+      {
+        "id": "luggage",
+        "name": "Luggage",
+        "count": 19
+      },
+      {
+        "id": "box",
+        "name": "Box",
+        "count": 5
+      },
+      {
+        "id": "tote",
+        "name": "Tote",
+        "count": 0
+      },
+      {
+        "id": "crossbody",
+        "name": "Crossbody",
+        "count": 0
+      },
+      {
+        "id": "shoulder-bag",
+        "name": "Shoulder Bag",
+        "count": 11
+      },
+      {
+        "id": "other",
+        "name": "Other",
+        "count": 105
+      }
     ]
   },
   "goyard": {
     "name": "Goyard",
     "subcategories": [
-      { "id": "saint-louis", "name": "Saint Louis", "count": 89 },
-      { "id": "anjou", "name": "Anjou", "count": 45 },
-      { "id": "croissy", "name": "Croissy", "count": 34 },
-      { "id": "belvedere", "name": "Belvedere", "count": 23 },
-      { "id": "tote", "name": "Tote", "count": 56 },
-      { "id": "clutch", "name": "Clutch", "count": 12 },
-      { "id": "other", "name": "Other", "count": 67 }
+      {
+        "id": "saint-louis",
+        "name": "Saint Louis",
+        "count": 14
+      },
+      {
+        "id": "anjou",
+        "name": "Anjou",
+        "count": 12
+      },
+      {
+        "id": "croissy",
+        "name": "Croissy",
+        "count": 0
+      },
+      {
+        "id": "belvedere",
+        "name": "Belvedere",
+        "count": 11
+      },
+      {
+        "id": "tote",
+        "name": "Tote",
+        "count": 11
+      },
+      {
+        "id": "clutch",
+        "name": "Clutch",
+        "count": 0
+      },
+      {
+        "id": "other",
+        "name": "Other",
+        "count": 96
+      }
     ]
   },
   "loewe": {
     "name": "Loewe",
     "subcategories": [
-      { "id": "puzzle", "name": "Puzzle", "count": 45 },
-      { "id": "hammock", "name": "Hammock", "count": 34 },
-      { "id": "gate", "name": "Gate", "count": 23 },
-      { "id": "balloon", "name": "Balloon", "count": 34 },
-      { "id": "puzzle-fold", "name": "Puzzle Fold", "count": 23 },
-      { "id": "tote", "name": "Tote", "count": 34 },
-      { "id": "crossbody", "name": "Crossbody", "count": 45 },
-      { "id": "shoulder-bag", "name": "Shoulder Bag", "count": 34 },
-      { "id": "other", "name": "Other", "count": 34 }
+      {
+        "id": "puzzle",
+        "name": "Puzzle",
+        "count": 52
+      },
+      {
+        "id": "hammock",
+        "name": "Hammock",
+        "count": 6
+      },
+      {
+        "id": "gate",
+        "name": "Gate",
+        "count": 6
+      },
+      {
+        "id": "balloon",
+        "name": "Balloon",
+        "count": 0
+      },
+      {
+        "id": "puzzle-fold",
+        "name": "Puzzle Fold",
+        "count": 18
+      },
+      {
+        "id": "tote",
+        "name": "Tote",
+        "count": 0
+      },
+      {
+        "id": "crossbody",
+        "name": "Crossbody",
+        "count": 0
+      },
+      {
+        "id": "shoulder-bag",
+        "name": "Shoulder Bag",
+        "count": 0
+      },
+      {
+        "id": "other",
+        "name": "Other",
+        "count": 60
+      }
     ]
   },
   "balenciaga": {
     "name": "Balenciaga",
     "subcategories": [
-      { "id": "city", "name": "City", "count": 34 },
-      { "id": "hourglass", "name": "Hourglass", "count": 23 },
-      { "id": "bazar", "name": "Bazar", "count": 34 },
-      { "id": "duffle", "name": "Duffle", "count": 12 },
-      { "id": "tote", "name": "Tote", "count": 23 },
-      { "id": "crossbody", "name": "Crossbody", "count": 12 },
-      { "id": "other", "name": "Other", "count": 23 }
+      {
+        "id": "city",
+        "name": "City",
+        "count": 17
+      },
+      {
+        "id": "hourglass",
+        "name": "Hourglass",
+        "count": 10
+      },
+      {
+        "id": "bazar",
+        "name": "Bazar",
+        "count": 0
+      },
+      {
+        "id": "duffle",
+        "name": "Duffle",
+        "count": 0
+      },
+      {
+        "id": "tote",
+        "name": "Tote",
+        "count": 7
+      },
+      {
+        "id": "crossbody",
+        "name": "Crossbody",
+        "count": 0
+      },
+      {
+        "id": "other",
+        "name": "Other",
+        "count": 44
+      }
     ]
   },
   "miumiu": {
     "name": "MiuMiu",
     "subcategories": [
-      { "id": "wander", "name": "Wander", "count": 34 },
-      { "id": "arcadie", "name": "Arcadie", "count": 23 },
-      { "id": "muse", "name": "Muse", "count": 23 },
-      { "id": "tote", "name": "Tote", "count": 34 },
-      { "id": "crossbody", "name": "Crossbody", "count": 23 },
-      { "id": "other", "name": "Other", "count": 23 }
+      {
+        "id": "wander",
+        "name": "Wander",
+        "count": 20
+      },
+      {
+        "id": "arcadie",
+        "name": "Arcadie",
+        "count": 21
+      },
+      {
+        "id": "muse",
+        "name": "Muse",
+        "count": 0
+      },
+      {
+        "id": "tote",
+        "name": "Tote",
+        "count": 0
+      },
+      {
+        "id": "crossbody",
+        "name": "Crossbody",
+        "count": 0
+      },
+      {
+        "id": "other",
+        "name": "Other",
+        "count": 40
+      }
     ]
   },
   "fendi": {
     "name": "Fendi",
     "subcategories": [
-      { "id": "baguette", "name": "Baguette", "count": 23 },
-      { "id": "peekaboo", "name": "Peekaboo", "count": 23 },
-      { "id": "first", "name": "First", "count": 12 },
-      { "id": "tote", "name": "Tote", "count": 23 },
-      { "id": "crossbody", "name": "Crossbody", "count": 12 },
-      { "id": "other", "name": "Other", "count": 23 }
+      {
+        "id": "baguette",
+        "name": "Baguette",
+        "count": 23
+      },
+      {
+        "id": "peekaboo",
+        "name": "Peekaboo",
+        "count": 22
+      },
+      {
+        "id": "first",
+        "name": "First",
+        "count": 9
+      },
+      {
+        "id": "tote",
+        "name": "Tote",
+        "count": 1
+      },
+      {
+        "id": "crossbody",
+        "name": "Crossbody",
+        "count": 0
+      },
+      {
+        "id": "other",
+        "name": "Other",
+        "count": 20
+      }
     ]
   },
   "burberry": {
     "name": "Burberry",
     "subcategories": [
-      { "id": "kensington", "name": "Kensington", "count": 5 },
-      { "id": "check", "name": "Check", "count": 8 },
-      { "id": "tote", "name": "Tote", "count": 6 },
-      { "id": "crossbody", "name": "Crossbody", "count": 4 },
-      { "id": "other", "name": "Other", "count": 6 }
+      {
+        "id": "kensington",
+        "name": "Kensington",
+        "count": 0
+      },
+      {
+        "id": "check",
+        "name": "Check",
+        "count": 4
+      },
+      {
+        "id": "tote",
+        "name": "Tote",
+        "count": 5
+      },
+      {
+        "id": "crossbody",
+        "name": "Crossbody",
+        "count": 0
+      },
+      {
+        "id": "other",
+        "name": "Other",
+        "count": 20
+      }
     ]
   },
   "loro-piana": {
     "name": "Loro Piana",
     "subcategories": [
-      { "id": "extra-pocket", "name": "Extra Pocket", "count": 5 },
-      { "id": "sesia", "name": "Sesia", "count": 4 },
-      { "id": "tote", "name": "Tote", "count": 4 },
-      { "id": "other", "name": "Other", "count": 7 }
+      {
+        "id": "extra-pocket",
+        "name": "Extra Pocket",
+        "count": 0
+      },
+      {
+        "id": "sesia",
+        "name": "Sesia",
+        "count": 0
+      },
+      {
+        "id": "tote",
+        "name": "Tote",
+        "count": 0
+      },
+      {
+        "id": "other",
+        "name": "Other",
+        "count": 20
+      }
     ]
   },
   "givenchy": {
     "name": "Givenchy",
     "subcategories": [
-      { "id": "antigona", "name": "Antigona", "count": 2 },
-      { "id": "nightingale", "name": "Nightingale", "count": 1 },
-      { "id": "other", "name": "Other", "count": 1 }
+      {
+        "id": "antigona",
+        "name": "Antigona",
+        "count": 4
+      },
+      {
+        "id": "nightingale",
+        "name": "Nightingale",
+        "count": 0
+      },
+      {
+        "id": "other",
+        "name": "Other",
+        "count": 0
+      }
     ]
   }
 }
