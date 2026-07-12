@@ -49,7 +49,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-bel-air-hobo-bag-smallhigh-end-grade-2/1-3769.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:07:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "36437",
@@ -62,7 +62,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-bel-air-hobo-bag-smallhigh-end-grade/1-3768.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:06:59",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "36428",
@@ -75,7 +75,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-bel-air-hobo-bag-largehigh-end-grade/1-3767.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:06:33",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "35682",
@@ -88,7 +88,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-bel-air-clutch-on-strap-smallhigh-end-grade-5/1-3693.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T12:13:38",
-    "subcategory": "clutch"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "35681",
@@ -101,7 +101,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-bel-air-clutch-on-strap-smallhigh-end-grade-4/1-3692.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T12:13:38",
-    "subcategory": "clutch"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "35664",
@@ -114,7 +114,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-bel-air-clutch-on-strap-smallhigh-end-grade-3/1-3691.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T12:13:15",
-    "subcategory": "clutch"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "35663",
@@ -127,7 +127,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-bel-air-clutch-on-strap-smallhigh-end-grade-2/1-3690.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T12:13:15",
-    "subcategory": "clutch"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "35646",
@@ -140,7 +140,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-bel-air-clutch-on-strap-smallhigh-end-grade/1-3689.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T12:12:52",
-    "subcategory": "clutch"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "35645",
@@ -153,7 +153,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-bel-air-carry-all-bag-smallhigh-end-grade/1-3688.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T12:12:52",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "35628",
@@ -166,7 +166,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-bel-air-carry-all-bag-mediumhigh-end-grade/1-3687.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T12:12:28",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "34327",
@@ -179,7 +179,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-rodeo-handbag-minihigh-end-grade-10/1-3546.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:09:51",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34310",
@@ -192,7 +192,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-rodeo-handbag-minihigh-end-grade-9/1-3545.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:09:28",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34309",
@@ -205,7 +205,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-rodeo-handbag-minihigh-end-grade-8/1-3544.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:09:28",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34292",
@@ -218,7 +218,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-rodeo-handbag-minihigh-end-grade-7/1-3543.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:09:06",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34291",
@@ -231,7 +231,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-rodeo-handbag-minihigh-end-grade-6/1-3542.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:09:06",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34274",
@@ -244,7 +244,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-rodeo-handbag-minihigh-end-grade-5/1-3541.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:08:43",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34273",
@@ -257,7 +257,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-rodeo-handbag-minihigh-end-grade-4/1-3540.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:08:43",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34256",
@@ -270,7 +270,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-rodeo-handbag-minihigh-end-grade-3/1-3539.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:08:20",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34255",
@@ -283,7 +283,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-rodeo-handbag-minihigh-end-grade-2/1-3538.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:08:20",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34238",
@@ -296,7 +296,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-rodeo-handbag-minihigh-end-grade/1-3537.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:07:57",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34237",
@@ -309,7 +309,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-rodeo-handbag-smallhigh-end-grade-4/1-3536.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:07:57",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34220",
@@ -322,7 +322,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-rodeo-handbag-smallhigh-end-grade-3/1-3535.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:07:36",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34219",
@@ -335,7 +335,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-rodeo-handbag-smallhigh-end-grade-2/1-3534.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:07:36",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34202",
@@ -348,7 +348,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-rodeo-handbag-smallhigh-end-grade/1-3533.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:07:15",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34201",
@@ -361,7 +361,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-rodeo-handbag-mediumhigh-end-grade-5/1-3532.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:07:15",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34184",
@@ -374,7 +374,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-rodeo-handbag-mediumhigh-end-grade-4/1-3531.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:06:53",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34183",
@@ -387,7 +387,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-rodeo-handbag-mediumhigh-end-grade-3/1-3530.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:06:53",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34166",
@@ -400,7 +400,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-rodeo-handbag-mediumhigh-end-grade-2/1-3529.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:06:30",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34165",
@@ -413,7 +413,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-rodeo-handbag-mediumhigh-end-grade/1-3528.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:06:30",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34148",
@@ -426,7 +426,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-rodeo-handbag-largehigh-end-grade-5/1-3527.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:06:09",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34147",
@@ -439,7 +439,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-rodeo-handbag-largehigh-end-grade-4/1-3526.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:06:09",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34130",
@@ -452,7 +452,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-rodeo-handbag-largehigh-end-grade-3/1-3525.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:05:47",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34129",
@@ -465,7 +465,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-rodeo-handbag-largehigh-end-grade-2/1-3524.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:05:47",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34112",
@@ -478,7 +478,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-rodeo-handbag-largehigh-end-grade/1-3523.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:05:24",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34111",
@@ -491,7 +491,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-crush-chain-bag-smallhigh-end-grade-8/1-3522.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:05:24",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34094",
@@ -504,7 +504,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-crush-chain-bag-smallhigh-end-grade-7/1-3521.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:05:02",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34093",
@@ -517,7 +517,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-crush-chain-bag-smallhigh-end-grade-6/1-3520.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:05:02",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34076",
@@ -530,7 +530,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-crush-chain-bag-smallhigh-end-grade-5/1-3519.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:04:41",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34075",
@@ -543,7 +543,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-crush-chain-bag-smallhigh-end-grade-4/1-3518.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:04:41",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34058",
@@ -556,7 +556,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-crush-chain-bag-smallhigh-end-grade-3/1-3517.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:04:19",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34057",
@@ -569,7 +569,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-crush-chain-bag-smallhigh-end-grade-2/1-3516.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:04:19",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34040",
@@ -582,7 +582,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-crush-chain-bag-smallhigh-end-grade/1-3515.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:03:58",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34039",
@@ -595,7 +595,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-crush-chain-bag-mediumhigh-end-grade-5/1-3514.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:03:57",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34022",
@@ -608,7 +608,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-crush-chain-bag-mediumhigh-end-grade-4/1-3513.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:03:37",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34021",
@@ -621,7 +621,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-crush-chain-bag-mediumhigh-end-grade-3/1-3512.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:03:37",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34004",
@@ -634,7 +634,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-crush-chain-bag-mediumhigh-end-grade-2/1-3511.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:03:15",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34003",
@@ -647,7 +647,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-crush-chain-bag-mediumhigh-end-grade/1-3510.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:03:15",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33986",
@@ -660,7 +660,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-crush-chain-bag-largehigh-end-grade-2/1-3509.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:02:53",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33985",
@@ -673,7 +673,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-crush-chain-bag-largehigh-end-grade/1-3508.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:02:53",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33968",
@@ -686,7 +686,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-crush-tote-bag-smallhigh-end-grade-5/1-3507.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:02:32",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33967",
@@ -699,7 +699,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-crush-tote-bag-smallhigh-end-grade-4/1-3506.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:02:32",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33950",
@@ -712,7 +712,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-crush-tote-bag-smallhigh-end-grade-3/1-3505.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:02:09",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33949",
@@ -725,7 +725,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-crush-tote-bag-smallhigh-end-grade-2/1-3504.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:02:09",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33932",
@@ -738,7 +738,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-crush-tote-bag-smallhigh-end-grade/1-3503.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:01:48",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33931",
@@ -751,7 +751,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-crush-tote-bag-mediumhigh-end-grade-2/1-3502.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:01:48",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33914",
@@ -764,7 +764,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-crush-tote-bag-mediumhigh-end-grade/1-3501.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T10:01:27",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "30754",
@@ -907,7 +907,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-le-city-bag-mediumhigh-end-grade-8/1-2988.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:33:11",
-    "subcategory": "city"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "29296",
@@ -920,7 +920,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-le-city-bag-mediumhigh-end-grade-7/1-2987.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:33:10",
-    "subcategory": "city"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "29279",
@@ -933,7 +933,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-le-city-bag-mediumhigh-end-grade-6/1-2986.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:32:45",
-    "subcategory": "city"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "29278",
@@ -946,7 +946,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-le-city-bag-mediumhigh-end-grade-5/1-2985.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:32:45",
-    "subcategory": "city"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "29277",
@@ -959,7 +959,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-le-city-bag-mediumhigh-end-grade-4/1-2984.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:32:45",
-    "subcategory": "city"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "29252",
@@ -972,7 +972,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-le-city-bag-mediumhigh-end-grade-3/1-2983.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:32:13",
-    "subcategory": "city"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "29251",
@@ -985,7 +985,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-le-city-bag-mediumhigh-end-grade-2/1-2982.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:32:13",
-    "subcategory": "city"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "29250",
@@ -998,7 +998,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-le-city-bag-mediumhigh-end-grade/1-2981.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:32:13",
-    "subcategory": "city"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "29225",
@@ -1011,7 +1011,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-le-city-bag-smallhigh-end-grade-9/1-2980.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:31:43",
-    "subcategory": "city"
+    "subcategory": "mini-bag"
   },
   {
     "id": "29224",
@@ -1024,7 +1024,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-le-city-bag-smallhigh-end-grade-8/1-2979.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:31:43",
-    "subcategory": "city"
+    "subcategory": "mini-bag"
   },
   {
     "id": "29207",
@@ -1037,7 +1037,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-le-city-bag-smallhigh-end-grade-7/1-2978.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:31:21",
-    "subcategory": "city"
+    "subcategory": "mini-bag"
   },
   {
     "id": "29206",
@@ -1050,7 +1050,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-le-city-bag-smallhigh-end-grade-6/1-2977.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:31:21",
-    "subcategory": "city"
+    "subcategory": "mini-bag"
   },
   {
     "id": "29189",
@@ -1063,7 +1063,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-le-city-bag-smallhigh-end-grade-5/1-2976.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:30:56",
-    "subcategory": "city"
+    "subcategory": "mini-bag"
   },
   {
     "id": "29188",
@@ -1076,7 +1076,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-le-city-bag-smallhigh-end-grade-4/1-2975.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:30:56",
-    "subcategory": "city"
+    "subcategory": "mini-bag"
   },
   {
     "id": "29171",
@@ -1089,7 +1089,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-le-city-bag-smallhigh-end-grade-3/1-2974.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:30:36",
-    "subcategory": "city"
+    "subcategory": "mini-bag"
   },
   {
     "id": "29170",
@@ -1102,7 +1102,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-le-city-bag-smallhigh-end-grade-2/1-2973.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:30:36",
-    "subcategory": "city"
+    "subcategory": "mini-bag"
   },
   {
     "id": "29169",
@@ -1115,7 +1115,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-womens-le-city-bag-smallhigh-end-grade/1-2972.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:30:36",
-    "subcategory": "city"
+    "subcategory": "mini-bag"
   },
   {
     "id": "20735",
@@ -1128,7 +1128,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-rodeo-medium-handbaghigh-end-grade-5/1-2020.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:49:13",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "20734",
@@ -1141,7 +1141,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-rodeo-medium-handbaghigh-end-grade-4/1-2019.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:49:13",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "20709",
@@ -1154,7 +1154,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-rodeo-medium-handbaghigh-end-grade-3/1-2018.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:48:50",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "20708",
@@ -1167,7 +1167,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-rodeo-medium-handbaghigh-end-grade-2/1-2017.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:48:50",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "20707",
@@ -1180,7 +1180,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-rodeo-medium-handbaghigh-end-grade/1-2016.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:48:50",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "20682",
@@ -1193,7 +1193,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-bel-air-small-carry-all-baghigh-end-grade-3/1-2015.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:48:28",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "20681",
@@ -1206,7 +1206,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-bel-air-small-carry-all-baghigh-end-grade-2/1-2014.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:48:28",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "20680",
@@ -1219,7 +1219,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-bel-air-small-carry-all-baghigh-end-grade/1-2013.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:48:28",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "20655",
@@ -1232,7 +1232,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-bel-air-medium-carry-all-baghigh-end-grade-2/1-2012.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:48:06",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "20654",
@@ -1245,7 +1245,7 @@
     "thumb": "https://img.kynbag.com/products/balenciaga-bel-air-medium-carry-all-baghigh-end-grade/1-2011.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:48:06",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "4158",

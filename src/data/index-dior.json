@@ -10,7 +10,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-medaillon-flap-baghigh-end-grade-6/1-86.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-30T13:31:39",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "60956",
@@ -23,7 +23,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-medaillon-flap-baghigh-end-grade-5/1-85.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-30T13:30:33",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "60947",
@@ -36,7 +36,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-medaillon-flap-baghigh-end-grade-4/1-84.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-30T13:29:36",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "60938",
@@ -49,7 +49,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-medaillon-flap-baghigh-end-grade-3/1-83.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-30T13:28:39",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "60929",
@@ -62,7 +62,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-medaillon-flap-baghigh-end-grade-2/1-82.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-30T13:26:36",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "60920",
@@ -75,7 +75,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-medaillon-flap-baghigh-end-grade/1-81.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-30T13:25:13",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "60911",
@@ -88,7 +88,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-lady-d-joy-baghigh-end-grade-8/1-80.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-30T13:15:40",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60902",
@@ -101,7 +101,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-lady-d-joy-baghigh-end-grade-7/1-79.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-30T13:14:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60893",
@@ -114,7 +114,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-lady-d-joy-baghigh-end-grade-6/1-78.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-30T13:13:17",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60082",
@@ -127,7 +127,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-crunchy-baghigh-end-grade-3/1-185.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-28T15:16:36",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60073",
@@ -140,7 +140,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-crunchy-baghigh-end-grade-2/1-184.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-28T15:14:35",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60441",
@@ -153,7 +153,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-crunchy-baghigh-end-grade-4/1-33.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-28T15:13:40",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60064",
@@ -166,7 +166,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-crunchy-baghigh-end-grade/1-183.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-28T15:13:15",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60048",
@@ -179,7 +179,7 @@
     "thumb": "https://img.kynbag.com/products/dior-chrono-sneaker-4/1-182.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-28T15:10:55",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "60032",
@@ -192,7 +192,7 @@
     "thumb": "https://img.kynbag.com/products/dior-chrono-sneaker-3/1-181.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-28T15:09:16",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "60016",
@@ -205,7 +205,7 @@
     "thumb": "https://img.kynbag.com/products/dior-chrono-sneaker-2/1-180.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-28T15:06:47",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "60000",
@@ -218,7 +218,7 @@
     "thumb": "https://img.kynbag.com/products/dior-chrono-sneaker/1-179.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-28T15:04:54",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "59984",
@@ -231,7 +231,7 @@
     "thumb": "https://img.kynbag.com/products/dior-ribbon-sneaker-4/1-178.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-28T15:01:51",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "59968",
@@ -244,7 +244,7 @@
     "thumb": "https://img.kynbag.com/products/dior-ribbon-sneaker-3/1-177.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-28T15:00:16",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "59952",
@@ -257,7 +257,7 @@
     "thumb": "https://img.kynbag.com/products/dior-ribbon-sneaker-2/1-176.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-28T14:57:43",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "59936",
@@ -270,7 +270,7 @@
     "thumb": "https://img.kynbag.com/products/dior-ribbon-sneaker/1-175.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-28T14:55:07",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "59634",
@@ -283,7 +283,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-d-journey-bag-in-vintage-smooth-calfskinhigh-end-grade-4/1-153.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-23T11:02:28",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "59625",
@@ -296,7 +296,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-d-journey-bag-in-vintage-smooth-calfskinhigh-end-grade-3/1-152.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-23T10:59:59",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "59616",
@@ -309,7 +309,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-d-journey-bag-in-vintage-smooth-calfskinhigh-end-grade-4/1-151.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-23T10:58:26",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "57691",
@@ -322,7 +322,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-dior-promenade-shopping-bag/1-5938.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-26T13:43:47",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "57682",
@@ -335,7 +335,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-dior-promenade-shopping-bag/1-5937.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-26T13:42:19",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "57673",
@@ -348,7 +348,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-diorly-baghigh-end-grade-5/1-5936.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-26T13:40:50",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "57664",
@@ -361,7 +361,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-diorly-baghigh-end-grade-4/1-5935.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-26T13:39:32",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "57655",
@@ -374,7 +374,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-diorly-baghigh-end-grade-3/1-5934.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-26T13:38:19",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "57646",
@@ -387,7 +387,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-diorly-baghigh-end-grade-2/1-5933.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-26T13:37:06",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "57637",
@@ -400,7 +400,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-diorly-baghigh-end-grade/1-5932.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-26T13:35:58",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "57628",
@@ -413,7 +413,7 @@
     "thumb": "https://img.kynbag.com/products/dior-large-diorly-baghigh-end-grade-2/1-5931.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-26T13:34:57",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "57619",
@@ -426,7 +426,7 @@
     "thumb": "https://img.kynbag.com/products/dior-large-diorly-baghigh-end-grade/1-5930.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-26T13:32:36",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "56564",
@@ -439,7 +439,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-lady-d-joy-baghigh-end-grade-5/1-5823.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-21T14:10:37",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "56555",
@@ -452,7 +452,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-lady-d-joy-baghigh-end-grade-4/1-5822.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-21T14:09:04",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "56546",
@@ -465,7 +465,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-lady-d-joy-baghigh-end-grade-3/1-5821.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-21T14:07:42",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "56537",
@@ -478,7 +478,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-lady-d-joy-baghigh-end-grade-2/1-5820.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-21T14:00:59",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "56528",
@@ -491,7 +491,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-lady-d-joy-baghigh-end-grade/1-5819.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-21T13:59:41",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "56519",
@@ -686,7 +686,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-bow-baghigh-end-grade-10/1-4803.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:02:40",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "45663",
@@ -699,7 +699,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-bow-baghigh-end-grade-9/1-4802.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:02:11",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "45662",
@@ -712,7 +712,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-bow-baghigh-end-grade-8/1-4801.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:02:11",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "45645",
@@ -725,7 +725,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-bow-baghigh-end-grade-7/1-4800.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:01:44",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "45644",
@@ -738,7 +738,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-bow-baghigh-end-grade-6/1-4799.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:01:44",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "45627",
@@ -751,7 +751,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-bow-baghigh-end-grade-5/1-4798.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:01:17",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "45626",
@@ -764,7 +764,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-bow-baghigh-end-grade-4/1-4797.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:01:16",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "45609",
@@ -777,7 +777,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-bow-baghigh-end-grade-3/1-4796.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:00:48",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "45608",
@@ -790,7 +790,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-bow-baghigh-end-grade-2/1-4795.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:00:48",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "45591",
@@ -803,7 +803,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-bow-baghigh-end-grade/1-4794.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:00:20",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "45590",
@@ -816,7 +816,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-bow-baghigh-end-grade-9/1-4793.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:00:20",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "45573",
@@ -829,7 +829,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-bow-baghigh-end-grade-8/1-4792.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:59:51",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "45572",
@@ -842,7 +842,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-bow-baghigh-end-grade-7/1-4791.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:59:51",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "45555",
@@ -855,7 +855,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-bow-baghigh-end-grade-6/1-4790.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:59:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "45554",
@@ -868,7 +868,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-bow-baghigh-end-grade-5/1-4789.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:59:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "45537",
@@ -881,7 +881,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-bow-baghigh-end-grade-4/1-4788.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:58:54",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "45536",
@@ -894,7 +894,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-bow-baghigh-end-grade-3/1-4787.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:58:54",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "45519",
@@ -907,7 +907,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-bow-baghigh-end-grade-2/1-4786.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:58:26",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "45518",
@@ -920,7 +920,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-bow-baghigh-end-grade/1-4785.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:58:26",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "45501",
@@ -1154,7 +1154,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-d-journey-baghigh-end-grade-2/1-4544.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:01:29",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "43340",
@@ -1167,7 +1167,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-d-journey-bag-in-two-tone-calfskinhigh-end-grade-2/1-4543.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:01:29",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "43323",
@@ -1180,7 +1180,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-d-journey-bag-in-two-tone-calfskinhigh-end-grade/1-4542.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:01:00",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "43322",
@@ -1193,7 +1193,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-dior-toujours-vertical-tote-bag/1-4541.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:01:00",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "43305",
@@ -1206,7 +1206,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-dior-toujours-bag/1-4540.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:00:34",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "43304",
@@ -1219,7 +1219,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-dior-voyage-bag/1-4539.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:00:34",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "43287",
@@ -1232,7 +1232,7 @@
     "thumb": "https://img.kynbag.com/products/dior-large-dior-voyage-bag/1-4538.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:00:05",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "41684",
@@ -1336,7 +1336,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-lady-d-joy-bag-3/1-4352.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T15:16:53",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "41612",
@@ -1349,7 +1349,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-lady-d-joy-bag-2/1-4351.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T15:16:53",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "41595",
@@ -1362,7 +1362,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-lady-d-joy-bag/1-4350.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T15:16:26",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "41297",
@@ -1609,7 +1609,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-toujours-bag-17/1-4005.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:54:27",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38561",
@@ -1622,7 +1622,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-toujours-bag-16/1-4004.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:54:03",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38560",
@@ -1635,7 +1635,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-toujours-bag-15/1-4003.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:54:02",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38543",
@@ -1648,7 +1648,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-toujours-bag-14/1-4002.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:53:39",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38542",
@@ -1661,7 +1661,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-toujours-bag-13/1-4001.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:53:39",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38525",
@@ -1674,7 +1674,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-toujours-bag-12/1-4000.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:53:15",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38524",
@@ -1687,7 +1687,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-toujours-bag-11/1-3999.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:53:15",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38507",
@@ -1700,7 +1700,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-toujours-bag-10/1-3998.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:52:49",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38506",
@@ -1713,7 +1713,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-toujours-bag-9/1-3997.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:52:49",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38489",
@@ -1726,7 +1726,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-toujours-bag-8/1-3996.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:52:25",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38488",
@@ -1739,7 +1739,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-jolie-top-handle-bag-2/1-3995.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:52:25",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38471",
@@ -1752,7 +1752,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-jolie-top-handle-bag/1-3994.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:52:00",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38470",
@@ -1765,7 +1765,7 @@
     "thumb": "https://img.kynbag.com/products/dior-jolie-top-handle-mini-bag-3/1-3993.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:52:00",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38453",
@@ -1778,7 +1778,7 @@
     "thumb": "https://img.kynbag.com/products/dior-jolie-top-handle-mini-bag-2/1-3992.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:51:35",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38452",
@@ -1791,7 +1791,7 @@
     "thumb": "https://img.kynbag.com/products/dior-jolie-top-handle-mini-bag/1-3991.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:51:35",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37031",
@@ -1804,7 +1804,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-dior-voyage-baghigh-end-grade-2/1-3834.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:19:47",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "37030",
@@ -1817,7 +1817,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-dior-voyage-baghigh-end-grade/1-3833.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:19:47",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "37013",
@@ -1830,7 +1830,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-dior-voyage-baghigh-end-grade-3/1-3832.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:19:24",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "37012",
@@ -1843,7 +1843,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-dior-voyage-baghigh-end-grade-2/1-3831.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:19:24",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "36995",
@@ -1856,7 +1856,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-dior-voyage-baghigh-end-grade/1-3830.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:19:00",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "36994",
@@ -1869,7 +1869,7 @@
     "thumb": "https://img.kynbag.com/products/dior-large-dior-voyage-baghigh-end-grade/1-3829.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:19:00",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "36977",
@@ -2129,7 +2129,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-grand-tour-multipocket-baghigh-end-grade/1-3742.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:00:53",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "36194",
@@ -2142,7 +2142,7 @@
     "thumb": "https://img.kynbag.com/products/dior-large-grand-tour-multipocket-baghigh-end-grade/1-3741.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:00:26",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "36193",
@@ -2194,7 +2194,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-d-dream-bag-2/1-3737.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T12:59:39",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "36157",
@@ -2207,7 +2207,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-d-dream-bag/1-3736.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T12:59:39",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "36140",
@@ -2220,7 +2220,7 @@
     "thumb": "https://img.kynbag.com/products/dior-large-d-dream-bag-2/1-3735.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T12:59:15",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "36139",
@@ -2233,7 +2233,7 @@
     "thumb": "https://img.kynbag.com/products/dior-large-d-dream-bag/1-3734.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T12:59:15",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "36122",
@@ -2376,7 +2376,7 @@
     "thumb": "https://img.kynbag.com/products/miss-caro-cigale-mini-bag-4/1-3458.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:53:46",
-    "subcategory": "caro"
+    "subcategory": "mini-bag"
   },
   {
     "id": "33518",
@@ -2389,7 +2389,7 @@
     "thumb": "https://img.kynbag.com/products/miss-caro-cigale-mini-bag-3/1-3457.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:53:23",
-    "subcategory": "caro"
+    "subcategory": "mini-bag"
   },
   {
     "id": "33517",
@@ -2402,7 +2402,7 @@
     "thumb": "https://img.kynbag.com/products/miss-caro-cigale-mini-bag-2/1-3456.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:53:23",
-    "subcategory": "caro"
+    "subcategory": "mini-bag"
   },
   {
     "id": "33500",
@@ -2415,7 +2415,7 @@
     "thumb": "https://img.kynbag.com/products/miss-caro-cigale-mini-bag/1-3455.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:53:02",
-    "subcategory": "caro"
+    "subcategory": "mini-bag"
   },
   {
     "id": "33499",
@@ -2428,7 +2428,7 @@
     "thumb": "https://img.kynbag.com/products/30-montaigne-cigale-mini-bag-2/1-3454.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:53:02",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33482",
@@ -2441,7 +2441,7 @@
     "thumb": "https://img.kynbag.com/products/30-montaigne-cigale-mini-bag/1-3453.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:52:41",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33481",
@@ -2454,7 +2454,7 @@
     "thumb": "https://img.kynbag.com/products/diorstar-hobo-bag-with-chain-6/1-3452.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:52:41",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "33464",
@@ -2467,7 +2467,7 @@
     "thumb": "https://img.kynbag.com/products/miss-caro-diorling-mini-bag-with-chain-4/1-3451.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:52:18",
-    "subcategory": "caro"
+    "subcategory": "mini-bag"
   },
   {
     "id": "33463",
@@ -2480,7 +2480,7 @@
     "thumb": "https://img.kynbag.com/products/miss-caro-diorling-mini-bag-with-chain-3/1-3450.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:52:18",
-    "subcategory": "caro"
+    "subcategory": "mini-bag"
   },
   {
     "id": "33446",
@@ -2493,7 +2493,7 @@
     "thumb": "https://img.kynbag.com/products/miss-caro-diorling-mini-bag-with-chain-2/1-3449.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:51:57",
-    "subcategory": "caro"
+    "subcategory": "mini-bag"
   },
   {
     "id": "33445",
@@ -2506,7 +2506,7 @@
     "thumb": "https://img.kynbag.com/products/miss-caro-diorling-mini-bag-with-chain/1-3448.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:51:57",
-    "subcategory": "caro"
+    "subcategory": "mini-bag"
   },
   {
     "id": "33302",
@@ -2519,7 +2519,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-grand-tour-bowling-baghigh-end-grade/1-3433.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:49:04",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33301",
@@ -2532,7 +2532,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-grand-tour-bowling-baghigh-end-grade/1-3432.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:49:04",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33284",
@@ -2545,7 +2545,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-streetchic-baghigh-end-grade-3/1-3431.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:48:43",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33283",
@@ -2558,7 +2558,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-streetchic-baghigh-end-grade-2/1-3430.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:48:43",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33266",
@@ -2571,7 +2571,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-streetchic-baghigh-end-grade/1-3429.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:48:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "32158",
@@ -2753,7 +2753,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-signature-bucket-bag-6/1-3180.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:05:26",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "31032",
@@ -2766,7 +2766,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-signature-bucket-bag-5/1-3179.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:05:26",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "31007",
@@ -2779,7 +2779,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-signature-bucket-bag-4/1-3178.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:04:56",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "31006",
@@ -2935,7 +2935,7 @@
     "thumb": "https://img.kynbag.com/products/dior-groove-20-baghigh-end-grade-5/1-2971.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:30:08",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "29143",
@@ -2948,7 +2948,7 @@
     "thumb": "https://img.kynbag.com/products/dior-groove-25-baghigh-end-grade-3/1-2970.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:30:08",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "29142",
@@ -2961,7 +2961,7 @@
     "thumb": "https://img.kynbag.com/products/dior-30-montaigne-east-west-bag-with-chainhigh-end-grade/1-2969.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:30:08",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "29117",
@@ -2974,7 +2974,7 @@
     "thumb": "https://img.kynbag.com/products/dior-30-montaigne-chain-baghigh-end-grade/1-2968.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:29:40",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "29116",
@@ -3039,7 +3039,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-d-journey-baghigh-end-grade/1-2962.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:28:43",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "29062",
@@ -3052,7 +3052,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-d-journey-baghigh-end-grade/1-2961.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:28:43",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "29061",
@@ -3260,7 +3260,7 @@
     "thumb": "https://img.kynbag.com/products/dior-lady-d-joy-micro-baghigh-end-grade-8/1-2858.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:13:16",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "28182",
@@ -3273,7 +3273,7 @@
     "thumb": "https://img.kynbag.com/products/dior-lady-d-joy-micro-baghigh-end-grade-7/1-2857.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:13:16",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "28181",
@@ -3286,7 +3286,7 @@
     "thumb": "https://img.kynbag.com/products/dior-lady-d-joy-micro-baghigh-end-grade-6/1-2856.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:13:16",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "28180",
@@ -3299,7 +3299,7 @@
     "thumb": "https://img.kynbag.com/products/dior-lady-d-joy-micro-baghigh-end-grade-5/1-2855.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:13:16",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "28179",
@@ -3312,7 +3312,7 @@
     "thumb": "https://img.kynbag.com/products/dior-lady-d-joy-micro-baghigh-end-grade-4/1-2854.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:13:16",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "28178",
@@ -3325,7 +3325,7 @@
     "thumb": "https://img.kynbag.com/products/dior-lady-d-joy-micro-baghigh-end-grade-3/1-2853.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:13:15",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "28177",
@@ -3338,7 +3338,7 @@
     "thumb": "https://img.kynbag.com/products/dior-lady-d-joy-micro-baghigh-end-grade-2/1-2852.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:13:15",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "28176",
@@ -3351,7 +3351,7 @@
     "thumb": "https://img.kynbag.com/products/dior-lady-d-joy-micro-baghigh-end-grade/1-2851.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:13:15",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "28175",
@@ -3364,7 +3364,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-lady-d-joy-baghigh-end-grade-5/1-2850.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:13:15",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28174",
@@ -3377,7 +3377,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-lady-d-joy-baghigh-end-grade-4/1-2849.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:13:15",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28173",
@@ -3390,7 +3390,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-lady-d-joy-baghigh-end-grade-3/1-2848.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:13:15",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28172",
@@ -3403,7 +3403,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-lady-d-joy-baghigh-end-grade-2/1-2847.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:13:15",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28171",
@@ -3416,7 +3416,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-lady-d-joy-baghigh-end-grade/1-2846.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:13:15",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "27775",
@@ -3429,7 +3429,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-d-journey-bag-in-vintage-smooth-calfskinhigh-end-grade-3/1-2818.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:56:24",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "27774",
@@ -3442,7 +3442,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-d-journey-bag-in-vintage-smooth-calfskinhigh-end-grade-2/1-2817.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:56:24",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "27749",
@@ -3455,7 +3455,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-d-journey-bag-in-vintage-smooth-calfskinhigh-end-grade/1-2816.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:55:56",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "27748",
@@ -3468,7 +3468,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-d-journey-bag-in-vintage-smooth-calfskinhigh-end-grade-2/1-2815.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:55:56",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "27747",
@@ -3481,7 +3481,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-d-journey-bag-in-vintage-smooth-calfskinhigh-end-grade/1-2814.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:55:56",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "27722",
@@ -3494,7 +3494,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-d-journey-bag-in-shiny-goatskinhigh-end-grade/1-2813.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:55:29",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "27369",
@@ -3507,7 +3507,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-signature-bucket-bag-3/1-2772.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:49:38",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "27344",
@@ -3520,7 +3520,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-signature-bucket-bag-2/1-2771.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:49:11",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "27343",
@@ -3533,7 +3533,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-signature-bucket-bag/1-2770.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:49:10",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "27342",
@@ -3546,7 +3546,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-signature-bucket-bag-3/1-2769.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:49:10",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "27317",
@@ -3559,7 +3559,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-signature-bucket-bag-2/1-2768.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:48:43",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "27316",
@@ -3572,7 +3572,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-signature-bucket-bag/1-2767.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:48:42",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "27018",
@@ -3585,7 +3585,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-d-journey-bag-2/1-2733.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:43:49",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "26993",
@@ -3598,7 +3598,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-d-journey-bag/1-2732.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:43:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "26992",
@@ -3611,7 +3611,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-d-journey-bag-2/1-2731.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:43:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "26991",
@@ -3624,7 +3624,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-d-journey-bag/1-2730.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:43:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "24489",
@@ -3637,7 +3637,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-toujours-vertical-tote-baghigh-end-grade-5/1-2452.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:02:58",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "24464",
@@ -3650,7 +3650,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-toujours-vertical-tote-baghigh-end-grade-4/1-2451.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:02:34",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "24463",
@@ -3663,7 +3663,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-toujours-vertical-tote-baghigh-end-grade-3/1-2450.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:02:34",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "24462",
@@ -3676,7 +3676,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-toujours-vertical-tote-baghigh-end-grade-2/1-2449.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:02:34",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "24437",
@@ -3689,7 +3689,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-toujours-vertical-tote-baghigh-end-grade/1-2448.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:02:10",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "24436",
@@ -3702,7 +3702,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-toujours-vertical-tote-baghigh-end-grade-6/1-2447.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:02:10",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "24435",
@@ -3715,7 +3715,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-toujours-vertical-tote-baghigh-end-grade-5/1-2446.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:02:10",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "24410",
@@ -3728,7 +3728,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-toujours-vertical-tote-baghigh-end-grade-4/1-2445.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:01:44",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "24409",
@@ -3741,7 +3741,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-toujours-vertical-tote-baghigh-end-grade-3/1-2444.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:01:44",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "24408",
@@ -3754,7 +3754,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-toujours-vertical-tote-baghigh-end-grade-2/1-2443.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:01:44",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "24383",
@@ -3767,7 +3767,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-toujours-vertical-tote-baghigh-end-grade/1-2442.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:01:18",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23410",
@@ -3780,7 +3780,7 @@
     "thumb": "https://img.kynbag.com/products/large-dior-caro-daily-pouchhigh-end-grade-5/1-2333.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:46:39",
-    "subcategory": "caro"
+    "subcategory": "pouch"
   },
   {
     "id": "23409",
@@ -3793,7 +3793,7 @@
     "thumb": "https://img.kynbag.com/products/large-dior-caro-daily-pouchhigh-end-grade-4/1-2332.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:46:39",
-    "subcategory": "caro"
+    "subcategory": "pouch"
   },
   {
     "id": "23383",
@@ -3806,7 +3806,7 @@
     "thumb": "https://img.kynbag.com/products/large-dior-caro-daily-pouchhigh-end-grade-2/1-2330.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:46:16",
-    "subcategory": "caro"
+    "subcategory": "pouch"
   },
   {
     "id": "23382",
@@ -3819,7 +3819,7 @@
     "thumb": "https://img.kynbag.com/products/large-dior-caro-daily-pouchhigh-end-grade/1-2329.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:46:15",
-    "subcategory": "caro"
+    "subcategory": "pouch"
   },
   {
     "id": "21005",
@@ -4300,7 +4300,7 @@
     "thumb": "https://img.kynbag.com/products/dior-walk-in-dior-purse-2/1-1819.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:25:38",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "18909",
@@ -4313,7 +4313,7 @@
     "thumb": "https://img.kynbag.com/products/dior-walk-in-dior-purse/1-1818.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:25:17",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "18908",
@@ -4326,7 +4326,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-toujours-bag-7/1-1817.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:25:17",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18907",
@@ -4339,7 +4339,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-toujours-bag-6/1-1816.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:25:17",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18223",
@@ -4352,7 +4352,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-toujours-baghigh-end-grade-2/1-1740.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:16:54",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18222",
@@ -4365,7 +4365,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-toujours-baghigh-end-grade/1-1739.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:16:54",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18189",
@@ -4378,7 +4378,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-toujours-baghigh-end-grade-2/1-1738.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:16:29",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18188",
@@ -4391,7 +4391,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-toujours-baghigh-end-grade/1-1737.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:16:29",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18187",
@@ -4404,7 +4404,7 @@
     "thumb": "https://img.kynbag.com/products/dior-large-toujours-baghigh-end-grade/1-1736.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:16:29",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "17684",
@@ -4443,7 +4443,7 @@
     "thumb": "https://img.kynbag.com/products/dior-30-montaigne-east-west-bag-with-chain-5/1-1679.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:10:31",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "17649",
@@ -4456,7 +4456,7 @@
     "thumb": "https://img.kynbag.com/products/dior-30-montaigne-east-west-bag-with-chain-4/1-1678.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:10:06",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "17648",
@@ -4469,7 +4469,7 @@
     "thumb": "https://img.kynbag.com/products/dior-30-montaigne-east-west-bag-with-chain-3/1-1677.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:10:06",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "17647",
@@ -4482,7 +4482,7 @@
     "thumb": "https://img.kynbag.com/products/dior-30-montaigne-east-west-bag-with-chain-2/1-1676.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:10:06",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "17646",
@@ -4495,7 +4495,7 @@
     "thumb": "https://img.kynbag.com/products/dior-30-montaigne-east-west-bag-with-chain/1-1675.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:10:06",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "17613",
@@ -4508,7 +4508,7 @@
     "thumb": "https://img.kynbag.com/products/dior-groove-20-baghigh-end-grade-4/1-1674.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:09:41",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "17612",
@@ -4521,7 +4521,7 @@
     "thumb": "https://img.kynbag.com/products/dior-groove-20-baghigh-end-grade-3/1-1673.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:09:41",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "17611",
@@ -4534,7 +4534,7 @@
     "thumb": "https://img.kynbag.com/products/dior-groove-20-baghigh-end-grade-2/1-1672.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:09:41",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "17610",
@@ -4547,7 +4547,7 @@
     "thumb": "https://img.kynbag.com/products/dior-groove-20-baghigh-end-grade/1-1671.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:09:41",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "17577",
@@ -4560,7 +4560,7 @@
     "thumb": "https://img.kynbag.com/products/dior-groove-20-bag-2/1-1670.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:09:17",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "17576",
@@ -4573,7 +4573,7 @@
     "thumb": "https://img.kynbag.com/products/dior-groove-25-bag-2/1-1669.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:09:16",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "17575",
@@ -4586,7 +4586,7 @@
     "thumb": "https://img.kynbag.com/products/dior-groove-25-baghigh-end-grade-2/1-1668.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:09:16",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "17574",
@@ -4599,7 +4599,7 @@
     "thumb": "https://img.kynbag.com/products/dior-groove-25-baghigh-end-grade/1-1667.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:09:16",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "17541",
@@ -4625,7 +4625,7 @@
     "thumb": "https://img.kynbag.com/products/large-dior-toujours-bag-2/1-1659.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:08:27",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "17469",
@@ -4638,7 +4638,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-toujours-bag-5/1-1658.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:08:04",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "17468",
@@ -4664,7 +4664,7 @@
     "thumb": "https://img.kynbag.com/products/medium-lady-d-joy-bag-3/1-1656.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:08:04",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "17466",
@@ -4677,7 +4677,7 @@
     "thumb": "https://img.kynbag.com/products/diorstar-hobo-bag-with-chain-5/1-1655.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:08:04",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "17433",
@@ -4690,7 +4690,7 @@
     "thumb": "https://img.kynbag.com/products/diorstar-hobo-bag-with-chain-4/1-1654.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:07:40",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "17432",
@@ -4703,7 +4703,7 @@
     "thumb": "https://img.kynbag.com/products/diorstar-hobo-bag-with-chain-3/1-1653.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:07:40",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "17431",
@@ -4716,7 +4716,7 @@
     "thumb": "https://img.kynbag.com/products/diorstar-hobo-bag-with-chain-2/1-1652.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:07:40",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "17430",
@@ -4729,7 +4729,7 @@
     "thumb": "https://img.kynbag.com/products/diorstar-hobo-bag-with-chain/1-1651.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:07:40",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "16892",
@@ -4742,7 +4742,7 @@
     "thumb": "https://img.kynbag.com/products/dior-groove-20-bag/1-1593.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:01:34",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16891",
@@ -4755,7 +4755,7 @@
     "thumb": "https://img.kynbag.com/products/dior-groove-25-bag/1-1592.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:01:34",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16890",
@@ -4768,7 +4768,7 @@
     "thumb": "https://img.kynbag.com/products/small-30-montaigne-avenue-top-handle-bag-3/1-1591.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:01:34",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16857",
@@ -4781,7 +4781,7 @@
     "thumb": "https://img.kynbag.com/products/small-30-montaigne-avenue-top-handle-bag-2/1-1590.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:01:09",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16856",
@@ -4794,7 +4794,7 @@
     "thumb": "https://img.kynbag.com/products/small-30-montaigne-avenue-top-handle-bag/1-1589.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:01:09",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16855",
@@ -4807,7 +4807,7 @@
     "thumb": "https://img.kynbag.com/products/medium-30-montaigne-avenue-top-handle-bag-3/1-1588.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:01:08",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16854",
@@ -4820,7 +4820,7 @@
     "thumb": "https://img.kynbag.com/products/medium-30-montaigne-avenue-top-handle-bag-2/1-1587.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:01:08",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16821",
@@ -4833,7 +4833,7 @@
     "thumb": "https://img.kynbag.com/products/medium-30-montaigne-avenue-top-handle-bag/1-1586.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:00:45",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16820",
@@ -4846,7 +4846,7 @@
     "thumb": "https://img.kynbag.com/products/dior-30-montaigne-baghigh-end-grade-3/1-1585.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:00:45",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16819",
@@ -4859,7 +4859,7 @@
     "thumb": "https://img.kynbag.com/products/dior-30-montaigne-baghigh-end-grade-2/1-1584.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:00:44",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16818",
@@ -4872,7 +4872,7 @@
     "thumb": "https://img.kynbag.com/products/dior-30-montaigne-baghigh-end-grade/1-1583.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:00:44",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16785",
@@ -5288,7 +5288,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-dior-jolie-bucket-bag-4/1-1280.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:28:47",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "14082",
@@ -5301,7 +5301,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-dior-jolie-bucket-bag-3/1-1279.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:28:47",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "14049",
@@ -5314,7 +5314,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-dior-jolie-bucket-bag-2/1-1278.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:28:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "14048",
@@ -5327,7 +5327,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-dior-jolie-bucket-bag/1-1277.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:28:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "14047",
@@ -5522,7 +5522,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-toujours-bag-4/1-1208.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:22:05",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13418",
@@ -5535,7 +5535,7 @@
     "thumb": "https://img.kynbag.com/products/large-dior-toujours-bag/1-1207.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:22:05",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13417",
@@ -5548,7 +5548,7 @@
     "thumb": "https://img.kynbag.com/products/mini-dior-ange-bag-4/1-1206.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:22:05",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13416",
@@ -5561,7 +5561,7 @@
     "thumb": "https://img.kynbag.com/products/mini-dior-ange-bag-3/1-1205.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:22:05",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13383",
@@ -5574,7 +5574,7 @@
     "thumb": "https://img.kynbag.com/products/mini-dior-ange-bag-2/1-1204.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:21:44",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13382",
@@ -5587,7 +5587,7 @@
     "thumb": "https://img.kynbag.com/products/mini-dior-ange-bag/1-1203.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:21:44",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13381",
@@ -5600,7 +5600,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-ange-bag-4/1-1202.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:21:44",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13380",
@@ -5613,7 +5613,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-ange-bag-3/1-1201.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:21:44",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13347",
@@ -5626,7 +5626,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-ange-bag-2/1-1200.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:21:23",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13346",
@@ -5639,7 +5639,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-ange-bag/1-1199.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:21:23",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13128",
@@ -5730,7 +5730,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-nolita-bag-3/1-1167.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:18:26",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13057",
@@ -5743,7 +5743,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-nolita-bag-2/1-1166.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:18:26",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13056",
@@ -5756,7 +5756,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-nolita-bag/1-1165.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:18:26",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13023",
@@ -5769,7 +5769,7 @@
     "thumb": "https://img.kynbag.com/products/large-dior-nolita-bag-3/1-1164.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:18:05",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13022",
@@ -5782,7 +5782,7 @@
     "thumb": "https://img.kynbag.com/products/large-dior-nolita-bag-2/1-1163.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:18:05",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13021",
@@ -5795,7 +5795,7 @@
     "thumb": "https://img.kynbag.com/products/large-dior-nolita-bag/1-1162.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:18:05",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12347",
@@ -5808,7 +5808,7 @@
     "thumb": "https://img.kynbag.com/products/large-d-vibe-bowling-bag/1-1088.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:11:25",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12346",
@@ -6016,7 +6016,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-lady-d-lite-bag-15/1-1040.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:07:46",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11898",
@@ -6029,7 +6029,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-lady-d-lite-bag-14/1-1039.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:07:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11897",
@@ -6042,7 +6042,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-lady-d-lite-bag-13/1-1038.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:07:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11896",
@@ -6055,7 +6055,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-lady-d-lite-bag-12/1-1037.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:07:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11895",
@@ -6068,7 +6068,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-lady-d-lite-bag-11/1-1036.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:07:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11894",
@@ -6081,7 +6081,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-lady-d-lite-bag-10/1-1035.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:07:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11853",
@@ -6094,7 +6094,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-lady-d-lite-bag-9/1-1034.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:06:59",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11852",
@@ -6107,7 +6107,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-lady-d-lite-bag-8/1-1033.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:06:59",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11851",
@@ -6120,7 +6120,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-lady-d-lite-bag-7/1-1032.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:06:59",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11850",
@@ -6133,7 +6133,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-lady-d-lite-bag-6/1-1031.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:06:59",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11849",
@@ -6146,7 +6146,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-lady-d-lite-bag-5/1-1030.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:06:59",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11808",
@@ -6159,7 +6159,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-lady-d-lite-bag-4/1-1029.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:06:35",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11807",
@@ -6172,7 +6172,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-lady-d-lite-bag-3/1-1028.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:06:35",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11806",
@@ -6185,7 +6185,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-lady-d-lite-bag-2/1-1027.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:06:35",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11805",
@@ -6198,7 +6198,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-lady-d-lite-bag/1-1026.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:06:35",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11804",
@@ -6250,7 +6250,7 @@
     "thumb": "https://img.kynbag.com/products/diorstar-callisto-bag-3/1-1022.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:06:11",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "11760",
@@ -6263,7 +6263,7 @@
     "thumb": "https://img.kynbag.com/products/diorstar-callisto-bag-2/1-1021.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:06:11",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "11759",
@@ -6276,7 +6276,7 @@
     "thumb": "https://img.kynbag.com/products/diorstar-callisto-bag/1-1020.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:06:11",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "57576",
@@ -6289,7 +6289,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-lady-d-sire-baghigh-end-grade/1-5926.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:05:56",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "29090",
@@ -6315,7 +6315,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-lady-d-sire-my-abcdior-bag-3/1-999.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:04:12",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11537",
@@ -6328,7 +6328,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-lady-d-sire-my-abcdior-bag-2/1-998.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:04:12",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11536",
@@ -6341,7 +6341,7 @@
     "thumb": "https://img.kynbag.com/products/dior-medium-lady-d-sire-my-abcdior-bag/1-997.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:04:12",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11534",
@@ -6406,7 +6406,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-cd-besace-bag-2/1-991.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:03:49",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11489",
@@ -6419,7 +6419,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-cd-besace-bag/1-990.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:03:49",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11448",
@@ -6432,7 +6432,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-dior-jolie-top-handle-bag-3/1-989.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:03:25",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11439",
@@ -6445,7 +6445,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-dior-jolie-top-handle-bag-2/1-988.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:02:30",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11438",
@@ -6458,7 +6458,7 @@
     "thumb": "https://img.kynbag.com/products/dior-small-dior-jolie-top-handle-bag/1-987.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:02:30",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11437",
@@ -6471,7 +6471,7 @@
     "thumb": "https://img.kynbag.com/products/dior-mini-dior-jolie-top-handle-bag-3/1-986.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:02:30",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11436",
@@ -6484,7 +6484,7 @@
     "thumb": "https://img.kynbag.com/products/dior-mini-dior-jolie-top-handle-bag-2/1-985.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:02:30",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11403",
@@ -6497,7 +6497,7 @@
     "thumb": "https://img.kynbag.com/products/dior-mini-dior-jolie-top-handle-bag/1-984.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:02:06",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "11034",
@@ -6601,7 +6601,7 @@
     "thumb": "https://img.kynbag.com/products/30-montaigne-dior-amber-mini-bucket-bag/1-936.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:57:58",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "10986",
@@ -6744,7 +6744,7 @@
     "thumb": "https://img.kynbag.com/products/medium-lady-d-joy-bag-2/1-767.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:45:37",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "9458",
@@ -6783,7 +6783,7 @@
     "thumb": "https://img.kynbag.com/products/medium-lady-d-joy-bag/1-764.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:45:37",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "9415",
@@ -6809,7 +6809,7 @@
     "thumb": "https://img.kynbag.com/products/medium-lady-d-lite-bag/1-762.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:45:16",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8638",
@@ -6822,7 +6822,7 @@
     "thumb": "https://img.kynbag.com/products/small-boston-bag-2/1-674.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:39:24",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8637",
@@ -6835,7 +6835,7 @@
     "thumb": "https://img.kynbag.com/products/small-boston-bag/1-673.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:39:24",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8636",
@@ -6848,7 +6848,7 @@
     "thumb": "https://img.kynbag.com/products/miss-caro-mini-bag-4/1-672.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:39:24",
-    "subcategory": "caro"
+    "subcategory": "mini-bag"
   },
   {
     "id": "8587",
@@ -6861,7 +6861,7 @@
     "thumb": "https://img.kynbag.com/products/miss-caro-mini-bag-3/1-671.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:39:00",
-    "subcategory": "caro"
+    "subcategory": "mini-bag"
   },
   {
     "id": "8586",
@@ -6874,7 +6874,7 @@
     "thumb": "https://img.kynbag.com/products/miss-caro-mini-bag-2/1-670.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:39:00",
-    "subcategory": "caro"
+    "subcategory": "mini-bag"
   },
   {
     "id": "8585",
@@ -6887,7 +6887,7 @@
     "thumb": "https://img.kynbag.com/products/miss-caro-mini-bag/1-669.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:39:00",
-    "subcategory": "caro"
+    "subcategory": "mini-bag"
   },
   {
     "id": "8478",
@@ -6900,7 +6900,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-toujours-bag-3/1-658.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:38:12",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8477",
@@ -6913,7 +6913,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-toujours-bag-2/1-657.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:38:12",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8476",
@@ -6926,7 +6926,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-toujours-bag/1-656.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:38:12",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8475",
@@ -6939,7 +6939,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-toujours-bag-3/1-655.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:38:12",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8474",
@@ -6952,7 +6952,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-toujours-bag-2/1-654.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:38:11",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8425",
@@ -6965,7 +6965,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-toujours-bag/1-653.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:37:48",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8424",
@@ -7095,7 +7095,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-key-bag-4/1-484.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:26:18",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6783",
@@ -7108,7 +7108,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-key-bag-3/1-483.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:26:18",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6782",
@@ -7121,7 +7121,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-key-bag-2/1-482.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:26:18",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6781",
@@ -7134,7 +7134,7 @@
     "thumb": "https://img.kynbag.com/products/small-dior-key-bag/1-481.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:26:18",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6780",
@@ -7147,7 +7147,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-key-bag-2/1-480.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:26:18",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6723",
@@ -7160,7 +7160,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-key-bag/1-479.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:25:54",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6722",
@@ -7173,7 +7173,7 @@
     "thumb": "https://img.kynbag.com/products/30-montaigne-avenue-bag-4/1-478.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:25:54",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6721",
@@ -7186,7 +7186,7 @@
     "thumb": "https://img.kynbag.com/products/30-montaigne-avenue-bag-3/1-477.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:25:54",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6720",
@@ -7199,7 +7199,7 @@
     "thumb": "https://img.kynbag.com/products/30-montaigne-avenue-bag-2/1-476.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:25:54",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6719",
@@ -7212,7 +7212,7 @@
     "thumb": "https://img.kynbag.com/products/30-montaigne-avenue-bag/1-475.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:25:54",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6718",
@@ -7225,7 +7225,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-ammi-bag-2/1-474.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:25:54",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6669",
@@ -7238,7 +7238,7 @@
     "thumb": "https://img.kynbag.com/products/medium-dior-ammi-bag/1-473.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:25:33",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6668",
@@ -7251,7 +7251,7 @@
     "thumb": "https://img.kynbag.com/products/cd-lounge-bag-3/1-472.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:25:33",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "6667",
@@ -7264,7 +7264,7 @@
     "thumb": "https://img.kynbag.com/products/cd-lounge-bag-2/1-471.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:25:33",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "6666",
@@ -7277,7 +7277,7 @@
     "thumb": "https://img.kynbag.com/products/cd-lounge-bag/1-470.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:25:33",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "6665",
@@ -7290,7 +7290,7 @@
     "thumb": "https://img.kynbag.com/products/medium-cest-dior-bag-4/1-469.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:25:33",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6664",
@@ -7303,7 +7303,7 @@
     "thumb": "https://img.kynbag.com/products/medium-cest-dior-bag-3/1-468.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:25:33",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6615",
@@ -7316,7 +7316,7 @@
     "thumb": "https://img.kynbag.com/products/medium-cest-dior-bag-2/1-467.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:25:12",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6614",
@@ -7329,7 +7329,7 @@
     "thumb": "https://img.kynbag.com/products/medium-cest-dior-bag/1-466.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:25:12",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6559",
@@ -7342,7 +7342,7 @@
     "thumb": "https://img.kynbag.com/products/small-lady-d-joy-bag-7/1-459.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:24:51",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6558",
@@ -7355,7 +7355,7 @@
     "thumb": "https://img.kynbag.com/products/small-lady-d-joy-bag-6/1-458.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:24:50",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6557",
@@ -7368,7 +7368,7 @@
     "thumb": "https://img.kynbag.com/products/small-lady-d-joy-bag-5/1-457.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:24:50",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6556",
@@ -7381,7 +7381,7 @@
     "thumb": "https://img.kynbag.com/products/small-lady-d-joy-bag-4/1-456.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:24:50",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6555",
@@ -7394,7 +7394,7 @@
     "thumb": "https://img.kynbag.com/products/small-lady-d-joy-bag-3/1-455.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:24:50",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6498",
@@ -7407,7 +7407,7 @@
     "thumb": "https://img.kynbag.com/products/small-lady-d-joy-bag-2/1-454.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:24:27",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6497",
@@ -7420,7 +7420,7 @@
     "thumb": "https://img.kynbag.com/products/small-lady-d-joy-bag/1-453.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:24:27",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6496",
@@ -7498,7 +7498,7 @@
     "thumb": "https://img.kynbag.com/products/dior-club-bag-3/1-447.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:24:06",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6442",
@@ -7511,7 +7511,7 @@
     "thumb": "https://img.kynbag.com/products/dior-club-bag-2/1-446.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:24:06",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6441",
@@ -7524,7 +7524,7 @@
     "thumb": "https://img.kynbag.com/products/dior-club-bag/1-445.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:24:06",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6095",
@@ -7914,7 +7914,7 @@
     "thumb": "https://img.kynbag.com/products/dior-lingot-briefcase-3/1-172.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:09:21",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "3972",
@@ -7927,7 +7927,7 @@
     "thumb": "https://img.kynbag.com/products/dior-lingot-briefcase-2/1-171.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:08:58",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "2744",
@@ -8031,7 +8031,7 @@
     "thumb": "https://img.kynbag.com/products/gallop-sling-bag-2/1-24.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:00:19",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "2679",
@@ -8044,7 +8044,7 @@
     "thumb": "https://img.kynbag.com/products/gallop-sling-bag/1-23.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:00:19",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "2678",
@@ -8057,7 +8057,7 @@
     "thumb": "https://img.kynbag.com/products/dior-lingot-briefcase/1-22.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:00:19",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "2677",
@@ -8070,7 +8070,7 @@
     "thumb": "https://img.kynbag.com/products/30-montaigne-beauty-pouch/1-21.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:00:19",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "2676",

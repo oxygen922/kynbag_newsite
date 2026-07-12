@@ -32,7 +32,7 @@
       "https://img.kynbag.com/products/burberry-vertical-paddy-bag-2/8-664.jpg"
     ],
     "createdAt": "2026-03-08T03:39:00",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8583",
@@ -67,7 +67,7 @@
       "https://img.kynbag.com/products/burberry-vertical-paddy-bag/8-663.jpg"
     ],
     "createdAt": "2026-03-08T03:39:00",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8582",
@@ -99,7 +99,7 @@
       "https://img.kynbag.com/products/burberry-freddie-bag/8-662.jpg"
     ],
     "createdAt": "2026-03-08T03:39:00",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8533",
@@ -133,7 +133,7 @@
       "https://img.kynbag.com/products/burberry-paddy-bag-2/8-661.jpg"
     ],
     "createdAt": "2026-03-08T03:38:37",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8532",
@@ -167,7 +167,7 @@
       "https://img.kynbag.com/products/burberry-paddy-bag/8-660.jpg"
     ],
     "createdAt": "2026-03-08T03:38:37",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "7108",
@@ -196,7 +196,7 @@
       "https://img.kynbag.com/products/small-lola-bag-13/8-516.jpg"
     ],
     "createdAt": "2026-03-08T03:28:25",
-    "subcategory": "other"
+    "subcategory": "mini-bag"
   },
   {
     "id": "7107",
@@ -225,7 +225,7 @@
       "https://img.kynbag.com/products/small-lola-bag-12/8-515.jpg"
     ],
     "createdAt": "2026-03-08T03:28:25",
-    "subcategory": "other"
+    "subcategory": "mini-bag"
   },
   {
     "id": "7106",
@@ -254,7 +254,7 @@
       "https://img.kynbag.com/products/small-lola-bag-11/8-514.jpg"
     ],
     "createdAt": "2026-03-08T03:28:25",
-    "subcategory": "other"
+    "subcategory": "mini-bag"
   },
   {
     "id": "7105",
@@ -283,7 +283,7 @@
       "https://img.kynbag.com/products/small-lola-bag-10/8-513.jpg"
     ],
     "createdAt": "2026-03-08T03:28:25",
-    "subcategory": "other"
+    "subcategory": "mini-bag"
   },
   {
     "id": "7056",
@@ -312,7 +312,7 @@
       "https://img.kynbag.com/products/small-lola-bag-9/8-512.jpg"
     ],
     "createdAt": "2026-03-08T03:28:03",
-    "subcategory": "other"
+    "subcategory": "mini-bag"
   },
   {
     "id": "7055",
@@ -341,7 +341,7 @@
       "https://img.kynbag.com/products/small-lola-bag-8/8-511.jpg"
     ],
     "createdAt": "2026-03-08T03:28:03",
-    "subcategory": "other"
+    "subcategory": "mini-bag"
   },
   {
     "id": "7054",
@@ -370,7 +370,7 @@
       "https://img.kynbag.com/products/small-lola-bag-7/8-510.jpg"
     ],
     "createdAt": "2026-03-08T03:28:03",
-    "subcategory": "other"
+    "subcategory": "mini-bag"
   },
   {
     "id": "7053",
@@ -399,7 +399,7 @@
       "https://img.kynbag.com/products/small-lola-bag-6/8-509.jpg"
     ],
     "createdAt": "2026-03-08T03:28:03",
-    "subcategory": "other"
+    "subcategory": "mini-bag"
   },
   {
     "id": "7052",
@@ -428,7 +428,7 @@
       "https://img.kynbag.com/products/small-lola-bag-5/8-508.jpg"
     ],
     "createdAt": "2026-03-08T03:28:03",
-    "subcategory": "other"
+    "subcategory": "mini-bag"
   },
   {
     "id": "7051",
@@ -457,7 +457,7 @@
       "https://img.kynbag.com/products/small-lola-bag-4/8-507.jpg"
     ],
     "createdAt": "2026-03-08T03:28:03",
-    "subcategory": "other"
+    "subcategory": "mini-bag"
   },
   {
     "id": "7002",
@@ -486,7 +486,7 @@
       "https://img.kynbag.com/products/small-lola-bag-3/8-506.jpg"
     ],
     "createdAt": "2026-03-08T03:27:42",
-    "subcategory": "other"
+    "subcategory": "mini-bag"
   },
   {
     "id": "7001",
@@ -515,7 +515,7 @@
       "https://img.kynbag.com/products/small-lola-bag-2/8-505.jpg"
     ],
     "createdAt": "2026-03-08T03:27:42",
-    "subcategory": "other"
+    "subcategory": "mini-bag"
   },
   {
     "id": "7000",
@@ -544,7 +544,7 @@
       "https://img.kynbag.com/products/small-lola-bag/8-504.jpg"
     ],
     "createdAt": "2026-03-08T03:27:42",
-    "subcategory": "other"
+    "subcategory": "mini-bag"
   },
   {
     "id": "6999",
@@ -573,7 +573,7 @@
       "https://img.kynbag.com/products/medium-lola-bag-2/8-503.jpg"
     ],
     "createdAt": "2026-03-08T03:27:42",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6998",
@@ -602,7 +602,7 @@
       "https://img.kynbag.com/products/medium-lola-bag/8-502.jpg"
     ],
     "createdAt": "2026-03-08T03:27:42",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6997",
@@ -834,7 +834,7 @@
       "https://img.kynbag.com/products/small-freya-tote/8-495.jpg"
     ],
     "createdAt": "2026-03-08T03:27:21",
-    "subcategory": "tote"
+    "subcategory": "mini-bag"
   },
   {
     "id": "6894",
@@ -876,7 +876,7 @@
       "https://img.kynbag.com/products/medium-freya-tote-2/8-494.jpg"
     ],
     "createdAt": "2026-03-08T03:27:01",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6893",
@@ -914,6 +914,6 @@
       "https://img.kynbag.com/products/medium-freya-tote/8-493.jpg"
     ],
     "createdAt": "2026-03-08T03:27:01",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   }
 ]

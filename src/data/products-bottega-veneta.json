@@ -31,7 +31,7 @@
       "https://img.kynbag.com/products/bottega-veneta-medium-ciao-ciaohigh-end-grade-3/8-5428.jpg"
     ],
     "createdAt": "2026-03-11T06:54:56",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "51748",
@@ -65,7 +65,7 @@
       "https://img.kynbag.com/products/bottega-veneta-medium-ciao-ciaohigh-end-grade-2/8-5427.jpg"
     ],
     "createdAt": "2026-03-11T06:53:38",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "51739",
@@ -99,7 +99,7 @@
       "https://img.kynbag.com/products/bottega-veneta-medium-ciao-ciaohigh-end-grade/8-5426.jpg"
     ],
     "createdAt": "2026-03-11T06:51:45",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "51721",
@@ -553,7 +553,7 @@
       "https://img.kynbag.com/products/bottega-veneta-baskethigh-end-grade-3/8-5412.jpg"
     ],
     "createdAt": "2026-03-11T06:31:00",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "51604",
@@ -587,7 +587,7 @@
       "https://img.kynbag.com/products/bottega-veneta-baskethigh-end-grade-2/8-5411.jpg"
     ],
     "createdAt": "2026-03-11T06:29:30",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "51595",
@@ -621,7 +621,7 @@
       "https://img.kynbag.com/products/bottega-veneta-baskethigh-end-grade/8-5410.jpg"
     ],
     "createdAt": "2026-03-11T06:28:26",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "51586",
@@ -1084,7 +1084,7 @@
       "https://img.kynbag.com/products/bottega-veneta-large-ciao-ciaohigh-end-grade-3/8-5396.jpg"
     ],
     "createdAt": "2026-03-11T06:06:50",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "51460",
@@ -1118,7 +1118,7 @@
       "https://img.kynbag.com/products/bottega-veneta-large-ciao-ciaohigh-end-grade-2/8-5395.jpg"
     ],
     "createdAt": "2026-03-11T06:05:43",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "51449",
@@ -1711,7 +1711,7 @@
       "https://img.kynbag.com/products/bottega-veneta-small-venetahigh-end-grade-4/8-4944.jpg"
     ],
     "createdAt": "2026-03-08T17:39:53",
-    "subcategory": "other"
+    "subcategory": "mini-bag"
   },
   {
     "id": "47041",
@@ -1743,7 +1743,7 @@
       "https://img.kynbag.com/products/bottega-veneta-small-venetahigh-end-grade-3/8-4943.jpg"
     ],
     "createdAt": "2026-03-08T17:39:23",
-    "subcategory": "other"
+    "subcategory": "mini-bag"
   },
   {
     "id": "47040",
@@ -1775,7 +1775,7 @@
       "https://img.kynbag.com/products/bottega-veneta-small-venetahigh-end-grade-2/8-4942.jpg"
     ],
     "createdAt": "2026-03-08T17:39:23",
-    "subcategory": "other"
+    "subcategory": "mini-bag"
   },
   {
     "id": "47023",
@@ -1807,7 +1807,7 @@
       "https://img.kynbag.com/products/bottega-veneta-small-venetahigh-end-grade/8-4941.jpg"
     ],
     "createdAt": "2026-03-08T17:38:54",
-    "subcategory": "other"
+    "subcategory": "mini-bag"
   },
   {
     "id": "47022",
@@ -1840,7 +1840,7 @@
       "https://img.kynbag.com/products/bottega-veneta-venetahigh-end-grade-4/8-4940.jpg"
     ],
     "createdAt": "2026-03-08T17:38:54",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "47005",
@@ -1873,7 +1873,7 @@
       "https://img.kynbag.com/products/bottega-veneta-venetahigh-end-grade-3/8-4939.jpg"
     ],
     "createdAt": "2026-03-08T17:38:24",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "47004",
@@ -1906,7 +1906,7 @@
       "https://img.kynbag.com/products/bottega-veneta-venetahigh-end-grade-2/8-4938.jpg"
     ],
     "createdAt": "2026-03-08T17:38:24",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46987",
@@ -1939,7 +1939,7 @@
       "https://img.kynbag.com/products/bottega-veneta-venetahigh-end-grade/8-4937.jpg"
     ],
     "createdAt": "2026-03-08T17:37:54",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46986",
@@ -1974,7 +1974,7 @@
       "https://img.kynbag.com/products/bottega-veneta-maxi-venetahigh-end-grade-2/8-4936.jpg"
     ],
     "createdAt": "2026-03-08T17:37:54",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46969",
@@ -2009,7 +2009,7 @@
       "https://img.kynbag.com/products/bottega-veneta-maxi-venetahigh-end-grade/8-4935.jpg"
     ],
     "createdAt": "2026-03-08T17:37:26",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "41135",
@@ -2045,7 +2045,7 @@
       "https://img.kynbag.com/products/bottege-veneta-knot-lockhigh-end-grade-6/8-4285.jpg"
     ],
     "createdAt": "2026-03-08T14:55:13",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "41134",
@@ -2081,7 +2081,7 @@
       "https://img.kynbag.com/products/bottege-veneta-knot-lockhigh-end-grade-5/8-4284.jpg"
     ],
     "createdAt": "2026-03-08T14:55:13",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "41117",
@@ -2117,7 +2117,7 @@
       "https://img.kynbag.com/products/bottege-veneta-knot-lockhigh-end-grade-4/8-4283.jpg"
     ],
     "createdAt": "2026-03-08T14:54:47",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "41116",
@@ -2153,7 +2153,7 @@
       "https://img.kynbag.com/products/bottege-veneta-knot-lockhigh-end-grade-3/8-4282.jpg"
     ],
     "createdAt": "2026-03-08T14:54:47",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "41099",
@@ -2189,7 +2189,7 @@
       "https://img.kynbag.com/products/bottege-veneta-knot-lockhigh-end-grade-2/8-4281.jpg"
     ],
     "createdAt": "2026-03-08T14:54:20",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "41098",
@@ -2225,7 +2225,7 @@
       "https://img.kynbag.com/products/bottege-veneta-knot-lockhigh-end-grade/8-4280.jpg"
     ],
     "createdAt": "2026-03-08T14:54:20",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "41081",
@@ -2262,7 +2262,7 @@
       "https://img.kynbag.com/products/bottege-veneta-madisonhigh-end-grade-3/8-4279.jpg"
     ],
     "createdAt": "2026-03-08T14:53:51",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "41080",
@@ -2299,7 +2299,7 @@
       "https://img.kynbag.com/products/bottege-veneta-madisonhigh-end-grade-2/8-4278.jpg"
     ],
     "createdAt": "2026-03-08T14:53:51",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "41063",
@@ -2336,7 +2336,7 @@
       "https://img.kynbag.com/products/bottege-veneta-madisonhigh-end-grade/8-4277.jpg"
     ],
     "createdAt": "2026-03-08T14:53:25",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "41062",
@@ -2514,7 +2514,7 @@
       "https://img.kynbag.com/products/bottege-veneta-small-cobble-top-handlehigh-end-grade-5/8-4272.jpg"
     ],
     "createdAt": "2026-03-08T14:52:32",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "41009",
@@ -2549,7 +2549,7 @@
       "https://img.kynbag.com/products/bottege-veneta-small-cobble-top-handlehigh-end-grade-4/8-4271.jpg"
     ],
     "createdAt": "2026-03-08T14:52:06",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "41008",
@@ -2584,7 +2584,7 @@
       "https://img.kynbag.com/products/bottege-veneta-small-cobble-top-handlehigh-end-grade-3/8-4270.jpg"
     ],
     "createdAt": "2026-03-08T14:52:06",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40991",
@@ -2619,7 +2619,7 @@
       "https://img.kynbag.com/products/bottege-veneta-small-cobble-top-handlehigh-end-grade-2/8-4269.jpg"
     ],
     "createdAt": "2026-03-08T14:51:39",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40990",
@@ -2654,7 +2654,7 @@
       "https://img.kynbag.com/products/bottege-veneta-small-cobble-top-handlehigh-end-grade/8-4268.jpg"
     ],
     "createdAt": "2026-03-08T14:51:39",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40973",
@@ -2691,7 +2691,7 @@
       "https://img.kynbag.com/products/bottege-veneta-dustbaghigh-end-grade-13/8-4267.jpg"
     ],
     "createdAt": "2026-03-08T14:51:13",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40972",
@@ -2728,7 +2728,7 @@
       "https://img.kynbag.com/products/bottege-veneta-dustbaghigh-end-grade-12/8-4266.jpg"
     ],
     "createdAt": "2026-03-08T14:51:13",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40955",
@@ -2765,7 +2765,7 @@
       "https://img.kynbag.com/products/bottege-veneta-dustbaghigh-end-grade-11/8-4265.jpg"
     ],
     "createdAt": "2026-03-08T14:50:47",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40954",
@@ -2802,7 +2802,7 @@
       "https://img.kynbag.com/products/bottege-veneta-dustbaghigh-end-grade-10/8-4264.jpg"
     ],
     "createdAt": "2026-03-08T14:50:47",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40937",
@@ -2839,7 +2839,7 @@
       "https://img.kynbag.com/products/bottege-veneta-dustbaghigh-end-grade-9/8-4263.jpg"
     ],
     "createdAt": "2026-03-08T14:50:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40936",
@@ -2876,7 +2876,7 @@
       "https://img.kynbag.com/products/bottege-veneta-dustbaghigh-end-grade-8/8-4262.jpg"
     ],
     "createdAt": "2026-03-08T14:50:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40919",
@@ -2913,7 +2913,7 @@
       "https://img.kynbag.com/products/bottege-veneta-dustbaghigh-end-grade-7/8-4261.jpg"
     ],
     "createdAt": "2026-03-08T14:49:55",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40918",
@@ -2950,7 +2950,7 @@
       "https://img.kynbag.com/products/bottege-veneta-dustbaghigh-end-grade-6/8-4260.jpg"
     ],
     "createdAt": "2026-03-08T14:49:55",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40901",
@@ -2987,7 +2987,7 @@
       "https://img.kynbag.com/products/bottege-veneta-dustbaghigh-end-grade-5/8-4259.jpg"
     ],
     "createdAt": "2026-03-08T14:49:28",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40900",
@@ -3024,7 +3024,7 @@
       "https://img.kynbag.com/products/bottege-veneta-dustbaghigh-end-grade-4/8-4258.jpg"
     ],
     "createdAt": "2026-03-08T14:49:28",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40883",
@@ -3061,7 +3061,7 @@
       "https://img.kynbag.com/products/bottege-veneta-dustbaghigh-end-grade-3/8-4257.jpg"
     ],
     "createdAt": "2026-03-08T14:49:01",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40882",
@@ -3098,7 +3098,7 @@
       "https://img.kynbag.com/products/bottege-veneta-dustbaghigh-end-grade-2/8-4256.jpg"
     ],
     "createdAt": "2026-03-08T14:49:01",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40865",
@@ -3135,7 +3135,7 @@
       "https://img.kynbag.com/products/bottege-veneta-dustbaghigh-end-grade/8-4255.jpg"
     ],
     "createdAt": "2026-03-08T14:48:36",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40864",
@@ -3173,7 +3173,7 @@
       "https://img.kynbag.com/products/bottege-veneta-dustbag-nottehigh-end-grade-2/8-4254.jpg"
     ],
     "createdAt": "2026-03-08T14:48:36",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40847",
@@ -3211,7 +3211,7 @@
       "https://img.kynbag.com/products/bottege-veneta-dustbag-nottehigh-end-grade/8-4253.jpg"
     ],
     "createdAt": "2026-03-08T14:48:10",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40846",
@@ -3247,7 +3247,7 @@
       "https://img.kynbag.com/products/bottege-veneta-small-pinacotecahigh-end-grade-6/8-4252.jpg"
     ],
     "createdAt": "2026-03-08T14:48:10",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40829",
@@ -3283,7 +3283,7 @@
       "https://img.kynbag.com/products/bottege-veneta-small-pinacotecahigh-end-grade-5/8-4251.jpg"
     ],
     "createdAt": "2026-03-08T14:47:45",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40828",
@@ -3319,7 +3319,7 @@
       "https://img.kynbag.com/products/bottege-veneta-small-pinacotecahigh-end-grade-4/8-4250.jpg"
     ],
     "createdAt": "2026-03-08T14:47:45",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40811",
@@ -3355,7 +3355,7 @@
       "https://img.kynbag.com/products/bottege-veneta-small-pinacotecahigh-end-grade-3/8-4249.jpg"
     ],
     "createdAt": "2026-03-08T14:47:20",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40810",
@@ -3391,7 +3391,7 @@
       "https://img.kynbag.com/products/bottege-veneta-small-pinacotecahigh-end-grade-2/8-4248.jpg"
     ],
     "createdAt": "2026-03-08T14:47:20",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40793",
@@ -3427,7 +3427,7 @@
       "https://img.kynbag.com/products/bottege-veneta-small-pinacotecahigh-end-grade/8-4247.jpg"
     ],
     "createdAt": "2026-03-08T14:46:56",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40792",
@@ -3462,7 +3462,7 @@
       "https://img.kynbag.com/products/bottege-veneta-large-pinacotecahigh-end-grade-3/8-4246.jpg"
     ],
     "createdAt": "2026-03-08T14:46:56",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40775",
@@ -3497,7 +3497,7 @@
       "https://img.kynbag.com/products/bottege-veneta-large-pinacotecahigh-end-grade-2/8-4245.jpg"
     ],
     "createdAt": "2026-03-08T14:46:31",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40774",
@@ -3532,7 +3532,7 @@
       "https://img.kynbag.com/products/bottege-veneta-large-pinacotecahigh-end-grade/8-4244.jpg"
     ],
     "createdAt": "2026-03-08T14:46:31",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37282",
@@ -3566,7 +3566,7 @@
       "https://img.kynbag.com/products/bottega-veneta-bang-bang-vanity-casehigh-end-grade-13/8-3856.jpg"
     ],
     "createdAt": "2026-03-08T13:25:23",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37265",
@@ -3600,7 +3600,7 @@
       "https://img.kynbag.com/products/bottega-veneta-bang-bang-vanity-casehigh-end-grade-12/8-3855.jpg"
     ],
     "createdAt": "2026-03-08T13:24:59",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37264",
@@ -3634,7 +3634,7 @@
       "https://img.kynbag.com/products/bottega-veneta-bang-bang-vanity-casehigh-end-grade-11/8-3854.jpg"
     ],
     "createdAt": "2026-03-08T13:24:59",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37247",
@@ -3668,7 +3668,7 @@
       "https://img.kynbag.com/products/bottega-veneta-bang-bang-vanity-casehigh-end-grade-10/8-3853.jpg"
     ],
     "createdAt": "2026-03-08T13:24:34",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37246",
@@ -3702,7 +3702,7 @@
       "https://img.kynbag.com/products/bottega-veneta-bang-bang-vanity-casehigh-end-grade-9/8-3852.jpg"
     ],
     "createdAt": "2026-03-08T13:24:34",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37229",
@@ -3736,7 +3736,7 @@
       "https://img.kynbag.com/products/bottega-veneta-bang-bang-vanity-casehigh-end-grade-8/8-3851.jpg"
     ],
     "createdAt": "2026-03-08T13:24:11",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37228",
@@ -3770,7 +3770,7 @@
       "https://img.kynbag.com/products/bottega-veneta-bang-bang-vanity-casehigh-end-grade-7/8-3850.jpg"
     ],
     "createdAt": "2026-03-08T13:24:11",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37211",
@@ -3804,7 +3804,7 @@
       "https://img.kynbag.com/products/bottega-veneta-bang-bang-vanity-casehigh-end-grade-6/8-3849.jpg"
     ],
     "createdAt": "2026-03-08T13:23:47",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37210",
@@ -3838,7 +3838,7 @@
       "https://img.kynbag.com/products/bottega-veneta-bang-bang-vanity-casehigh-end-grade-5/8-3848.jpg"
     ],
     "createdAt": "2026-03-08T13:23:47",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37193",
@@ -3872,7 +3872,7 @@
       "https://img.kynbag.com/products/bottega-veneta-bang-bang-vanity-casehigh-end-grade-4/8-3847.jpg"
     ],
     "createdAt": "2026-03-08T13:23:23",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37192",
@@ -3906,7 +3906,7 @@
       "https://img.kynbag.com/products/bottega-veneta-bang-bang-vanity-casehigh-end-grade-3/8-3846.jpg"
     ],
     "createdAt": "2026-03-08T13:23:23",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37175",
@@ -3940,7 +3940,7 @@
       "https://img.kynbag.com/products/bottega-veneta-bang-bang-vanity-casehigh-end-grade-2/8-3845.jpg"
     ],
     "createdAt": "2026-03-08T13:22:59",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37174",
@@ -3974,7 +3974,7 @@
       "https://img.kynbag.com/products/bottega-veneta-bang-bang-vanity-casehigh-end-grade/8-3844.jpg"
     ],
     "createdAt": "2026-03-08T13:22:59",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37157",
@@ -4007,7 +4007,7 @@
       "https://img.kynbag.com/products/bottega-veneta-medium-parachutehigh-end-grade-6/8-3843.jpg"
     ],
     "createdAt": "2026-03-08T13:22:33",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37156",
@@ -4040,7 +4040,7 @@
       "https://img.kynbag.com/products/bottega-veneta-medium-parachutehigh-end-grade-5/8-3842.jpg"
     ],
     "createdAt": "2026-03-08T13:22:33",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37139",
@@ -4073,7 +4073,7 @@
       "https://img.kynbag.com/products/bottega-veneta-medium-parachutehigh-end-grade-4/8-3841.jpg"
     ],
     "createdAt": "2026-03-08T13:22:08",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37138",
@@ -4106,7 +4106,7 @@
       "https://img.kynbag.com/products/bottega-veneta-medium-parachutehigh-end-grade-3/8-3840.jpg"
     ],
     "createdAt": "2026-03-08T13:22:08",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37121",
@@ -4139,7 +4139,7 @@
       "https://img.kynbag.com/products/bottega-veneta-medium-parachutehigh-end-grade-2/8-3839.jpg"
     ],
     "createdAt": "2026-03-08T13:21:45",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37120",
@@ -4172,7 +4172,7 @@
       "https://img.kynbag.com/products/bottega-veneta-medium-parachutehigh-end-grade/8-3838.jpg"
     ],
     "createdAt": "2026-03-08T13:21:45",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37103",
@@ -4204,7 +4204,7 @@
       "https://img.kynbag.com/products/bottega-veneta-medium-campanahigh-end-grade-5/8-3837.jpg"
     ],
     "createdAt": "2026-03-08T13:21:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37102",
@@ -4236,7 +4236,7 @@
       "https://img.kynbag.com/products/bottega-veneta-medium-campanahigh-end-grade-4/8-3836.jpg"
     ],
     "createdAt": "2026-03-08T13:21:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37085",
@@ -4268,7 +4268,7 @@
       "https://img.kynbag.com/products/bottega-veneta-medium-campanahigh-end-grade-3/8-3835.jpg"
     ],
     "createdAt": "2026-03-08T13:20:57",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37084",
@@ -4300,7 +4300,7 @@
       "https://img.kynbag.com/products/bottega-veneta-medium-campanahigh-end-grade-2/8-3834.jpg"
     ],
     "createdAt": "2026-03-08T13:20:57",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37067",
@@ -4332,7 +4332,7 @@
       "https://img.kynbag.com/products/bottega-veneta-medium-campanahigh-end-grade/8-3833.jpg"
     ],
     "createdAt": "2026-03-08T13:20:34",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37066",
@@ -4365,7 +4365,7 @@
       "https://img.kynbag.com/products/bottega-veneta-large-campanahigh-end-grade-3/8-3832.jpg"
     ],
     "createdAt": "2026-03-08T13:20:34",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37049",
@@ -4398,7 +4398,7 @@
       "https://img.kynbag.com/products/bottega-veneta-large-campanahigh-end-grade-2/8-3831.jpg"
     ],
     "createdAt": "2026-03-08T13:20:10",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37048",
@@ -4431,7 +4431,7 @@
       "https://img.kynbag.com/products/bottega-veneta-large-campanahigh-end-grade/8-3830.jpg"
     ],
     "createdAt": "2026-03-08T13:20:10",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "34777",
@@ -4467,7 +4467,7 @@
       "https://img.kynbag.com/products/bottega-veneta-small-ciao-ciaohigh-end-grade-3/8-3591.jpg"
     ],
     "createdAt": "2026-03-08T10:19:10",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "51766",
@@ -4501,7 +4501,7 @@
       "https://img.kynbag.com/products/bottega-veneta-small-ciao-ciaohigh-end-grade-4/8-5429.jpg"
     ],
     "createdAt": "2026-03-08T10:19:02",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "34760",
@@ -4537,7 +4537,7 @@
       "https://img.kynbag.com/products/bottega-veneta-small-ciao-ciaohigh-end-grade-2/8-3590.jpg"
     ],
     "createdAt": "2026-03-08T10:18:48",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "34759",
@@ -4573,7 +4573,7 @@
       "https://img.kynbag.com/products/bottega-veneta-small-ciao-ciaohigh-end-grade/8-3589.jpg"
     ],
     "createdAt": "2026-03-08T10:18:48",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "34723",
@@ -4607,7 +4607,7 @@
       "https://img.kynbag.com/products/bottega-veneta-large-ciao-ciaohigh-end-grade/8-3585.jpg"
     ],
     "createdAt": "2026-03-08T10:18:05",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "30231",
@@ -4640,7 +4640,7 @@
       "https://img.kynbag.com/products/bottega-veneta-large-hophigh-end-grade-13/8-3085.jpg"
     ],
     "createdAt": "2026-03-08T08:49:55",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "30206",
@@ -4673,7 +4673,7 @@
       "https://img.kynbag.com/products/bottega-veneta-large-hophigh-end-grade-12/8-3084.jpg"
     ],
     "createdAt": "2026-03-08T08:49:26",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "30205",
@@ -4706,7 +4706,7 @@
       "https://img.kynbag.com/products/bottega-veneta-large-hophigh-end-grade-11/8-3083.jpg"
     ],
     "createdAt": "2026-03-08T08:49:26",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "30204",
@@ -4739,7 +4739,7 @@
       "https://img.kynbag.com/products/bottega-veneta-large-hophigh-end-grade-10/8-3082.jpg"
     ],
     "createdAt": "2026-03-08T08:49:26",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "30179",
@@ -4772,7 +4772,7 @@
       "https://img.kynbag.com/products/bottega-veneta-large-hophigh-end-grade-9/8-3081.jpg"
     ],
     "createdAt": "2026-03-08T08:48:58",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "30178",
@@ -4805,7 +4805,7 @@
       "https://img.kynbag.com/products/bottega-veneta-large-hophigh-end-grade-8/8-3080.jpg"
     ],
     "createdAt": "2026-03-08T08:48:57",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "55779",
@@ -4836,7 +4836,7 @@
       "https://img.kynbag.com/products/bottega-veneta-large-hophigh-end-grade-14/8-5758.jpg"
     ],
     "createdAt": "2026-03-08T08:48:43",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "30161",
@@ -4869,7 +4869,7 @@
       "https://img.kynbag.com/products/bottega-veneta-large-hophigh-end-grade-7/8-3079.jpg"
     ],
     "createdAt": "2026-03-08T08:48:36",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "30160",
@@ -4909,7 +4909,7 @@
       "https://img.kynbag.com/products/bottega-veneta-large-hophigh-end-grade-6/8-3078.jpg"
     ],
     "createdAt": "2026-03-08T08:48:36",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "30159",
@@ -4942,7 +4942,7 @@
       "https://img.kynbag.com/products/bottega-veneta-large-hophigh-end-grade-5/8-3077.jpg"
     ],
     "createdAt": "2026-03-08T08:48:36",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "30134",
@@ -4975,7 +4975,7 @@
       "https://img.kynbag.com/products/bottega-veneta-large-hophigh-end-grade-4/8-3076.jpg"
     ],
     "createdAt": "2026-03-08T08:48:07",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "30133",
@@ -5008,7 +5008,7 @@
       "https://img.kynbag.com/products/bottega-veneta-large-hophigh-end-grade-3/8-3075.jpg"
     ],
     "createdAt": "2026-03-08T08:48:07",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "30132",
@@ -5041,7 +5041,7 @@
       "https://img.kynbag.com/products/bottega-veneta-large-hophigh-end-grade-2/8-3074.jpg"
     ],
     "createdAt": "2026-03-08T08:48:07",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "30107",
@@ -5074,7 +5074,7 @@
       "https://img.kynbag.com/products/bottega-veneta-large-hophigh-end-grade/8-3073.jpg"
     ],
     "createdAt": "2026-03-08T08:47:39",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "26452",
@@ -5108,7 +5108,7 @@
       "https://img.kynbag.com/products/bottega-lauren-1980high-end-grade-11/8-2666.jpg"
     ],
     "createdAt": "2026-03-08T07:34:30",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "26451",
@@ -5142,7 +5142,7 @@
       "https://img.kynbag.com/products/bottega-lauren-1980high-end-grade-10/8-2665.jpg"
     ],
     "createdAt": "2026-03-08T07:34:30",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "26426",
@@ -5176,7 +5176,7 @@
       "https://img.kynbag.com/products/bottega-lauren-1980high-end-grade-9/8-2664.jpg"
     ],
     "createdAt": "2026-03-08T07:34:05",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "26425",
@@ -5210,7 +5210,7 @@
       "https://img.kynbag.com/products/bottega-lauren-1980high-end-grade-8/8-2663.jpg"
     ],
     "createdAt": "2026-03-08T07:34:05",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "26424",
@@ -5244,7 +5244,7 @@
       "https://img.kynbag.com/products/bottega-lauren-1980high-end-grade-7/8-2662.jpg"
     ],
     "createdAt": "2026-03-08T07:34:05",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "26399",
@@ -5278,7 +5278,7 @@
       "https://img.kynbag.com/products/bottega-lauren-1980high-end-grade-6/8-2661.jpg"
     ],
     "createdAt": "2026-03-08T07:33:38",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "26398",
@@ -5312,7 +5312,7 @@
       "https://img.kynbag.com/products/bottega-lauren-1980high-end-grade-5/8-2660.jpg"
     ],
     "createdAt": "2026-03-08T07:33:38",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "26397",
@@ -5346,7 +5346,7 @@
       "https://img.kynbag.com/products/bottega-lauren-1980high-end-grade-4/8-2659.jpg"
     ],
     "createdAt": "2026-03-08T07:33:38",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "26372",
@@ -5380,7 +5380,7 @@
       "https://img.kynbag.com/products/bottega-lauren-1980high-end-grade-3/8-2658.jpg"
     ],
     "createdAt": "2026-03-08T07:33:13",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "26371",
@@ -5414,7 +5414,7 @@
       "https://img.kynbag.com/products/bottega-lauren-1980high-end-grade-2/8-2657.jpg"
     ],
     "createdAt": "2026-03-08T07:33:13",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "26370",
@@ -5448,7 +5448,7 @@
       "https://img.kynbag.com/products/bottega-lauren-1980high-end-grade/8-2656.jpg"
     ],
     "createdAt": "2026-03-08T07:33:13",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "24194",
@@ -5483,7 +5483,7 @@
       "https://img.kynbag.com/products/bottega-veneta-small-toscahigh-end-grade-6/8-2416.jpg"
     ],
     "createdAt": "2026-03-08T06:58:23",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "24193",
@@ -5518,7 +5518,7 @@
       "https://img.kynbag.com/products/bottega-veneta-small-toscahigh-end-grade-5/8-2415.jpg"
     ],
     "createdAt": "2026-03-08T06:58:23",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "24192",
@@ -5553,7 +5553,7 @@
       "https://img.kynbag.com/products/bottega-veneta-small-toscahigh-end-grade-4/8-2414.jpg"
     ],
     "createdAt": "2026-03-08T06:58:23",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "24167",
@@ -5588,7 +5588,7 @@
       "https://img.kynbag.com/products/bottega-veneta-small-toscahigh-end-grade-3/8-2413.jpg"
     ],
     "createdAt": "2026-03-08T06:57:58",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "24166",
@@ -5623,7 +5623,7 @@
       "https://img.kynbag.com/products/bottega-veneta-small-toscahigh-end-grade-2/8-2412.jpg"
     ],
     "createdAt": "2026-03-08T06:57:58",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "24165",
@@ -5658,7 +5658,7 @@
       "https://img.kynbag.com/products/bottega-veneta-small-toscahigh-end-grade/8-2411.jpg"
     ],
     "createdAt": "2026-03-08T06:57:58",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "22682",
@@ -6001,7 +6001,7 @@
       "https://img.kynbag.com/products/bottega-veneta-small-parachute-7/8-1901.jpg"
     ],
     "createdAt": "2026-03-08T05:35:36",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19692",
@@ -6034,7 +6034,7 @@
       "https://img.kynbag.com/products/bottega-veneta-small-parachute-6/8-1900.jpg"
     ],
     "createdAt": "2026-03-08T05:35:14",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19691",
@@ -6067,7 +6067,7 @@
       "https://img.kynbag.com/products/bottega-veneta-small-parachute-5/8-1899.jpg"
     ],
     "createdAt": "2026-03-08T05:35:14",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19690",
@@ -6100,7 +6100,7 @@
       "https://img.kynbag.com/products/bottega-veneta-small-parachute-4/8-1898.jpg"
     ],
     "createdAt": "2026-03-08T05:35:14",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19665",
@@ -6133,7 +6133,7 @@
       "https://img.kynbag.com/products/bottega-veneta-small-parachute-3/8-1897.jpg"
     ],
     "createdAt": "2026-03-08T05:34:53",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19664",
@@ -6166,7 +6166,7 @@
       "https://img.kynbag.com/products/bottega-veneta-small-parachute-2/8-1896.jpg"
     ],
     "createdAt": "2026-03-08T05:34:53",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19663",
@@ -6199,7 +6199,7 @@
       "https://img.kynbag.com/products/bottega-veneta-small-parachute/8-1895.jpg"
     ],
     "createdAt": "2026-03-08T05:34:53",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19662",
@@ -6232,7 +6232,7 @@
       "https://img.kynbag.com/products/bottega-veneta-small-parachutehigh-end-grade/8-1894.jpg"
     ],
     "createdAt": "2026-03-08T05:34:53",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19629",
@@ -6662,7 +6662,7 @@
       "https://img.kynbag.com/products/bottega-veneta-mini-sardine-11/8-1476.jpg"
     ],
     "createdAt": "2026-03-08T04:50:11",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "15891",
@@ -6695,7 +6695,7 @@
       "https://img.kynbag.com/products/bottega-veneta-mini-sardine-10/8-1475.jpg"
     ],
     "createdAt": "2026-03-08T04:50:11",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "15858",
@@ -6728,7 +6728,7 @@
       "https://img.kynbag.com/products/bottega-veneta-mini-sardine-9/8-1474.jpg"
     ],
     "createdAt": "2026-03-08T04:49:46",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "15857",
@@ -6761,7 +6761,7 @@
       "https://img.kynbag.com/products/bottega-veneta-mini-sardine-8/8-1473.jpg"
     ],
     "createdAt": "2026-03-08T04:49:46",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "15856",
@@ -6794,7 +6794,7 @@
       "https://img.kynbag.com/products/bottega-veneta-mini-sardine-7/8-1472.jpg"
     ],
     "createdAt": "2026-03-08T04:49:46",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "15855",
@@ -6827,7 +6827,7 @@
       "https://img.kynbag.com/products/bottega-veneta-mini-sardine-6/8-1471.jpg"
     ],
     "createdAt": "2026-03-08T04:49:46",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "15822",
@@ -6860,7 +6860,7 @@
       "https://img.kynbag.com/products/bottega-veneta-mini-sardine-5/8-1470.jpg"
     ],
     "createdAt": "2026-03-08T04:49:21",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "15821",
@@ -6893,7 +6893,7 @@
       "https://img.kynbag.com/products/bottega-veneta-mini-sardine-4/8-1469.jpg"
     ],
     "createdAt": "2026-03-08T04:49:21",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "15820",
@@ -6926,7 +6926,7 @@
       "https://img.kynbag.com/products/bottega-veneta-mini-sardine-3/8-1468.jpg"
     ],
     "createdAt": "2026-03-08T04:49:21",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "15819",
@@ -6959,7 +6959,7 @@
       "https://img.kynbag.com/products/bottega-veneta-mini-sardine-2/8-1467.jpg"
     ],
     "createdAt": "2026-03-08T04:49:20",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "15786",
@@ -6992,7 +6992,7 @@
       "https://img.kynbag.com/products/bottega-veneta-mini-sardine/8-1466.jpg"
     ],
     "createdAt": "2026-03-08T04:48:56",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "15785",
@@ -7025,7 +7025,7 @@
       "https://img.kynbag.com/products/bottega-veneta-sardine-with-chain-4/8-1465.jpg"
     ],
     "createdAt": "2026-03-08T04:48:56",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "15784",
@@ -7058,7 +7058,7 @@
       "https://img.kynbag.com/products/bottega-veneta-sardine-with-chain-3/8-1464.jpg"
     ],
     "createdAt": "2026-03-08T04:48:56",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "15783",
@@ -7091,7 +7091,7 @@
       "https://img.kynbag.com/products/bottega-veneta-sardine-with-chain-2/8-1463.jpg"
     ],
     "createdAt": "2026-03-08T04:48:56",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "15750",
@@ -7124,7 +7124,7 @@
       "https://img.kynbag.com/products/bottega-veneta-sardine-with-chain/8-1462.jpg"
     ],
     "createdAt": "2026-03-08T04:48:32",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "15749",
@@ -7157,7 +7157,7 @@
       "https://img.kynbag.com/products/bottega-veneta-medium-sardine-6/8-1461.jpg"
     ],
     "createdAt": "2026-03-08T04:48:32",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "15748",
@@ -7190,7 +7190,7 @@
       "https://img.kynbag.com/products/bottega-veneta-medium-sardine-5/8-1460.jpg"
     ],
     "createdAt": "2026-03-08T04:48:32",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "15747",
@@ -7223,7 +7223,7 @@
       "https://img.kynbag.com/products/bottega-veneta-medium-sardine-4/8-1459.jpg"
     ],
     "createdAt": "2026-03-08T04:48:32",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "15714",
@@ -7256,7 +7256,7 @@
       "https://img.kynbag.com/products/bottega-veneta-medium-sardine-3/8-1458.jpg"
     ],
     "createdAt": "2026-03-08T04:48:07",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "15713",
@@ -7289,7 +7289,7 @@
       "https://img.kynbag.com/products/bottega-veneta-medium-sardine-2/8-1457.jpg"
     ],
     "createdAt": "2026-03-08T04:48:06",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "15712",
@@ -7322,7 +7322,7 @@
       "https://img.kynbag.com/products/bottega-veneta-medium-sardine/8-1456.jpg"
     ],
     "createdAt": "2026-03-08T04:48:06",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8875",
@@ -7446,7 +7446,7 @@
       "https://img.kynbag.com/products/capucines-mm/8-696.jpg"
     ],
     "createdAt": "2026-03-08T03:41:11",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8871",

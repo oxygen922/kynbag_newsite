@@ -32,7 +32,7 @@
       "https://img.kynbag.com/products/prada-bonnie-small-linen-and-leather-handbaghigh-end-grade-2/8-21.jpg"
     ],
     "createdAt": "2026-05-11T14:58:23",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60322",
@@ -67,7 +67,7 @@
       "https://img.kynbag.com/products/prada-bonnie-small-linen-and-leather-handbaghigh-end-grade/8-20.jpg"
     ],
     "createdAt": "2026-05-11T14:57:19",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60313",
@@ -104,7 +104,7 @@
       "https://img.kynbag.com/products/prada-bonnie-medium-linen-and-leather-handbaghigh-end-grade-2/8-19.jpg"
     ],
     "createdAt": "2026-05-11T14:55:59",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60304",
@@ -141,7 +141,7 @@
       "https://img.kynbag.com/products/prada-bonnie-medium-linen-and-leather-handbaghigh-end-grade/8-18.jpg"
     ],
     "createdAt": "2026-05-11T14:54:47",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "61896",
@@ -240,7 +240,7 @@
       "https://img.kynbag.com/products/prada-leather-totehigh-end-grade-2/8-96.jpg"
     ],
     "createdAt": "2026-05-10T09:17:01",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "61869",
@@ -273,7 +273,7 @@
       "https://img.kynbag.com/products/prada-leather-totehigh-end-grade/8-95.jpg"
     ],
     "createdAt": "2026-05-10T09:15:29",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "61860",
@@ -1351,7 +1351,7 @@
       "https://img.kynbag.com/products/prada-bonnie-extra-large-leather-handbaghigh-end-grade-4/8-4934.jpg"
     ],
     "createdAt": "2026-03-08T17:37:25",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "46951",
@@ -1386,7 +1386,7 @@
       "https://img.kynbag.com/products/prada-bonnie-extra-large-leather-handbaghigh-end-grade-3/8-4933.jpg"
     ],
     "createdAt": "2026-03-08T17:36:54",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "46950",
@@ -1421,7 +1421,7 @@
       "https://img.kynbag.com/products/prada-bonnie-extra-large-leather-handbaghigh-end-grade-2/8-4932.jpg"
     ],
     "createdAt": "2026-03-08T17:36:54",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "46933",
@@ -1456,7 +1456,7 @@
       "https://img.kynbag.com/products/prada-bonnie-extra-large-leather-handbaghigh-end-grade/8-4931.jpg"
     ],
     "createdAt": "2026-03-08T17:36:23",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "46932",
@@ -1491,7 +1491,7 @@
       "https://img.kynbag.com/products/prada-bonnie-extra-large-suede-handbaghigh-end-grade/8-4930.jpg"
     ],
     "createdAt": "2026-03-08T17:36:23",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "46915",
@@ -1670,7 +1670,7 @@
       "https://img.kynbag.com/products/prada-large-leather-tote-baghigh-end-grade-8/8-4925.jpg"
     ],
     "createdAt": "2026-03-08T17:34:50",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46878",
@@ -1713,7 +1713,7 @@
       "https://img.kynbag.com/products/prada-large-leather-tote-baghigh-end-grade-7/8-4924.jpg"
     ],
     "createdAt": "2026-03-08T17:34:50",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46861",
@@ -1756,7 +1756,7 @@
       "https://img.kynbag.com/products/prada-large-leather-tote-baghigh-end-grade-6/8-4923.jpg"
     ],
     "createdAt": "2026-03-08T17:34:20",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46860",
@@ -1792,7 +1792,7 @@
       "https://img.kynbag.com/products/prada-large-leather-tote-baghigh-end-grade-5/8-4922.jpg"
     ],
     "createdAt": "2026-03-08T17:34:20",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46843",
@@ -1835,7 +1835,7 @@
       "https://img.kynbag.com/products/prada-large-leather-tote-baghigh-end-grade-4/8-4921.jpg"
     ],
     "createdAt": "2026-03-08T17:33:48",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46842",
@@ -1869,7 +1869,7 @@
       "https://img.kynbag.com/products/prada-bonnie-medium-antiqued-leather-tote-baghigh-end-grade-4/8-4920.jpg"
     ],
     "createdAt": "2026-03-08T17:33:48",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46825",
@@ -1903,7 +1903,7 @@
       "https://img.kynbag.com/products/prada-bonnie-medium-antiqued-leather-tote-baghigh-end-grade-3/8-4919.jpg"
     ],
     "createdAt": "2026-03-08T17:33:18",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46824",
@@ -1937,7 +1937,7 @@
       "https://img.kynbag.com/products/prada-bonnie-medium-antiqued-leather-tote-baghigh-end-grade-2/8-4918.jpg"
     ],
     "createdAt": "2026-03-08T17:33:18",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46807",
@@ -1971,7 +1971,7 @@
       "https://img.kynbag.com/products/prada-bonnie-medium-antiqued-leather-tote-baghigh-end-grade/8-4917.jpg"
     ],
     "createdAt": "2026-03-08T17:32:45",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46806",
@@ -2004,7 +2004,7 @@
       "https://img.kynbag.com/products/prada-large-leather-tote-baghigh-end-grade-3/8-4916.jpg"
     ],
     "createdAt": "2026-03-08T17:32:44",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46789",
@@ -2461,7 +2461,7 @@
       "https://img.kynbag.com/products/prada-explore-large-re-nylon-and-leather-baghigh-end-grade-3/8-4854.jpg"
     ],
     "createdAt": "2026-03-08T17:17:37",
-    "subcategory": "nylon"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46231",
@@ -2498,7 +2498,7 @@
       "https://img.kynbag.com/products/prada-explore-large-re-nylon-and-leather-baghigh-end-grade-2/8-4853.jpg"
     ],
     "createdAt": "2026-03-08T17:17:09",
-    "subcategory": "nylon"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46230",
@@ -2535,7 +2535,7 @@
       "https://img.kynbag.com/products/prada-explore-large-re-nylon-and-leather-baghigh-end-grade/8-4852.jpg"
     ],
     "createdAt": "2026-03-08T17:17:09",
-    "subcategory": "nylon"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46213",
@@ -2570,7 +2570,7 @@
       "https://img.kynbag.com/products/prada-explore-large-nappa-leather-baghigh-end-grade-2/8-4851.jpg"
     ],
     "createdAt": "2026-03-08T17:16:41",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46212",
@@ -2605,7 +2605,7 @@
       "https://img.kynbag.com/products/prada-explore-large-nappa-leather-baghigh-end-grade/8-4850.jpg"
     ],
     "createdAt": "2026-03-08T17:16:41",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46195",
@@ -2639,7 +2639,7 @@
       "https://img.kynbag.com/products/prada-explore-large-suede-baghigh-end-grade-2/8-4849.jpg"
     ],
     "createdAt": "2026-03-08T17:16:13",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46194",
@@ -2673,7 +2673,7 @@
       "https://img.kynbag.com/products/prada-explore-large-suede-baghigh-end-grade/8-4848.jpg"
     ],
     "createdAt": "2026-03-08T17:16:13",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "43142",
@@ -2972,7 +2972,7 @@
       "https://img.kynbag.com/products/prada-explore-medium-re-nylon-and-leather-tote-baghigh-end-grade/8-4508.jpg"
     ],
     "createdAt": "2026-03-08T15:54:26",
-    "subcategory": "nylon"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "43053",
@@ -3007,7 +3007,7 @@
       "https://img.kynbag.com/products/prada-explore-medium-nappa-leather-tote-baghigh-end-grade-2/8-4507.jpg"
     ],
     "createdAt": "2026-03-08T15:53:56",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "43052",
@@ -3042,7 +3042,7 @@
       "https://img.kynbag.com/products/prada-explore-medium-nappa-leather-tote-baghigh-end-grade/8-4506.jpg"
     ],
     "createdAt": "2026-03-08T15:53:56",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "43035",
@@ -3700,7 +3700,7 @@
       "https://img.kynbag.com/products/prada-bonnie-leather-mini-handbaghigh-end-grade-3/8-4086.jpg"
     ],
     "createdAt": "2026-03-08T14:12:34",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "39335",
@@ -3734,7 +3734,7 @@
       "https://img.kynbag.com/products/prada-bonnie-leather-mini-handbaghigh-end-grade-2/8-4085.jpg"
     ],
     "createdAt": "2026-03-08T14:12:09",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "39334",
@@ -3768,7 +3768,7 @@
       "https://img.kynbag.com/products/prada-bonnie-leather-mini-handbaghigh-end-grade/8-4084.jpg"
     ],
     "createdAt": "2026-03-08T14:12:09",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "39317",
@@ -3803,7 +3803,7 @@
       "https://img.kynbag.com/products/prada-enchaine-mini-suede-baghigh-end-grade/8-4083.jpg"
     ],
     "createdAt": "2026-03-08T14:11:45",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "39316",
@@ -3837,7 +3837,7 @@
       "https://img.kynbag.com/products/prada-enchaine-mini-leather-baghigh-end-grade-2/8-4082.jpg"
     ],
     "createdAt": "2026-03-08T14:11:45",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "39299",
@@ -3872,7 +3872,7 @@
       "https://img.kynbag.com/products/prada-enchaine-mini-leather-baghigh-end-grade/8-4081.jpg"
     ],
     "createdAt": "2026-03-08T14:11:21",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "39298",
@@ -3904,7 +3904,7 @@
       "https://img.kynbag.com/products/prada-enchaine-medium-leather-baghigh-end-grade-5/8-4080.jpg"
     ],
     "createdAt": "2026-03-08T14:11:21",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "39281",
@@ -3936,7 +3936,7 @@
       "https://img.kynbag.com/products/prada-enchaine-medium-leather-baghigh-end-grade-4/8-4079.jpg"
     ],
     "createdAt": "2026-03-08T14:10:55",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "39280",
@@ -3968,7 +3968,7 @@
       "https://img.kynbag.com/products/prada-enchaine-medium-leather-baghigh-end-grade-3/8-4078.jpg"
     ],
     "createdAt": "2026-03-08T14:10:55",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "39263",
@@ -4000,7 +4000,7 @@
       "https://img.kynbag.com/products/prada-enchaine-medium-leather-baghigh-end-grade-2/8-4077.jpg"
     ],
     "createdAt": "2026-03-08T14:10:30",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "39262",
@@ -4032,7 +4032,7 @@
       "https://img.kynbag.com/products/prada-enchaine-medium-leather-baghigh-end-grade/8-4076.jpg"
     ],
     "createdAt": "2026-03-08T14:10:30",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "39245",
@@ -4066,7 +4066,7 @@
       "https://img.kynbag.com/products/prada-prada-tumulte-small-nappa-leather-baghigh-end-grade-3/8-4075.jpg"
     ],
     "createdAt": "2026-03-08T14:10:04",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "39244",
@@ -4100,7 +4100,7 @@
       "https://img.kynbag.com/products/prada-prada-tumulte-small-nappa-leather-baghigh-end-grade-2/8-4074.jpg"
     ],
     "createdAt": "2026-03-08T14:10:04",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "39227",
@@ -4134,7 +4134,7 @@
       "https://img.kynbag.com/products/prada-prada-tumulte-small-nappa-leather-baghigh-end-grade/8-4073.jpg"
     ],
     "createdAt": "2026-03-08T14:09:39",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "35627",
@@ -4167,7 +4167,7 @@
       "https://img.kynbag.com/products/prada-dada-small-nappa-leather-bag-4/8-3681.jpg"
     ],
     "createdAt": "2026-03-08T12:12:28",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "35610",
@@ -4200,7 +4200,7 @@
       "https://img.kynbag.com/products/prada-dada-small-nappa-leather-bag-3/8-3680.jpg"
     ],
     "createdAt": "2026-03-08T12:12:04",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "35609",
@@ -4233,7 +4233,7 @@
       "https://img.kynbag.com/products/prada-dada-small-nappa-leather-bag-2/8-3679.jpg"
     ],
     "createdAt": "2026-03-08T12:12:04",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "35592",
@@ -4266,7 +4266,7 @@
       "https://img.kynbag.com/products/prada-dada-small-nappa-leather-bag/8-3678.jpg"
     ],
     "createdAt": "2026-03-08T12:11:41",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "35268",
@@ -4899,7 +4899,7 @@
       "https://img.kynbag.com/products/medium-prada-galleria-leather-baghigh-end-grade-5/8-5250.jpg"
     ],
     "createdAt": "2026-03-08T09:24:30",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "31996",
@@ -4943,7 +4943,7 @@
       "https://img.kynbag.com/products/medium-prada-galleria-leather-baghigh-end-grade-4/8-3282.jpg"
     ],
     "createdAt": "2026-03-08T09:23:42",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "31979",
@@ -4987,7 +4987,7 @@
       "https://img.kynbag.com/products/medium-prada-galleria-leather-baghigh-end-grade-3/8-3281.jpg"
     ],
     "createdAt": "2026-03-08T09:23:20",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "31978",
@@ -5031,7 +5031,7 @@
       "https://img.kynbag.com/products/medium-prada-galleria-leather-baghigh-end-grade-2/8-3280.jpg"
     ],
     "createdAt": "2026-03-08T09:23:20",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "31961",
@@ -5075,7 +5075,7 @@
       "https://img.kynbag.com/products/medium-prada-galleria-leather-baghigh-end-grade/8-3279.jpg"
     ],
     "createdAt": "2026-03-08T09:22:59",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "31960",
@@ -5108,7 +5108,7 @@
       "https://img.kynbag.com/products/prada-mariner-re-nylon-small-bucket-bag-6/8-3278.jpg"
     ],
     "createdAt": "2026-03-08T09:22:59",
-    "subcategory": "nylon"
+    "subcategory": "crossbody"
   },
   {
     "id": "31943",
@@ -5141,7 +5141,7 @@
       "https://img.kynbag.com/products/prada-mariner-re-nylon-small-bucket-bag-5/8-3277.jpg"
     ],
     "createdAt": "2026-03-08T09:22:39",
-    "subcategory": "nylon"
+    "subcategory": "crossbody"
   },
   {
     "id": "31942",
@@ -5174,7 +5174,7 @@
       "https://img.kynbag.com/products/prada-mariner-re-nylon-small-bucket-bag-4/8-3276.jpg"
     ],
     "createdAt": "2026-03-08T09:22:39",
-    "subcategory": "nylon"
+    "subcategory": "crossbody"
   },
   {
     "id": "31925",
@@ -5207,7 +5207,7 @@
       "https://img.kynbag.com/products/prada-mariner-re-nylon-small-bucket-bag-3/8-3275.jpg"
     ],
     "createdAt": "2026-03-08T09:22:19",
-    "subcategory": "nylon"
+    "subcategory": "crossbody"
   },
   {
     "id": "31924",
@@ -5240,7 +5240,7 @@
       "https://img.kynbag.com/products/prada-mariner-re-nylon-small-bucket-bag-2/8-3274.jpg"
     ],
     "createdAt": "2026-03-08T09:22:19",
-    "subcategory": "nylon"
+    "subcategory": "crossbody"
   },
   {
     "id": "31907",
@@ -5273,7 +5273,7 @@
       "https://img.kynbag.com/products/prada-mariner-re-nylon-small-bucket-bag/8-3273.jpg"
     ],
     "createdAt": "2026-03-08T09:21:58",
-    "subcategory": "nylon"
+    "subcategory": "crossbody"
   },
   {
     "id": "31906",
@@ -5305,7 +5305,7 @@
       "https://img.kynbag.com/products/prada-mariner-small-striped-fabric-bucket-bag-2/8-3272.jpg"
     ],
     "createdAt": "2026-03-08T09:21:58",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "31905",
@@ -5337,7 +5337,7 @@
       "https://img.kynbag.com/products/prada-mariner-small-striped-fabric-bucket-bag/8-3271.jpg"
     ],
     "createdAt": "2026-03-08T09:21:58",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "31880",
@@ -5369,7 +5369,7 @@
       "https://img.kynbag.com/products/prada-mariner-medium-re-nylon-tote-bag-3/8-3270.jpg"
     ],
     "createdAt": "2026-03-08T09:21:28",
-    "subcategory": "nylon"
+    "subcategory": "crossbody"
   },
   {
     "id": "31879",
@@ -5401,7 +5401,7 @@
       "https://img.kynbag.com/products/prada-mariner-medium-re-nylon-tote-bag-2/8-3269.jpg"
     ],
     "createdAt": "2026-03-08T09:21:28",
-    "subcategory": "nylon"
+    "subcategory": "crossbody"
   },
   {
     "id": "31862",
@@ -5433,7 +5433,7 @@
       "https://img.kynbag.com/products/prada-mariner-medium-re-nylon-tote-bag/8-3268.jpg"
     ],
     "createdAt": "2026-03-08T09:21:08",
-    "subcategory": "nylon"
+    "subcategory": "crossbody"
   },
   {
     "id": "31861",
@@ -5627,7 +5627,7 @@
       "https://img.kynbag.com/products/prada-dangle-leather-top-handle-mini-baghigh-end-grade-3/8-2751.jpg"
     ],
     "createdAt": "2026-03-08T07:46:55",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "27208",
@@ -5661,7 +5661,7 @@
       "https://img.kynbag.com/products/prada-dangle-leather-top-handle-mini-baghigh-end-grade-2/8-2750.jpg"
     ],
     "createdAt": "2026-03-08T07:46:55",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "27207",
@@ -5695,7 +5695,7 @@
       "https://img.kynbag.com/products/prada-dangle-leather-top-handle-mini-baghigh-end-grade/8-2749.jpg"
     ],
     "createdAt": "2026-03-08T07:46:55",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "27182",
@@ -5729,7 +5729,7 @@
       "https://img.kynbag.com/products/prada-dangle-medium-leather-top-handle-baghigh-end-grade-3/8-2748.jpg"
     ],
     "createdAt": "2026-03-08T07:46:29",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "27181",
@@ -5763,7 +5763,7 @@
       "https://img.kynbag.com/products/prada-dangle-medium-leather-top-handle-baghigh-end-grade-2/8-2747.jpg"
     ],
     "createdAt": "2026-03-08T07:46:29",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "27180",
@@ -5797,7 +5797,7 @@
       "https://img.kynbag.com/products/prada-dangle-medium-leather-top-handle-baghigh-end-grade/8-2746.jpg"
     ],
     "createdAt": "2026-03-08T07:46:29",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "25328",
@@ -5832,7 +5832,7 @@
       "https://img.kynbag.com/products/prada-re-nylon-and-leather-medium-top-handle-bag-with-padlockhigh-end-grade/8-2542.jpg"
     ],
     "createdAt": "2026-03-08T07:16:19",
-    "subcategory": "nylon"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "25327",
@@ -5867,7 +5867,7 @@
       "https://img.kynbag.com/products/prada-medium-leather-top-handle-bag-with-padlockhigh-end-grade-3/8-2541.jpg"
     ],
     "createdAt": "2026-03-08T07:16:19",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "25326",
@@ -5902,7 +5902,7 @@
       "https://img.kynbag.com/products/prada-medium-leather-top-handle-bag-with-padlockhigh-end-grade-2/8-2540.jpg"
     ],
     "createdAt": "2026-03-08T07:16:18",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "25301",
@@ -5937,7 +5937,7 @@
       "https://img.kynbag.com/products/prada-medium-leather-top-handle-bag-with-padlockhigh-end-grade/8-2539.jpg"
     ],
     "createdAt": "2026-03-08T07:15:52",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "25300",
@@ -5972,7 +5972,7 @@
       "https://img.kynbag.com/products/prada-medium-leather-tote-baghigh-end-grade-4/8-2538.jpg"
     ],
     "createdAt": "2026-03-08T07:15:52",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "25299",
@@ -6007,7 +6007,7 @@
       "https://img.kynbag.com/products/prada-medium-leather-tote-baghigh-end-grade-3/8-2537.jpg"
     ],
     "createdAt": "2026-03-08T07:15:52",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "25274",
@@ -6042,7 +6042,7 @@
       "https://img.kynbag.com/products/prada-medium-leather-tote-baghigh-end-grade-2/8-2536.jpg"
     ],
     "createdAt": "2026-03-08T07:15:24",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "25273",
@@ -6077,7 +6077,7 @@
       "https://img.kynbag.com/products/prada-medium-leather-tote-baghigh-end-grade/8-2535.jpg"
     ],
     "createdAt": "2026-03-08T07:15:23",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "25272",
@@ -6807,7 +6807,7 @@
       "https://img.kynbag.com/products/prada-moon-padded-nappa-leather-bag-7/8-2040.jpg"
     ],
     "createdAt": "2026-03-08T06:12:18",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "20985",
@@ -6843,7 +6843,7 @@
       "https://img.kynbag.com/products/prada-moon-padded-nappa-leather-bag-6/8-2039.jpg"
     ],
     "createdAt": "2026-03-08T06:12:18",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "20984",
@@ -6879,7 +6879,7 @@
       "https://img.kynbag.com/products/prada-moon-padded-nappa-leather-bag-5/8-2038.jpg"
     ],
     "createdAt": "2026-03-08T06:12:18",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "20983",
@@ -6915,7 +6915,7 @@
       "https://img.kynbag.com/products/prada-moon-padded-nappa-leather-bag-4/8-2037.jpg"
     ],
     "createdAt": "2026-03-08T06:12:18",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "20982",
@@ -6951,7 +6951,7 @@
       "https://img.kynbag.com/products/prada-moon-padded-nappa-leather-bag-3/8-2036.jpg"
     ],
     "createdAt": "2026-03-08T06:12:18",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "20981",
@@ -6987,7 +6987,7 @@
       "https://img.kynbag.com/products/prada-moon-padded-nappa-leather-bag-2/8-2035.jpg"
     ],
     "createdAt": "2026-03-08T06:12:18",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "20980",
@@ -7023,7 +7023,7 @@
       "https://img.kynbag.com/products/prada-moon-padded-nappa-leather-bag/8-2034.jpg"
     ],
     "createdAt": "2026-03-08T06:12:17",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "20979",
@@ -7060,7 +7060,7 @@
       "https://img.kynbag.com/products/large-prada-new-galleria-leather-baghigh-end-grade-3/8-2033.jpg"
     ],
     "createdAt": "2026-03-08T06:12:17",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "20896",
@@ -7097,7 +7097,7 @@
       "https://img.kynbag.com/products/large-prada-new-galleria-leather-baghigh-end-grade-2/8-2032.jpg"
     ],
     "createdAt": "2026-03-08T05:51:30",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "20871",
@@ -7134,7 +7134,7 @@
       "https://img.kynbag.com/products/large-prada-new-galleria-leather-baghigh-end-grade/8-2031.jpg"
     ],
     "createdAt": "2026-03-08T05:51:05",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19827",
@@ -7167,7 +7167,7 @@
       "https://img.kynbag.com/products/prada-extra-large-leather-handbaghigh-end-grade/8-1915.jpg"
     ],
     "createdAt": "2026-03-08T05:37:02",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "19826",
@@ -7201,7 +7201,7 @@
       "https://img.kynbag.com/products/prada-large-leather-handbaghigh-end-grade-5/8-1914.jpg"
     ],
     "createdAt": "2026-03-08T05:37:02",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19825",
@@ -7235,7 +7235,7 @@
       "https://img.kynbag.com/products/prada-large-leather-handbaghigh-end-grade-4/8-1913.jpg"
     ],
     "createdAt": "2026-03-08T05:37:02",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19800",
@@ -7269,7 +7269,7 @@
       "https://img.kynbag.com/products/prada-large-leather-handbaghigh-end-grade-3/8-1912.jpg"
     ],
     "createdAt": "2026-03-08T05:36:41",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19799",
@@ -7303,7 +7303,7 @@
       "https://img.kynbag.com/products/prada-large-leather-handbaghigh-end-grade-2/8-1911.jpg"
     ],
     "createdAt": "2026-03-08T05:36:41",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19798",
@@ -7337,7 +7337,7 @@
       "https://img.kynbag.com/products/prada-large-leather-handbaghigh-end-grade/8-1910.jpg"
     ],
     "createdAt": "2026-03-08T05:36:41",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19773",
@@ -7370,7 +7370,7 @@
       "https://img.kynbag.com/products/prada-medium-suede-handbaghigh-end-grade-2/8-1909.jpg"
     ],
     "createdAt": "2026-03-08T05:36:19",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19772",
@@ -7403,7 +7403,7 @@
       "https://img.kynbag.com/products/prada-medium-suede-handbaghigh-end-grade/8-1908.jpg"
     ],
     "createdAt": "2026-03-08T05:36:19",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19771",
@@ -7436,7 +7436,7 @@
       "https://img.kynbag.com/products/prada-medium-leather-handbaghigh-end-grade-6/8-1907.jpg"
     ],
     "createdAt": "2026-03-08T05:36:19",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19746",
@@ -7469,7 +7469,7 @@
       "https://img.kynbag.com/products/prada-medium-leather-handbaghigh-end-grade-5/8-1906.jpg"
     ],
     "createdAt": "2026-03-08T05:35:57",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19745",
@@ -7502,7 +7502,7 @@
       "https://img.kynbag.com/products/prada-medium-leather-handbaghigh-end-grade-4/8-1905.jpg"
     ],
     "createdAt": "2026-03-08T05:35:57",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19744",
@@ -7535,7 +7535,7 @@
       "https://img.kynbag.com/products/prada-medium-leather-handbaghigh-end-grade-3/8-1904.jpg"
     ],
     "createdAt": "2026-03-08T05:35:57",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19719",
@@ -7568,7 +7568,7 @@
       "https://img.kynbag.com/products/prada-medium-leather-handbaghigh-end-grade-2/8-1903.jpg"
     ],
     "createdAt": "2026-03-08T05:35:36",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19718",
@@ -7601,7 +7601,7 @@
       "https://img.kynbag.com/products/prada-medium-leather-handbaghigh-end-grade/8-1902.jpg"
     ],
     "createdAt": "2026-03-08T05:35:36",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18781",
@@ -7800,7 +7800,7 @@
       "https://img.kynbag.com/products/prada-buckle-medium-leather-handbag-with-double-belthigh-end-grade-2/8-1724.jpg"
     ],
     "createdAt": "2026-03-08T05:15:36",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18115",
@@ -7834,7 +7834,7 @@
       "https://img.kynbag.com/products/prada-buckle-medium-leather-handbag-with-double-belthigh-end-grade/8-1723.jpg"
     ],
     "createdAt": "2026-03-08T05:15:36",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18114",
@@ -7868,7 +7868,7 @@
       "https://img.kynbag.com/products/prada-buckle-small-suede-handbag-with-belthigh-end-grade/8-1722.jpg"
     ],
     "createdAt": "2026-03-08T05:15:36",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18081",
@@ -7902,7 +7902,7 @@
       "https://img.kynbag.com/products/prada-buckle-small-leather-handbag-with-belthigh-end-grade-3/8-1721.jpg"
     ],
     "createdAt": "2026-03-08T05:15:09",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18080",
@@ -7936,7 +7936,7 @@
       "https://img.kynbag.com/products/prada-buckle-small-leather-handbag-with-belthigh-end-grade-2/8-1720.jpg"
     ],
     "createdAt": "2026-03-08T05:15:09",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18079",
@@ -7970,7 +7970,7 @@
       "https://img.kynbag.com/products/prada-buckle-small-leather-handbag-with-belthigh-end-grade/8-1719.jpg"
     ],
     "createdAt": "2026-03-08T05:15:09",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "14813",
@@ -8209,7 +8209,7 @@
       "https://img.kynbag.com/products/prada-darling-leather-handbag-4/8-1351.jpg"
     ],
     "createdAt": "2026-03-08T04:36:34",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "14750",
@@ -8244,7 +8244,7 @@
       "https://img.kynbag.com/products/prada-darling-leather-handbag-3/8-1350.jpg"
     ],
     "createdAt": "2026-03-08T04:36:33",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "14749",
@@ -8279,7 +8279,7 @@
       "https://img.kynbag.com/products/prada-darling-leather-handbag-2/8-1349.jpg"
     ],
     "createdAt": "2026-03-08T04:36:33",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "14748",
@@ -8314,7 +8314,7 @@
       "https://img.kynbag.com/products/prada-darling-leather-handbag/8-1348.jpg"
     ],
     "createdAt": "2026-03-08T04:36:33",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "14715",
@@ -8448,7 +8448,7 @@
       "https://img.kynbag.com/products/prada-medium-leather-handbag-3/8-1344.jpg"
     ],
     "createdAt": "2026-03-08T04:36:08",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "14679",
@@ -8480,7 +8480,7 @@
       "https://img.kynbag.com/products/prada-medium-leather-handbag-2/8-1343.jpg"
     ],
     "createdAt": "2026-03-08T04:35:41",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "14678",
@@ -8512,7 +8512,7 @@
       "https://img.kynbag.com/products/prada-medium-leather-handbag/8-1342.jpg"
     ],
     "createdAt": "2026-03-08T04:35:41",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "14677",
@@ -8877,7 +8877,7 @@
       "https://img.kynbag.com/products/prada-large-leather-tote-bag-with-zipper-closurehigh-end-grade-2/8-1172.jpg"
     ],
     "createdAt": "2026-03-08T04:19:32",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13131",
@@ -8911,7 +8911,7 @@
       "https://img.kynbag.com/products/prada-large-leather-tote-bag-with-zipper-closurehigh-end-grade/8-1171.jpg"
     ],
     "createdAt": "2026-03-08T04:19:10",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13130",
@@ -8944,7 +8944,7 @@
       "https://img.kynbag.com/products/prada-large-leather-tote-baghigh-end-grade-2/8-1170.jpg"
     ],
     "createdAt": "2026-03-08T04:19:10",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13129",
@@ -8976,7 +8976,7 @@
       "https://img.kynbag.com/products/prada-large-leather-tote-baghigh-end-grade/8-1169.jpg"
     ],
     "createdAt": "2026-03-08T04:19:10",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "7844",
@@ -9515,7 +9515,7 @@
       "https://img.kynbag.com/products/small-prada-galleria-embroidered-fabric-bag/8-122.jpg"
     ],
     "createdAt": "2026-03-08T03:05:06",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "3547",
@@ -9550,7 +9550,7 @@
       "https://img.kynbag.com/products/small-prada-symbole-jacquard-fabric-handbag-3/8-121.jpg"
     ],
     "createdAt": "2026-03-08T03:05:06",
-    "subcategory": "symbol"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "3546",
@@ -9585,7 +9585,7 @@
       "https://img.kynbag.com/products/small-prada-symbole-jacquard-fabric-handbag-2/8-120.jpg"
     ],
     "createdAt": "2026-03-08T03:05:06",
-    "subcategory": "symbol"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "3545",
@@ -9620,7 +9620,7 @@
       "https://img.kynbag.com/products/small-prada-symbole-jacquard-fabric-handbag/8-119.jpg"
     ],
     "createdAt": "2026-03-08T03:05:06",
-    "subcategory": "symbol"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "3488",
@@ -9654,7 +9654,7 @@
       "https://img.kynbag.com/products/large-prada-symbole-jacquard-fabric-handbag-3/8-118.jpg"
     ],
     "createdAt": "2026-03-08T03:04:43",
-    "subcategory": "symbol"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "3487",
@@ -9688,7 +9688,7 @@
       "https://img.kynbag.com/products/large-prada-symbole-jacquard-fabric-handbag-2/8-117.jpg"
     ],
     "createdAt": "2026-03-08T03:04:43",
-    "subcategory": "symbol"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "3486",
@@ -9722,7 +9722,7 @@
       "https://img.kynbag.com/products/large-prada-symbole-jacquard-fabric-handbag/8-116.jpg"
     ],
     "createdAt": "2026-03-08T03:04:43",
-    "subcategory": "symbol"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "3485",

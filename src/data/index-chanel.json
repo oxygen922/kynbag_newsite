@@ -153,7 +153,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-small-handbaghigh-end-grade-25/1-16.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-11T14:33:51",
-    "subcategory": "2-55"
+    "subcategory": "mini-flap"
   },
   {
     "id": "60272",
@@ -166,7 +166,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-small-handbaghigh-end-grade-24/1-15.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-03T14:43:25",
-    "subcategory": "2-55"
+    "subcategory": "mini-flap"
   },
   {
     "id": "60263",
@@ -179,7 +179,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-small-handbaghigh-end-grade-23/1-14.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-03T14:42:11",
-    "subcategory": "2-55"
+    "subcategory": "mini-flap"
   },
   {
     "id": "60113",
@@ -192,7 +192,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-small-handbaghigh-end-grade-22/1.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-03T07:05:00",
-    "subcategory": "2-55"
+    "subcategory": "mini-flap"
   },
   {
     "id": "59552",
@@ -244,7 +244,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-small-handbaghigh-end-grade-21/1-141.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-17T01:13:57",
-    "subcategory": "2-55"
+    "subcategory": "mini-flap"
   },
   {
     "id": "59516",
@@ -257,7 +257,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-small-handbaghigh-end-grade-20/1-140.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-17T01:12:46",
-    "subcategory": "2-55"
+    "subcategory": "mini-flap"
   },
   {
     "id": "59507",
@@ -647,7 +647,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-baghigh-end-grade-22/1-5827.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-20T03:53:26",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "56592",
@@ -660,7 +660,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-baghigh-end-grade-21/1-5826.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-20T03:51:16",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "56426",
@@ -751,7 +751,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-2-55-handbaghigh-end-grade/1-5809.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-19T14:04:00",
-    "subcategory": "2-55"
+    "subcategory": "classic-flap"
   },
   {
     "id": "56444",
@@ -764,7 +764,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-2-55-handbaghigh-end-grade-2/1-5810.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-19T14:03:19",
-    "subcategory": "2-55"
+    "subcategory": "classic-flap"
   },
   {
     "id": "55737",
@@ -777,7 +777,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-accordion-card-holder-4/1-5752.jpg",
     "imageCount": 7,
     "createdAt": "2026-03-16T14:15:55",
-    "subcategory": "other"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "55729",
@@ -790,7 +790,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-accordion-card-holder-3/1-5751.jpg",
     "imageCount": 7,
     "createdAt": "2026-03-16T14:13:59",
-    "subcategory": "other"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "55721",
@@ -803,7 +803,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-accordion-card-holder-2/1-5750.jpg",
     "imageCount": 7,
     "createdAt": "2026-03-16T14:12:32",
-    "subcategory": "other"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "55713",
@@ -816,7 +816,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-accordion-card-holder/1-5749.jpg",
     "imageCount": 7,
     "createdAt": "2026-03-16T14:08:43",
-    "subcategory": "other"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "55704",
@@ -829,7 +829,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-large-hobo-baghigh-end-grade-9/1-5748.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-16T13:54:50",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "55695",
@@ -842,7 +842,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-large-hobo-baghigh-end-grade-8/1-5747.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-16T13:53:43",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "55686",
@@ -855,7 +855,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-large-hobo-baghigh-end-grade-7/1-5746.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-16T13:51:51",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "55677",
@@ -868,7 +868,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-large-hobo-baghigh-end-grade-6/1-5745.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-16T13:50:03",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "55668",
@@ -881,7 +881,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-large-hobo-baghigh-end-grade-5/1-5744.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-16T13:48:46",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "55658",
@@ -985,7 +985,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-classic-handbag-7/1-5578.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T16:54:18",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "53185",
@@ -998,7 +998,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-classic-handbag-6/1-5577.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T16:52:02",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "53176",
@@ -1011,7 +1011,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-classic-handbag-5/1-5576.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T16:49:48",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "53167",
@@ -1024,7 +1024,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-classic-handbag-4/1-5575.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T16:48:13",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "53158",
@@ -1037,7 +1037,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-classic-handbag-3/1-5574.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T16:46:59",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "53149",
@@ -1050,7 +1050,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-classic-handbag-2/1-5573.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T16:45:47",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "53140",
@@ -1063,7 +1063,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-classic-handbag/1-5572.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T16:44:29",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "53212",
@@ -1076,7 +1076,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-classic-handbag-9/1-5580.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T16:43:49",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "53203",
@@ -1089,7 +1089,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-classic-handbag-8/1-5579.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T16:42:37",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "53047",
@@ -1232,7 +1232,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-19-zipper-coin-wallet-2/1-5552.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T14:29:27",
-    "subcategory": "wallet-on-chain"
+    "subcategory": "classic-flap"
   },
   {
     "id": "52947",
@@ -1245,7 +1245,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-19-zipper-coin-wallet/1-5551.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T14:28:23",
-    "subcategory": "wallet-on-chain"
+    "subcategory": "classic-flap"
   },
   {
     "id": "52937",
@@ -1258,7 +1258,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-19-chain-wallethigh-end-grade/1-5550.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T14:06:34",
-    "subcategory": "wallet-on-chain"
+    "subcategory": "classic-flap"
   },
   {
     "id": "52928",
@@ -1323,7 +1323,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-medium-classic-flap-handbaghigh-end-grade/1-5546.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:58:29",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "58026",
@@ -1336,7 +1336,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-large-classic-handbaghigh-end-grade-7/1-5975.jpg",
     "imageCount": 7,
     "createdAt": "2026-03-13T13:55:51",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "58017",
@@ -1349,7 +1349,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-large-classic-handbaghigh-end-grade-6/1-5974.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:55:51",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "57999",
@@ -1362,7 +1362,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-large-classic-handbaghigh-end-grade-4/1-5972.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:55:43",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "52882",
@@ -1375,7 +1375,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-large-classic-handbaghigh-end-grade/1-5545.jpg",
     "imageCount": 9,
     "createdAt": "2026-03-13T13:55:22",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "58008",
@@ -1388,7 +1388,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-large-classic-handbaghigh-end-grade-5/1-5973.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:55:16",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "57990",
@@ -1401,7 +1401,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-large-classic-handbaghigh-end-grade-3/1-5971.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:55:13",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "57981",
@@ -1414,7 +1414,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-large-classic-handbaghigh-end-grade-2/1-5970.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:55:04",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "52846",
@@ -1427,7 +1427,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-small-handbaghigh-end-grade-19/1-5540.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:48:57",
-    "subcategory": "2-55"
+    "subcategory": "mini-flap"
   },
   {
     "id": "52837",
@@ -1440,7 +1440,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-small-handbaghigh-end-grade-18/1-5539.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:47:52",
-    "subcategory": "2-55"
+    "subcategory": "mini-flap"
   },
   {
     "id": "52828",
@@ -1453,7 +1453,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-small-handbaghigh-end-grade-16/1-5538.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:46:54",
-    "subcategory": "2-55"
+    "subcategory": "mini-flap"
   },
   {
     "id": "52819",
@@ -1466,7 +1466,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-small-handbaghigh-end-grade-15/1-5537.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:45:53",
-    "subcategory": "2-55"
+    "subcategory": "mini-flap"
   },
   {
     "id": "52810",
@@ -1479,7 +1479,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-small-handbaghigh-end-grade-14/1-5536.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:44:55",
-    "subcategory": "2-55"
+    "subcategory": "mini-flap"
   },
   {
     "id": "52801",
@@ -1492,7 +1492,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-small-handbaghigh-end-grade-13/1-5535.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:43:52",
-    "subcategory": "2-55"
+    "subcategory": "mini-flap"
   },
   {
     "id": "52792",
@@ -1505,7 +1505,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-small-handbaghigh-end-grade-12/1-5534.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:42:46",
-    "subcategory": "2-55"
+    "subcategory": "mini-flap"
   },
   {
     "id": "52783",
@@ -1518,7 +1518,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-small-handbaghigh-end-grade-11/1-5533.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:41:42",
-    "subcategory": "2-55"
+    "subcategory": "mini-flap"
   },
   {
     "id": "52774",
@@ -1531,7 +1531,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-small-handbaghigh-end-grade-10/1-5532.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:40:16",
-    "subcategory": "2-55"
+    "subcategory": "mini-flap"
   },
   {
     "id": "52765",
@@ -1544,7 +1544,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-small-handbaghigh-end-grade-9/1-5531.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:39:18",
-    "subcategory": "2-55"
+    "subcategory": "mini-flap"
   },
   {
     "id": "52756",
@@ -1557,7 +1557,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-small-handbaghigh-end-grade-8/1-5530.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:38:20",
-    "subcategory": "2-55"
+    "subcategory": "mini-flap"
   },
   {
     "id": "52747",
@@ -1570,7 +1570,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-small-handbaghigh-end-grade-7/1-5529.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:36:57",
-    "subcategory": "2-55"
+    "subcategory": "mini-flap"
   },
   {
     "id": "52737",
@@ -1583,7 +1583,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-small-handbaghigh-end-grade-6/1-5528.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:34:35",
-    "subcategory": "2-55"
+    "subcategory": "mini-flap"
   },
   {
     "id": "52728",
@@ -1596,7 +1596,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-small-handbaghigh-end-grade-5/1-5527.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:33:04",
-    "subcategory": "2-55"
+    "subcategory": "mini-flap"
   },
   {
     "id": "52719",
@@ -1609,7 +1609,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-small-handbaghigh-end-grade-4/1-5526.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:31:58",
-    "subcategory": "2-55"
+    "subcategory": "mini-flap"
   },
   {
     "id": "52710",
@@ -1622,7 +1622,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-small-handbaghigh-end-grade-3/1-5525.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:30:47",
-    "subcategory": "2-55"
+    "subcategory": "mini-flap"
   },
   {
     "id": "52701",
@@ -1635,7 +1635,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-small-handbaghigh-end-grade-2/1-5524.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:29:12",
-    "subcategory": "2-55"
+    "subcategory": "mini-flap"
   },
   {
     "id": "52692",
@@ -1648,7 +1648,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-small-handbaghigh-end-grade/1-5523.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:27:53",
-    "subcategory": "2-55"
+    "subcategory": "mini-flap"
   },
   {
     "id": "52683",
@@ -1661,7 +1661,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-small-handbaghigh-end-grade-17/1-5522.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:21:38",
-    "subcategory": "2-55"
+    "subcategory": "mini-flap"
   },
   {
     "id": "52674",
@@ -1674,7 +1674,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-medium-handbaghigh-end-grade-8/1-5521.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:20:13",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "52665",
@@ -1687,7 +1687,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-medium-handbaghigh-end-grade-7/1-5520.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:17:57",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "52656",
@@ -1700,7 +1700,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-medium-handbaghigh-end-grade-6/1-5519.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:16:47",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "52647",
@@ -1713,7 +1713,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-medium-handbaghigh-end-grade-5/1-5518.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:15:38",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "52638",
@@ -1726,7 +1726,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-medium-handbaghigh-end-grade-4/1-5517.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:14:28",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "52629",
@@ -1739,7 +1739,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-medium-handbaghigh-end-grade-3/1-5516.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:13:08",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "52620",
@@ -1752,7 +1752,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-medium-handbaghigh-end-grade-2/1-5515.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:11:24",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "52611",
@@ -1765,7 +1765,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-medium-handbaghigh-end-grade/1-5514.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:10:19",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "52855",
@@ -1778,7 +1778,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-medium-handbaghigh-end-grade-9/1-5541.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:07:14",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "52864",
@@ -1791,7 +1791,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-medium-handbaghigh-end-grade-10/1-5542.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:06:09",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "52873",
@@ -1804,7 +1804,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-medium-handbaghigh-end-grade-11/1-5543.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T13:05:31",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "53086",
@@ -1869,7 +1869,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-medium-classic-flap-handbaghigh-end-grade-3/1-5571.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T12:22:46",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "53122",
@@ -1908,7 +1908,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-chanel-medium-classic-flap-handbaghigh-end-grade/1-5568.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T12:19:32",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "53095",
@@ -1921,7 +1921,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-medium-classic-flap-handbaghigh-end-grade-2/1-5567.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-13T12:18:04",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "55754",
@@ -1947,7 +1947,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-19-small-handbaghigh-end-grade/1-5753.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-11T14:21:50",
-    "subcategory": "other"
+    "subcategory": "mini-flap"
   },
   {
     "id": "52352",
@@ -2051,7 +2051,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-boy-long-wallet-4/1-5479.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-11T13:27:31",
-    "subcategory": "boy-bag"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "52280",
@@ -2064,7 +2064,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-boy-long-wallet-3/1-5478.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-11T13:25:32",
-    "subcategory": "boy-bag"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "52271",
@@ -2077,7 +2077,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-boy-long-wallet-2/1-5477.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-11T13:24:25",
-    "subcategory": "boy-bag"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "52262",
@@ -2090,7 +2090,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-boy-long-wallet/1-5476.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-11T13:23:12",
-    "subcategory": "boy-bag"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "52253",
@@ -2194,7 +2194,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-bowling-bag-5/1-5468.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-11T13:08:45",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "52181",
@@ -2207,7 +2207,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-bowling-bag-4/1-5467.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-11T13:07:29",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "52172",
@@ -2220,7 +2220,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-bowling-bag-3/1-5466.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-11T13:06:19",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "52164",
@@ -2311,7 +2311,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-19-zipped-coin-purse-4/1-5459.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-11T11:49:47",
-    "subcategory": "other"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "52101",
@@ -2324,7 +2324,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-19-zipped-coin-purse-3/1-5458.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-11T11:48:38",
-    "subcategory": "other"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "52092",
@@ -2337,7 +2337,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-19-zipped-coin-purse-2/1-5457.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-11T11:47:14",
-    "subcategory": "other"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "52083",
@@ -2350,7 +2350,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-19-zipped-coin-purse/1-5456.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-11T11:46:02",
-    "subcategory": "other"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "52073",
@@ -2363,7 +2363,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-small-flap-wallet-2/1-5455.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-11T11:41:28",
-    "subcategory": "wallet-on-chain"
+    "subcategory": "mini-flap"
   },
   {
     "id": "52064",
@@ -2376,7 +2376,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-small-flap-wallet/1-5454.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-11T11:39:52",
-    "subcategory": "wallet-on-chain"
+    "subcategory": "mini-flap"
   },
   {
     "id": "52055",
@@ -2389,7 +2389,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-card-holder-5/1-5453.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-11T11:38:41",
-    "subcategory": "other"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "52046",
@@ -2402,7 +2402,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-card-holder-4/1-5452.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-11T11:37:39",
-    "subcategory": "other"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "52037",
@@ -2415,7 +2415,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-card-holder-3/1-5451.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-11T11:36:36",
-    "subcategory": "other"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "52028",
@@ -2428,7 +2428,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-card-holder-2/1-5450.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-11T11:35:40",
-    "subcategory": "other"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "52019",
@@ -2441,7 +2441,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-card-holder/1-5449.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-11T11:34:15",
-    "subcategory": "other"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "51947",
@@ -2740,7 +2740,7 @@
     "thumb": "https://img.kynbag.com/products/boy-chanel-handbaghigh-end-grade-5/1-5446.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-10T23:23:59",
-    "subcategory": "boy-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "51983",
@@ -2753,7 +2753,7 @@
     "thumb": "https://img.kynbag.com/products/boy-chanel-handbaghigh-end-grade-4/1-5445.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-10T23:22:59",
-    "subcategory": "boy-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "51974",
@@ -2766,7 +2766,7 @@
     "thumb": "https://img.kynbag.com/products/boy-chanel-handbaghigh-end-grade-3/1-5444.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-10T23:21:59",
-    "subcategory": "boy-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "51965",
@@ -2779,7 +2779,7 @@
     "thumb": "https://img.kynbag.com/products/boy-chanel-handbaghigh-end-grade-2/1-5443.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-10T23:20:54",
-    "subcategory": "boy-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "51956",
@@ -2792,7 +2792,7 @@
     "thumb": "https://img.kynbag.com/products/boy-chanel-handbaghigh-end-grade/1-5442.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-10T23:19:34",
-    "subcategory": "boy-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "52602",
@@ -3182,7 +3182,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-zipped-card-holder-2/1-5343.jpg",
     "imageCount": 7,
     "createdAt": "2026-03-10T14:17:24",
-    "subcategory": "other"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "51052",
@@ -3195,7 +3195,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-zipped-card-holder/1-5342.jpg",
     "imageCount": 7,
     "createdAt": "2026-03-10T14:16:00",
-    "subcategory": "other"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "51044",
@@ -3286,7 +3286,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-handbag-mediumhigh-end-grade-2/1-5170.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-09T15:21:58",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "49265",
@@ -3299,7 +3299,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-handbag-mediumhigh-end-grade/1-5169.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-09T15:20:04",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "49257",
@@ -3312,7 +3312,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-19-flap-card-holder-4/1-5168.jpg",
     "imageCount": 7,
     "createdAt": "2026-03-09T15:18:44",
-    "subcategory": "other"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "49249",
@@ -3325,7 +3325,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-19-flap-card-holder-3/1-5167.jpg",
     "imageCount": 7,
     "createdAt": "2026-03-09T15:17:23",
-    "subcategory": "other"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "49241",
@@ -3338,7 +3338,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-19-flap-card-holder-2/1-5166.jpg",
     "imageCount": 7,
     "createdAt": "2026-03-09T15:16:07",
-    "subcategory": "other"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "49233",
@@ -3351,7 +3351,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-19-flap-card-holder/1-5165.jpg",
     "imageCount": 7,
     "createdAt": "2026-03-09T15:14:53",
-    "subcategory": "other"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "49224",
@@ -3364,7 +3364,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-cf-card-holder-coin-purse-5/1-5164.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-09T15:13:25",
-    "subcategory": "other"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "49215",
@@ -3377,7 +3377,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-cf-card-holder-coin-purse-4/1-5163.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-09T15:10:28",
-    "subcategory": "other"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "49206",
@@ -3390,7 +3390,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-cf-card-holder-coin-purse-3/1-5162.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-09T15:09:04",
-    "subcategory": "other"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "49197",
@@ -3403,7 +3403,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-cf-card-holder-coin-purse-2/1-5161.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-09T15:08:02",
-    "subcategory": "other"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "49188",
@@ -3416,7 +3416,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-cf-card-holder-coin-purse/1-5160.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-09T15:06:49",
-    "subcategory": "other"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "48632",
@@ -3429,7 +3429,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-hippie-hobo-bag/1-5101.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-09T10:03:39",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "48623",
@@ -3455,7 +3455,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-zip-up-bag/1-5099.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-09T09:56:32",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "48605",
@@ -3468,7 +3468,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-24p-kelly/1-5098.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-09T09:55:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "48596",
@@ -3481,7 +3481,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-gst-caviar-2/1-5097.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-09T09:49:30",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "48587",
@@ -3494,7 +3494,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-gst-caviar/1-5096.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-09T09:47:57",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "48578",
@@ -3585,7 +3585,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-tmall-elf/1-5089.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-09T08:53:45",
-    "subcategory": "other"
+    "subcategory": "mini-bag"
   },
   {
     "id": "48514",
@@ -3598,7 +3598,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-tmall-elf-pm/1-5088.jpg",
     "imageCount": 9,
     "createdAt": "2026-03-09T08:52:21",
-    "subcategory": "other"
+    "subcategory": "mini-bag"
   },
   {
     "id": "48505",
@@ -3715,7 +3715,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-long-box-cosmetic-bag-2/1-5079.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-09T07:26:01",
-    "subcategory": "other"
+    "subcategory": "pouch"
   },
   {
     "id": "48422",
@@ -3728,7 +3728,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-long-box-cosmetic-bag/1-5078.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-09T07:22:05",
-    "subcategory": "other"
+    "subcategory": "pouch"
   },
   {
     "id": "47766",
@@ -3936,7 +3936,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-small-handbaghigh-end-grade-2/1-5002.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T23:48:08",
-    "subcategory": "other"
+    "subcategory": "mini-flap"
   },
   {
     "id": "47622",
@@ -4027,7 +4027,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-small-handbaghigh-end-grade/1-4995.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T23:46:39",
-    "subcategory": "other"
+    "subcategory": "mini-flap"
   },
   {
     "id": "47551",
@@ -4144,7 +4144,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-baghigh-end-grade-20/1-4871.jpg",
     "imageCount": 15,
     "createdAt": "2026-03-08T17:20:28",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "46339",
@@ -4157,7 +4157,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-baghigh-end-grade-19/1-4870.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:19:59",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "46338",
@@ -4170,7 +4170,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-baghigh-end-grade-18/1-4869.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:19:59",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "46321",
@@ -4183,7 +4183,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-baghigh-end-grade-17/1-4868.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:19:30",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "46320",
@@ -4196,7 +4196,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-baghigh-end-grade-16/1-4867.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:19:30",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "46303",
@@ -4209,7 +4209,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-baghigh-end-grade-15/1-4866.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:19:02",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "44546",
@@ -4378,7 +4378,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-classic-handbaghigh-end-grade-2/1-4580.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:09:34",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "43664",
@@ -4391,7 +4391,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-classic-handbaghigh-end-grade/1-4579.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:09:34",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "43629",
@@ -4456,7 +4456,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-ice-cream-minaudieretax-free-grade/1-4572.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:07:44",
-    "subcategory": "other"
+    "subcategory": "evening-bag"
   },
   {
     "id": "43592",
@@ -4534,7 +4534,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-hobo-baghigh-end-grade/1-4566.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:06:23",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "43538",
@@ -4547,7 +4547,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-hobo-handbaghigh-end-grade-4/1-4565.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:06:23",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "43521",
@@ -4560,7 +4560,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-hobo-handbaghigh-end-grade-3/1-4564.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:05:56",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "43520",
@@ -4573,7 +4573,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-hobo-handbaghigh-end-grade-2/1-4563.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:05:56",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "43503",
@@ -4586,7 +4586,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-maxi-hobo-baghigh-end-grade-6/1-4562.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:05:29",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "43502",
@@ -4625,7 +4625,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-bowling-baghigh-end-grade/1-4559.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:05:02",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "43467",
@@ -4638,7 +4638,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-bowling-bag-2/1-4558.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:04:35",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "43466",
@@ -4664,7 +4664,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-kelly-baghigh-end-grade-19/1-4224.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:40:57",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40540",
@@ -4677,7 +4677,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-kelly-baghigh-end-grade-18/1-4223.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:40:57",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40523",
@@ -4690,7 +4690,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-kelly-baghigh-end-grade-17/1-4222.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:40:32",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40522",
@@ -4703,7 +4703,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-kelly-baghigh-end-grade-16/1-4221.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:40:32",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40505",
@@ -4716,7 +4716,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-kelly-baghigh-end-grade-15/1-4220.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:40:05",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "58897",
@@ -4729,7 +4729,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-kelly-baghigh-end-grade-21/1-74.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:39:57",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "58888",
@@ -4742,7 +4742,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-kelly-baghigh-end-grade-20/1-73.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:39:48",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40487",
@@ -4755,7 +4755,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-kelly-baghigh-end-grade-13/1-4218.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:39:39",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40486",
@@ -4768,7 +4768,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-kelly-baghigh-end-grade-12/1-4217.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:39:39",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "58906",
@@ -4781,7 +4781,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-kelly-baghigh-end-grade-22/1-75.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:39:37",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40469",
@@ -4794,7 +4794,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-kelly-baghigh-end-grade-11/1-4216.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:39:14",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40468",
@@ -4807,7 +4807,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-kelly-baghigh-end-grade-10/1-4215.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:39:14",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40451",
@@ -4820,7 +4820,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-kelly-baghigh-end-grade-9/1-4214.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:38:47",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40450",
@@ -4833,7 +4833,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-kelly-baghigh-end-grade-8/1-4213.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:38:47",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40433",
@@ -4846,7 +4846,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-kelly-baghigh-end-grade-7/1-4212.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:38:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40432",
@@ -4859,7 +4859,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-kelly-baghigh-end-grade-6/1-4211.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:38:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40415",
@@ -4872,7 +4872,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-kelly-baghigh-end-grade-5/1-4210.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:37:55",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40414",
@@ -4885,7 +4885,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-kelly-baghigh-end-grade-4/1-4209.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:37:55",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40397",
@@ -4898,7 +4898,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-kelly-baghigh-end-grade-3/1-4208.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:37:30",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40396",
@@ -4911,7 +4911,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-kelly-baghigh-end-grade-2/1-4207.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:37:30",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40379",
@@ -4924,7 +4924,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-kelly-baghigh-end-grade/1-4206.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:37:06",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40378",
@@ -4937,7 +4937,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-large-hobo-bag-suedehigh-end-grade/1-4205.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:37:06",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40361",
@@ -4950,7 +4950,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-large-hobo-baghigh-end-grade-4/1-4204.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:36:40",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40360",
@@ -4963,7 +4963,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-large-hobo-baghigh-end-grade-3/1-4203.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:36:40",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40343",
@@ -5080,7 +5080,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-flap-bag-with-top-handlehigh-end-grade-15/1-4194.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:34:30",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40270",
@@ -5093,7 +5093,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-bow-baghigh-end-grade/1-4193.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:34:30",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "40253",
@@ -5119,7 +5119,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-medium-backpackhigh-end-grade-3/1-4077.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:09:39",
-    "subcategory": "backpack"
+    "subcategory": "classic-flap"
   },
   {
     "id": "39209",
@@ -5132,7 +5132,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-medium-backpackhigh-end-grade-2/1-4076.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:09:11",
-    "subcategory": "backpack"
+    "subcategory": "classic-flap"
   },
   {
     "id": "39208",
@@ -5184,7 +5184,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-hobo-handbaghigh-end-grade/1-4028.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:59:04",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "38776",
@@ -5197,7 +5197,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-maxi-hobo-baghigh-end-grade-5/1-4027.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:59:04",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38759",
@@ -5210,7 +5210,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-maxi-hobo-baghigh-end-grade-4/1-4026.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:58:38",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38758",
@@ -5223,7 +5223,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-flap-bag-with-top-handlehigh-end-grade-14/1-4025.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:58:38",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38741",
@@ -5236,7 +5236,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-flap-bag-with-top-handlehigh-end-grade-13/1-4024.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:58:13",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38740",
@@ -5587,7 +5587,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-medium-backpackhigh-end-grade/1-3787.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:10:56",
-    "subcategory": "backpack"
+    "subcategory": "classic-flap"
   },
   {
     "id": "36599",
@@ -5600,7 +5600,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25-large-backpackhigh-end-grade/1-3786.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:10:33",
-    "subcategory": "backpack"
+    "subcategory": "classic-flap"
   },
   {
     "id": "36598",
@@ -5639,7 +5639,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-baghigh-end-grade-14/1-3783.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:10:10",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "36563",
@@ -5652,7 +5652,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-baghigh-end-grade-13/1-3782.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:09:46",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "36562",
@@ -5665,7 +5665,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-baghigh-end-grade-12/1-3781.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:09:46",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "36545",
@@ -5678,7 +5678,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-baghigh-end-grade-11/1-3780.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:09:23",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "36544",
@@ -5691,7 +5691,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-baghigh-end-grade-10/1-3779.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:09:23",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "36527",
@@ -5782,7 +5782,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-hobo-with-chainhigh-end-grade-5/1-3447.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:51:36",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33427",
@@ -5795,7 +5795,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-hobo-with-chainhigh-end-grade-4/1-3446.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:51:36",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33410",
@@ -5808,7 +5808,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-hobo-with-chainhigh-end-grade-3/1-3445.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:51:13",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33409",
@@ -5821,7 +5821,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-hobo-with-chainhigh-end-grade-2/1-3444.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:51:13",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33392",
@@ -5834,7 +5834,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-hobo-with-chainhigh-end-grade/1-3443.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:50:52",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33391",
@@ -5847,7 +5847,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-chain-hobohigh-end-grade-4/1-3442.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:50:52",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33374",
@@ -5860,7 +5860,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-chain-hobohigh-end-grade-3/1-3441.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:50:31",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33373",
@@ -5873,7 +5873,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-chain-hobohigh-end-grade-2/1-3440.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:50:31",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33356",
@@ -5886,7 +5886,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-chain-hobohigh-end-grade/1-3439.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:50:09",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33355",
@@ -6172,7 +6172,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-classic-handbaghigh-end-grade/1-3230.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:14:02",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "31466",
@@ -6341,7 +6341,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-large-bucket-baghigh-end-grade/1-3212.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:11:03",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "30106",
@@ -6536,7 +6536,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-phone-holder-with-chainhigh-end-grade-15/1-3063.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:45:08",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "29971",
@@ -6549,7 +6549,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-phone-holder-with-chainhigh-end-grade-14/1-3062.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:45:08",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "29970",
@@ -6562,7 +6562,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-phone-holder-with-chainhigh-end-grade-13/1-3061.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:45:08",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "29945",
@@ -6575,7 +6575,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-phone-holder-with-chainhigh-end-grade-12/1-3060.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:44:40",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "29944",
@@ -6588,7 +6588,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-phone-holder-with-chainhigh-end-grade-11/1-3059.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:44:40",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "29809",
@@ -6653,7 +6653,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-maxi-flap-bag-with-top-handlehigh-end-grade-2/1-3040.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:41:48",
-    "subcategory": "classic-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "29378",
@@ -6666,7 +6666,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-phone-holder-with-chainhigh-end-grade-10/1-2997.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:34:36",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "29377",
@@ -6679,7 +6679,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-phone-holder-with-chainhigh-end-grade-9/1-2996.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:34:36",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "29376",
@@ -6692,7 +6692,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-phone-holder-with-chainhigh-end-grade-8/1-2995.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:34:36",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "29351",
@@ -6705,7 +6705,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-phone-holder-with-chainhigh-end-grade-7/1-2994.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:34:07",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "29350",
@@ -6718,7 +6718,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-phone-holder-with-chainhigh-end-grade-6/1-2993.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:34:07",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "29349",
@@ -6744,7 +6744,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-maxi-flap-bag-with-top-handlehigh-end-grade/1-2991.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:33:39",
-    "subcategory": "classic-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "29323",
@@ -6783,7 +6783,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-flap-bag-with-top-handlehigh-end-grade-12/1-2908.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:20:24",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28584",
@@ -6796,7 +6796,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-flap-bag-with-top-handlehigh-end-grade-11/1-2907.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:20:24",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28559",
@@ -6809,7 +6809,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-flap-bag-with-top-handlehigh-end-grade-10/1-2906.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:19:55",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28558",
@@ -6861,7 +6861,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-maxi-hobo-baghigh-end-grade-3/1-2902.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:19:27",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28514",
@@ -6874,7 +6874,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-maxi-hobo-baghigh-end-grade-2/1-2901.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:19:03",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28513",
@@ -6887,7 +6887,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-maxi-hobo-baghigh-end-grade/1-2900.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:19:03",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28512",
@@ -6900,7 +6900,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-bag-on-25-fashion-showhigh-end-grade/1-2899.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:19:03",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "28487",
@@ -6913,7 +6913,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-hobo-on-25-fashion-showhigh-end-grade/1-2898.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:18:27",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28486",
@@ -6926,7 +6926,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-box-baghigh-end-grade-4/1-2897.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:18:27",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "28485",
@@ -6939,7 +6939,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-box-baghigh-end-grade-3/1-2896.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:18:27",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "28460",
@@ -6952,7 +6952,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-box-baghigh-end-grade-2/1-2895.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:17:59",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "28459",
@@ -6965,7 +6965,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-box-baghigh-end-grade-3/1-2894.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:17:59",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "28458",
@@ -6978,7 +6978,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-box-baghigh-end-grade-2/1-2893.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:17:59",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "28433",
@@ -6991,7 +6991,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-box-baghigh-end-grade/1-2892.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:17:33",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "26858",
@@ -7225,7 +7225,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-flap-bag-with-top-handlehigh-end-grade-9/1-2602.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:24:39",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "25830",
@@ -7238,7 +7238,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-flap-bag-with-top-handlehigh-end-grade-8/1-2601.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:24:39",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "25805",
@@ -7251,7 +7251,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-flap-bag-with-top-handlehigh-end-grade-7/1-2600.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:24:13",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "25804",
@@ -7264,7 +7264,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-flap-bag-with-top-handlehigh-end-grade-6/1-2599.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:24:13",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "25803",
@@ -7277,7 +7277,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-flap-bag-with-top-handlehigh-end-grade-5/1-2598.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:24:13",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "25778",
@@ -7290,7 +7290,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-bag-with-top-handlehigh-end-grade-5/1-2597.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:23:46",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "25777",
@@ -7303,7 +7303,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-bag-with-top-handlehigh-end-grade-4/1-2596.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:23:46",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "25776",
@@ -7316,7 +7316,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-bag-with-top-handlehigh-end-grade-3/1-2595.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:23:46",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "25751",
@@ -7329,7 +7329,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-bag-with-top-handlehigh-end-grade-2/1-2594.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:23:19",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "25750",
@@ -7342,7 +7342,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-bag-with-top-handlehigh-end-grade/1-2593.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:23:19",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "25696",
@@ -7381,7 +7381,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-baghigh-end-grade-9/1-2585.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:21:59",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "25677",
@@ -7472,7 +7472,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-pearl-classic-double-flap-handbaghigh-end-grade-2/1-2578.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:21:07",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "25598",
@@ -7485,7 +7485,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-pearl-classic-double-flap-handbaghigh-end-grade/1-2577.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:20:42",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "25597",
@@ -7498,7 +7498,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-suede-classic-double-flap-handbaghigh-end-grade-6/1-2576.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:20:42",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "25596",
@@ -7511,7 +7511,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-suede-classic-double-flap-handbaghigh-end-grade-5/1-2575.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:20:42",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "25571",
@@ -7524,7 +7524,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-suede-classic-double-flap-handbaghigh-end-grade-4/1-2574.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:20:15",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "25570",
@@ -7537,7 +7537,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-suede-classic-double-flap-handbaghigh-end-grade-3/1-2573.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:20:15",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "25569",
@@ -7550,7 +7550,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-suede-classic-double-flap-handbaghigh-end-grade-2/1-2572.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:20:15",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "25544",
@@ -7563,7 +7563,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-suede-classic-double-flap-handbaghigh-end-grade/1-2571.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:19:49",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "25543",
@@ -7576,7 +7576,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-large-hobo-baghigh-end-grade-2/1-2570.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:19:49",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "25542",
@@ -7589,7 +7589,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-large-hobo-baghigh-end-grade/1-2569.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:19:49",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "25517",
@@ -7784,7 +7784,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25c-hobo-suedehigh-end-grade-3/1-2501.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:09:38",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "24921",
@@ -7797,7 +7797,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25c-hobo-suedehigh-end-grade-2/1-2500.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:09:38",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "24896",
@@ -7810,7 +7810,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25c-hobo-suedehigh-end-grade/1-2499.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:09:10",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "24895",
@@ -7823,7 +7823,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25c-hobohigh-end-grade/1-2498.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:09:10",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "24894",
@@ -7836,7 +7836,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25c-large-hobo-suedehigh-end-grade-3/1-2497.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:09:10",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "24869",
@@ -7849,7 +7849,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25c-large-hobo-suedehigh-end-grade-2/1-2496.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:08:45",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "24868",
@@ -7862,7 +7862,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25c-large-hobo-suedehigh-end-grade/1-2495.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:08:45",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "24867",
@@ -7875,7 +7875,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-25c-large-hobohigh-end-grade/1-2494.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:08:45",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "24382",
@@ -7888,7 +7888,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-small-handbaghigh-end-grade-5/1-2441.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:01:18",
-    "subcategory": "other"
+    "subcategory": "mini-flap"
   },
   {
     "id": "24381",
@@ -7901,7 +7901,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-small-handbaghigh-end-grade-4/1-2440.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:01:18",
-    "subcategory": "other"
+    "subcategory": "mini-flap"
   },
   {
     "id": "24356",
@@ -7914,7 +7914,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-small-handbaghigh-end-grade-3/1-2439.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:00:52",
-    "subcategory": "other"
+    "subcategory": "mini-flap"
   },
   {
     "id": "24355",
@@ -7927,7 +7927,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-small-handbaghigh-end-grade-2/1-2438.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:00:52",
-    "subcategory": "other"
+    "subcategory": "mini-flap"
   },
   {
     "id": "24354",
@@ -7940,7 +7940,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-small-handbaghigh-end-grade/1-2437.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:00:52",
-    "subcategory": "other"
+    "subcategory": "mini-flap"
   },
   {
     "id": "24329",
@@ -7953,7 +7953,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-handbaghigh-end-grade-12/1-2436.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:00:26",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "24328",
@@ -7966,7 +7966,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-handbaghigh-end-grade-11/1-2435.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:00:26",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "24327",
@@ -7979,7 +7979,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-handbaghigh-end-grade-10/1-2434.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:00:26",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "24302",
@@ -7992,7 +7992,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-handbaghigh-end-grade-9/1-2433.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:00:00",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "24301",
@@ -8005,7 +8005,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-handbaghigh-end-grade-8/1-2432.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:00:00",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "24300",
@@ -8018,7 +8018,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-handbaghigh-end-grade-7/1-2431.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:00:00",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "24275",
@@ -8031,7 +8031,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-handbaghigh-end-grade-6/1-2430.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:59:37",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "24274",
@@ -8044,7 +8044,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-handbaghigh-end-grade-5/1-2429.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:59:37",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "24140",
@@ -8096,7 +8096,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-flap-bag-with-top-handlehigh-end-grade-4/1-2381.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:52:59",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23841",
@@ -8109,7 +8109,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-flap-bag-with-top-handlehigh-end-grade-3/1-2380.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:52:59",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23816",
@@ -8122,7 +8122,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-flap-bag-with-top-handlehigh-end-grade-2/1-2379.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:52:37",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23815",
@@ -8135,7 +8135,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-flap-bag-with-top-handlehigh-end-grade/1-2378.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:52:37",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23814",
@@ -8369,7 +8369,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-phone-holder-with-chainhigh-end-grade-5/1-2360.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:50:11",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "23652",
@@ -8382,7 +8382,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-phone-holder-with-chainhigh-end-grade-4/1-2359.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:50:11",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "23627",
@@ -8395,7 +8395,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-phone-holder-with-chainhigh-end-grade-3/1-2358.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:49:48",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "23626",
@@ -8408,7 +8408,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-phone-holder-with-chainhigh-end-grade-2/1-2357.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:49:48",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "23625",
@@ -8421,7 +8421,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-phone-holder-with-chainhigh-end-grade/1-2356.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:49:48",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "23141",
@@ -8512,7 +8512,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-baghigh-end-grade-8/1-2298.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:41:53",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "23086",
@@ -8525,7 +8525,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-baghigh-end-grade-7/1-2297.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:41:53",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "23085",
@@ -8538,7 +8538,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-baghigh-end-grade-6/1-2296.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:41:53",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "23060",
@@ -8551,7 +8551,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-baghigh-end-grade-5/1-2295.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:41:29",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "23059",
@@ -8577,7 +8577,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-baghigh-end-grade-4/1-2293.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:41:29",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "23033",
@@ -8603,7 +8603,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-maxi-handbaghigh-end-grade-4/1-2268.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:37:46",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "22816",
@@ -8616,7 +8616,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-maxi-handbaghigh-end-grade-3/1-2267.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:37:46",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "22815",
@@ -8629,7 +8629,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-maxi-handbaghigh-end-grade-2/1-2266.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:37:46",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "22790",
@@ -8642,7 +8642,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-maxi-handbaghigh-end-grade/1-2265.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:37:21",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "22789",
@@ -8811,7 +8811,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-cambon-camera-baghigh-end-grade-5/1-2163.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:24:12",
-    "subcategory": "mini-bag"
+    "subcategory": "crossbody"
   },
   {
     "id": "21871",
@@ -8824,7 +8824,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-cambon-camera-baghigh-end-grade-4/1-2162.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:24:12",
-    "subcategory": "mini-bag"
+    "subcategory": "crossbody"
   },
   {
     "id": "21870",
@@ -8837,7 +8837,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-cambon-camera-baghigh-end-grade-3/1-2161.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:24:12",
-    "subcategory": "mini-bag"
+    "subcategory": "crossbody"
   },
   {
     "id": "21845",
@@ -8850,7 +8850,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-cambon-camera-baghigh-end-grade-2/1-2160.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:23:49",
-    "subcategory": "mini-bag"
+    "subcategory": "crossbody"
   },
   {
     "id": "21844",
@@ -8863,7 +8863,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-cambon-camera-baghigh-end-grade/1-2159.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:23:49",
-    "subcategory": "mini-bag"
+    "subcategory": "crossbody"
   },
   {
     "id": "21843",
@@ -8876,7 +8876,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-cambon-camera-baghigh-end-grade-5/1-2158.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:23:49",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "21818",
@@ -8889,7 +8889,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-cambon-camera-baghigh-end-grade-4/1-2157.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:23:26",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "21817",
@@ -8902,7 +8902,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-cambon-camera-baghigh-end-grade-3/1-2156.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:23:26",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "21816",
@@ -8915,7 +8915,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-cambon-camera-baghigh-end-grade-2/1-2155.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:23:26",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "21791",
@@ -8928,7 +8928,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-cambon-camera-baghigh-end-grade/1-2154.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:23:03",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "21494",
@@ -9019,7 +9019,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-bag-with-top-handlehigh-end-grade-4/1-2115.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:18:11",
-    "subcategory": "classic-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "21439",
@@ -9032,7 +9032,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-bag-with-top-handlehigh-end-grade-3/1-2114.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:18:11",
-    "subcategory": "classic-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "21438",
@@ -9045,7 +9045,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-bag-with-top-handlehigh-end-grade-2/1-2113.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:18:11",
-    "subcategory": "classic-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "21413",
@@ -9058,7 +9058,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-bag-with-top-handlehigh-end-grade/1-2112.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:17:48",
-    "subcategory": "classic-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "21412",
@@ -9227,7 +9227,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-2-55-handbag-2/1-1968.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:42:51",
-    "subcategory": "2-55"
+    "subcategory": "classic-flap"
   },
   {
     "id": "20266",
@@ -9240,7 +9240,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-2-55-handbag/1-1967.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:42:51",
-    "subcategory": "2-55"
+    "subcategory": "classic-flap"
   },
   {
     "id": "20241",
@@ -9253,7 +9253,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-2-55-handbag/1-1966.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:42:30",
-    "subcategory": "2-55"
+    "subcategory": "classic-flap"
   },
   {
     "id": "20240",
@@ -9266,7 +9266,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-handbag/1-1965.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:42:30",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "20239",
@@ -9279,7 +9279,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-small-handbag-8/1-1964.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:42:30",
-    "subcategory": "other"
+    "subcategory": "mini-flap"
   },
   {
     "id": "20214",
@@ -9292,7 +9292,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-mini-handbag-6/1-1963.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:42:08",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "18682",
@@ -9370,7 +9370,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-classic-handbag-with-top-handle-15/1-1786.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:21:58",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "18612",
@@ -9383,7 +9383,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-classic-handbag-with-top-handle-14/1-1785.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:21:33",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "18611",
@@ -9396,7 +9396,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-classic-handbag-with-top-handle-13/1-1784.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:21:33",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "18610",
@@ -9409,7 +9409,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-classic-handbag-with-top-handle-12/1-1783.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:21:33",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "18609",
@@ -9422,7 +9422,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-classic-handbag-with-top-handle-11/1-1782.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:21:33",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "18576",
@@ -9435,7 +9435,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-classic-handbag-with-top-handle-10/1-1781.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:21:08",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "18575",
@@ -9448,7 +9448,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-classic-handbag-with-top-handle-9/1-1780.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:21:08",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "18574",
@@ -9461,7 +9461,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-classic-handbag-with-top-handle-8/1-1779.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:21:08",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "18573",
@@ -9474,7 +9474,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-classic-handbag-with-top-handle-7/1-1778.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:21:08",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "18540",
@@ -9487,7 +9487,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-classic-handbag-with-top-handle-6/1-1777.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:20:42",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "18539",
@@ -9500,7 +9500,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-classic-handbag-with-top-handle-5/1-1776.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:20:42",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "18538",
@@ -9513,7 +9513,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-classic-handbag-with-top-handle-4/1-1775.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:20:42",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "18537",
@@ -9526,7 +9526,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-classic-handbag-with-top-handle-3/1-1774.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:20:42",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "18504",
@@ -9539,7 +9539,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-classic-handbag-with-top-handle-2/1-1773.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:20:16",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "18503",
@@ -9552,7 +9552,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-classic-handbag-with-top-handle/1-1772.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:20:16",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "58360",
@@ -9565,7 +9565,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-baghigh-end-grade-23/1-21.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:19:11",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "18008",
@@ -9604,7 +9604,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-baghigh-end-grade-3/1-1715.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:14:17",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "17973",
@@ -9617,7 +9617,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-baghigh-end-grade-2/1-1714.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:13:53",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "17972",
@@ -9669,7 +9669,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-baghigh-end-grade/1-1710.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:13:28",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "17936",
@@ -9773,7 +9773,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-bucket-baghigh-end-grade/1-1645.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:06:52",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "17359",
@@ -9786,7 +9786,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-bowling-bag/1-1644.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:06:52",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "17358",
@@ -9825,7 +9825,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-box-baghigh-end-grade/1-1641.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:06:27",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "16323",
@@ -9838,7 +9838,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-pearl-crush-mini-rectangular-flap-11/1-1528.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:55:10",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "16290",
@@ -9851,7 +9851,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-pearl-crush-mini-rectangular-flap-10/1-1527.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:54:46",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "16289",
@@ -9864,7 +9864,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-pearl-crush-mini-rectangular-flap-9/1-1526.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:54:46",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "16288",
@@ -9877,7 +9877,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-pearl-crush-mini-rectangular-flap-8/1-1525.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:54:46",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "16287",
@@ -9890,7 +9890,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-pearl-crush-mini-rectangular-flap-7/1-1524.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:54:46",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "16254",
@@ -9903,7 +9903,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-pearl-crush-mini-rectangular-flap-6/1-1523.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:54:20",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "16253",
@@ -9916,7 +9916,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-pearl-crush-mini-rectangular-flap-5/1-1522.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:54:20",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "16252",
@@ -9929,7 +9929,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-pearl-crush-mini-rectangular-flap-4/1-1521.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:54:20",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "16251",
@@ -9942,7 +9942,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-pearl-crush-mini-rectangular-flap-3/1-1520.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:54:19",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "16218",
@@ -9955,7 +9955,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-pearl-crush-mini-rectangular-flap-2/1-1519.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:53:55",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "16217",
@@ -9968,7 +9968,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-pearl-crush-mini-rectangular-flap/1-1518.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:53:55",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "16216",
@@ -10059,7 +10059,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-bag-with-top-handle-4/1-1500.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:52:19",
-    "subcategory": "classic-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16038",
@@ -10072,7 +10072,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-bag-with-top-handle-3/1-1499.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:51:53",
-    "subcategory": "classic-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16037",
@@ -10085,7 +10085,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-bag-with-top-handle-2/1-1498.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:51:53",
-    "subcategory": "classic-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16036",
@@ -10098,7 +10098,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-bag-with-top-handle/1-1497.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:51:53",
-    "subcategory": "classic-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16035",
@@ -10163,7 +10163,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-flap-bag-with-top-handle-5/1-1492.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:51:28",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "15966",
@@ -10176,7 +10176,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-flap-bag-with-top-handle-4/1-1491.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:51:02",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "15965",
@@ -10189,7 +10189,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-flap-bag-with-top-handle-3/1-1490.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:51:02",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "15964",
@@ -10202,7 +10202,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-flap-bag-with-top-handle-2/1-1489.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:51:02",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "15963",
@@ -10215,7 +10215,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-flap-bag-with-top-handle/1-1488.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:51:02",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "15930",
@@ -10228,7 +10228,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-waist-baghigh-end-grade-3/1-1487.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:50:37",
-    "subcategory": "other"
+    "subcategory": "belt-bag"
   },
   {
     "id": "15929",
@@ -10241,7 +10241,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-waist-baghigh-end-grade-2/1-1486.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:50:37",
-    "subcategory": "other"
+    "subcategory": "belt-bag"
   },
   {
     "id": "15928",
@@ -10254,7 +10254,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-waist-baghigh-end-grade/1-1485.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:50:37",
-    "subcategory": "other"
+    "subcategory": "belt-bag"
   },
   {
     "id": "15927",
@@ -10527,7 +10527,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-handbaghigh-end-grade-4/1-1310.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:31:36",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "14336",
@@ -10540,7 +10540,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-handbaghigh-end-grade-3/1-1309.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:31:36",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "14335",
@@ -10553,7 +10553,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-handbaghigh-end-grade-2/1-1308.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:31:36",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "14334",
@@ -10566,7 +10566,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-handbaghigh-end-grade/1-1307.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:31:36",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "14301",
@@ -10605,7 +10605,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-tea-box-minaudierehigh-end-grade/1-1235.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:24:36",
-    "subcategory": "other"
+    "subcategory": "evening-bag"
   },
   {
     "id": "13677",
@@ -10683,7 +10683,7 @@
     "thumb": "https://img.kynbag.com/products/small-flap-bag-with-top-handle-7/1-1229.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:23:53",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "13607",
@@ -10696,7 +10696,7 @@
     "thumb": "https://img.kynbag.com/products/small-flap-bag-with-top-handle-6/1-1228.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:23:53",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "13606",
@@ -10709,7 +10709,7 @@
     "thumb": "https://img.kynbag.com/products/small-flap-bag-with-top-handle-5/1-1227.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:23:53",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "13605",
@@ -10722,7 +10722,7 @@
     "thumb": "https://img.kynbag.com/products/small-flap-bag-with-top-handle-4/1-1226.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:23:53",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "13572",
@@ -10735,7 +10735,7 @@
     "thumb": "https://img.kynbag.com/products/small-flap-bag-with-top-handle-3/1-1225.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:23:32",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "13571",
@@ -10748,7 +10748,7 @@
     "thumb": "https://img.kynbag.com/products/small-flap-bag-with-top-handle-2/1-1224.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:23:32",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "13570",
@@ -10761,7 +10761,7 @@
     "thumb": "https://img.kynbag.com/products/small-flap-bag-with-top-handle/1-1223.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:23:32",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "13569",
@@ -10774,7 +10774,7 @@
     "thumb": "https://img.kynbag.com/products/mini-flap-bag-with-top-handle-10/1-1222.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:23:32",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13536",
@@ -10787,7 +10787,7 @@
     "thumb": "https://img.kynbag.com/products/mini-flap-bag-with-top-handle-9/1-1221.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:23:11",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13535",
@@ -10800,7 +10800,7 @@
     "thumb": "https://img.kynbag.com/products/mini-flap-bag-with-top-handle-8/1-1220.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:23:11",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13534",
@@ -10813,7 +10813,7 @@
     "thumb": "https://img.kynbag.com/products/mini-flap-bag-with-top-handle-7/1-1219.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:23:11",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13533",
@@ -10826,7 +10826,7 @@
     "thumb": "https://img.kynbag.com/products/mini-flap-bag-with-top-handle-6/1-1218.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:23:11",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13500",
@@ -10839,7 +10839,7 @@
     "thumb": "https://img.kynbag.com/products/mini-flap-bag-with-top-handle-5/1-1217.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:22:50",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13499",
@@ -10852,7 +10852,7 @@
     "thumb": "https://img.kynbag.com/products/mini-flap-bag-with-top-handle-4/1-1216.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:22:50",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13498",
@@ -10865,7 +10865,7 @@
     "thumb": "https://img.kynbag.com/products/mini-flap-bag-with-top-handle-3/1-1215.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:22:50",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12789",
@@ -10878,7 +10878,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-bag-5/1-1138.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:15:24",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "12788",
@@ -10891,7 +10891,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-bag-4/1-1137.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:15:23",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "12787",
@@ -10943,7 +10943,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-large-hobo-bag/1-1133.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:15:03",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12751",
@@ -10956,7 +10956,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-hobo-bag-2/1-1132.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:15:03",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12750",
@@ -10969,7 +10969,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-hobo-bag/1-1131.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:15:03",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12749",
@@ -10982,7 +10982,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-hobo-bag-5/1-1130.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:15:03",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12708",
@@ -10995,7 +10995,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-hobo-bag-4/1-1129.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:14:39",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12570",
@@ -11073,7 +11073,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-small-handbag-7/1-1106.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:13:02",
-    "subcategory": "other"
+    "subcategory": "mini-flap"
   },
   {
     "id": "12524",
@@ -11086,7 +11086,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-small-handbag-6/1-1105.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:13:02",
-    "subcategory": "other"
+    "subcategory": "mini-flap"
   },
   {
     "id": "12483",
@@ -11099,7 +11099,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-small-handbag-5/1-1104.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:12:38",
-    "subcategory": "other"
+    "subcategory": "mini-flap"
   },
   {
     "id": "12482",
@@ -11138,7 +11138,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-camera-bag-4/1-1092.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:11:50",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "12390",
@@ -11151,7 +11151,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-camera-bag-3/1-1091.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:11:50",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "12389",
@@ -11164,7 +11164,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-camera-bag-2/1-1090.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:11:50",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "12348",
@@ -11177,7 +11177,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-camera-bag/1-1089.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:11:25",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "11673",
@@ -11216,7 +11216,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-bag-2/1-1011.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:05:24",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "11669",
@@ -11229,7 +11229,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-bag/1-1010.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:05:24",
-    "subcategory": "classic-flap"
+    "subcategory": "mini-flap"
   },
   {
     "id": "11628",
@@ -11242,7 +11242,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-mini-handbag-5/1-1009.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:05:00",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "11627",
@@ -11255,7 +11255,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-mini-handbag-4/1-1008.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:05:00",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "11626",
@@ -11268,7 +11268,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-mini-handbag-3/1-1007.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:05:00",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "11625",
@@ -11281,7 +11281,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-mini-handbag-2/1-1006.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:05:00",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "11624",
@@ -11294,7 +11294,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-mini-handbag/1-1005.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:05:00",
-    "subcategory": "mini-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "10674",
@@ -11307,7 +11307,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap-2/1-903.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:55:23",
-    "subcategory": "other"
+    "subcategory": "mini-flap"
   },
   {
     "id": "10673",
@@ -11320,7 +11320,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-flap/1-902.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:55:23",
-    "subcategory": "other"
+    "subcategory": "mini-flap"
   },
   {
     "id": "9729",
@@ -11346,7 +11346,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-24c-3/1-796.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:47:43",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "9727",
@@ -11359,7 +11359,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-24c-2/1-795.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:47:43",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "9726",
@@ -11372,7 +11372,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-24c/1-794.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:47:43",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "9685",
@@ -11385,7 +11385,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-messanger-bag/1-793.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:47:22",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "9684",
@@ -11398,7 +11398,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-baguette-bag-2/1-792.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:47:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "9683",
@@ -11411,7 +11411,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-baguette-bag/1-791.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:47:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "9682",
@@ -11424,7 +11424,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-van-minaudierelow-stock/1-790.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:47:22",
-    "subcategory": "mini-bag"
+    "subcategory": "evening-bag"
   },
   {
     "id": "9638",
@@ -11437,7 +11437,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-flap-with-top-handle-5/1-786.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:47:01",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "9637",
@@ -11450,7 +11450,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-flap-with-top-handle-4/1-785.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:47:01",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "9636",
@@ -11463,7 +11463,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-flap-with-top-handle-3/1-784.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:47:01",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "9595",
@@ -11476,7 +11476,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-flap-with-top-handle-2/1-783.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:46:40",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "9594",
@@ -11489,7 +11489,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mini-flap-with-top-handle/1-782.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:46:40",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "9593",
@@ -11541,7 +11541,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-5/1-778.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:46:19",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "9549",
@@ -11554,7 +11554,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-4/1-777.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:46:19",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "9548",
@@ -11567,7 +11567,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-3/1-776.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:46:19",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "9547",
@@ -11580,7 +11580,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap-2/1-775.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:46:19",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "9546",
@@ -11593,7 +11593,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-flap/1-774.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:46:19",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "9505",
@@ -11749,7 +11749,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-kelly-bag-4/1-691.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:40:26",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8774",
@@ -11762,7 +11762,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-kelly-bag-3/1-690.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:40:26",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8773",
@@ -11775,7 +11775,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-kelly-bag-2/1-689.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:40:26",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8772",
@@ -11788,7 +11788,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-kelly-bag/1-688.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:40:26",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8368",
@@ -11866,7 +11866,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-hobo-handbag-5/1-639.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:37:04",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "8322",
@@ -11879,7 +11879,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-hobo-handbag-4/1-638.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:37:04",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "8321",
@@ -11892,7 +11892,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-hobo-handbag-3/1-637.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:37:04",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "8272",
@@ -11905,7 +11905,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-hobo-handbag-2/1-636.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:36:41",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "8271",
@@ -11918,7 +11918,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-hobo-handbag/1-635.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:36:41",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "8119",
@@ -12009,7 +12009,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-hobo-bag-3/1-443.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:24:06",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6390",
@@ -12022,7 +12022,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-hobo-bag-2/1-442.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:23:46",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6389",
@@ -12035,7 +12035,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-hobo-bag/1-441.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:23:46",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6388",
@@ -12048,7 +12048,7 @@
     "thumb": "https://img.kynbag.com/products/mini-flap-bag-with-top-handle-2/1-440.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:23:46",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6387",
@@ -12061,7 +12061,7 @@
     "thumb": "https://img.kynbag.com/products/mini-flap-bag-with-top-handle/1-439.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:23:46",
-    "subcategory": "mini-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "6278",
@@ -12074,7 +12074,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-bucket-bag-5/1-426.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:23:05",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "6277",
@@ -12087,7 +12087,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-bucket-bag-4/1-425.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:23:05",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "6276",
@@ -12100,7 +12100,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-bucket-bag-3/1-424.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:23:05",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "6219",
@@ -12113,7 +12113,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-bucket-bag-2/1-423.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:22:41",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "6218",
@@ -12126,7 +12126,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-small-bucket-bag/1-422.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:22:41",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "6037",
@@ -12347,7 +12347,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22s-heart-bag-4/1-314.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:16:49",
-    "subcategory": "other"
+    "subcategory": "mini-bag"
   },
   {
     "id": "5282",
@@ -12360,7 +12360,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22s-heart-bag-3/1-313.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:16:49",
-    "subcategory": "other"
+    "subcategory": "mini-bag"
   },
   {
     "id": "5281",
@@ -12373,7 +12373,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22s-heart-bag-2/1-312.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:16:49",
-    "subcategory": "other"
+    "subcategory": "mini-bag"
   },
   {
     "id": "5280",
@@ -12386,7 +12386,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22s-heart-bag/1-311.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:16:49",
-    "subcategory": "other"
+    "subcategory": "mini-bag"
   },
   {
     "id": "5028",
@@ -12607,7 +12607,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-coco-handle-bag-small-5/1-263.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:14:12",
-    "subcategory": "classic-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "4839",
@@ -12620,7 +12620,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-coco-handle-bag-small-4/1-262.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:14:11",
-    "subcategory": "classic-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "4782",
@@ -12633,7 +12633,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-coco-handle-bag-small-3/1-261.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:13:49",
-    "subcategory": "classic-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "4781",
@@ -12646,7 +12646,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-coco-handle-bag-small-2/1-260.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:13:49",
-    "subcategory": "classic-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "4780",
@@ -12659,7 +12659,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-coco-handle-bag-small/1-259.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:13:49",
-    "subcategory": "classic-flap"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "4779",
@@ -12724,7 +12724,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-small-handbag-4/1-198.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:10:29",
-    "subcategory": "other"
+    "subcategory": "mini-flap"
   },
   {
     "id": "4214",
@@ -12737,7 +12737,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-small-handbag-3/1-197.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:10:29",
-    "subcategory": "other"
+    "subcategory": "mini-flap"
   },
   {
     "id": "4213",
@@ -12750,7 +12750,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-small-handbag-2/1-196.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:10:29",
-    "subcategory": "other"
+    "subcategory": "mini-flap"
   },
   {
     "id": "4212",
@@ -12763,7 +12763,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-22-small-handbag/1-195.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:10:28",
-    "subcategory": "other"
+    "subcategory": "mini-flap"
   },
   {
     "id": "4098",
@@ -12841,7 +12841,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-classic-chevron-medium-flap/1-143.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:06:09",
-    "subcategory": "other"
+    "subcategory": "classic-flap"
   },
   {
     "id": "3676",
@@ -12854,7 +12854,7 @@
     "thumb": "https://img.kynbag.com/products/chevron-boy-chanel-handbag-7/1-139.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:05:49",
-    "subcategory": "boy-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "3675",
@@ -12867,7 +12867,7 @@
     "thumb": "https://img.kynbag.com/products/chevron-boy-chanel-handbag-6/1-138.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:05:49",
-    "subcategory": "boy-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "3674",
@@ -12880,7 +12880,7 @@
     "thumb": "https://img.kynbag.com/products/chevron-boy-chanel-handbag-5/1-137.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:05:49",
-    "subcategory": "boy-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "3673",
@@ -12893,7 +12893,7 @@
     "thumb": "https://img.kynbag.com/products/chevron-caviar-boy-chanel-handbag/1-136.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:05:49",
-    "subcategory": "boy-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "3612",
@@ -12906,7 +12906,7 @@
     "thumb": "https://img.kynbag.com/products/boy-chanel-handbag-3/1-131.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:05:28",
-    "subcategory": "boy-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "3611",
@@ -12919,7 +12919,7 @@
     "thumb": "https://img.kynbag.com/products/boy-chanel-handbag-2/1-130.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:05:28",
-    "subcategory": "boy-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "3610",
@@ -12932,7 +12932,7 @@
     "thumb": "https://img.kynbag.com/products/boy-chanel-handbag/1-129.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:05:28",
-    "subcategory": "boy-bag"
+    "subcategory": "classic-flap"
   },
   {
     "id": "2890",
@@ -12984,7 +12984,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-sneakers-5/1-5702.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T09:19:37",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54968",
@@ -12997,7 +12997,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-sneakers-4/1-5701.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T09:17:47",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54952",
@@ -13010,7 +13010,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-sneakers-3/1-5700.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T09:16:06",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54936",
@@ -13023,7 +13023,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-sneakers-2/1-5699.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T09:14:20",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54920",
@@ -13036,7 +13036,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-sneakers/1-5698.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T09:12:42",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54904",
@@ -13049,7 +13049,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-slingbacks-7/1-5697.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T09:07:40",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54888",
@@ -13062,7 +13062,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-slingbacks-6/1-5696.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T09:05:54",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54872",
@@ -13075,7 +13075,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-slingbacks-5/1-5695.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T09:04:08",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54856",
@@ -13088,7 +13088,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-slingbacks-4/1-5694.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T09:02:28",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54840",
@@ -13101,7 +13101,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-slingbacks-3/1-5693.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T09:00:38",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54824",
@@ -13114,7 +13114,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-slingbacks-2/1-5692.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T08:58:52",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54808",
@@ -13127,7 +13127,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-slingbacks/1-5691.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T08:49:17",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54792",
@@ -13140,7 +13140,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-ballet-flats-7/1-5690.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T08:47:25",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54776",
@@ -13153,7 +13153,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-ballet-flats-6/1-5689.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T08:45:52",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54760",
@@ -13166,7 +13166,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-ballet-flats-5/1-5688.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T08:44:14",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54744",
@@ -13179,7 +13179,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-ballet-flats-4/1-5687.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T08:42:08",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54681",
@@ -13192,7 +13192,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-ballet-flats-3/1-5682.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T08:26:53",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54666",
@@ -13205,7 +13205,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-ballet-flats-2/1-5681.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T08:24:20",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54651",
@@ -13218,7 +13218,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-ballet-flats/1-5680.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T08:19:42",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54627",
@@ -13231,7 +13231,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-tweed-sneakers-5/1-5679.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T08:17:19",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54603",
@@ -13244,7 +13244,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-tweed-sneakers-4/1-5678.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T08:14:47",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54579",
@@ -13257,7 +13257,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-tweed-sneakers-3/1-5677.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T08:12:34",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54555",
@@ -13270,7 +13270,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-tweed-sneakers-2/1-5676.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T08:10:05",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54531",
@@ -13283,7 +13283,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-tweed-sneakers/1-5675.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T08:06:13",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54516",
@@ -13296,7 +13296,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-trainers-2/1-5674.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T07:59:53",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54501",
@@ -13309,7 +13309,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-trainers/1-5673.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T07:58:10",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54417",
@@ -13322,7 +13322,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mary-jane-flats-2/1-5672.jpg",
     "imageCount": 7,
     "createdAt": "2026-03-06T05:16:48",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54403",
@@ -13335,7 +13335,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mary-jane-flats/1-5671.jpg",
     "imageCount": 7,
     "createdAt": "2026-03-06T05:14:23",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54388",
@@ -13348,7 +13348,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mary-jane-shoes-4/1-5670.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T05:12:44",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54373",
@@ -13361,7 +13361,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mary-jane-shoes-3/1-5669.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T05:11:10",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54358",
@@ -13374,7 +13374,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mary-jane-shoes-2/1-5668.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T05:08:44",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54343",
@@ -13387,7 +13387,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-mary-jane-shoes/1-5667.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T05:02:19",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54328",
@@ -13400,7 +13400,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-women-loafer/1-5666.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T04:59:28",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54314",
@@ -13413,7 +13413,7 @@
     "thumb": "https://img.kynbag.com/products/chanel-long-rain-boots-2/1-5665.jpg",
     "imageCount": 7,
     "createdAt": "2026-03-06T04:42:19",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "54300",
@@ -13426,6 +13426,6 @@
     "thumb": "https://img.kynbag.com/products/chanel-long-rain-boots/1-5664.jpg",
     "imageCount": 7,
     "createdAt": "2026-03-06T04:40:38",
-    "subcategory": "other"
+    "subcategory": "clutch"
   }
 ]

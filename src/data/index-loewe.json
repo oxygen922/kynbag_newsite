@@ -10,7 +10,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-mini-amazona-180-bag-in-soft-calfskinhigh-end-grade-2/1-150.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-17T06:23:21",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "59597",
@@ -23,7 +23,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-mini-amazona-180-bag-in-soft-calfskinhigh-end-grade/1-149.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-17T06:21:52",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "59588",
@@ -36,7 +36,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-small-amazona-180-bag-in-soft-calfskinhigh-end-grade-4/1-148.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-17T06:20:55",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "59579",
@@ -49,7 +49,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-small-amazona-180-bag-in-soft-calfskinhigh-end-grade-3/1-147.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-17T06:19:57",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "59570",
@@ -62,7 +62,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-small-amazona-180-bag-in-soft-calfskinhigh-end-grade-2/1-146.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-17T06:18:40",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "59561",
@@ -75,7 +75,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-small-amazona-180-bag-in-soft-calfskinhigh-end-grade/1-145.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-17T06:17:33",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "58878",
@@ -88,7 +88,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-anagram-basket-small-palm-and-calfskin-baghigh-end-grade-2/1-72.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-07T11:43:13",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "58869",
@@ -101,7 +101,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-anagram-basket-small-palm-and-calfskin-baghigh-end-grade/1-71.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-07T11:40:25",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "58860",
@@ -114,7 +114,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-anagram-basket-in-palm-and-calfskinhigh-end-grade-2/1-70.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-07T11:39:23",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "58851",
@@ -127,7 +127,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-anagram-basket-in-palm-and-calfskinhigh-end-grade/1-69.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-07T11:37:57",
-    "subcategory": "other"
+    "subcategory": "tote"
   },
   {
     "id": "58842",
@@ -270,7 +270,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-panta-medium-flamenco-clutch-in-shiny-calfskinhigh-end-grade-3/1-58.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-05T10:54:19",
-    "subcategory": "clutch"
+    "subcategory": "pouch"
   },
   {
     "id": "58743",
@@ -283,7 +283,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-panta-medium-flamenco-clutch-in-shiny-calfskinhigh-end-grade-2/1-57.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-05T10:52:58",
-    "subcategory": "clutch"
+    "subcategory": "pouch"
   },
   {
     "id": "58734",
@@ -296,7 +296,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-panta-medium-flamenco-clutch-in-shiny-calfskinhigh-end-grade/1-56.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-05T10:44:44",
-    "subcategory": "clutch"
+    "subcategory": "pouch"
   },
   {
     "id": "58725",
@@ -361,7 +361,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-large-flamenco-purse-in-mellow-nappa-lambskinhigh-end-grade-5/1-168.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-01T06:28:11",
-    "subcategory": "other"
+    "subcategory": "pouch"
   },
   {
     "id": "59808",
@@ -374,7 +374,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-large-flamenco-purse-in-mellow-nappa-lambskinhigh-end-grade-4/1-167.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-01T06:27:15",
-    "subcategory": "other"
+    "subcategory": "pouch"
   },
   {
     "id": "59799",
@@ -387,7 +387,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-large-flamenco-purse-in-mellow-nappa-lambskinhigh-end-grade-3/1-166.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-01T06:25:04",
-    "subcategory": "other"
+    "subcategory": "pouch"
   },
   {
     "id": "59790",
@@ -400,7 +400,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-large-flamenco-purse-in-mellow-nappa-lambskinhigh-end-grade-2/1-165.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-01T06:24:12",
-    "subcategory": "other"
+    "subcategory": "pouch"
   },
   {
     "id": "59780",
@@ -413,7 +413,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-large-flamenco-purse-in-mellow-nappa-lambskinhigh-end-grade/1-164.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-01T04:04:35",
-    "subcategory": "other"
+    "subcategory": "pouch"
   },
   {
     "id": "59771",
@@ -426,7 +426,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-large-flamenco-purse-in-fine-grained-calfskinhigh-end-grade/1-163.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-01T03:32:30",
-    "subcategory": "other"
+    "subcategory": "pouch"
   },
   {
     "id": "59762",
@@ -439,7 +439,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-flamenco-purse-in-fine-grained-calfskinhigh-end-grade/1-162.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-01T03:26:50",
-    "subcategory": "other"
+    "subcategory": "pouch"
   },
   {
     "id": "44708",
@@ -686,7 +686,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-ola-bag-in-smooth-calfskinhigh-end-grade-5/1-3890.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:30:54",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37534",
@@ -699,7 +699,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-ola-bag-in-smooth-calfskinhigh-end-grade-4/1-3889.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:30:53",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37517",
@@ -712,7 +712,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-ola-bag-in-smooth-calfskinhigh-end-grade-3/1-3888.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:30:31",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37516",
@@ -725,7 +725,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-ola-bag-in-smooth-calfskinhigh-end-grade-2/1-3887.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:30:30",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37499",
@@ -738,7 +738,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-ola-bag-in-smooth-calfskinhigh-end-grade/1-3886.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:30:07",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37498",
@@ -751,7 +751,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-ola-bag-in-raffia-and-calfskinhigh-end-grade/1-3885.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:30:07",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37481",
@@ -764,7 +764,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-madrid-bagin-supple-calfskinhigh-end-grade-5/1-3884.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:29:43",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37480",
@@ -777,7 +777,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-madrid-bagin-supple-calfskinhigh-end-grade-4/1-3883.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:29:43",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37463",
@@ -790,7 +790,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-madrid-bagin-supple-calfskinhigh-end-grade-3/1-3882.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:29:19",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37462",
@@ -803,7 +803,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-madrid-bagin-supple-calfskinhigh-end-grade-2/1-3881.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:29:19",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37445",
@@ -816,7 +816,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-madrid-bagin-supple-calfskinhigh-end-grade/1-3880.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:28:56",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37444",
@@ -946,7 +946,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-mini-pebble-bucket-in-smooth-calfskinhigh-end-grade-8/1-3336.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:32:02",
-    "subcategory": "mini-bag"
+    "subcategory": "crossbody"
   },
   {
     "id": "32428",
@@ -959,7 +959,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-mini-pebble-bucket-in-smooth-calfskinhigh-end-grade-7/1-3335.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:32:02",
-    "subcategory": "mini-bag"
+    "subcategory": "crossbody"
   },
   {
     "id": "32411",
@@ -972,7 +972,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-mini-pebble-bucket-in-smooth-calfskinhigh-end-grade-6/1-3334.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:31:40",
-    "subcategory": "mini-bag"
+    "subcategory": "crossbody"
   },
   {
     "id": "32410",
@@ -985,7 +985,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-mini-pebble-bucket-in-smooth-calfskinhigh-end-grade-5/1-3333.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:31:40",
-    "subcategory": "mini-bag"
+    "subcategory": "crossbody"
   },
   {
     "id": "32393",
@@ -998,7 +998,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-mini-pebble-bucket-in-smooth-calfskinhigh-end-grade-4/1-3332.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:31:18",
-    "subcategory": "mini-bag"
+    "subcategory": "crossbody"
   },
   {
     "id": "32392",
@@ -1011,7 +1011,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-mini-pebble-bucket-in-smooth-calfskinhigh-end-grade-3/1-3331.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:31:18",
-    "subcategory": "mini-bag"
+    "subcategory": "crossbody"
   },
   {
     "id": "32375",
@@ -1024,7 +1024,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-mini-pebble-bucket-in-smooth-calfskinhigh-end-grade-2/1-3330.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:30:57",
-    "subcategory": "mini-bag"
+    "subcategory": "crossbody"
   },
   {
     "id": "32374",
@@ -1037,7 +1037,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-mini-pebble-bucket-in-smooth-calfskinhigh-end-grade/1-3329.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:30:57",
-    "subcategory": "mini-bag"
+    "subcategory": "crossbody"
   },
   {
     "id": "32357",
@@ -1050,7 +1050,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-pebble-bucket-in-smooth-calfskinhigh-end-grade-6/1-3328.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:30:36",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "32356",
@@ -1063,7 +1063,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-pebble-bucket-in-smooth-calfskinhigh-end-grade-5/1-3327.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:30:36",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "32339",
@@ -1076,7 +1076,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-pebble-bucket-in-smooth-calfskinhigh-end-grade-4/1-3326.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:30:14",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "32338",
@@ -1089,7 +1089,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-pebble-bucket-in-smooth-calfskinhigh-end-grade-3/1-3325.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:30:14",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "32321",
@@ -1102,7 +1102,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-pebble-bucket-in-smooth-calfskinhigh-end-grade-2/1-3324.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:29:52",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "32320",
@@ -1115,7 +1115,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-pebble-bucket-in-smooth-calfskinhigh-end-grade/1-3323.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T09:29:52",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "30331",
@@ -1128,7 +1128,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-mini-flamenco-clutch-in-nappa-calfskinhigh-end-grade-12/1-3102.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:51:48",
-    "subcategory": "clutch"
+    "subcategory": "pouch"
   },
   {
     "id": "30314",
@@ -1141,7 +1141,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-mini-flamenco-clutch-in-nappa-calfskinhigh-end-grade-11/1-3101.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:51:27",
-    "subcategory": "clutch"
+    "subcategory": "pouch"
   },
   {
     "id": "30313",
@@ -1154,7 +1154,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-mini-flamenco-clutch-in-nappa-calfskinhigh-end-grade-10/1-3100.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:51:27",
-    "subcategory": "clutch"
+    "subcategory": "pouch"
   },
   {
     "id": "30312",
@@ -1167,7 +1167,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-mini-flamenco-clutch-in-nappa-calfskinhigh-end-grade-9/1-3099.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:51:27",
-    "subcategory": "clutch"
+    "subcategory": "pouch"
   },
   {
     "id": "30287",
@@ -1180,7 +1180,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-mini-flamenco-clutch-in-nappa-calfskinhigh-end-grade-8/1-3098.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:50:55",
-    "subcategory": "clutch"
+    "subcategory": "pouch"
   },
   {
     "id": "30286",
@@ -1193,7 +1193,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-mini-flamenco-clutch-in-nappa-calfskinhigh-end-grade-7/1-3097.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:50:55",
-    "subcategory": "clutch"
+    "subcategory": "pouch"
   },
   {
     "id": "30285",
@@ -1206,7 +1206,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-mini-flamenco-clutch-in-nappa-calfskinhigh-end-grade-6/1-3096.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:50:54",
-    "subcategory": "clutch"
+    "subcategory": "pouch"
   },
   {
     "id": "30260",
@@ -1219,7 +1219,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-mini-flamenco-clutch-in-nappa-calfskinhigh-end-grade-5/1-3095.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:50:25",
-    "subcategory": "clutch"
+    "subcategory": "pouch"
   },
   {
     "id": "30259",
@@ -1232,7 +1232,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-mini-flamenco-clutch-in-nappa-calfskinhigh-end-grade-4/1-3094.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:50:25",
-    "subcategory": "clutch"
+    "subcategory": "pouch"
   },
   {
     "id": "30258",
@@ -1245,7 +1245,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-mini-flamenco-clutch-in-nappa-calfskinhigh-end-grade-3/1-3093.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:50:25",
-    "subcategory": "clutch"
+    "subcategory": "pouch"
   },
   {
     "id": "30233",
@@ -1258,7 +1258,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-mini-flamenco-clutch-in-nappa-calfskinhigh-end-grade-2/1-3092.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:49:55",
-    "subcategory": "clutch"
+    "subcategory": "pouch"
   },
   {
     "id": "30232",
@@ -1271,7 +1271,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-mini-flamenco-clutch-in-nappa-calfskinhigh-end-grade/1-3091.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:49:55",
-    "subcategory": "clutch"
+    "subcategory": "pouch"
   },
   {
     "id": "26075",
@@ -1310,7 +1310,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-amazona-23-cropped-bag-in-nappa-calfskinhigh-end-grade-5/1-2229.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:32:43",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "22465",
@@ -1323,7 +1323,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-amazona-23-cropped-bag-in-nappa-calfskinhigh-end-grade-4/1-2228.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:32:43",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "22464",
@@ -1336,7 +1336,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-amazona-23-cropped-bag-in-nappa-calfskinhigh-end-grade-3/1-2227.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:32:42",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "22439",
@@ -1349,7 +1349,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-amazona-23-cropped-bag-in-nappa-calfskinhigh-end-grade-2/1-2226.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:32:20",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "22438",
@@ -1362,7 +1362,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-amazona-23-cropped-bag-in-nappa-calfskinhigh-end-grade/1-2225.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:32:20",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "22437",
@@ -1375,7 +1375,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-amazona-23-bag-in-nappa-calfskinhigh-end-grade/1-2224.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:32:20",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "22412",
@@ -1388,7 +1388,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-amazona-28-bag-in-nappa-calfskinhigh-end-grade/1-2223.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:31:57",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "22411",
@@ -1401,7 +1401,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-flamenco-clutch-in-nappa-calfskinhigh-end-grade-10/1-2222.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:31:57",
-    "subcategory": "clutch"
+    "subcategory": "pouch"
   },
   {
     "id": "22410",
@@ -1414,7 +1414,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-flamenco-clutch-in-nappa-calfskinhigh-end-grade-9/1-2221.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:31:57",
-    "subcategory": "clutch"
+    "subcategory": "pouch"
   },
   {
     "id": "22385",
@@ -1427,7 +1427,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-flamenco-clutch-in-nappa-calfskinhigh-end-grade-8/1-2220.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:31:34",
-    "subcategory": "clutch"
+    "subcategory": "pouch"
   },
   {
     "id": "22384",
@@ -1440,7 +1440,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-flamenco-clutch-in-nappa-calfskinhigh-end-grade-7/1-2219.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:31:34",
-    "subcategory": "clutch"
+    "subcategory": "pouch"
   },
   {
     "id": "22383",
@@ -1453,7 +1453,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-flamenco-clutch-in-nappa-calfskinhigh-end-grade-6/1-2218.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:31:34",
-    "subcategory": "clutch"
+    "subcategory": "pouch"
   },
   {
     "id": "22358",
@@ -1466,7 +1466,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-flamenco-clutch-in-nappa-calfskinhigh-end-grade-5/1-2217.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:31:11",
-    "subcategory": "clutch"
+    "subcategory": "pouch"
   },
   {
     "id": "22357",
@@ -1479,7 +1479,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-flamenco-clutch-in-nappa-calfskinhigh-end-grade-4/1-2216.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:31:11",
-    "subcategory": "clutch"
+    "subcategory": "pouch"
   },
   {
     "id": "22356",
@@ -1492,7 +1492,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-flamenco-clutch-in-nappa-calfskinhigh-end-grade-3/1-2215.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:31:11",
-    "subcategory": "clutch"
+    "subcategory": "pouch"
   },
   {
     "id": "22331",
@@ -1505,7 +1505,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-flamenco-clutch-in-nappa-calfskinhigh-end-grade-2/1-2214.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:30:48",
-    "subcategory": "clutch"
+    "subcategory": "pouch"
   },
   {
     "id": "22330",
@@ -1518,7 +1518,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-flamenco-clutch-in-nappa-calfskinhigh-end-grade/1-2213.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:30:48",
-    "subcategory": "clutch"
+    "subcategory": "pouch"
   },
   {
     "id": "18078",
@@ -1531,7 +1531,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-small-paseo-bag-in-shiny-nappa-calfskinhigh-end-grade-6/1-1723.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:15:09",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18045",
@@ -1544,7 +1544,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-small-paseo-bag-in-shiny-nappa-calfskinhigh-end-grade-5/1-1722.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:14:43",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18044",
@@ -1557,7 +1557,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-small-paseo-bag-in-shiny-nappa-calfskinhigh-end-grade-4/1-1721.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:14:43",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18043",
@@ -1570,7 +1570,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-small-paseo-bag-in-shiny-nappa-calfskinhigh-end-grade-3/1-1720.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:14:42",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18042",
@@ -1583,7 +1583,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-small-paseo-bag-in-shiny-nappa-calfskinhigh-end-grade-2/1-1719.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:14:42",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18009",
@@ -1596,7 +1596,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-small-paseo-bag-in-shiny-nappa-calfskinhigh-end-grade/1-1718.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:14:18",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "17178",
@@ -1609,7 +1609,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-small-gate-bag-in-soft-calfskin-and-jacquard-6/1-1623.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:04:47",
-    "subcategory": "gate"
+    "subcategory": "mini-bag"
   },
   {
     "id": "17145",
@@ -1622,7 +1622,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-small-gate-bag-in-soft-calfskin-and-jacquard-5/1-1622.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:04:24",
-    "subcategory": "gate"
+    "subcategory": "mini-bag"
   },
   {
     "id": "17144",
@@ -1635,7 +1635,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-small-gate-bag-in-soft-calfskin-and-jacquard-4/1-1621.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:04:24",
-    "subcategory": "gate"
+    "subcategory": "mini-bag"
   },
   {
     "id": "17143",
@@ -1648,7 +1648,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-small-gate-bag-in-soft-calfskin-and-jacquard-3/1-1620.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:04:24",
-    "subcategory": "gate"
+    "subcategory": "mini-bag"
   },
   {
     "id": "17142",
@@ -1661,7 +1661,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-small-gate-bag-in-soft-calfskin-and-jacquard-2/1-1619.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:04:24",
-    "subcategory": "gate"
+    "subcategory": "mini-bag"
   },
   {
     "id": "17109",
@@ -1674,7 +1674,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-small-gate-bag-in-soft-calfskin-and-jacquard/1-1618.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:04:00",
-    "subcategory": "gate"
+    "subcategory": "mini-bag"
   },
   {
     "id": "17071",
@@ -1687,7 +1687,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-flamenco-purse-in-mellow-nappa-lambskin-7/1-1612.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:03:36",
-    "subcategory": "other"
+    "subcategory": "pouch"
   },
   {
     "id": "17070",
@@ -1700,7 +1700,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-flamenco-purse-in-mellow-nappa-lambskin-6/1-1611.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:03:36",
-    "subcategory": "other"
+    "subcategory": "pouch"
   },
   {
     "id": "17037",
@@ -1713,7 +1713,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-flamenco-purse-in-mellow-nappa-lambskin-5/1-1610.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:03:13",
-    "subcategory": "other"
+    "subcategory": "pouch"
   },
   {
     "id": "17036",
@@ -1726,7 +1726,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-flamenco-purse-in-mellow-nappa-lambskin-4/1-1609.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:03:13",
-    "subcategory": "other"
+    "subcategory": "pouch"
   },
   {
     "id": "17035",
@@ -1739,7 +1739,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-flamenco-purse-in-mellow-nappa-lambskin-3/1-1608.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:03:12",
-    "subcategory": "other"
+    "subcategory": "pouch"
   },
   {
     "id": "17034",
@@ -1752,7 +1752,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-flamenco-purse-in-mellow-nappa-lambskin-2/1-1607.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:03:12",
-    "subcategory": "other"
+    "subcategory": "pouch"
   },
   {
     "id": "17001",
@@ -1765,7 +1765,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-flamenco-purse-in-mellow-nappa-lambskin/1-1606.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:02:48",
-    "subcategory": "other"
+    "subcategory": "pouch"
   },
   {
     "id": "12707",
@@ -1856,7 +1856,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-small-squeeze-bag-in-nappa-lambskin-5/1-832.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:50:15",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "10043",
@@ -1869,7 +1869,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-small-squeeze-bag-in-nappa-lambskin-4/1-831.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:50:15",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "10042",
@@ -1882,7 +1882,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-small-squeeze-bag-in-nappa-lambskin-3/1-830.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:50:15",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "10041",
@@ -1895,7 +1895,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-small-squeeze-bag-in-nappa-lambskin-2/1-829.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:50:15",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "10000",
@@ -1908,7 +1908,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-small-squeeze-bag-in-nappa-lambskin/1-828.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:49:52",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "9999",
@@ -1921,7 +1921,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-squeeze-bag-in-nappa-lambskin-3/1-827.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:49:52",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "9998",
@@ -1934,7 +1934,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-squeeze-bag-in-nappa-lambskin-2/1-826.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:49:52",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "9997",
@@ -1947,7 +1947,7 @@
     "thumb": "https://img.kynbag.com/products/loewe-medium-squeeze-bag-in-nappa-lambskin/1-825.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:49:52",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "7431",

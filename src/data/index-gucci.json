@@ -114,7 +114,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-giglio-small-tote-bag-5/1-4.jpg",
     "imageCount": 8,
     "createdAt": "2026-06-04T06:33:03",
-    "subcategory": "tote"
+    "subcategory": "mini-bag"
   },
   {
     "id": "61007",
@@ -127,7 +127,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-giglio-small-tote-bag-4/1-3.jpg",
     "imageCount": 8,
     "createdAt": "2026-06-04T06:31:43",
-    "subcategory": "tote"
+    "subcategory": "mini-bag"
   },
   {
     "id": "60998",
@@ -140,7 +140,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-giglio-small-tote-bag-3/1-2.jpg",
     "imageCount": 8,
     "createdAt": "2026-06-04T06:30:54",
-    "subcategory": "tote"
+    "subcategory": "mini-bag"
   },
   {
     "id": "60989",
@@ -153,7 +153,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-giglio-small-tote-bag-2/1-1.jpg",
     "imageCount": 8,
     "createdAt": "2026-06-04T06:29:58",
-    "subcategory": "tote"
+    "subcategory": "mini-bag"
   },
   {
     "id": "60980",
@@ -166,7 +166,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-giglio-small-tote-bag/1.jpg",
     "imageCount": 8,
     "createdAt": "2026-06-04T06:29:01",
-    "subcategory": "tote"
+    "subcategory": "mini-bag"
   },
   {
     "id": "60719",
@@ -179,7 +179,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-mercato-small-tote-baghigh-end-grade-3/1-60.jpg",
     "imageCount": 7,
     "createdAt": "2026-05-24T15:17:41",
-    "subcategory": "tote"
+    "subcategory": "mini-bag"
   },
   {
     "id": "60710",
@@ -192,7 +192,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-mercato-small-tote-baghigh-end-grade-2/1-59.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-24T15:16:15",
-    "subcategory": "tote"
+    "subcategory": "mini-bag"
   },
   {
     "id": "60701",
@@ -205,7 +205,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-mercato-small-tote-baghigh-end-grade/1-58.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-24T15:14:53",
-    "subcategory": "tote"
+    "subcategory": "mini-bag"
   },
   {
     "id": "60692",
@@ -218,7 +218,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-mercato-medium-tote-baghigh-end-grade-3/1-57.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-24T15:13:26",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60683",
@@ -231,7 +231,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-mercato-medium-tote-baghigh-end-grade-2/1-56.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-24T15:11:20",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60674",
@@ -244,7 +244,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-mercato-medium-tote-baghigh-end-grade/1-55.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-24T15:10:08",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60665",
@@ -270,7 +270,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-borsetto-medium-boston-baghigh-end-grade-4/1-53.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-24T15:07:40",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60647",
@@ -283,7 +283,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-borsetto-medium-boston-baghigh-end-grade-3/1-52.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-24T15:05:38",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60638",
@@ -296,7 +296,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-borsetto-medium-boston-baghigh-end-grade-2/1-51.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-24T15:04:37",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60629",
@@ -309,7 +309,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-borsetto-medium-boston-baghigh-end-grade/1-50.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-24T15:03:32",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60620",
@@ -322,7 +322,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-borsetto-large-boston-baghigh-end-grade-5/1-49.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-24T15:01:28",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60611",
@@ -335,7 +335,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-borsetto-large-boston-baghigh-end-grade-4/1-48.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-24T15:00:26",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60602",
@@ -348,7 +348,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-borsetto-large-boston-baghigh-end-grade-3/1-47.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-24T14:59:26",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60593",
@@ -361,7 +361,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-borsetto-large-boston-baghigh-end-grade-2/1-46.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-24T14:57:18",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60495",
@@ -374,7 +374,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-borsetto-large-boston-baghigh-end-grade/1-35.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-24T14:55:34",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60214",
@@ -387,7 +387,7 @@
     "thumb": "https://img.kynbag.com/products/gg-emblem-small-shoulder-bag-8/1-11.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-04T06:03:10",
-    "subcategory": "shoulder-bag"
+    "subcategory": "mini-bag"
   },
   {
     "id": "60205",
@@ -400,7 +400,7 @@
     "thumb": "https://img.kynbag.com/products/gg-emblem-small-shoulder-bag-7/1-10.jpg",
     "imageCount": 8,
     "createdAt": "2026-05-04T06:02:09",
-    "subcategory": "shoulder-bag"
+    "subcategory": "mini-bag"
   },
   {
     "id": "60196",
@@ -530,7 +530,7 @@
     "thumb": "https://img.kynbag.com/products/gg-paparazzo-medium-top-handle-bag/1-132.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-18T01:44:43",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "59427",
@@ -543,7 +543,7 @@
     "thumb": "https://img.kynbag.com/products/gg-paparazzo-large-top-handle-bag-2/1-131.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-18T01:39:55",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "59418",
@@ -556,7 +556,7 @@
     "thumb": "https://img.kynbag.com/products/gg-paparazzo-large-top-handle-bag/1-130.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-18T01:38:54",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "59409",
@@ -582,7 +582,7 @@
     "thumb": "https://img.kynbag.com/products/gg-paparazzo-medium-top-handle-bag-2/1-133.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-17T01:47:20",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "59073",
@@ -595,7 +595,7 @@
     "thumb": "https://img.kynbag.com/products/gg-emblem-small-shoulder-bag-6/1-93.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-10T03:03:15",
-    "subcategory": "shoulder-bag"
+    "subcategory": "mini-bag"
   },
   {
     "id": "59064",
@@ -608,7 +608,7 @@
     "thumb": "https://img.kynbag.com/products/gg-emblem-small-shoulder-bag-5/1-92.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-10T03:01:54",
-    "subcategory": "shoulder-bag"
+    "subcategory": "mini-bag"
   },
   {
     "id": "59055",
@@ -621,7 +621,7 @@
     "thumb": "https://img.kynbag.com/products/gg-emblem-small-shoulder-bag-4/1-91.jpg",
     "imageCount": 8,
     "createdAt": "2026-04-10T02:55:31",
-    "subcategory": "shoulder-bag"
+    "subcategory": "mini-bag"
   },
   {
     "id": "58261",
@@ -634,7 +634,7 @@
     "thumb": "https://img.kynbag.com/products/gg-ophidia-small-shoulder-bag-2/1-12.jpg",
     "imageCount": 9,
     "createdAt": "2026-04-01T14:06:11",
-    "subcategory": "shoulder-bag"
+    "subcategory": "mini-bag"
   },
   {
     "id": "58251",
@@ -647,7 +647,7 @@
     "thumb": "https://img.kynbag.com/products/gg-ophidia-small-shoulder-bag/1-11.jpg",
     "imageCount": 9,
     "createdAt": "2026-04-01T14:03:31",
-    "subcategory": "shoulder-bag"
+    "subcategory": "mini-bag"
   },
   {
     "id": "57953",
@@ -803,7 +803,7 @@
     "thumb": "https://img.kynbag.com/products/gg-marmont-long-wallet-2/1-5328.jpg",
     "imageCount": 7,
     "createdAt": "2026-03-10T11:01:43",
-    "subcategory": "gg-marmont"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "50933",
@@ -816,7 +816,7 @@
     "thumb": "https://img.kynbag.com/products/gg-marmont-long-wallet/1-5327.jpg",
     "imageCount": 7,
     "createdAt": "2026-03-10T11:00:08",
-    "subcategory": "gg-marmont"
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "50924",
@@ -1102,7 +1102,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-large-shoulder-bag-with-chainhigh-end-grade-4/1-4882.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:22:53",
-    "subcategory": "shoulder-bag"
+    "subcategory": "tote"
   },
   {
     "id": "46446",
@@ -1115,7 +1115,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-large-shoulder-bag-with-chainhigh-end-grade-3/1-4881.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:22:53",
-    "subcategory": "shoulder-bag"
+    "subcategory": "tote"
   },
   {
     "id": "46429",
@@ -1128,7 +1128,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-large-shoulder-bag-with-chainhigh-end-grade-2/1-4880.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:22:24",
-    "subcategory": "shoulder-bag"
+    "subcategory": "tote"
   },
   {
     "id": "46428",
@@ -1141,7 +1141,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-large-shoulder-bag-with-chainhigh-end-grade/1-4879.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:22:24",
-    "subcategory": "shoulder-bag"
+    "subcategory": "tote"
   },
   {
     "id": "46177",
@@ -1154,7 +1154,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-siena-small-top-handle-baghigh-end-grade-3/1-4852.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:15:45",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46176",
@@ -1167,7 +1167,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-siena-small-top-handle-baghigh-end-grade-2/1-4851.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:15:45",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46159",
@@ -1180,7 +1180,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-siena-small-top-handle-baghigh-end-grade/1-4850.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:15:16",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46158",
@@ -1193,7 +1193,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-siena-medium-top-handle-baghigh-end-grade-3/1-4849.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:15:16",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46141",
@@ -1206,7 +1206,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-siena-medium-top-handle-baghigh-end-grade-2/1-4848.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:14:48",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46140",
@@ -1219,7 +1219,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-siena-medium-top-handle-baghigh-end-grade/1-4847.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T17:14:48",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "45069",
@@ -1479,7 +1479,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-shoulder-bag-2/1-4656.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:27:31",
-    "subcategory": "shoulder-bag"
+    "subcategory": "mini-bag"
   },
   {
     "id": "44348",
@@ -1492,7 +1492,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-shoulder-bag/1-4655.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:27:31",
-    "subcategory": "shoulder-bag"
+    "subcategory": "mini-bag"
   },
   {
     "id": "44331",
@@ -1505,7 +1505,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-vanity-mini-bag/1-4654.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:27:03",
-    "subcategory": "mini-bag"
+    "subcategory": "vanity"
   },
   {
     "id": "44330",
@@ -1518,7 +1518,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-vanity-medium-top-handle-bag-2/1-4653.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:27:03",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "44313",
@@ -1531,7 +1531,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-vanity-medium-top-handle-bag/1-4652.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:26:34",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "44312",
@@ -1583,7 +1583,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-beatrix-medium-tote-bag/1-4648.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T16:25:34",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "44276",
@@ -2168,7 +2168,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-new-diana-medium-tote-baghigh-end-grade-3/1-4318.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T15:01:29",
-    "subcategory": "diana"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "41386",
@@ -2181,7 +2181,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-new-diana-medium-tote-baghigh-end-grade-2/1-4317.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T15:01:29",
-    "subcategory": "diana"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "41369",
@@ -2194,7 +2194,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-new-diana-medium-tote-baghigh-end-grade/1-4316.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T15:01:03",
-    "subcategory": "diana"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "41368",
@@ -2298,7 +2298,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-padlock-medium-top-handle-bag-5/1-4054.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:04:34",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "39010",
@@ -2311,7 +2311,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-padlock-medium-top-handle-bag-4/1-4053.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:04:34",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38993",
@@ -2324,7 +2324,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-padlock-medium-top-handle-bag-3/1-4052.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:04:09",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38992",
@@ -2337,7 +2337,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-padlock-medium-top-handle-bag-2/1-4051.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:04:09",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38975",
@@ -2350,7 +2350,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-padlock-medium-top-handle-bag/1-4050.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T14:03:44",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38974",
@@ -2662,7 +2662,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-beatrix-medium-tote-baghigh-end-grade-3/1-3925.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:38:11",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37841",
@@ -2675,7 +2675,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-beatrix-medium-tote-baghigh-end-grade-2/1-3924.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:37:47",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37840",
@@ -2688,7 +2688,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-beatrix-medium-tote-baghigh-end-grade/1-3923.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:37:47",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37823",
@@ -2714,7 +2714,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-totissima-small-reversible-tote-bag-4/1-3921.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:37:23",
-    "subcategory": "tote"
+    "subcategory": "mini-bag"
   },
   {
     "id": "37805",
@@ -2727,7 +2727,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-totissima-small-reversible-tote-bag-3/1-3920.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:36:58",
-    "subcategory": "tote"
+    "subcategory": "mini-bag"
   },
   {
     "id": "37804",
@@ -2740,7 +2740,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-totissima-small-reversible-tote-bag-2/1-3919.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:36:58",
-    "subcategory": "tote"
+    "subcategory": "mini-bag"
   },
   {
     "id": "37787",
@@ -2753,7 +2753,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-totissima-small-reversible-tote-bag/1-3918.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:36:33",
-    "subcategory": "tote"
+    "subcategory": "mini-bag"
   },
   {
     "id": "37786",
@@ -2831,7 +2831,7 @@
     "thumb": "https://img.kynbag.com/products/gg-emblem-medium-tote-bag-7/1-3912.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:35:20",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37732",
@@ -2844,7 +2844,7 @@
     "thumb": "https://img.kynbag.com/products/gg-emblem-medium-tote-bag-6/1-3911.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T13:35:19",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37715",
@@ -2909,7 +2909,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-betty-small-tote-bag-3/1-3682.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T12:11:41",
-    "subcategory": "tote"
+    "subcategory": "mini-bag"
   },
   {
     "id": "35574",
@@ -2922,7 +2922,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-betty-small-tote-bag-2/1-3681.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T12:11:18",
-    "subcategory": "tote"
+    "subcategory": "mini-bag"
   },
   {
     "id": "35573",
@@ -2935,7 +2935,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-betty-small-tote-bag/1-3680.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T12:11:18",
-    "subcategory": "tote"
+    "subcategory": "mini-bag"
   },
   {
     "id": "35556",
@@ -2948,7 +2948,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-betty-medium-tote-bag-3/1-3679.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T12:10:53",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "35555",
@@ -2961,7 +2961,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-betty-medium-tote-bag-2/1-3678.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T12:10:52",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "35538",
@@ -2974,7 +2974,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-betty-medium-tote-bag/1-3677.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T12:10:27",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33220",
@@ -3351,7 +3351,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-soft-small-top-handle-bag-6/1-2868.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:13:46",
-    "subcategory": "horsebit"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28216",
@@ -3364,7 +3364,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-soft-small-top-handle-bag-5/1-2867.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:13:46",
-    "subcategory": "horsebit"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28215",
@@ -3377,7 +3377,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-soft-small-top-handle-bag-4/1-2866.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:13:46",
-    "subcategory": "horsebit"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28190",
@@ -3390,7 +3390,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-soft-small-top-handle-bag-3/1-2865.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:13:16",
-    "subcategory": "horsebit"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28189",
@@ -3403,7 +3403,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-soft-small-top-handle-bag-2/1-2864.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:13:16",
-    "subcategory": "horsebit"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28188",
@@ -3416,7 +3416,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-soft-small-top-handle-bag/1-2863.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:13:16",
-    "subcategory": "horsebit"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28187",
@@ -3429,7 +3429,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-softbit-medium-top-handle-baghigh-end-grade-4/1-2862.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:13:16",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28186",
@@ -3442,7 +3442,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-softbit-medium-top-handle-baghigh-end-grade-3/1-2861.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:13:16",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28185",
@@ -3455,7 +3455,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-softbit-medium-top-handle-baghigh-end-grade-2/1-2860.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:13:16",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28184",
@@ -3468,7 +3468,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-softbit-medium-top-handle-baghigh-end-grade/1-2859.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T08:13:16",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "27721",
@@ -3702,7 +3702,7 @@
     "thumb": "https://img.kynbag.com/products/gg-emblem-mini-bucket-bag-6/1-2729.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:42:56",
-    "subcategory": "mini-bag"
+    "subcategory": "crossbody"
   },
   {
     "id": "26965",
@@ -3715,7 +3715,7 @@
     "thumb": "https://img.kynbag.com/products/gg-emblem-mini-bucket-bag-5/1-2728.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:42:56",
-    "subcategory": "mini-bag"
+    "subcategory": "crossbody"
   },
   {
     "id": "26964",
@@ -3728,7 +3728,7 @@
     "thumb": "https://img.kynbag.com/products/gg-emblem-mini-bucket-bag-4/1-2727.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:42:56",
-    "subcategory": "mini-bag"
+    "subcategory": "crossbody"
   },
   {
     "id": "59461",
@@ -3741,7 +3741,7 @@
     "thumb": "https://img.kynbag.com/products/gg-emblem-medium-tote-bag-8/1-134.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:42:33",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "26939",
@@ -3754,7 +3754,7 @@
     "thumb": "https://img.kynbag.com/products/gg-emblem-mini-bucket-bag-3/1-2726.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:42:30",
-    "subcategory": "mini-bag"
+    "subcategory": "crossbody"
   },
   {
     "id": "26938",
@@ -3767,7 +3767,7 @@
     "thumb": "https://img.kynbag.com/products/gg-emblem-medium-tote-bag-5/1-2725.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:42:30",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "26937",
@@ -3780,7 +3780,7 @@
     "thumb": "https://img.kynbag.com/products/gg-emblem-medium-tote-bag-4/1-2724.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:42:29",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "26912",
@@ -3793,7 +3793,7 @@
     "thumb": "https://img.kynbag.com/products/gg-emblem-medium-tote-bag-3/1-2723.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:42:04",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "26911",
@@ -3806,7 +3806,7 @@
     "thumb": "https://img.kynbag.com/products/gg-emblem-medium-tote-bag-2/1-2722.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:42:04",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "26910",
@@ -3871,7 +3871,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-73-mini-bucket-bag-6/1-2642.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:30:11",
-    "subcategory": "mini-bag"
+    "subcategory": "crossbody"
   },
   {
     "id": "26182",
@@ -3884,7 +3884,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-73-mini-bucket-bag-5/1-2641.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:30:11",
-    "subcategory": "mini-bag"
+    "subcategory": "crossbody"
   },
   {
     "id": "26181",
@@ -3897,7 +3897,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-73-mini-bucket-bag-4/1-2640.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:30:10",
-    "subcategory": "mini-bag"
+    "subcategory": "crossbody"
   },
   {
     "id": "26156",
@@ -3910,7 +3910,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-73-mini-bucket-bag-3/1-2639.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:29:45",
-    "subcategory": "mini-bag"
+    "subcategory": "crossbody"
   },
   {
     "id": "26155",
@@ -3923,7 +3923,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-73-mini-bucket-bag-2/1-2638.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:29:45",
-    "subcategory": "mini-bag"
+    "subcategory": "crossbody"
   },
   {
     "id": "26154",
@@ -3936,7 +3936,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-73-mini-bucket-bag/1-2637.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:29:44",
-    "subcategory": "mini-bag"
+    "subcategory": "crossbody"
   },
   {
     "id": "26129",
@@ -3949,7 +3949,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-73-small-bucket-bag-6/1-2636.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:29:19",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "26128",
@@ -3962,7 +3962,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-73-small-bucket-bag-5/1-2635.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:29:19",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "26127",
@@ -3975,7 +3975,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-73-small-bucket-bag-4/1-2634.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:29:19",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "26102",
@@ -3988,7 +3988,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-73-small-bucket-bag-3/1-2633.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:28:53",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "26101",
@@ -4001,7 +4001,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-73-small-bucket-bag-2/1-2632.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:28:53",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "26100",
@@ -4014,7 +4014,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-73-small-bucket-bag/1-2631.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T07:28:53",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "23357",
@@ -4027,7 +4027,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-mini-top-handle-bag-4/1-2328.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:45:51",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23356",
@@ -4040,7 +4040,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-mini-top-handle-bag-3/1-2327.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:45:51",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23355",
@@ -4053,7 +4053,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-mini-top-handle-bag-2/1-2326.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:45:51",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23330",
@@ -4066,7 +4066,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-mini-top-handle-bag/1-2325.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:45:28",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23329",
@@ -4144,7 +4144,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-top-handle-bag-11/1-2319.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:44:41",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23275",
@@ -4157,7 +4157,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-top-handle-bag-10/1-2318.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:44:41",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23274",
@@ -4170,7 +4170,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-top-handle-bag-9/1-2317.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:44:41",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23249",
@@ -4183,7 +4183,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-medium-top-handle-bag-3/1-2316.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:44:17",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23248",
@@ -4196,7 +4196,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-medium-top-handle-bag-2/1-2315.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:44:17",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23247",
@@ -4209,7 +4209,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-medium-top-handle-bag/1-2314.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:44:17",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23222",
@@ -4222,7 +4222,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-medium-top-handle-baghigh-end-grade-3/1-2313.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:43:53",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23221",
@@ -4235,7 +4235,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-medium-top-handle-baghigh-end-grade-2/1-2312.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:43:53",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23220",
@@ -4248,7 +4248,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-medium-top-handle-baghigh-end-grade/1-2311.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:43:53",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23195",
@@ -4261,7 +4261,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-medium-top-handle-bag-6/1-2310.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:43:30",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23194",
@@ -4274,7 +4274,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-medium-top-handle-bag-5/1-2309.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:43:30",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23193",
@@ -4287,7 +4287,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-medium-top-handle-bag-4/1-2308.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:43:30",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23168",
@@ -4300,7 +4300,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-medium-top-handle-bag-3/1-2307.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:43:06",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23167",
@@ -4313,7 +4313,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-medium-top-handle-bag-2/1-2306.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:43:06",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23166",
@@ -4326,7 +4326,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-medium-top-handle-bag/1-2305.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:43:06",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "21790",
@@ -4339,7 +4339,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-deco-medium-tote-baghigh-end-grade-4/1-2153.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:23:03",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "21789",
@@ -4352,7 +4352,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-deco-medium-tote-baghigh-end-grade-3/1-2152.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:23:03",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "21764",
@@ -4365,7 +4365,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-deco-medium-tote-baghigh-end-grade-2/1-2151.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:22:40",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "21763",
@@ -4378,7 +4378,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-deco-medium-tote-baghigh-end-grade/1-2150.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:22:40",
-    "subcategory": "tote"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "21762",
@@ -4391,7 +4391,7 @@
     "thumb": "https://img.kynbag.com/products/gg-print-leather-bumbag-2/1-2149.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:22:40",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "21737",
@@ -4404,7 +4404,7 @@
     "thumb": "https://img.kynbag.com/products/gg-print-leather-bumbag/1-2148.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:22:17",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "21736",
@@ -4417,7 +4417,7 @@
     "thumb": "https://img.kynbag.com/products/gg-emblem-mini-shoulder-bag-2/1-2147.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:22:17",
-    "subcategory": "shoulder-bag"
+    "subcategory": "mini-bag"
   },
   {
     "id": "21735",
@@ -4430,7 +4430,7 @@
     "thumb": "https://img.kynbag.com/products/gg-emblem-mini-shoulder-bag/1-2146.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:22:17",
-    "subcategory": "shoulder-bag"
+    "subcategory": "mini-bag"
   },
   {
     "id": "21710",
@@ -4443,7 +4443,7 @@
     "thumb": "https://img.kynbag.com/products/gg-emblem-small-shoulder-bag-3/1-2145.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:21:54",
-    "subcategory": "shoulder-bag"
+    "subcategory": "mini-bag"
   },
   {
     "id": "21709",
@@ -4456,7 +4456,7 @@
     "thumb": "https://img.kynbag.com/products/gg-emblem-small-shoulder-bag-2/1-2144.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:21:54",
-    "subcategory": "shoulder-bag"
+    "subcategory": "mini-bag"
   },
   {
     "id": "21708",
@@ -4469,7 +4469,7 @@
     "thumb": "https://img.kynbag.com/products/gg-emblem-small-shoulder-bag/1-2143.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:21:54",
-    "subcategory": "shoulder-bag"
+    "subcategory": "mini-bag"
   },
   {
     "id": "21683",
@@ -4508,7 +4508,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-bucket-bag/1-2135.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T06:20:45",
-    "subcategory": "other"
+    "subcategory": "crossbody"
   },
   {
     "id": "21627",
@@ -4807,7 +4807,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-small-top-handle-bag-5/1-1854.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:29:42",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19224",
@@ -4820,7 +4820,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-small-top-handle-bag-4/1-1853.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:29:15",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19223",
@@ -4833,7 +4833,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-small-top-handle-bag-3/1-1852.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:29:15",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19222",
@@ -4846,7 +4846,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-small-top-handle-bag-2/1-1851.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:29:14",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19221",
@@ -4859,7 +4859,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-small-top-handle-bag/1-1850.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:29:14",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18330",
@@ -4872,7 +4872,7 @@
     "thumb": "https://img.kynbag.com/products/gg-milano-mini-top-handle-bag-11/1-1751.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:18:10",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18297",
@@ -4885,7 +4885,7 @@
     "thumb": "https://img.kynbag.com/products/gg-milano-mini-top-handle-bag-10/1-1750.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:17:45",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18296",
@@ -4898,7 +4898,7 @@
     "thumb": "https://img.kynbag.com/products/gg-milano-mini-top-handle-bag-9/1-1749.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:17:44",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18295",
@@ -4911,7 +4911,7 @@
     "thumb": "https://img.kynbag.com/products/gg-milano-mini-top-handle-bag-8/1-1748.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:17:44",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18294",
@@ -4924,7 +4924,7 @@
     "thumb": "https://img.kynbag.com/products/gg-milano-mini-top-handle-bag-7/1-1747.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:17:44",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18261",
@@ -4937,7 +4937,7 @@
     "thumb": "https://img.kynbag.com/products/gg-milano-mini-top-handle-bag-6/1-1746.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:17:19",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18260",
@@ -4950,7 +4950,7 @@
     "thumb": "https://img.kynbag.com/products/gg-milano-mini-top-handle-bag-5/1-1745.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:17:19",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18259",
@@ -4963,7 +4963,7 @@
     "thumb": "https://img.kynbag.com/products/gg-milano-mini-top-handle-bag-4/1-1744.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:17:19",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18258",
@@ -4976,7 +4976,7 @@
     "thumb": "https://img.kynbag.com/products/gg-milano-mini-top-handle-bag-3/1-1743.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:17:19",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18225",
@@ -4989,7 +4989,7 @@
     "thumb": "https://img.kynbag.com/products/gg-milano-mini-top-handle-bag-2/1-1742.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:16:54",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18224",
@@ -5002,7 +5002,7 @@
     "thumb": "https://img.kynbag.com/products/gg-milano-mini-top-handle-bag/1-1741.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T05:16:54",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16757",
@@ -5028,7 +5028,7 @@
     "thumb": "https://img.kynbag.com/products/gg-emblem-mini-bucket-bag-2/1-1577.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:59:59",
-    "subcategory": "mini-bag"
+    "subcategory": "crossbody"
   },
   {
     "id": "16755",
@@ -5041,7 +5041,7 @@
     "thumb": "https://img.kynbag.com/products/gg-emblem-mini-bucket-bag/1-1576.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:59:59",
-    "subcategory": "mini-bag"
+    "subcategory": "crossbody"
   },
   {
     "id": "16722",
@@ -5080,7 +5080,7 @@
     "thumb": "https://img.kynbag.com/products/gg-emblem-small-tote-bag/1-1573.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:59:36",
-    "subcategory": "tote"
+    "subcategory": "mini-bag"
   },
   {
     "id": "16719",
@@ -5145,7 +5145,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-attache-large-shoulder-bag-5/1-1568.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:59:11",
-    "subcategory": "shoulder-bag"
+    "subcategory": "tote"
   },
   {
     "id": "16650",
@@ -5158,7 +5158,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-attache-large-shoulder-bag-4/1-1567.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:58:46",
-    "subcategory": "shoulder-bag"
+    "subcategory": "tote"
   },
   {
     "id": "16649",
@@ -5171,7 +5171,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-attache-large-shoulder-bag-3/1-1566.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:58:46",
-    "subcategory": "shoulder-bag"
+    "subcategory": "tote"
   },
   {
     "id": "16648",
@@ -5184,7 +5184,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-attache-large-shoulder-bag-2/1-1565.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:58:46",
-    "subcategory": "shoulder-bag"
+    "subcategory": "tote"
   },
   {
     "id": "16647",
@@ -5197,7 +5197,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-attache-large-shoulder-bag/1-1564.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:58:46",
-    "subcategory": "shoulder-bag"
+    "subcategory": "tote"
   },
   {
     "id": "16614",
@@ -5210,7 +5210,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-top-handle-bag-8/1-1563.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:58:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16613",
@@ -5223,7 +5223,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-top-handle-bag-7/1-1562.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:58:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16612",
@@ -5236,7 +5236,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-top-handle-bag-6/1-1561.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:58:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16611",
@@ -5249,7 +5249,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-top-handle-bag-5/1-1560.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:58:22",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16578",
@@ -5262,7 +5262,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-top-handle-bag-4/1-1559.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:57:58",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16577",
@@ -5275,7 +5275,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-top-handle-bag-3/1-1558.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:57:58",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16576",
@@ -5288,7 +5288,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-top-handle-bag-2/1-1557.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:57:58",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16575",
@@ -5301,7 +5301,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-top-handle-bag/1-1556.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:57:58",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "14994",
@@ -5444,7 +5444,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-small-tote-bag-with-hook-closure-3/1-1254.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:26:08",
-    "subcategory": "tote"
+    "subcategory": "mini-bag"
   },
   {
     "id": "13832",
@@ -5457,7 +5457,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-small-tote-bag-with-hook-closure-2/1-1253.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:26:08",
-    "subcategory": "tote"
+    "subcategory": "mini-bag"
   },
   {
     "id": "13831",
@@ -5470,7 +5470,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-small-tote-bag-with-hook-closure/1-1252.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:26:08",
-    "subcategory": "tote"
+    "subcategory": "mini-bag"
   },
   {
     "id": "13830",
@@ -5483,7 +5483,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-diana-medium-shoulder-bag-4/1-1251.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:26:08",
-    "subcategory": "diana"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13797",
@@ -5496,7 +5496,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-diana-medium-shoulder-bag-3/1-1250.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:25:46",
-    "subcategory": "diana"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13796",
@@ -5509,7 +5509,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-diana-medium-shoulder-bag-2/1-1249.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:25:46",
-    "subcategory": "diana"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13795",
@@ -5522,7 +5522,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-diana-medium-shoulder-bag/1-1248.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:25:46",
-    "subcategory": "diana"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13794",
@@ -5574,7 +5574,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-1947-jumbo-gg-small-top-handle-bag-9/1-1161.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:18:05",
-    "subcategory": "bamboo"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12987",
@@ -5587,7 +5587,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-1947-jumbo-gg-small-top-handle-bag-8/1-1160.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:17:43",
-    "subcategory": "bamboo"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12986",
@@ -5600,7 +5600,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-1947-jumbo-gg-small-top-handle-bag-7/1-1159.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:17:42",
-    "subcategory": "bamboo"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12985",
@@ -5613,7 +5613,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-1947-jumbo-gg-small-top-handle-bag-6/1-1158.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:17:42",
-    "subcategory": "bamboo"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12960",
@@ -5626,7 +5626,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-1947-jumbo-gg-small-top-handle-bag-5/1-1157.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:17:21",
-    "subcategory": "bamboo"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12959",
@@ -5639,7 +5639,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-1947-jumbo-gg-small-top-handle-bag-4/1-1156.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:17:21",
-    "subcategory": "bamboo"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12958",
@@ -5652,7 +5652,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-1947-jumbo-gg-small-top-handle-bag-3/1-1155.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:17:21",
-    "subcategory": "bamboo"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12957",
@@ -5665,7 +5665,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-1947-jumbo-gg-small-top-handle-bag-2/1-1154.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:17:20",
-    "subcategory": "bamboo"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12924",
@@ -5678,7 +5678,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-1947-jumbo-gg-small-top-handle-bag/1-1153.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:16:58",
-    "subcategory": "bamboo"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12923",
@@ -5691,7 +5691,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-1947-medium-top-handle-bag-3/1-1152.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:16:58",
-    "subcategory": "bamboo"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12922",
@@ -5704,7 +5704,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-1947-medium-top-handle-bag-2/1-1151.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:16:58",
-    "subcategory": "bamboo"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12921",
@@ -5717,7 +5717,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-1947-medium-top-handle-bag/1-1150.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T04:16:58",
-    "subcategory": "bamboo"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "9116",
@@ -5795,7 +5795,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-top-handle-bag-10/1-629.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:36:17",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8216",
@@ -5808,7 +5808,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-top-handle-bag-9/1-628.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:36:17",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8215",
@@ -5821,7 +5821,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-top-handle-bag-8/1-627.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:36:17",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8214",
@@ -5834,7 +5834,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-top-handle-bag-7/1-626.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:36:17",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8173",
@@ -5847,7 +5847,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-top-handle-bag-6/1-625.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:35:55",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8172",
@@ -5860,7 +5860,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-top-handle-bag-5/1-624.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:35:55",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8171",
@@ -5873,7 +5873,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-top-handle-bag-4/1-623.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:35:55",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8170",
@@ -5886,7 +5886,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-top-handle-bag-3/1-622.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:35:55",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8169",
@@ -5899,7 +5899,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-top-handle-bag-2/1-621.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:35:55",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8168",
@@ -5912,7 +5912,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-top-handle-bag/1-620.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:35:55",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "7900",
@@ -5925,7 +5925,7 @@
     "thumb": "https://img.kynbag.com/products/petite-gg-small-tote-bag-4/1-592.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:33:56",
-    "subcategory": "tote"
+    "subcategory": "mini-bag"
   },
   {
     "id": "7899",
@@ -5938,7 +5938,7 @@
     "thumb": "https://img.kynbag.com/products/petite-gg-small-tote-bag-3/1-591.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:33:56",
-    "subcategory": "tote"
+    "subcategory": "mini-bag"
   },
   {
     "id": "7898",
@@ -5951,7 +5951,7 @@
     "thumb": "https://img.kynbag.com/products/petite-gg-small-tote-bag-2/1-590.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:33:56",
-    "subcategory": "tote"
+    "subcategory": "mini-bag"
   },
   {
     "id": "7849",
@@ -5964,7 +5964,7 @@
     "thumb": "https://img.kynbag.com/products/petite-gg-small-tote-bag/1-589.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:33:34",
-    "subcategory": "tote"
+    "subcategory": "mini-bag"
   },
   {
     "id": "7848",
@@ -5977,7 +5977,7 @@
     "thumb": "https://img.kynbag.com/products/petite-gg-small-shoulder-bag-2/1-588.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:33:34",
-    "subcategory": "shoulder-bag"
+    "subcategory": "mini-bag"
   },
   {
     "id": "7847",
@@ -5990,7 +5990,7 @@
     "thumb": "https://img.kynbag.com/products/petite-gg-small-shoulder-bag/1-587.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:33:34",
-    "subcategory": "shoulder-bag"
+    "subcategory": "mini-bag"
   },
   {
     "id": "7846",
@@ -6055,7 +6055,7 @@
     "thumb": "https://img.kynbag.com/products/ophidia-gg-mini-round-shoulder-bag-3/1-238.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:12:42",
-    "subcategory": "shoulder-bag"
+    "subcategory": "mini-bag"
   },
   {
     "id": "4590",
@@ -6068,7 +6068,7 @@
     "thumb": "https://img.kynbag.com/products/ophidia-gg-mini-round-shoulder-bag-2/1-237.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:12:42",
-    "subcategory": "shoulder-bag"
+    "subcategory": "mini-bag"
   },
   {
     "id": "4589",
@@ -6081,7 +6081,7 @@
     "thumb": "https://img.kynbag.com/products/ophidia-gg-mini-round-shoulder-bag/1-236.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:12:42",
-    "subcategory": "shoulder-bag"
+    "subcategory": "mini-bag"
   },
   {
     "id": "3954",
@@ -6302,7 +6302,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-mini-bag-4/1-110.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:04:21",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "3422",
@@ -6315,7 +6315,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-mini-bag-3/1-109.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:04:21",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "3421",
@@ -6328,7 +6328,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-mini-bag-2/1-108.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:04:21",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "3420",
@@ -6341,7 +6341,7 @@
     "thumb": "https://img.kynbag.com/products/gucci-blondie-mini-bag/1-107.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-08T03:04:20",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "3419",
@@ -6484,7 +6484,7 @@
     "thumb": "https://img.kynbag.com/products/womens-gucci-shift-sneaker-7/1-5710.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T10:15:19",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "55098",
@@ -6497,7 +6497,7 @@
     "thumb": "https://img.kynbag.com/products/womens-gucci-shift-sneaker-6/1-5709.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T10:12:18",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "55082",
@@ -6510,7 +6510,7 @@
     "thumb": "https://img.kynbag.com/products/womens-gucci-shift-sneaker-5/1-5708.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T10:10:43",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "55066",
@@ -6523,7 +6523,7 @@
     "thumb": "https://img.kynbag.com/products/womens-gucci-shift-sneaker-4/1-5707.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T10:07:07",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "55050",
@@ -6536,7 +6536,7 @@
     "thumb": "https://img.kynbag.com/products/womens-gucci-shift-sneaker-3/1-5706.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T10:02:46",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "55034",
@@ -6549,7 +6549,7 @@
     "thumb": "https://img.kynbag.com/products/womens-gucci-shift-sneaker-2/1-5705.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T09:59:05",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "55018",
@@ -6562,7 +6562,7 @@
     "thumb": "https://img.kynbag.com/products/womens-gucci-shift-sneaker/1-5704.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T09:54:51",
-    "subcategory": "other"
+    "subcategory": "clutch"
   },
   {
     "id": "55002",
@@ -6575,6 +6575,6 @@
     "thumb": "https://img.kynbag.com/products/gucci-womens-screener-sneaker/1-5703.jpg",
     "imageCount": 8,
     "createdAt": "2026-03-06T09:52:40",
-    "subcategory": "other"
+    "subcategory": "clutch"
   }
 ]
