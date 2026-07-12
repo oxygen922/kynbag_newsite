@@ -148,7 +148,7 @@
   "goyard": {
     "name": "Goyard",
     "subcategories": [
-      { "id": " saint-louis", "name": "Saint Louis", "count": 89 },
+      { "id": "saint-louis", "name": "Saint Louis", "count": 89 },
       { "id": "anjou", "name": "Anjou", "count": 45 },
       { "id": "croissy", "name": "Croissy", "count": 34 },
       { "id": "belvedere", "name": "Belvedere", "count": 23 },
