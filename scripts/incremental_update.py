@@ -486,7 +486,8 @@ def update_index_files():
                 'name': p['name'],
                 'price': p['price'],
                 'brand': p['brand'],
-                'image': p['images'][0] if p['images'] else '',
+                'thumb': p['images'][0] if p['images'] else '',
+                'imageCount': len(p['images']) if p['images'] else 0,
                 'subcategory': p.get('subcategory', '')
             }
             index_data.append(index_item)

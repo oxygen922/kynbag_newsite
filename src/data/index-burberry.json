@@ -5,8 +5,9 @@
     "name": "Burberry Vertical Paddy Bag",
     "price": 199.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/burberry-vertical-paddy-bag-2/1-668.jpg",
-    "subcategory": "shoulder-bag"
+    "subcategory": "shoulder-bag",
+    "thumb": "https://img.kynbag.com/products/burberry-vertical-paddy-bag-2/1-668.jpg",
+    "imageCount": 5
   },
   {
     "id": "8583",
@@ -14,8 +15,9 @@
     "name": "Burberry Vertical Paddy Bag",
     "price": 199.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/burberry-vertical-paddy-bag/1-667.jpg",
-    "subcategory": "shoulder-bag"
+    "subcategory": "shoulder-bag",
+    "thumb": "https://img.kynbag.com/products/burberry-vertical-paddy-bag/1-667.jpg",
+    "imageCount": 5
   },
   {
     "id": "8582",
@@ -23,8 +25,9 @@
     "name": "Burberry Freddie Bag",
     "price": 199.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/burberry-freddie-bag/1-666.jpg",
-    "subcategory": "shoulder-bag"
+    "subcategory": "shoulder-bag",
+    "thumb": "https://img.kynbag.com/products/burberry-freddie-bag/1-666.jpg",
+    "imageCount": 5
   },
   {
     "id": "8533",
@@ -32,8 +35,9 @@
     "name": "Burberry Paddy Bag",
     "price": 199.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/burberry-paddy-bag-2/1-665.jpg",
-    "subcategory": "shoulder-bag"
+    "subcategory": "shoulder-bag",
+    "thumb": "https://img.kynbag.com/products/burberry-paddy-bag-2/1-665.jpg",
+    "imageCount": 5
   },
   {
     "id": "8532",
@@ -41,8 +45,9 @@
     "name": "Burberry Paddy Bag",
     "price": 199.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/burberry-paddy-bag/1-664.jpg",
-    "subcategory": "shoulder-bag"
+    "subcategory": "shoulder-bag",
+    "thumb": "https://img.kynbag.com/products/burberry-paddy-bag/1-664.jpg",
+    "imageCount": 5
   },
   {
     "id": "7108",
@@ -50,8 +55,9 @@
     "name": "Small Lola Bag",
     "price": 249.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/small-lola-bag-13/1-520.jpg",
-    "subcategory": "mini-bag"
+    "subcategory": "mini-bag",
+    "thumb": "https://img.kynbag.com/products/small-lola-bag-13/1-520.jpg",
+    "imageCount": 5
   },
   {
     "id": "7107",
@@ -59,8 +65,9 @@
     "name": "Small Lola Bag",
     "price": 249.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/small-lola-bag-12/1-519.jpg",
-    "subcategory": "mini-bag"
+    "subcategory": "mini-bag",
+    "thumb": "https://img.kynbag.com/products/small-lola-bag-12/1-519.jpg",
+    "imageCount": 5
   },
   {
     "id": "7106",
@@ -68,8 +75,9 @@
     "name": "Small Lola Bag",
     "price": 249.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/small-lola-bag-11/1-518.jpg",
-    "subcategory": "mini-bag"
+    "subcategory": "mini-bag",
+    "thumb": "https://img.kynbag.com/products/small-lola-bag-11/1-518.jpg",
+    "imageCount": 5
   },
   {
     "id": "7105",
@@ -77,8 +85,9 @@
     "name": "Small Lola Bag",
     "price": 249.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/small-lola-bag-10/1-517.jpg",
-    "subcategory": "mini-bag"
+    "subcategory": "mini-bag",
+    "thumb": "https://img.kynbag.com/products/small-lola-bag-10/1-517.jpg",
+    "imageCount": 5
   },
   {
     "id": "7056",
@@ -86,8 +95,9 @@
     "name": "Small Lola Bag",
     "price": 249.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/small-lola-bag-9/1-516.jpg",
-    "subcategory": "mini-bag"
+    "subcategory": "mini-bag",
+    "thumb": "https://img.kynbag.com/products/small-lola-bag-9/1-516.jpg",
+    "imageCount": 5
   },
   {
     "id": "7055",
@@ -95,8 +105,9 @@
     "name": "Small Lola Bag",
     "price": 249.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/small-lola-bag-8/1-515.jpg",
-    "subcategory": "mini-bag"
+    "subcategory": "mini-bag",
+    "thumb": "https://img.kynbag.com/products/small-lola-bag-8/1-515.jpg",
+    "imageCount": 5
   },
   {
     "id": "7054",
@@ -104,8 +115,9 @@
     "name": "Small Lola Bag",
     "price": 249.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/small-lola-bag-7/1-514.jpg",
-    "subcategory": "mini-bag"
+    "subcategory": "mini-bag",
+    "thumb": "https://img.kynbag.com/products/small-lola-bag-7/1-514.jpg",
+    "imageCount": 5
   },
   {
     "id": "7053",
@@ -113,8 +125,9 @@
     "name": "Small Lola Bag",
     "price": 219.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/small-lola-bag-6/1-513.jpg",
-    "subcategory": "mini-bag"
+    "subcategory": "mini-bag",
+    "thumb": "https://img.kynbag.com/products/small-lola-bag-6/1-513.jpg",
+    "imageCount": 5
   },
   {
     "id": "7052",
@@ -122,8 +135,9 @@
     "name": "Small Lola Bag",
     "price": 219.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/small-lola-bag-5/1-512.jpg",
-    "subcategory": "mini-bag"
+    "subcategory": "mini-bag",
+    "thumb": "https://img.kynbag.com/products/small-lola-bag-5/1-512.jpg",
+    "imageCount": 5
   },
   {
     "id": "7051",
@@ -131,8 +145,9 @@
     "name": "Small Lola Bag",
     "price": 219.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/small-lola-bag-4/1-511.jpg",
-    "subcategory": "mini-bag"
+    "subcategory": "mini-bag",
+    "thumb": "https://img.kynbag.com/products/small-lola-bag-4/1-511.jpg",
+    "imageCount": 5
   },
   {
     "id": "7002",
@@ -140,8 +155,9 @@
     "name": "Small Lola Bag",
     "price": 219.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/small-lola-bag-3/1-510.jpg",
-    "subcategory": "mini-bag"
+    "subcategory": "mini-bag",
+    "thumb": "https://img.kynbag.com/products/small-lola-bag-3/1-510.jpg",
+    "imageCount": 5
   },
   {
     "id": "7001",
@@ -149,8 +165,9 @@
     "name": "Small Lola Bag",
     "price": 219.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/small-lola-bag-2/1-509.jpg",
-    "subcategory": "mini-bag"
+    "subcategory": "mini-bag",
+    "thumb": "https://img.kynbag.com/products/small-lola-bag-2/1-509.jpg",
+    "imageCount": 5
   },
   {
     "id": "7000",
@@ -158,8 +175,9 @@
     "name": "Small Lola Bag",
     "price": 219.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/small-lola-bag/1-508.jpg",
-    "subcategory": "mini-bag"
+    "subcategory": "mini-bag",
+    "thumb": "https://img.kynbag.com/products/small-lola-bag/1-508.jpg",
+    "imageCount": 5
   },
   {
     "id": "6999",
@@ -167,8 +185,9 @@
     "name": "Medium Lola Bag",
     "price": 219.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/medium-lola-bag-2/1-507.jpg",
-    "subcategory": "shoulder-bag"
+    "subcategory": "shoulder-bag",
+    "thumb": "https://img.kynbag.com/products/medium-lola-bag-2/1-507.jpg",
+    "imageCount": 5
   },
   {
     "id": "6998",
@@ -176,8 +195,9 @@
     "name": "Medium Lola Bag",
     "price": 219.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/medium-lola-bag/1-506.jpg",
-    "subcategory": "shoulder-bag"
+    "subcategory": "shoulder-bag",
+    "thumb": "https://img.kynbag.com/products/medium-lola-bag/1-506.jpg",
+    "imageCount": 5
   },
   {
     "id": "6997",
@@ -185,8 +205,9 @@
     "name": "Mini Vintage Check Two Handle Title Bag",
     "price": 219.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/mini-vintage-check-two-handle-title-bag-2/1-505.jpg",
-    "subcategory": "check"
+    "subcategory": "check",
+    "thumb": "https://img.kynbag.com/products/mini-vintage-check-two-handle-title-bag-2/1-505.jpg",
+    "imageCount": 5
   },
   {
     "id": "6948",
@@ -194,8 +215,9 @@
     "name": "Mini Vintage Check Two Handle Title Bag",
     "price": 219.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/mini-vintage-check-two-handle-title-bag/1-504.jpg",
-    "subcategory": "check"
+    "subcategory": "check",
+    "thumb": "https://img.kynbag.com/products/mini-vintage-check-two-handle-title-bag/1-504.jpg",
+    "imageCount": 5
   },
   {
     "id": "6947",
@@ -203,8 +225,9 @@
     "name": "Small Vintage Check Two Handle Title Bag",
     "price": 219.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/small-vintage-check-two-handle-title-bag-2/1-503.jpg",
-    "subcategory": "check"
+    "subcategory": "check",
+    "thumb": "https://img.kynbag.com/products/small-vintage-check-two-handle-title-bag-2/1-503.jpg",
+    "imageCount": 5
   },
   {
     "id": "6946",
@@ -212,8 +235,9 @@
     "name": "Small Vintage Check Two Handle Title Bag",
     "price": 219.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/small-vintage-check-two-handle-title-bag/1-502.jpg",
-    "subcategory": "check"
+    "subcategory": "check",
+    "thumb": "https://img.kynbag.com/products/small-vintage-check-two-handle-title-bag/1-502.jpg",
+    "imageCount": 5
   },
   {
     "id": "6945",
@@ -221,8 +245,9 @@
     "name": "Mini Freya Tote",
     "price": 219.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/mini-freya-tote-2/1-501.jpg",
-    "subcategory": "tote"
+    "subcategory": "tote",
+    "thumb": "https://img.kynbag.com/products/mini-freya-tote-2/1-501.jpg",
+    "imageCount": 5
   },
   {
     "id": "6944",
@@ -230,8 +255,9 @@
     "name": "Mini Freya Tote",
     "price": 219.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/mini-freya-tote/1-500.jpg",
-    "subcategory": "tote"
+    "subcategory": "tote",
+    "thumb": "https://img.kynbag.com/products/mini-freya-tote/1-500.jpg",
+    "imageCount": 5
   },
   {
     "id": "6943",
@@ -239,8 +265,9 @@
     "name": "Small Freya Tote",
     "price": 219.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/small-freya-tote/1-499.jpg",
-    "subcategory": "mini-bag"
+    "subcategory": "mini-bag",
+    "thumb": "https://img.kynbag.com/products/small-freya-tote/1-499.jpg",
+    "imageCount": 5
   },
   {
     "id": "6894",
@@ -248,8 +275,9 @@
     "name": "Medium Freya Tote",
     "price": 229.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/medium-freya-tote-2/1-498.jpg",
-    "subcategory": "shoulder-bag"
+    "subcategory": "shoulder-bag",
+    "thumb": "https://img.kynbag.com/products/medium-freya-tote-2/1-498.jpg",
+    "imageCount": 5
   },
   {
     "id": "6893",
@@ -257,7 +285,8 @@
     "name": "Medium Freya Tote",
     "price": 229.99,
     "brand": "Burberry",
-    "image": "https://img.kynbag.com/products/medium-freya-tote/1-497.jpg",
-    "subcategory": "shoulder-bag"
+    "subcategory": "shoulder-bag",
+    "thumb": "https://img.kynbag.com/products/medium-freya-tote/1-497.jpg",
+    "imageCount": 5
   }
 ]

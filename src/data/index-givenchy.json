@@ -5,8 +5,9 @@
     "name": "GIVENCHY Medium Antigona bag",
     "price": 289.99,
     "brand": "Givenchy",
-    "image": "https://img.kynbag.com/products/givenchy-medium-antigona-bag/1-861.jpg",
-    "subcategory": "antigona"
+    "subcategory": "antigona",
+    "thumb": "https://img.kynbag.com/products/givenchy-medium-antigona-bag/1-861.jpg",
+    "imageCount": 5
   },
   {
     "id": "10312",
@@ -14,8 +15,9 @@
     "name": "GIVENCHY Small Antigona",
     "price": 279.99,
     "brand": "Givenchy",
-    "image": "https://img.kynbag.com/products/givenchy-small-antigona-3/1-860.jpg",
-    "subcategory": "antigona"
+    "subcategory": "antigona",
+    "thumb": "https://img.kynbag.com/products/givenchy-small-antigona-3/1-860.jpg",
+    "imageCount": 5
   },
   {
     "id": "10311",
@@ -23,8 +25,9 @@
     "name": "GIVENCHY Small Antigona",
     "price": 319.99,
     "brand": "Givenchy",
-    "image": "https://img.kynbag.com/products/givenchy-small-antigona-2/1-859.jpg",
-    "subcategory": "antigona"
+    "subcategory": "antigona",
+    "thumb": "https://img.kynbag.com/products/givenchy-small-antigona-2/1-859.jpg",
+    "imageCount": 5
   },
   {
     "id": "10270",
@@ -32,7 +35,8 @@
     "name": "GIVENCHY Small Antigona",
     "price": 279.99,
     "brand": "Givenchy",
-    "image": "https://img.kynbag.com/products/givenchy-small-antigona/1-858.jpg",
-    "subcategory": "antigona"
+    "subcategory": "antigona",
+    "thumb": "https://img.kynbag.com/products/givenchy-small-antigona/1-858.jpg",
+    "imageCount": 5
   }
 ]
