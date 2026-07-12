@@ -3,6 +3,7 @@ import { useEffect, useState, useMemo } from 'react';
 import { SlidersHorizontal, X, ChevronDown } from 'lucide-react';
 import ProductCard from '@/components/ProductCard';
 import Pagination from '@/components/Pagination';
+import SubcategoryFilter from '@/components/SubcategoryFilter';
 import { brands, getAllProductIndex, getSubcategoriesByBrand } from '@/lib/data';
 import { useFilterStore, type SortOption } from '@/store/useFilterStore';
 import type { ProductIndex } from '@/types';
@@ -321,6 +322,11 @@ export default function Products() {
                   )}
                 </div>
               </div>
+            )}
+
+            {/* 子分类标签云 - 选中品牌时显示 */}
+            {selectedBrandSubcategories && (
+              <SubcategoryFilter subcategories={selectedBrandSubcategories} />
             )}
 
             {/* 商品网格 */}

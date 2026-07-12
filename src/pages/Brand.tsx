@@ -4,6 +4,7 @@ import { useParams, Link } from 'react-router-dom';
 import { ChevronDown, SlidersHorizontal, X } from 'lucide-react';
 import ProductCard from '@/components/ProductCard';
 import Pagination from '@/components/Pagination';
+import SubcategoryFilter from '@/components/SubcategoryFilter';
 import { getBrandBySlug, getBrandIndex, brands, getSubcategoriesByBrand } from '@/lib/data';
 import { useFilterStore, type SortOption } from '@/store/useFilterStore';
 import type { ProductIndex } from '@/types';
@@ -257,6 +258,11 @@ export default function BrandPage() {
                   )}
                 </div>
               </div>
+            )}
+
+            {/* 子分类标签云 - 所有设备可见 */}
+            {brandSubcategories && (
+              <SubcategoryFilter subcategories={brandSubcategories} />
             )}
 
             {/* 商品网格 */}
