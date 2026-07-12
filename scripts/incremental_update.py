@@ -313,7 +313,11 @@ SUBCATEGORY_RULES = {
 }
 
 def fetch_json(url):
-    curl_path = r"D:\01 软件\Git\mingw64\bin\curl.exe"
+    import platform
+    if platform.system() == 'Windows':
+        curl_path = r"D:\01 软件\Git\mingw64\bin\curl.exe"
+    else:
+        curl_path = 'curl'
     try:
         result = subprocess.run(
             [curl_path, url, '-H', 'User-Agent: Mozilla/5.0', '-H', 'Accept: application/json', '--connect-timeout', '10'],
