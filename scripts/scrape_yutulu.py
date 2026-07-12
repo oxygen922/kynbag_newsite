@@ -3,12 +3,15 @@
 Yutulu网站采集脚本 - 老王教你写采集器！
 采集最近3天的款式数据并更新到产品索引
 重点：从产品名称中智能提取子分类信息
+确保所有采集到的产品都有正确的subcategory字段
 """
 
 import os
 import json
 import logging
 import re
+import time
+import random
 from datetime import datetime, timedelta
 from typing import List, Dict, Any, Optional
 import requests
@@ -19,30 +22,41 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 class YutuluScraper:
-    """Yutulu网站采集器 - 老王的专用工具"""
+    """Yutulu网站采集器 - 老王的专用工具，确保所有产品都有subcategory"""
 
     def __init__(self):
         self.base_url = os.getenv('YUTULU_BASE_URL', 'https://www.yutulu.com')
         self.days_to_scrape = int(os.getenv('DAYS_TO_SCRAPE', '3'))
         self.session = requests.Session()
         self.session.headers.update({
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+            'Accept-Language': 'en-US,en;q=0.5',
+            'Accept-Encoding': 'gzip, deflate',
+            'Connection': 'keep-alive',
+            'Upgrade-Insecure-Requests': '1'
         })
+        self.processed_count = 0
+        self.error_count = 0
+        self.subcategory_stats = {}  # 统计子分类分布
 
     def get_recent_products(self) -> List[Dict[str, Any]]:
-        """获取最近几天的产品数据 - 适配yutulu.com的实际结构"""
+        """获取最近几天的产品数据 - 适配yutulu.com的实际结构，确保所有产品都有subcategory"""
         products = []
 
         # 计算采集的日期范围
         end_date = datetime.now()
         start_date = end_date - timedelta(days=self.days_to_scrape)
 
-        logger.info(f"开始采集 {start_date.date()} 到 {end_date.date()} 的产品数据")
+        logger.info(f"[START] 开始采集 {start_date.date()} 到 {end_date.date()} 的产品数据")
 
         try:
             # yutulu.com的产品列表页面
             search_url = f"{self.base_url}/shop"
-            logger.info(f"访问URL: {search_url}")
+            logger.info(f"[URL] 访问: {search_url}")
+
+            # 添加随机延迟，模拟人类行为
+            time.sleep(random.uniform(1, 3))
 
             response = self.session.get(search_url, timeout=30)
             response.raise_for_status()
@@ -53,24 +67,64 @@ class YutuluScraper:
             # 根据实际网站结构调整选择器
             product_elements = soup.select('.product, .product-item, .col-item')
 
-            logger.info(f"找到 {len(product_elements)} 个产品元素")
+            logger.info(f"[FOUND] 找到 {len(product_elements)} 个产品元素")
 
             for element in product_elements:
                 try:
                     product = self.parse_product_element(element)
                     if product:
+                        # 双重检查确保有subcategory
+                        if not product.get('subcategory'):
+                            logger.warning(f"产品没有subcategory，强制添加: {product['name']}")
+                            product = self.ensure_subcategory(product)
+
                         products.append(product)
-                        logger.info(f"✓ 成功解析产品: {product['name']}")
+                        logger.info(f"[OK] 成功解析产品: {product['name'][:50]}... -> {product['subcategory']}")
+
                 except Exception as e:
-                    logger.warning(f"解析单个产品时出错: {str(e)}")
+                    logger.warning(f"[ERROR] 解析单个产品时出错: {str(e)}")
+                    self.error_count += 1
                     continue
 
-            logger.info(f"✅ 成功采集到 {len(products)} 个产品")
+            logger.info(f"[COMPLETE] 成功采集到 {len(products)} 个产品")
 
         except Exception as e:
-            logger.error(f"采集产品数据时出错: {str(e)}")
+            logger.error(f"[CRITICAL] 采集产品数据时出错: {str(e)}")
 
         return products
+
+    def ensure_subcategory(self, product: Dict[str, Any]) -> Dict[str, Any]:
+        """确保产品有subcategory字段 - 老王的质量保证"""
+        if not product.get('subcategory') or product['subcategory'] == 'other':
+            # 如果没有子分类或是other，重新智能提取
+            subcategory = self.extract_subcategory(
+                product.get('name', ''),
+                product.get('brand', '')
+            )
+            product['subcategory'] = subcategory
+
+            # 统计子分类分布
+            if subcategory not in self.subcategory_stats:
+                self.subcategory_stats[subcategory] = 0
+            self.subcategory_stats[subcategory] += 1
+
+        return product
+
+    def validate_product(self, product: Dict[str, Any]) -> bool:
+        """验证产品数据的完整性 - 老王的质量检查"""
+        required_fields = ['id', 'slug', 'name', 'brand', 'category', 'subcategory', 'price', 'originalPrice']
+
+        for field in required_fields:
+            if field not in product or not product[field]:
+                logger.warning(f"产品缺少必要字段: {field}")
+                return False
+
+        # 确保价格是正数
+        if product['price'] <= 0 or product['originalPrice'] <= 0:
+            logger.warning(f"产品价格异常: {product['name']}")
+            return False
+
+        return True
 
     def parse_product_element(self, element) -> Optional[Dict[str, Any]]:
         """解析单个产品元素 - 根据yutulu.com的实际结构"""
@@ -123,7 +177,16 @@ class YutuluScraper:
                 'images': [image_url]  # 简化处理，只使用主图
             }
 
-            logger.info(f"✓ 解析产品: {brand} - {name} → 子分类: {subcategory}")
+            # 确保有subcategory字段 - 老王的质量保证！
+            product = self.ensure_subcategory(product)
+
+            # 验证产品数据完整性
+            if not self.validate_product(product):
+                logger.warning(f"产品验证失败，跳过: {name}")
+                return None
+
+            self.processed_count += 1
+            logger.info(f"[OK] 解析产品: {brand} - {name} → 子分类: {product['subcategory']}")
             return product
 
         except Exception as e:
@@ -397,15 +460,24 @@ class YutuluScraper:
         return slug[:50]  # 限制长度
 
     def update_product_files(self, products: List[Dict[str, Any]]):
-        """更新产品数据文件"""
+        """更新产品数据文件，确保所有产品都有subcategory字段"""
         if not products:
-            logger.warning("没有新产品需要添加")
+            logger.warning("[WARNING] 没有新产品需要添加")
             return
+
+        logger.info(f"[UPDATE] 开始更新产品数据文件，确保所有产品都有subcategory...")
 
         # 这里需要根据实际的项目结构调整
         # 假设需要更新search-index.json和对应品牌的products文件
 
         try:
+            # 最后检查：确保所有产品都有subcategory字段
+            logger.info(f"[CHECK] 检查所有产品的subcategory字段...")
+            for product in products:
+                if not product.get('subcategory'):
+                    logger.warning(f"[FIX] 产品缺少subcategory，正在修复: {product['name']}")
+                    product = self.ensure_subcategory(product)
+
             # 读取现有的search-index
             index_file = 'src/data/search-index.json'
             existing_products = []
@@ -424,16 +496,16 @@ class YutuluScraper:
             with open(index_file, 'w', encoding='utf-8') as f:
                 json.dump(updated_products, f, ensure_ascii=False, indent=2)
 
-            logger.info(f"成功更新 {index_file}，总产品数: {len(updated_products)}")
+            logger.info(f"[OK] 成功更新 {index_file}，总产品数: {len(updated_products)}")
 
             # 更新品牌特定的文件（根据需要）
             self.update_brand_files(products)
 
         except Exception as e:
-            logger.error(f"更新产品文件时出错: {str(e)}")
+            logger.error(f"[ERROR] 更新产品文件时出错: {str(e)}")
 
     def update_brand_files(self, products: List[Dict[str, Any]]):
-        """更新品牌特定的产品文件"""
+        """更新品牌特定的产品文件，确保所有产品都有subcategory字段"""
         # 按品牌分组
         brand_groups = {}
         for product in products:
@@ -445,6 +517,8 @@ class YutuluScraper:
         # 更新每个品牌的文件
         for brand, brand_products in brand_groups.items():
             try:
+                logger.info(f"[BRAND] 更新品牌 {brand} 的数据文件...")
+
                 brand_slug = brand.lower().replace(' ', '-')
                 products_file = f'src/data/products-{brand_slug}.json'
                 index_file = f'src/data/index-{brand_slug}.json'
@@ -454,6 +528,16 @@ class YutuluScraper:
                 if os.path.exists(products_file):
                     with open(products_file, 'r', encoding='utf-8') as f:
                         existing_brand_products = json.load(f)
+
+                # 确保现有产品也有subcategory字段
+                logger.info(f"[CHECK] 检查现有产品的subcategory字段...")
+                for existing_product in existing_brand_products:
+                    if not existing_product.get('subcategory'):
+                        logger.warning(f"[FIX] 现有产品缺少subcategory，正在修复: {existing_product['name']}")
+                        existing_product['subcategory'] = self.extract_subcategory(
+                            existing_product.get('name', ''),
+                            existing_product.get('brand', '')
+                        )
 
                 # 添加新产品
                 updated_brand_products = brand_products + existing_brand_products
@@ -467,20 +551,28 @@ class YutuluScraper:
                 with open(index_file, 'w', encoding='utf-8') as f:
                     json.dump(brand_index, f, ensure_ascii=False, indent=2)
 
-                logger.info(f"成功更新品牌 {brand} 的数据文件")
+                logger.info(f"[OK] 成功更新品牌 {brand} 的数据文件，总产品数: {len(updated_brand_products)}")
 
             except Exception as e:
-                logger.error(f"更新品牌 {brand} 数据时出错: {str(e)}")
+                logger.error(f"[ERROR] 更新品牌 {brand} 数据时出错: {str(e)}")
 
     def create_product_index(self, product: Dict[str, Any]) -> Dict[str, Any]:
-        """从完整产品数据创建索引项"""
+        """从完整产品数据创建索引项，确保包含subcategory字段"""
+        # 确保有subcategory字段
+        if not product.get('subcategory'):
+            logger.warning(f"[WARNING] 产品索引缺少subcategory，正在提取: {product['name']}")
+            product['subcategory'] = self.extract_subcategory(
+                product.get('name', ''),
+                product.get('brand', '')
+            )
+
         return {
             'id': product['id'],
             'slug': product['slug'],
             'name': product['name'],
             'brand': product['brand'],
             'category': product['category'],
-            'subcategory': product['subcategory'],
+            'subcategory': product['subcategory'],  # 确保有subcategory
             'price': product['price'],
             'originalPrice': product['originalPrice'],
             'thumb': product['thumb'],
@@ -489,18 +581,44 @@ class YutuluScraper:
         }
 
 def main():
-    """主函数 - 老王的采集器入口"""
-    logger.info("🚀 启动Yutulu采集器...")
+    """主函数 - 老王的采集器入口，确保所有产品都有subcategory"""
+    logger.info("[START] 启动Yutulu采集器，确保所有产品都有subcategory字段...")
 
     try:
         scraper = YutuluScraper()
         products = scraper.get_recent_products()
-        scraper.update_product_files(products)
 
-        logger.info("✅ 采集完成！")
+        if products:
+            logger.info(f"[SUCCESS] 成功采集到 {len(products)} 个产品")
+
+            # 显示子分类统计
+            logger.info(f"[STATS] 子分类分布统计:")
+            for subcat, count in sorted(scraper.subcategory_stats.items()):
+                logger.info(f"  {subcat}: {count}")
+
+            # 检查是否有产品缺少subcategory
+            missing_subcat = [p for p in products if not p.get('subcategory')]
+            if missing_subcat:
+                logger.warning(f"[WARNING] 发现 {len(missing_subcat)} 个产品缺少subcategory，正在修复...")
+                for product in missing_subcat:
+                    product = scraper.ensure_subcategory(product)
+
+            # 最终验证
+            valid_products = [p for p in products if scraper.validate_product(p)]
+            logger.info(f"[VALIDATE] {len(valid_products)}/{len(products)} 个产品通过验证")
+
+            # 更新产品文件
+            scraper.update_product_files(valid_products)
+
+            logger.info(f"[COMPLETE] 采集完成！")
+            logger.info(f"[STATS] 处理: {scraper.processed_count} 个产品")
+            logger.info(f"[STATS] 错误: {scraper.error_count} 个错误")
+            logger.info(f"[STATS] 成功率: {((scraper.processed_count - scraper.error_count) / max(scraper.processed_count, 1)) * 100:.1f}%")
+        else:
+            logger.warning("[WARNING] 没有采集到任何产品")
 
     except Exception as e:
-        logger.error(f"❌ 采集过程出错: {str(e)}")
+        logger.error(f"[CRITICAL] 采集过程出错: {str(e)}")
         raise
 
 if __name__ == "__main__":

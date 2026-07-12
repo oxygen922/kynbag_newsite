@@ -10,7 +10,8 @@
       "Bash(python -c \"import json; data=json.load\\(open\\('src/data/search-index.json', encoding='utf-8'\\)\\); print\\('Total products:', len\\(data\\)\\); print\\('Sample Chanel products:'\\); sample=[p for p in data if p.get\\('brand'\\)=='Chanel'][:3]; [print\\(f\\\\\"  {p['name'][:50]}... -> {p.get\\('subcategory', 'MISSING'\\)}\\\\\"\\) for p in sample]\")",
       "Bash(pip install *)",
       "Bash(python scripts/test_scraper.py)",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git push *)"
     ]
   }
 }
