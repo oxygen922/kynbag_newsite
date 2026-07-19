@@ -5,9 +5,9 @@
     "name": "Gucci Horsebit 1955 small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-small-shoulder-bag-8/1-15.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "61124",
@@ -15,9 +15,9 @@
     "name": "Gucci Horsebit 1955 small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-small-shoulder-bag-7/1-14.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "61115",
@@ -25,9 +25,9 @@
     "name": "Gucci Horsebit 1955 small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-small-shoulder-bag-6/1-13.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "61106",
@@ -35,9 +35,9 @@
     "name": "Gucci Brera medium crossbody bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "crossbody",
     "thumb": "https://img.kynbag.com/products/gucci-brera-medium-crossbody-bag-3/1-12.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "crossbody"
   },
   {
     "id": "61097",
@@ -45,9 +45,9 @@
     "name": "Gucci Brera medium crossbody bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "crossbody",
     "thumb": "https://img.kynbag.com/products/gucci-brera-medium-crossbody-bag-2/1-11.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "crossbody"
   },
   {
     "id": "61088",
@@ -55,9 +55,9 @@
     "name": "Gucci Brera medium crossbody bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "crossbody",
     "thumb": "https://img.kynbag.com/products/gucci-brera-medium-crossbody-bag/1-10.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "crossbody"
   },
   {
     "id": "61079",
@@ -65,9 +65,9 @@
     "name": "Gucci Ophidia mini bag",
     "price": 199.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-mini-bag-2/1-9.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "61070",
@@ -75,9 +75,9 @@
     "name": "Gucci Ophidia mini bag",
     "price": 199.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-mini-bag/1-8.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "61016",
@@ -85,9 +85,9 @@
     "name": "Gucci Giglio small tote bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-giglio-small-tote-bag-5/1-4.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "61007",
@@ -95,9 +95,9 @@
     "name": "Gucci Giglio small tote bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-giglio-small-tote-bag-4/1-3.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "60998",
@@ -105,9 +105,9 @@
     "name": "Gucci Giglio small tote bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-giglio-small-tote-bag-3/1-2.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "60989",
@@ -115,9 +115,9 @@
     "name": "Gucci Giglio small tote bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-giglio-small-tote-bag-2/1-1.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "60980",
@@ -125,9 +125,9 @@
     "name": "Gucci Giglio small tote bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-giglio-small-tote-bag/1.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "60719",
@@ -135,9 +135,9 @@
     "name": "Gucci Mercato small tote bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-mercato-small-tote-baghigh-end-grade-3/1-60.jpg",
-    "imageCount": 5
+    "imageCount": 7,
+    "subcategory": "mini-bag"
   },
   {
     "id": "60710",
@@ -145,9 +145,9 @@
     "name": "Gucci Mercato small tote bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-mercato-small-tote-baghigh-end-grade-2/1-59.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "60701",
@@ -155,9 +155,9 @@
     "name": "Gucci Mercato small tote bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-mercato-small-tote-baghigh-end-grade/1-58.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "60692",
@@ -165,9 +165,9 @@
     "name": "Gucci Mercato medium tote bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-mercato-medium-tote-baghigh-end-grade-3/1-57.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60683",
@@ -175,9 +175,9 @@
     "name": "Gucci Mercato medium tote bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-mercato-medium-tote-baghigh-end-grade-2/1-56.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60674",
@@ -185,9 +185,9 @@
     "name": "Gucci Mercato medium tote bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-mercato-medium-tote-baghigh-end-grade/1-55.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60665",
@@ -195,9 +195,9 @@
     "name": "Gucci Mercato large tote bag(HIGH-END GRADE)",
     "price": 319.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-mercato-large-tote-baghigh-end-grade/1-54.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "60656",
@@ -205,9 +205,9 @@
     "name": "Gucci Borsetto medium boston bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-borsetto-medium-boston-baghigh-end-grade-4/1-53.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60647",
@@ -215,9 +215,9 @@
     "name": "Gucci Borsetto medium boston bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-borsetto-medium-boston-baghigh-end-grade-3/1-52.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60638",
@@ -225,9 +225,9 @@
     "name": "Gucci Borsetto medium boston bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-borsetto-medium-boston-baghigh-end-grade-2/1-51.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60629",
@@ -235,9 +235,9 @@
     "name": "Gucci Borsetto medium boston bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-borsetto-medium-boston-baghigh-end-grade/1-50.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60620",
@@ -245,9 +245,9 @@
     "name": "Gucci Borsetto large boston bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-borsetto-large-boston-baghigh-end-grade-5/1-49.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60611",
@@ -255,9 +255,9 @@
     "name": "Gucci Borsetto large boston bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-borsetto-large-boston-baghigh-end-grade-4/1-48.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60602",
@@ -265,9 +265,9 @@
     "name": "Gucci Borsetto large boston bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-borsetto-large-boston-baghigh-end-grade-3/1-47.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60593",
@@ -275,9 +275,9 @@
     "name": "Gucci Borsetto large boston bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-borsetto-large-boston-baghigh-end-grade-2/1-46.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60495",
@@ -285,9 +285,9 @@
     "name": "Gucci Borsetto large boston bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-borsetto-large-boston-baghigh-end-grade/1-35.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60214",
@@ -295,9 +295,9 @@
     "name": "GG Emblem small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-small-shoulder-bag-8/1-11.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "60205",
@@ -305,9 +305,9 @@
     "name": "GG Emblem small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-small-shoulder-bag-7/1-10.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "60196",
@@ -315,9 +315,9 @@
     "name": "GG Marmont mini shoulder bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-mini-shoulder-bag-6/1-9.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "60187",
@@ -325,9 +325,9 @@
     "name": "GG Marmont mini shoulder bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-mini-shoulder-bag-5/1-8.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "60178",
@@ -335,9 +335,9 @@
     "name": "GG Marmont mini shoulder bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-mini-shoulder-bag-4/1-7.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "60169",
@@ -345,9 +345,9 @@
     "name": "GG Marmont mini shoulder bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-mini-shoulder-bag-3/1-6.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "60160",
@@ -355,9 +355,9 @@
     "name": "GG Marmont mini shoulder bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-mini-shoulder-bag-2/1-5.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "60151",
@@ -365,9 +365,9 @@
     "name": "GG Marmont mini shoulder bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-mini-shoulder-bag/1-4.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "60142",
@@ -375,9 +375,9 @@
     "name": "GG Marmont mini backpack",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-mini-backpack-3/1-3.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "60133",
@@ -385,9 +385,9 @@
     "name": "GG Marmont mini backpack",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-mini-backpack-2/1-2.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "60124",
@@ -395,9 +395,9 @@
     "name": "GG Marmont mini backpack",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-mini-backpack/1-1.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "59436",
@@ -405,9 +405,9 @@
     "name": "GG Paparazzo medium top handle bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-paparazzo-medium-top-handle-bag/1-132.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "59427",
@@ -415,9 +415,9 @@
     "name": "GG Paparazzo large top handle bag",
     "price": 259.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-paparazzo-large-top-handle-bag-2/1-131.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "59418",
@@ -425,9 +425,9 @@
     "name": "GG Paparazzo large top handle bag",
     "price": 259.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-paparazzo-large-top-handle-bag/1-130.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "59409",
@@ -435,9 +435,9 @@
     "name": "Gucci Londra large tote bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-londra-large-tote-bag/1-129.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "59445",
@@ -445,9 +445,9 @@
     "name": "GG Paparazzo medium top handle bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-paparazzo-medium-top-handle-bag-2/1-133.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "59073",
@@ -455,9 +455,9 @@
     "name": "GG Emblem small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-small-shoulder-bag-6/1-93.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "59064",
@@ -465,9 +465,9 @@
     "name": "GG Emblem small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-small-shoulder-bag-5/1-92.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "59055",
@@ -475,9 +475,9 @@
     "name": "GG Emblem small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-small-shoulder-bag-4/1-91.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "58261",
@@ -485,9 +485,9 @@
     "name": "GG Ophidia small shoulder bag",
     "price": 199.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gg-ophidia-small-shoulder-bag-2/1-12.jpg",
-    "imageCount": 5
+    "imageCount": 9,
+    "subcategory": "mini-bag"
   },
   {
     "id": "58251",
@@ -495,9 +495,9 @@
     "name": "GG Ophidia small shoulder bag",
     "price": 199.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gg-ophidia-small-shoulder-bag/1-11.jpg",
-    "imageCount": 5
+    "imageCount": 9,
+    "subcategory": "mini-bag"
   },
   {
     "id": "57953",
@@ -505,9 +505,9 @@
     "name": "GG Marmont small shoulder bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-small-shoulder-bag-6/1-5967.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "57944",
@@ -515,9 +515,9 @@
     "name": "GG Marmont small shoulder bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-small-shoulder-bag-5/1-5966.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "57935",
@@ -525,9 +525,9 @@
     "name": "GG Marmont small shoulder bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-small-shoulder-bag-4/1-5965.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "57926",
@@ -535,9 +535,9 @@
     "name": "GG Marmont small shoulder bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-small-shoulder-bag-3/1-5964.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "57917",
@@ -545,9 +545,9 @@
     "name": "GG Marmont small camera bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-small-camera-bag-7/1-5963.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "57908",
@@ -555,9 +555,9 @@
     "name": "GG Marmont small camera bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-small-camera-bag-6/1-5962.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "57899",
@@ -565,9 +565,9 @@
     "name": "GG Marmont small camera bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-small-camera-bag-5/1-5961.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "57890",
@@ -575,9 +575,9 @@
     "name": "GG Marmont small camera bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-small-camera-bag-4/1-5960.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "57881",
@@ -585,9 +585,9 @@
     "name": "GG Marmont small camera bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-small-camera-bag-3/1-5959.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "57872",
@@ -595,9 +595,9 @@
     "name": "GG Marmont small camera bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-small-camera-bag-2/1-5958.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "57862",
@@ -605,9 +605,9 @@
     "name": "GG Marmont small camera bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-small-camera-bag/1-5957.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "50941",
@@ -615,9 +615,9 @@
     "name": "GG Marmont Long Wallet",
     "price": 159.99,
     "brand": "Gucci",
-    "subcategory": "wallet-on-chain",
     "thumb": "https://img.kynbag.com/products/gg-marmont-long-wallet-2/1-5328.jpg",
-    "imageCount": 5
+    "imageCount": 7,
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "50933",
@@ -625,9 +625,9 @@
     "name": "GG Marmont Long Wallet",
     "price": 159.99,
     "brand": "Gucci",
-    "subcategory": "wallet-on-chain",
     "thumb": "https://img.kynbag.com/products/gg-marmont-long-wallet/1-5327.jpg",
-    "imageCount": 5
+    "imageCount": 7,
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "50924",
@@ -635,9 +635,9 @@
     "name": "GG Marmont Chain Wallet",
     "price": 199.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-chain-wallet-7/1-5326.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "50915",
@@ -645,9 +645,9 @@
     "name": "GG Marmont Chain Wallet",
     "price": 199.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-chain-wallet-6/1-5325.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "50906",
@@ -655,9 +655,9 @@
     "name": "GG Marmont Chain Wallet",
     "price": 199.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-chain-wallet-5/1-5324.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "50897",
@@ -665,9 +665,9 @@
     "name": "GG Marmont Chain Wallet",
     "price": 199.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-chain-wallet-4/1-5323.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "50888",
@@ -675,9 +675,9 @@
     "name": "GG Marmont Chain Wallet",
     "price": 199.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-chain-wallet-3/1-5322.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "50879",
@@ -685,9 +685,9 @@
     "name": "GG Marmont Chain Wallet",
     "price": 199.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-chain-wallet-2/1-5321.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "50870",
@@ -695,9 +695,9 @@
     "name": "GG Marmont Chain Wallet",
     "price": 199.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-chain-wallet/1-5320.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "50861",
@@ -705,9 +705,9 @@
     "name": "GG Ophidia large tote bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gg-ophidia-large-tote-bag-3/1-5319.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "50852",
@@ -715,9 +715,9 @@
     "name": "GG Ophidia large tote bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gg-ophidia-large-tote-bag-2/1-5318.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "50843",
@@ -725,9 +725,9 @@
     "name": "GG Ophidia large tote bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gg-ophidia-large-tote-bag/1-5317.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "50834",
@@ -735,9 +735,9 @@
     "name": "GG Marmont small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-small-shoulder-bag-2/1-5316.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "50825",
@@ -745,9 +745,9 @@
     "name": "GG Marmont small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-small-shoulder-bag/1-5315.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "46536",
@@ -755,9 +755,9 @@
     "name": "Gucci Jackie Slim small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-slim-small-shoulder-bag-5/1-4891.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "46519",
@@ -765,9 +765,9 @@
     "name": "Gucci Jackie Slim small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-slim-small-shoulder-bag-4/1-4890.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "46518",
@@ -775,9 +775,9 @@
     "name": "Gucci Jackie Slim small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-slim-small-shoulder-bag-3/1-4889.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "46501",
@@ -785,9 +785,9 @@
     "name": "Gucci Jackie Slim small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-slim-small-shoulder-bag-2/1-4888.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "46500",
@@ -795,9 +795,9 @@
     "name": "Gucci Jackie Slim small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-slim-small-shoulder-bag/1-4887.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "46483",
@@ -805,9 +805,9 @@
     "name": "Gucci Jackie 1961 medium shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-1961-medium-shoulder-bag-5/1-4886.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "46482",
@@ -815,9 +815,9 @@
     "name": "Gucci Jackie 1961 medium shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-1961-medium-shoulder-bag-4/1-4885.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "46465",
@@ -825,9 +825,9 @@
     "name": "Gucci Jackie 1961 medium shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-1961-medium-shoulder-bag-3/1-4884.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "46464",
@@ -835,9 +835,9 @@
     "name": "Gucci Jackie 1961 medium shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-1961-medium-shoulder-bag-2/1-4883.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "46447",
@@ -845,9 +845,9 @@
     "name": "Gucci Large shoulder bag with chain(HIGH-END GRADE)",
     "price": 329.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-large-shoulder-bag-with-chainhigh-end-grade-4/1-4882.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "46446",
@@ -855,9 +855,9 @@
     "name": "Gucci Large shoulder bag with chain(HIGH-END GRADE)",
     "price": 329.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-large-shoulder-bag-with-chainhigh-end-grade-3/1-4881.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "46429",
@@ -865,9 +865,9 @@
     "name": "Gucci Large shoulder bag with chain(HIGH-END GRADE)",
     "price": 329.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-large-shoulder-bag-with-chainhigh-end-grade-2/1-4880.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "46428",
@@ -875,9 +875,9 @@
     "name": "Gucci Large shoulder bag with chain(HIGH-END GRADE)",
     "price": 329.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-large-shoulder-bag-with-chainhigh-end-grade/1-4879.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "46177",
@@ -885,9 +885,9 @@
     "name": "Gucci Siena small top handle bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-siena-small-top-handle-baghigh-end-grade-3/1-4852.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46176",
@@ -895,9 +895,9 @@
     "name": "Gucci Siena small top handle bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-siena-small-top-handle-baghigh-end-grade-2/1-4851.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46159",
@@ -905,9 +905,9 @@
     "name": "Gucci Siena small top handle bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-siena-small-top-handle-baghigh-end-grade/1-4850.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46158",
@@ -915,9 +915,9 @@
     "name": "Gucci Siena medium top handle bag(HIGH-END GRADE)",
     "price": 319.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-siena-medium-top-handle-baghigh-end-grade-3/1-4849.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46141",
@@ -925,9 +925,9 @@
     "name": "Gucci Siena medium top handle bag(HIGH-END GRADE)",
     "price": 319.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-siena-medium-top-handle-baghigh-end-grade-2/1-4848.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "46140",
@@ -935,9 +935,9 @@
     "name": "Gucci Siena medium top handle bag(HIGH-END GRADE)",
     "price": 319.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-siena-medium-top-handle-baghigh-end-grade/1-4847.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "45069",
@@ -945,9 +945,9 @@
     "name": "Gucci Medium shoulder bag with chain(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-medium-shoulder-bag-with-chainhigh-end-grade-4/1-4736.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "45068",
@@ -955,9 +955,9 @@
     "name": "Gucci Medium shoulder bag with chain(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-medium-shoulder-bag-with-chainhigh-end-grade-3/1-4735.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "45051",
@@ -965,9 +965,9 @@
     "name": "Gucci Medium shoulder bag with chain(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-medium-shoulder-bag-with-chainhigh-end-grade-2/1-4734.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "45050",
@@ -975,9 +975,9 @@
     "name": "Gucci Medium shoulder bag with chain(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-medium-shoulder-bag-with-chainhigh-end-grade/1-4733.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "45033",
@@ -985,9 +985,9 @@
     "name": "Gucci Horsebit 1955 Aura mini shoulder bag(HIGH-END GRADE)",
     "price": 279.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-aura-mini-shoulder-baghigh-end-grade-3/1-4732.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "45032",
@@ -995,9 +995,9 @@
     "name": "Gucci Horsebit 1955 Aura mini shoulder bag(HIGH-END GRADE)",
     "price": 279.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-aura-mini-shoulder-baghigh-end-grade-2/1-4731.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "45015",
@@ -1005,9 +1005,9 @@
     "name": "Gucci Horsebit 1955 Aura mini shoulder bag(HIGH-END GRADE)",
     "price": 279.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-aura-mini-shoulder-baghigh-end-grade/1-4730.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "45014",
@@ -1015,9 +1015,9 @@
     "name": "Gucci Horsebit 1955 Aura small shoulder bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-aura-small-shoulder-baghigh-end-grade-4/1-4729.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "44997",
@@ -1025,9 +1025,9 @@
     "name": "Gucci Horsebit 1955 Aura small shoulder bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-aura-small-shoulder-baghigh-end-grade-3/1-4728.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "44996",
@@ -1035,9 +1035,9 @@
     "name": "Gucci Horsebit 1955 Aura small shoulder bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-aura-small-shoulder-baghigh-end-grade-2/1-4727.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "44979",
@@ -1045,9 +1045,9 @@
     "name": "Gucci Horsebit 1955 Aura small shoulder bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-aura-small-shoulder-baghigh-end-grade/1-4726.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "44978",
@@ -1055,9 +1055,9 @@
     "name": "Gucci Horsebit 1955 Aura medium shoulder bag(HIGH-END GRADE)",
     "price": 319.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-aura-medium-shoulder-baghigh-end-grade/1-4725.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "44763",
@@ -1065,9 +1065,9 @@
     "name": "Gucci Siena small shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-siena-small-shoulder-bag-7/1-4702.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "44762",
@@ -1075,9 +1075,9 @@
     "name": "Gucci Siena small shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-siena-small-shoulder-bag-6/1-4701.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "44745",
@@ -1085,9 +1085,9 @@
     "name": "Gucci Siena small shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-siena-small-shoulder-bag-5/1-4700.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "44744",
@@ -1095,9 +1095,9 @@
     "name": "Gucci Siena small shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-siena-small-shoulder-bag-4/1-4699.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "44727",
@@ -1105,9 +1105,9 @@
     "name": "Gucci Siena small shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-siena-small-shoulder-bag-3/1-4698.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "44726",
@@ -1115,9 +1115,9 @@
     "name": "Gucci Siena small shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-siena-small-shoulder-bag-2/1-4697.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "44709",
@@ -1125,9 +1125,9 @@
     "name": "Gucci Siena small shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-siena-small-shoulder-bag/1-4696.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "44349",
@@ -1135,9 +1135,9 @@
     "name": "Gucci Ophidia small shoulder bag",
     "price": 199.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-shoulder-bag-2/1-4656.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "44348",
@@ -1145,9 +1145,9 @@
     "name": "Gucci Ophidia small shoulder bag",
     "price": 199.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-shoulder-bag/1-4655.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "44331",
@@ -1155,9 +1155,9 @@
     "name": "Gucci Vanity mini bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "vanity",
     "thumb": "https://img.kynbag.com/products/gucci-vanity-mini-bag/1-4654.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "vanity"
   },
   {
     "id": "44330",
@@ -1165,9 +1165,9 @@
     "name": "Gucci Vanity medium top handle bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-vanity-medium-top-handle-bag-2/1-4653.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "44313",
@@ -1175,9 +1175,9 @@
     "name": "Gucci Vanity medium top handle bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-vanity-medium-top-handle-bag/1-4652.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "44312",
@@ -1185,9 +1185,9 @@
     "name": "Gucci Giglio large tote bag(HIGH-END GRADE)",
     "price": 329.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-giglio-large-tote-baghigh-end-grade-2/1-4651.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "44295",
@@ -1195,9 +1195,9 @@
     "name": "Gucci Giglio large tote bag(HIGH-END GRADE)",
     "price": 329.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-giglio-large-tote-baghigh-end-grade/1-4650.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "44294",
@@ -1205,9 +1205,9 @@
     "name": "Gucci Giglio large tote bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-giglio-large-tote-bag-4/1-4649.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "44277",
@@ -1215,9 +1215,9 @@
     "name": "Gucci Beatrix medium tote bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-beatrix-medium-tote-bag/1-4648.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "44276",
@@ -1225,9 +1225,9 @@
     "name": "Gucci Half Horsebit large shoulder bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-half-horsebit-large-shoulder-bag-9/1-4647.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "44259",
@@ -1235,9 +1235,9 @@
     "name": "Gucci Half Horsebit large shoulder bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-half-horsebit-large-shoulder-bag-8/1-4646.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "44258",
@@ -1245,9 +1245,9 @@
     "name": "Gucci Half Horsebit large shoulder bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-half-horsebit-large-shoulder-bag-7/1-4645.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "44241",
@@ -1255,9 +1255,9 @@
     "name": "Gucci Half Horsebit large shoulder bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-half-horsebit-large-shoulder-bag-6/1-4644.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "44240",
@@ -1265,9 +1265,9 @@
     "name": "Gucci Half Horsebit large shoulder bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-half-horsebit-large-shoulder-bag-5/1-4643.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "44223",
@@ -1275,9 +1275,9 @@
     "name": "Gucci Half Horsebit large shoulder bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-half-horsebit-large-shoulder-bag-4/1-4642.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "44222",
@@ -1285,9 +1285,9 @@
     "name": "Gucci Half Horsebit large shoulder bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-half-horsebit-large-shoulder-bag-3/1-4641.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "44205",
@@ -1295,9 +1295,9 @@
     "name": "Gucci Half Horsebit large shoulder bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-half-horsebit-large-shoulder-bag-2/1-4640.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "44204",
@@ -1305,9 +1305,9 @@
     "name": "Gucci Half Horsebit large shoulder bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-half-horsebit-large-shoulder-bag/1-4639.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "44187",
@@ -1315,9 +1315,9 @@
     "name": "Gucci Softbit maxi shoulder bag(HIGH-END GRADE)",
     "price": 349.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-softbit-maxi-shoulder-baghigh-end-grade-13/1-4638.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "44186",
@@ -1325,9 +1325,9 @@
     "name": "Gucci Softbit maxi shoulder bag(HIGH-END GRADE)",
     "price": 349.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-softbit-maxi-shoulder-baghigh-end-grade-12/1-4637.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "44169",
@@ -1335,9 +1335,9 @@
     "name": "Gucci Softbit maxi shoulder bag(HIGH-END GRADE)",
     "price": 349.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-softbit-maxi-shoulder-baghigh-end-grade-11/1-4636.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "44168",
@@ -1345,9 +1345,9 @@
     "name": "Gucci Softbit maxi shoulder bag(HIGH-END GRADE)",
     "price": 349.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-softbit-maxi-shoulder-baghigh-end-grade-10/1-4635.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "44151",
@@ -1355,9 +1355,9 @@
     "name": "Gucci Softbit maxi shoulder bag(HIGH-END GRADE)",
     "price": 349.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-softbit-maxi-shoulder-baghigh-end-grade-9/1-4634.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "44150",
@@ -1365,9 +1365,9 @@
     "name": "Gucci Softbit maxi shoulder bag(HIGH-END GRADE)",
     "price": 349.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-softbit-maxi-shoulder-baghigh-end-grade-8/1-4633.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "44133",
@@ -1375,9 +1375,9 @@
     "name": "Gucci Softbit maxi shoulder bag(HIGH-END GRADE)",
     "price": 349.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-softbit-maxi-shoulder-baghigh-end-grade-7/1-4632.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "44132",
@@ -1385,9 +1385,9 @@
     "name": "Gucci Softbit maxi shoulder bag(HIGH-END GRADE)",
     "price": 349.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-softbit-maxi-shoulder-baghigh-end-grade-6/1-4631.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "41574",
@@ -1395,9 +1395,9 @@
     "name": "GG Marmont medium shoulder bag(HIGH-END GRADE)",
     "price": 339.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-medium-shoulder-baghigh-end-grade-4/1-4345.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "41573",
@@ -1405,9 +1405,9 @@
     "name": "GG Marmont medium shoulder bag(HIGH-END GRADE)",
     "price": 339.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-medium-shoulder-baghigh-end-grade-3/1-4344.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "41572",
@@ -1415,9 +1415,9 @@
     "name": "GG Marmont medium shoulder bag(HIGH-END GRADE)",
     "price": 339.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-medium-shoulder-baghigh-end-grade-2/1-4343.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "41571",
@@ -1425,9 +1425,9 @@
     "name": "GG Marmont medium shoulder bag(HIGH-END GRADE)",
     "price": 339.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-medium-shoulder-baghigh-end-grade/1-4342.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "41570",
@@ -1435,9 +1435,9 @@
     "name": "Gucci Jackie 1961 medium bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-1961-medium-baghigh-end-grade-14/1-4341.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "41569",
@@ -1445,9 +1445,9 @@
     "name": "Gucci Jackie 1961 medium bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-1961-medium-baghigh-end-grade-13/1-4340.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "41568",
@@ -1455,9 +1455,9 @@
     "name": "Gucci Jackie 1961 medium bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-1961-medium-baghigh-end-grade-12/1-4339.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "41567",
@@ -1465,9 +1465,9 @@
     "name": "Gucci Jackie 1961 medium bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-1961-medium-baghigh-end-grade-11/1-4338.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "41566",
@@ -1475,9 +1475,9 @@
     "name": "Gucci Jackie 1961 medium bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-1961-medium-baghigh-end-grade-10/1-4337.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "41565",
@@ -1485,9 +1485,9 @@
     "name": "Gucci Jackie 1961 medium bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-1961-medium-baghigh-end-grade-9/1-4336.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "41564",
@@ -1495,9 +1495,9 @@
     "name": "Gucci Jackie 1961 medium bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-1961-medium-baghigh-end-grade-8/1-4335.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "41563",
@@ -1505,9 +1505,9 @@
     "name": "Gucci Jackie 1961 medium bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-1961-medium-baghigh-end-grade-7/1-4334.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "41562",
@@ -1515,9 +1515,9 @@
     "name": "Gucci Jackie 1961 medium bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-1961-medium-baghigh-end-grade-6/1-4333.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "41561",
@@ -1525,9 +1525,9 @@
     "name": "Gucci Jackie 1961 medium bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-1961-medium-baghigh-end-grade-5/1-4332.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "41560",
@@ -1535,9 +1535,9 @@
     "name": "Gucci Jackie 1961 medium bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-1961-medium-baghigh-end-grade-4/1-4331.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "41559",
@@ -1545,9 +1545,9 @@
     "name": "Gucci Jackie 1961 medium bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-1961-medium-baghigh-end-grade-3/1-4330.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "41558",
@@ -1555,9 +1555,9 @@
     "name": "Gucci Jackie 1961 medium bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-1961-medium-baghigh-end-grade-2/1-4329.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "41557",
@@ -1565,9 +1565,9 @@
     "name": "Gucci Jackie 1961 medium bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-1961-medium-baghigh-end-grade/1-4328.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "41556",
@@ -1575,9 +1575,9 @@
     "name": "Gucci Half Horsebit medium shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-half-horsebit-medium-shoulder-bag-4/1-4327.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "41555",
@@ -1585,9 +1585,9 @@
     "name": "Gucci Half Horsebit medium shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-half-horsebit-medium-shoulder-bag-3/1-4326.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "41554",
@@ -1595,9 +1595,9 @@
     "name": "Gucci Half Horsebit medium shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-half-horsebit-medium-shoulder-bag-2/1-4325.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "41553",
@@ -1605,9 +1605,9 @@
     "name": "Gucci Half Horsebit medium shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-half-horsebit-medium-shoulder-bag/1-4324.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "41552",
@@ -1615,9 +1615,9 @@
     "name": "Gucci New Diana small tote bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "diana",
     "thumb": "https://img.kynbag.com/products/gucci-new-diana-small-tote-baghigh-end-grade-5/1-4323.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "diana"
   },
   {
     "id": "41551",
@@ -1625,9 +1625,9 @@
     "name": "Gucci New Diana small tote bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "diana",
     "thumb": "https://img.kynbag.com/products/gucci-new-diana-small-tote-baghigh-end-grade-4/1-4322.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "diana"
   },
   {
     "id": "41550",
@@ -1635,9 +1635,9 @@
     "name": "Gucci New Diana small tote bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "diana",
     "thumb": "https://img.kynbag.com/products/gucci-new-diana-small-tote-baghigh-end-grade-3/1-4321.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "diana"
   },
   {
     "id": "41549",
@@ -1645,9 +1645,9 @@
     "name": "Gucci New Diana small tote bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "diana",
     "thumb": "https://img.kynbag.com/products/gucci-new-diana-small-tote-baghigh-end-grade-2/1-4320.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "diana"
   },
   {
     "id": "41548",
@@ -1655,9 +1655,9 @@
     "name": "Gucci New Diana small tote bag(HIGH-END GRADE)",
     "price": 289.99,
     "brand": "Gucci",
-    "subcategory": "diana",
     "thumb": "https://img.kynbag.com/products/gucci-new-diana-small-tote-baghigh-end-grade/1-4319.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "diana"
   },
   {
     "id": "41387",
@@ -1665,9 +1665,9 @@
     "name": "Gucci New Diana medium tote bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-new-diana-medium-tote-baghigh-end-grade-3/1-4318.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "41386",
@@ -1675,9 +1675,9 @@
     "name": "Gucci New Diana medium tote bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-new-diana-medium-tote-baghigh-end-grade-2/1-4317.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "41369",
@@ -1685,9 +1685,9 @@
     "name": "Gucci New Diana medium tote bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-new-diana-medium-tote-baghigh-end-grade/1-4316.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "41368",
@@ -1695,9 +1695,9 @@
     "name": "Gucci New Diana large tote bag(HIGH-END GRADE)",
     "price": 329.99,
     "brand": "Gucci",
-    "subcategory": "diana",
     "thumb": "https://img.kynbag.com/products/gucci-new-diana-large-tote-baghigh-end-grade-2/1-4315.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "diana"
   },
   {
     "id": "41351",
@@ -1705,9 +1705,9 @@
     "name": "Gucci New Diana large tote bag(HIGH-END GRADE)",
     "price": 329.99,
     "brand": "Gucci",
-    "subcategory": "diana",
     "thumb": "https://img.kynbag.com/products/gucci-new-diana-large-tote-baghigh-end-grade/1-4314.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "diana"
   },
   {
     "id": "41350",
@@ -1715,9 +1715,9 @@
     "name": "Gucci Beatrix large tote bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-beatrix-large-tote-baghigh-end-grade-6/1-4313.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "41333",
@@ -1725,9 +1725,9 @@
     "name": "Gucci Beatrix large tote bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-beatrix-large-tote-baghigh-end-grade-5/1-4312.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "41332",
@@ -1735,9 +1735,9 @@
     "name": "Gucci Beatrix large tote bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-beatrix-large-tote-baghigh-end-grade-4/1-4311.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "41315",
@@ -1745,9 +1745,9 @@
     "name": "Gucci Beatrix large tote bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-beatrix-large-tote-baghigh-end-grade-3/1-4310.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "41314",
@@ -1755,9 +1755,9 @@
     "name": "Gucci Beatrix large tote bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-beatrix-large-tote-baghigh-end-grade-2/1-4309.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "39011",
@@ -1765,9 +1765,9 @@
     "name": "Gucci Padlock medium top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-padlock-medium-top-handle-bag-5/1-4054.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "39010",
@@ -1775,9 +1775,9 @@
     "name": "Gucci Padlock medium top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-padlock-medium-top-handle-bag-4/1-4053.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38993",
@@ -1785,9 +1785,9 @@
     "name": "Gucci Padlock medium top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-padlock-medium-top-handle-bag-3/1-4052.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38992",
@@ -1795,9 +1795,9 @@
     "name": "Gucci Padlock medium top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-padlock-medium-top-handle-bag-2/1-4051.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38975",
@@ -1805,9 +1805,9 @@
     "name": "Gucci Padlock medium top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-padlock-medium-top-handle-bag/1-4050.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38974",
@@ -1815,9 +1815,9 @@
     "name": "Gucci Blondie small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-small-shoulder-bag-8/1-4049.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38957",
@@ -1825,9 +1825,9 @@
     "name": "Gucci Blondie small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-small-shoulder-bag-7/1-4048.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38956",
@@ -1835,9 +1835,9 @@
     "name": "Gucci Blondie small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-small-shoulder-bag-6/1-4047.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38939",
@@ -1845,9 +1845,9 @@
     "name": "Gucci Blondie small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-small-shoulder-bag-5/1-4046.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38938",
@@ -1855,9 +1855,9 @@
     "name": "Gucci Blondie small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-small-shoulder-bag-4/1-4045.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38921",
@@ -1865,9 +1865,9 @@
     "name": "Gucci Blondie small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-small-shoulder-bag-3/1-4044.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38920",
@@ -1875,9 +1875,9 @@
     "name": "Gucci Blondie small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-small-shoulder-bag-2/1-4043.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38903",
@@ -1885,9 +1885,9 @@
     "name": "Gucci Blondie small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-small-shoulder-bag/1-4042.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "38902",
@@ -1895,9 +1895,9 @@
     "name": "Gucci Diana small shoulder bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "diana",
     "thumb": "https://img.kynbag.com/products/gucci-diana-small-shoulder-bag-8/1-4041.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "diana"
   },
   {
     "id": "38885",
@@ -1905,9 +1905,9 @@
     "name": "Gucci Diana small shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "diana",
     "thumb": "https://img.kynbag.com/products/gucci-diana-small-shoulder-bag-7/1-4040.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "diana"
   },
   {
     "id": "38884",
@@ -1915,9 +1915,9 @@
     "name": "Gucci Diana small shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "diana",
     "thumb": "https://img.kynbag.com/products/gucci-diana-small-shoulder-bag-6/1-4039.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "diana"
   },
   {
     "id": "38867",
@@ -1925,9 +1925,9 @@
     "name": "Gucci Diana small shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "diana",
     "thumb": "https://img.kynbag.com/products/gucci-diana-small-shoulder-bag-5/1-4038.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "diana"
   },
   {
     "id": "38866",
@@ -1935,9 +1935,9 @@
     "name": "Gucci Diana large shoulder bag(HIGH-END GRADE)",
     "price": 319.99,
     "brand": "Gucci",
-    "subcategory": "diana",
     "thumb": "https://img.kynbag.com/products/gucci-diana-large-shoulder-baghigh-end-grade-3/1-4037.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "diana"
   },
   {
     "id": "38849",
@@ -1945,9 +1945,9 @@
     "name": "Gucci Diana large shoulder bag(HIGH-END GRADE)",
     "price": 319.99,
     "brand": "Gucci",
-    "subcategory": "diana",
     "thumb": "https://img.kynbag.com/products/gucci-diana-large-shoulder-baghigh-end-grade-2/1-4036.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "diana"
   },
   {
     "id": "38848",
@@ -1955,9 +1955,9 @@
     "name": "Gucci Diana large shoulder bag(HIGH-END GRADE)",
     "price": 319.99,
     "brand": "Gucci",
-    "subcategory": "diana",
     "thumb": "https://img.kynbag.com/products/gucci-diana-large-shoulder-baghigh-end-grade/1-4035.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "diana"
   },
   {
     "id": "38812",
@@ -1965,9 +1965,9 @@
     "name": "Gucci Giglio large tote bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-giglio-large-tote-bag-3/1-4031.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "38795",
@@ -1975,9 +1975,9 @@
     "name": "Gucci Giglio large tote bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-giglio-large-tote-bag-2/1-4030.jpg",
-    "imageCount": 5
+    "imageCount": 15,
+    "subcategory": "tote"
   },
   {
     "id": "38794",
@@ -1985,9 +1985,9 @@
     "name": "Gucci Giglio large tote bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-giglio-large-tote-bag/1-4029.jpg",
-    "imageCount": 5
+    "imageCount": 15,
+    "subcategory": "tote"
   },
   {
     "id": "37895",
@@ -1995,9 +1995,9 @@
     "name": "GG Emblem medium shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-medium-shoulder-bag-8/1-3930.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37894",
@@ -2005,9 +2005,9 @@
     "name": "GG Emblem medium shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-medium-shoulder-bag-7/1-3929.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37877",
@@ -2015,9 +2015,9 @@
     "name": "GG Emblem medium shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-medium-shoulder-bag-6/1-3928.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37876",
@@ -2025,9 +2025,9 @@
     "name": "GG Emblem medium shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-medium-shoulder-bag-5/1-3927.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37859",
@@ -2035,9 +2035,9 @@
     "name": "GG Emblem medium shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-medium-shoulder-bag-4/1-3926.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37858",
@@ -2045,9 +2045,9 @@
     "name": "Gucci Beatrix medium tote bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-beatrix-medium-tote-baghigh-end-grade-3/1-3925.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37841",
@@ -2055,9 +2055,9 @@
     "name": "Gucci Beatrix medium tote bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-beatrix-medium-tote-baghigh-end-grade-2/1-3924.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37840",
@@ -2065,9 +2065,9 @@
     "name": "Gucci Beatrix medium tote bag(HIGH-END GRADE)",
     "price": 309.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-beatrix-medium-tote-baghigh-end-grade/1-3923.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37823",
@@ -2075,9 +2075,9 @@
     "name": "Gucci Beatrix large tote bag(HIGH-END GRADE)",
     "price": 339.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-beatrix-large-tote-baghigh-end-grade/1-3922.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "37822",
@@ -2085,9 +2085,9 @@
     "name": "Gucci Totissima small reversible tote bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-totissima-small-reversible-tote-bag-4/1-3921.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "37805",
@@ -2095,9 +2095,9 @@
     "name": "Gucci Totissima small reversible tote bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-totissima-small-reversible-tote-bag-3/1-3920.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "37804",
@@ -2105,9 +2105,9 @@
     "name": "Gucci Totissima small reversible tote bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-totissima-small-reversible-tote-bag-2/1-3919.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "37787",
@@ -2115,9 +2115,9 @@
     "name": "Gucci Totissima small reversible tote bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-totissima-small-reversible-tote-bag/1-3918.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "37786",
@@ -2125,9 +2125,9 @@
     "name": "Gucci Totissima large reversible tote bag",
     "price": 269.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-totissima-large-reversible-tote-bag-3/1-3917.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "37769",
@@ -2135,9 +2135,9 @@
     "name": "Gucci Totissima large reversible tote bag",
     "price": 269.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-totissima-large-reversible-tote-bag-2/1-3916.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "37768",
@@ -2145,9 +2145,9 @@
     "name": "Gucci Totissima large reversible tote bag",
     "price": 269.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-totissima-large-reversible-tote-bag/1-3915.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "37751",
@@ -2155,9 +2155,9 @@
     "name": "GG Emblem large tote bag",
     "price": 259.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gg-emblem-large-tote-bag-10/1-3914.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "37750",
@@ -2165,9 +2165,9 @@
     "name": "GG Emblem large tote bag",
     "price": 259.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gg-emblem-large-tote-bag-9/1-3913.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "37733",
@@ -2175,9 +2175,9 @@
     "name": "GG Emblem medium tote bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-medium-tote-bag-7/1-3912.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37732",
@@ -2185,9 +2185,9 @@
     "name": "GG Emblem medium tote bag",
     "price": 259.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-medium-tote-bag-6/1-3911.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "37715",
@@ -2195,9 +2195,9 @@
     "name": "GG Emblem large tote bag",
     "price": 279.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gg-emblem-large-tote-bag-8/1-3910.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "37714",
@@ -2205,9 +2205,9 @@
     "name": "GG Emblem large tote bag",
     "price": 279.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gg-emblem-large-tote-bag-7/1-3909.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "37697",
@@ -2215,9 +2215,9 @@
     "name": "GG Emblem large tote bag",
     "price": 279.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gg-emblem-large-tote-bag-6/1-3908.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "37696",
@@ -2225,9 +2225,9 @@
     "name": "GG Emblem large tote bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gg-emblem-large-tote-bag-5/1-3907.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "35591",
@@ -2235,9 +2235,9 @@
     "name": "Gucci Betty small tote bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-betty-small-tote-bag-3/1-3682.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "35574",
@@ -2245,9 +2245,9 @@
     "name": "Gucci Betty small tote bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-betty-small-tote-bag-2/1-3681.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "35573",
@@ -2255,9 +2255,9 @@
     "name": "Gucci Betty small tote bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-betty-small-tote-bag/1-3680.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "35556",
@@ -2265,9 +2265,9 @@
     "name": "Gucci Betty medium tote bag",
     "price": 259.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-betty-medium-tote-bag-3/1-3679.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "35555",
@@ -2275,9 +2275,9 @@
     "name": "Gucci Betty medium tote bag",
     "price": 259.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-betty-medium-tote-bag-2/1-3678.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "35538",
@@ -2285,9 +2285,9 @@
     "name": "Gucci Betty medium tote bag",
     "price": 259.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-betty-medium-tote-bag/1-3677.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "33220",
@@ -2295,9 +2295,9 @@
     "name": "GG Marmont mini top handle bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-mini-top-handle-bag-8/1-3423.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "33203",
@@ -2305,9 +2305,9 @@
     "name": "GG Marmont mini top handle bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-mini-top-handle-bag-7/1-3422.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "33202",
@@ -2315,9 +2315,9 @@
     "name": "GG Marmont mini top handle bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-mini-top-handle-bag-6/1-3421.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "33185",
@@ -2325,9 +2325,9 @@
     "name": "Gucci GG Marmont Small Top Handle Bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gucci-gg-marmont-small-top-handle-bag-2/1-3420.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "33184",
@@ -2335,9 +2335,9 @@
     "name": "Gucci GG Marmont Small Top Handle Bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gucci-gg-marmont-small-top-handle-bag/1-3419.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "32591",
@@ -2345,9 +2345,9 @@
     "name": "NEW GG Marmont small shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/new-gg-marmont-small-shoulder-bag-6/1-3354.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "32590",
@@ -2355,9 +2355,9 @@
     "name": "NEW GG Marmont small shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/new-gg-marmont-small-shoulder-bag-5/1-3353.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "32573",
@@ -2365,9 +2365,9 @@
     "name": "NEW GG Marmont small shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/new-gg-marmont-small-shoulder-bag-4/1-3352.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "32572",
@@ -2375,9 +2375,9 @@
     "name": "NEW GG Marmont small shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/new-gg-marmont-small-shoulder-bag-3/1-3351.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "32555",
@@ -2385,9 +2385,9 @@
     "name": "NEW GG Marmont small shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/new-gg-marmont-small-shoulder-bag-2/1-3350.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "32554",
@@ -2395,9 +2395,9 @@
     "name": "NEW GG Marmont small shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/new-gg-marmont-small-shoulder-bag/1-3349.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "32537",
@@ -2405,9 +2405,9 @@
     "name": "Gucci Bamboo Diva medium bag(HIGH-END GRADE)",
     "price": 339.99,
     "brand": "Gucci",
-    "subcategory": "bamboo",
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-diva-medium-baghigh-end-grade-5/1-3348.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "bamboo"
   },
   {
     "id": "32536",
@@ -2415,9 +2415,9 @@
     "name": "Gucci Bamboo Diva medium bag(HIGH-END GRADE)",
     "price": 339.99,
     "brand": "Gucci",
-    "subcategory": "bamboo",
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-diva-medium-baghigh-end-grade-4/1-3347.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "bamboo"
   },
   {
     "id": "32519",
@@ -2425,9 +2425,9 @@
     "name": "Gucci Bamboo Diva medium bag(HIGH-END GRADE)",
     "price": 339.99,
     "brand": "Gucci",
-    "subcategory": "bamboo",
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-diva-medium-baghigh-end-grade-3/1-3346.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "bamboo"
   },
   {
     "id": "32518",
@@ -2435,9 +2435,9 @@
     "name": "Gucci Bamboo Diva medium bag(HIGH-END GRADE)",
     "price": 339.99,
     "brand": "Gucci",
-    "subcategory": "bamboo",
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-diva-medium-baghigh-end-grade-2/1-3345.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "bamboo"
   },
   {
     "id": "32501",
@@ -2445,9 +2445,9 @@
     "name": "Gucci Bamboo Diva medium bag(HIGH-END GRADE)",
     "price": 339.99,
     "brand": "Gucci",
-    "subcategory": "bamboo",
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-diva-medium-baghigh-end-grade/1-3344.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "bamboo"
   },
   {
     "id": "32500",
@@ -2455,9 +2455,9 @@
     "name": "NEW GG Marmont medium shoulder bag",
     "price": 259.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/new-gg-marmont-medium-shoulder-bag-7/1-3343.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "32483",
@@ -2465,9 +2465,9 @@
     "name": "NEW GG Marmont medium shoulder bag",
     "price": 259.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/new-gg-marmont-medium-shoulder-bag-6/1-3342.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "32482",
@@ -2475,9 +2475,9 @@
     "name": "NEW GG Marmont medium shoulder bag",
     "price": 259.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/new-gg-marmont-medium-shoulder-bag-5/1-3341.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "32465",
@@ -2485,9 +2485,9 @@
     "name": "NEW GG Marmont medium shoulder bag",
     "price": 259.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/new-gg-marmont-medium-shoulder-bag-4/1-3340.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "32464",
@@ -2495,9 +2495,9 @@
     "name": "NEW GG Marmont medium shoulder bag",
     "price": 259.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/new-gg-marmont-medium-shoulder-bag-3/1-3339.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "32447",
@@ -2505,9 +2505,9 @@
     "name": "NEW GG Marmont medium shoulder bag",
     "price": 259.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/new-gg-marmont-medium-shoulder-bag-2/1-3338.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "32446",
@@ -2515,9 +2515,9 @@
     "name": "NEW GG Marmont medium shoulder bag",
     "price": 259.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/new-gg-marmont-medium-shoulder-bag/1-3337.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "28270",
@@ -2525,9 +2525,9 @@
     "name": "Gucci Horsebit 1955 small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-small-shoulder-bag-5/1-2873.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "28269",
@@ -2535,9 +2535,9 @@
     "name": "Gucci Horsebit 1955 small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-small-shoulder-bag-4/1-2872.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "28244",
@@ -2545,9 +2545,9 @@
     "name": "Gucci Horsebit 1955 small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-small-shoulder-bag-3/1-2871.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "28243",
@@ -2555,9 +2555,9 @@
     "name": "Gucci Horsebit 1955 small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-small-shoulder-bag-2/1-2870.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "28242",
@@ -2565,9 +2565,9 @@
     "name": "Gucci Horsebit 1955 small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-small-shoulder-bag/1-2869.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "28217",
@@ -2575,9 +2575,9 @@
     "name": "Gucci Horsebit 1955 Soft small top handle bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-soft-small-top-handle-bag-6/1-2868.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28216",
@@ -2585,9 +2585,9 @@
     "name": "Gucci Horsebit 1955 Soft small top handle bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-soft-small-top-handle-bag-5/1-2867.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28215",
@@ -2595,9 +2595,9 @@
     "name": "Gucci Horsebit 1955 Soft small top handle bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-soft-small-top-handle-bag-4/1-2866.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28190",
@@ -2605,9 +2605,9 @@
     "name": "Gucci Horsebit 1955 Soft small top handle bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-soft-small-top-handle-bag-3/1-2865.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28189",
@@ -2615,9 +2615,9 @@
     "name": "Gucci Horsebit 1955 Soft small top handle bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-soft-small-top-handle-bag-2/1-2864.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28188",
@@ -2625,9 +2625,9 @@
     "name": "Gucci Horsebit 1955 Soft small top handle bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-soft-small-top-handle-bag/1-2863.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28187",
@@ -2635,9 +2635,9 @@
     "name": "Gucci Softbit medium top handle bag(HIGH-END GRADE)",
     "price": 319.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-softbit-medium-top-handle-baghigh-end-grade-4/1-2862.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28186",
@@ -2645,9 +2645,9 @@
     "name": "Gucci Softbit medium top handle bag(HIGH-END GRADE)",
     "price": 319.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-softbit-medium-top-handle-baghigh-end-grade-3/1-2861.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28185",
@@ -2655,9 +2655,9 @@
     "name": "Gucci Softbit medium top handle bag(HIGH-END GRADE)",
     "price": 319.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-softbit-medium-top-handle-baghigh-end-grade-2/1-2860.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "28184",
@@ -2665,9 +2665,9 @@
     "name": "Gucci Softbit medium top handle bag(HIGH-END GRADE)",
     "price": 319.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-softbit-medium-top-handle-baghigh-end-grade/1-2859.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "27721",
@@ -2675,9 +2675,9 @@
     "name": "Gucci Softbit maxi shoulder bag(HIGH-END GRADE)",
     "price": 349.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-softbit-maxi-shoulder-baghigh-end-grade-5/1-2812.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "27720",
@@ -2685,9 +2685,9 @@
     "name": "Gucci Softbit maxi shoulder bag(HIGH-END GRADE)",
     "price": 349.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-softbit-maxi-shoulder-baghigh-end-grade-4/1-2811.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "27695",
@@ -2695,9 +2695,9 @@
     "name": "Gucci Softbit maxi shoulder bag(HIGH-END GRADE)",
     "price": 349.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-softbit-maxi-shoulder-baghigh-end-grade-3/1-2810.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "27694",
@@ -2705,9 +2705,9 @@
     "name": "Gucci Softbit maxi shoulder bag(HIGH-END GRADE)",
     "price": 349.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-softbit-maxi-shoulder-baghigh-end-grade-2/1-2809.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "27693",
@@ -2715,9 +2715,9 @@
     "name": "Gucci Softbit maxi shoulder bag(HIGH-END GRADE)",
     "price": 349.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-softbit-maxi-shoulder-baghigh-end-grade/1-2808.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "27668",
@@ -2725,9 +2725,9 @@
     "name": "Gucci Horsebit 1955 Soft small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-soft-small-shoulder-bag-6/1-2807.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "27667",
@@ -2735,9 +2735,9 @@
     "name": "Gucci Horsebit 1955 Soft small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-soft-small-shoulder-bag-5/1-2806.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "27666",
@@ -2745,9 +2745,9 @@
     "name": "Gucci Horsebit 1955 Soft small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-soft-small-shoulder-bag-4/1-2805.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "27641",
@@ -2755,9 +2755,9 @@
     "name": "Gucci Horsebit 1955 Soft small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-soft-small-shoulder-bag-3/1-2804.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "27640",
@@ -2765,9 +2765,9 @@
     "name": "Gucci Horsebit 1955 Soft small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-soft-small-shoulder-bag-2/1-2803.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "27639",
@@ -2775,9 +2775,9 @@
     "name": "Gucci Horsebit 1955 Soft small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-soft-small-shoulder-bag/1-2802.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "27614",
@@ -2785,9 +2785,9 @@
     "name": "Gucci Horsebit 1955 Soft medium shoulder bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-soft-medium-shoulder-bag-6/1-2801.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "27613",
@@ -2795,9 +2795,9 @@
     "name": "Gucci Horsebit 1955 Soft medium shoulder bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-soft-medium-shoulder-bag-5/1-2800.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "27612",
@@ -2805,9 +2805,9 @@
     "name": "Gucci Horsebit 1955 Soft medium shoulder bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-soft-medium-shoulder-bag-4/1-2799.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "27587",
@@ -2815,9 +2815,9 @@
     "name": "Gucci Horsebit 1955 Soft medium shoulder bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-soft-medium-shoulder-bag-3/1-2798.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "27586",
@@ -2825,9 +2825,9 @@
     "name": "Gucci Horsebit 1955 Soft medium shoulder bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-soft-medium-shoulder-bag-2/1-2797.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "27585",
@@ -2835,9 +2835,9 @@
     "name": "Gucci Horsebit 1955 Soft medium shoulder bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-soft-medium-shoulder-bag/1-2796.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "26966",
@@ -2845,9 +2845,9 @@
     "name": "GG Emblem mini bucket bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "crossbody",
     "thumb": "https://img.kynbag.com/products/gg-emblem-mini-bucket-bag-6/1-2729.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "crossbody"
   },
   {
     "id": "26965",
@@ -2855,9 +2855,9 @@
     "name": "GG Emblem mini bucket bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "crossbody",
     "thumb": "https://img.kynbag.com/products/gg-emblem-mini-bucket-bag-5/1-2728.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "crossbody"
   },
   {
     "id": "26964",
@@ -2865,9 +2865,9 @@
     "name": "GG Emblem mini bucket bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "crossbody",
     "thumb": "https://img.kynbag.com/products/gg-emblem-mini-bucket-bag-4/1-2727.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "crossbody"
   },
   {
     "id": "59461",
@@ -2875,9 +2875,9 @@
     "name": "GG Emblem medium tote bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-medium-tote-bag-8/1-134.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "26939",
@@ -2885,9 +2885,9 @@
     "name": "GG Emblem mini bucket bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "crossbody",
     "thumb": "https://img.kynbag.com/products/gg-emblem-mini-bucket-bag-3/1-2726.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "crossbody"
   },
   {
     "id": "26938",
@@ -2895,9 +2895,9 @@
     "name": "GG Emblem medium tote bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-medium-tote-bag-5/1-2725.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "26937",
@@ -2905,9 +2905,9 @@
     "name": "GG Emblem medium tote bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-medium-tote-bag-4/1-2724.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "26912",
@@ -2915,9 +2915,9 @@
     "name": "GG Emblem medium tote bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-medium-tote-bag-3/1-2723.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "26911",
@@ -2925,9 +2925,9 @@
     "name": "GG Emblem medium tote bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-medium-tote-bag-2/1-2722.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "26910",
@@ -2935,9 +2935,9 @@
     "name": "GG Emblem large tote bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gg-emblem-large-tote-bag-4/1-2721.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "26885",
@@ -2945,9 +2945,9 @@
     "name": "GG Emblem large tote bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gg-emblem-large-tote-bag-3/1-2720.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "26884",
@@ -2955,9 +2955,9 @@
     "name": "GG Emblem large tote bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gg-emblem-large-tote-bag-2/1-2719.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "26883",
@@ -2965,9 +2965,9 @@
     "name": "GG Emblem large tote bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gg-emblem-large-tote-bag/1-2718.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "26183",
@@ -2975,9 +2975,9 @@
     "name": "Gucci 73 mini bucket bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "crossbody",
     "thumb": "https://img.kynbag.com/products/gucci-73-mini-bucket-bag-6/1-2642.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "crossbody"
   },
   {
     "id": "26182",
@@ -2985,9 +2985,9 @@
     "name": "Gucci 73 mini bucket bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "crossbody",
     "thumb": "https://img.kynbag.com/products/gucci-73-mini-bucket-bag-5/1-2641.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "crossbody"
   },
   {
     "id": "26181",
@@ -2995,9 +2995,9 @@
     "name": "Gucci 73 mini bucket bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "crossbody",
     "thumb": "https://img.kynbag.com/products/gucci-73-mini-bucket-bag-4/1-2640.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "crossbody"
   },
   {
     "id": "26156",
@@ -3005,9 +3005,9 @@
     "name": "Gucci 73 mini bucket bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "crossbody",
     "thumb": "https://img.kynbag.com/products/gucci-73-mini-bucket-bag-3/1-2639.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "crossbody"
   },
   {
     "id": "26155",
@@ -3015,9 +3015,9 @@
     "name": "Gucci 73 mini bucket bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "crossbody",
     "thumb": "https://img.kynbag.com/products/gucci-73-mini-bucket-bag-2/1-2638.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "crossbody"
   },
   {
     "id": "26154",
@@ -3025,9 +3025,9 @@
     "name": "Gucci 73 mini bucket bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "crossbody",
     "thumb": "https://img.kynbag.com/products/gucci-73-mini-bucket-bag/1-2637.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "crossbody"
   },
   {
     "id": "26129",
@@ -3035,9 +3035,9 @@
     "name": "Gucci 73 small bucket bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "crossbody",
     "thumb": "https://img.kynbag.com/products/gucci-73-small-bucket-bag-6/1-2636.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "crossbody"
   },
   {
     "id": "26128",
@@ -3045,9 +3045,9 @@
     "name": "Gucci 73 small bucket bag",
     "price": 269.99,
     "brand": "Gucci",
-    "subcategory": "crossbody",
     "thumb": "https://img.kynbag.com/products/gucci-73-small-bucket-bag-5/1-2635.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "crossbody"
   },
   {
     "id": "26127",
@@ -3055,9 +3055,9 @@
     "name": "Gucci 73 small bucket bag",
     "price": 269.99,
     "brand": "Gucci",
-    "subcategory": "crossbody",
     "thumb": "https://img.kynbag.com/products/gucci-73-small-bucket-bag-4/1-2634.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "crossbody"
   },
   {
     "id": "26102",
@@ -3065,9 +3065,9 @@
     "name": "Gucci 73 small bucket bag",
     "price": 269.99,
     "brand": "Gucci",
-    "subcategory": "crossbody",
     "thumb": "https://img.kynbag.com/products/gucci-73-small-bucket-bag-3/1-2633.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "crossbody"
   },
   {
     "id": "26101",
@@ -3075,9 +3075,9 @@
     "name": "Gucci 73 small bucket bag",
     "price": 269.99,
     "brand": "Gucci",
-    "subcategory": "crossbody",
     "thumb": "https://img.kynbag.com/products/gucci-73-small-bucket-bag-2/1-2632.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "crossbody"
   },
   {
     "id": "26100",
@@ -3085,9 +3085,9 @@
     "name": "Gucci 73 small bucket bag",
     "price": 269.99,
     "brand": "Gucci",
-    "subcategory": "crossbody",
     "thumb": "https://img.kynbag.com/products/gucci-73-small-bucket-bag/1-2631.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "crossbody"
   },
   {
     "id": "23357",
@@ -3095,9 +3095,9 @@
     "name": "GUCCI Ophidia mini top handle bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-mini-top-handle-bag-4/1-2328.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23356",
@@ -3105,9 +3105,9 @@
     "name": "GUCCI Ophidia mini top handle bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-mini-top-handle-bag-3/1-2327.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23355",
@@ -3115,9 +3115,9 @@
     "name": "GUCCI Ophidia mini top handle bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-mini-top-handle-bag-2/1-2326.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23330",
@@ -3125,9 +3125,9 @@
     "name": "GUCCI Ophidia mini top handle bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-mini-top-handle-bag/1-2325.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23329",
@@ -3135,9 +3135,9 @@
     "name": "GUCCI Ophidia super mini bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-super-mini-bag-5/1-2324.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "23328",
@@ -3145,9 +3145,9 @@
     "name": "GUCCI Ophidia super mini bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-super-mini-bag-4/1-2323.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "23303",
@@ -3155,9 +3155,9 @@
     "name": "GUCCI Ophidia super mini bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-super-mini-bag-3/1-2322.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "23302",
@@ -3165,9 +3165,9 @@
     "name": "GUCCI Ophidia super mini bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-super-mini-bag-2/1-2321.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "23301",
@@ -3175,9 +3175,9 @@
     "name": "GUCCI Ophidia super mini bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-super-mini-bag/1-2320.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "23276",
@@ -3185,9 +3185,9 @@
     "name": "GUCCI Ophidia small top handle bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-top-handle-bag-11/1-2319.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23275",
@@ -3195,9 +3195,9 @@
     "name": "GUCCI Ophidia small top handle bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-top-handle-bag-10/1-2318.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23274",
@@ -3205,9 +3205,9 @@
     "name": "GUCCI Ophidia small top handle bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-top-handle-bag-9/1-2317.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23249",
@@ -3215,9 +3215,9 @@
     "name": "GUCCI Ophidia medium top handle bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-medium-top-handle-bag-3/1-2316.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23248",
@@ -3225,9 +3225,9 @@
     "name": "GUCCI Ophidia medium top handle bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-medium-top-handle-bag-2/1-2315.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23247",
@@ -3235,9 +3235,9 @@
     "name": "GUCCI Ophidia medium top handle bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-medium-top-handle-bag/1-2314.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23222",
@@ -3245,9 +3245,9 @@
     "name": "Gucci Blondie medium top handle bag(HIGH-END GRADE)",
     "price": 339.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-medium-top-handle-baghigh-end-grade-3/1-2313.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23221",
@@ -3255,9 +3255,9 @@
     "name": "Gucci Blondie medium top handle bag(HIGH-END GRADE)",
     "price": 339.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-medium-top-handle-baghigh-end-grade-2/1-2312.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23220",
@@ -3265,9 +3265,9 @@
     "name": "Gucci Blondie medium top handle bag(HIGH-END GRADE)",
     "price": 339.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-medium-top-handle-baghigh-end-grade/1-2311.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23195",
@@ -3275,9 +3275,9 @@
     "name": "Gucci Blondie medium top handle bag",
     "price": 259.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-medium-top-handle-bag-6/1-2310.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23194",
@@ -3285,9 +3285,9 @@
     "name": "Gucci Blondie medium top handle bag",
     "price": 259.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-medium-top-handle-bag-5/1-2309.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23193",
@@ -3295,9 +3295,9 @@
     "name": "Gucci Blondie medium top handle bag",
     "price": 259.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-medium-top-handle-bag-4/1-2308.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23168",
@@ -3305,9 +3305,9 @@
     "name": "Gucci Blondie medium top handle bag",
     "price": 259.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-medium-top-handle-bag-3/1-2307.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23167",
@@ -3315,9 +3315,9 @@
     "name": "Gucci Blondie medium top handle bag",
     "price": 259.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-medium-top-handle-bag-2/1-2306.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "23166",
@@ -3325,9 +3325,9 @@
     "name": "Gucci Blondie medium top handle bag",
     "price": 259.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-medium-top-handle-bag/1-2305.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "21790",
@@ -3335,9 +3335,9 @@
     "name": "Gucci Deco medium tote bag(HIGH-END GRADE)",
     "price": 339.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-deco-medium-tote-baghigh-end-grade-4/1-2153.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "21789",
@@ -3345,9 +3345,9 @@
     "name": "Gucci Deco medium tote bag(HIGH-END GRADE)",
     "price": 339.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-deco-medium-tote-baghigh-end-grade-3/1-2152.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "21764",
@@ -3355,9 +3355,9 @@
     "name": "Gucci Deco medium tote bag(HIGH-END GRADE)",
     "price": 339.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-deco-medium-tote-baghigh-end-grade-2/1-2151.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "21763",
@@ -3365,9 +3365,9 @@
     "name": "Gucci Deco medium tote bag(HIGH-END GRADE)",
     "price": 339.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-deco-medium-tote-baghigh-end-grade/1-2150.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "21762",
@@ -3375,9 +3375,9 @@
     "name": "GG PRINT LEATHER BUMBAG",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-print-leather-bumbag-2/1-2149.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "21737",
@@ -3385,9 +3385,9 @@
     "name": "GG PRINT LEATHER BUMBAG",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-print-leather-bumbag/1-2148.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "21736",
@@ -3395,9 +3395,9 @@
     "name": "GG Emblem mini shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-mini-shoulder-bag-2/1-2147.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "21735",
@@ -3405,9 +3405,9 @@
     "name": "GG Emblem mini shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-mini-shoulder-bag/1-2146.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "21710",
@@ -3415,9 +3415,9 @@
     "name": "GG Emblem small shoulder bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-small-shoulder-bag-3/1-2145.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "21709",
@@ -3425,9 +3425,9 @@
     "name": "GG Emblem small shoulder bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-small-shoulder-bag-2/1-2144.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "21708",
@@ -3435,9 +3435,9 @@
     "name": "GG Emblem small shoulder bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-small-shoulder-bag/1-2143.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "21683",
@@ -3445,9 +3445,9 @@
     "name": "GUCCI Large tote bag with hook closure(HIGH-END Grade)",
     "price": 369.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-large-tote-bag-with-hook-closurehigh-end-grade-2/1-2142.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "21682",
@@ -3455,9 +3455,9 @@
     "name": "GUCCI Large tote bag with hook closure(HIGH-END Grade)",
     "price": 369.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-large-tote-bag-with-hook-closurehigh-end-grade/1-2141.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "21628",
@@ -3465,9 +3465,9 @@
     "name": "Gucci Ophidia small bucket bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "crossbody",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-bucket-bag/1-2135.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "crossbody"
   },
   {
     "id": "21627",
@@ -3475,9 +3475,9 @@
     "name": "Gucci Horsebit 1955 mini bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-mini-bag-4/1-2134.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "21602",
@@ -3485,9 +3485,9 @@
     "name": "Gucci Horsebit 1955 mini bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-mini-bag-3/1-2133.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "21601",
@@ -3495,9 +3495,9 @@
     "name": "Gucci Horsebit 1955 mini bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-mini-bag-2/1-2132.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "21600",
@@ -3505,9 +3505,9 @@
     "name": "Gucci Horsebit 1955 mini bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-1955-mini-bag/1-2131.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "21575",
@@ -3515,9 +3515,9 @@
     "name": "GG Marmont mini top handle bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-mini-top-handle-bag-5/1-2130.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "21574",
@@ -3525,9 +3525,9 @@
     "name": "GG Marmont mini top handle bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-mini-top-handle-bag-4/1-2129.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "21573",
@@ -3535,9 +3535,9 @@
     "name": "GG Marmont mini top handle bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-mini-top-handle-bag-3/1-2128.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "21548",
@@ -3545,9 +3545,9 @@
     "name": "GG Marmont mini top handle bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-mini-top-handle-bag-2/1-2127.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "21547",
@@ -3555,9 +3555,9 @@
     "name": "GG Marmont mini top handle bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-mini-top-handle-bag/1-2126.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "20213",
@@ -3565,9 +3565,9 @@
     "name": "Gucci Diana small tote bag",
     "price": 279.99,
     "brand": "Gucci",
-    "subcategory": "diana",
     "thumb": "https://img.kynbag.com/products/gucci-diana-small-tote-bag-4/1-1962.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "diana"
   },
   {
     "id": "20212",
@@ -3575,9 +3575,9 @@
     "name": "Gucci Diana small tote bag",
     "price": 279.99,
     "brand": "Gucci",
-    "subcategory": "diana",
     "thumb": "https://img.kynbag.com/products/gucci-diana-small-tote-bag-3/1-1961.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "diana"
   },
   {
     "id": "20211",
@@ -3585,9 +3585,9 @@
     "name": "Gucci Diana small tote bag",
     "price": 279.99,
     "brand": "Gucci",
-    "subcategory": "diana",
     "thumb": "https://img.kynbag.com/products/gucci-diana-small-tote-bag-2/1-1960.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "diana"
   },
   {
     "id": "20178",
@@ -3595,9 +3595,9 @@
     "name": "Gucci Diana small tote bag",
     "price": 279.99,
     "brand": "Gucci",
-    "subcategory": "diana",
     "thumb": "https://img.kynbag.com/products/gucci-diana-small-tote-bag/1-1959.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "diana"
   },
   {
     "id": "20177",
@@ -3605,9 +3605,9 @@
     "name": "Gucci Jackie 1961 medium shoulder bag",
     "price": 279.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-1961-medium-shoulder-bag/1-1958.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "20176",
@@ -3615,9 +3615,9 @@
     "name": "Gucci Jackie 1961 medium shoulder bag(HIGH-END GRADE)",
     "price": 319.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-1961-medium-shoulder-baghigh-end-grade-2/1-1957.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "20151",
@@ -3625,9 +3625,9 @@
     "name": "Gucci Jackie 1961 medium shoulder bag(HIGH-END GRADE)",
     "price": 319.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/gucci-jackie-1961-medium-shoulder-baghigh-end-grade/1-1956.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "jackie"
   },
   {
     "id": "20150",
@@ -3635,9 +3635,9 @@
     "name": "Gucci B medium shoulder bag",
     "price": 319.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-b-medium-shoulder-bag-5/1-1955.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "20149",
@@ -3645,9 +3645,9 @@
     "name": "Gucci B medium shoulder bag",
     "price": 319.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-b-medium-shoulder-bag-4/1-1954.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "20124",
@@ -3655,9 +3655,9 @@
     "name": "Gucci B medium shoulder bag(HIGH-END GRADE)",
     "price": 349.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-b-medium-shoulder-baghigh-end-grade/1-1953.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "20123",
@@ -3665,9 +3665,9 @@
     "name": "Gucci B medium shoulder bag",
     "price": 319.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-b-medium-shoulder-bag-3/1-1952.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "20122",
@@ -3675,9 +3675,9 @@
     "name": "Gucci B medium shoulder bag",
     "price": 279.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-b-medium-shoulder-bag-2/1-1951.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "20097",
@@ -3685,9 +3685,9 @@
     "name": "Gucci B medium shoulder bag",
     "price": 279.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-b-medium-shoulder-bag/1-1950.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19257",
@@ -3695,9 +3695,9 @@
     "name": "Gucci Blondie small top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-small-top-handle-bag-5/1-1854.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19224",
@@ -3705,9 +3705,9 @@
     "name": "Gucci Blondie small top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-small-top-handle-bag-4/1-1853.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19223",
@@ -3715,9 +3715,9 @@
     "name": "Gucci Blondie small top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-small-top-handle-bag-3/1-1852.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19222",
@@ -3725,9 +3725,9 @@
     "name": "Gucci Blondie small top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-small-top-handle-bag-2/1-1851.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "19221",
@@ -3735,9 +3735,9 @@
     "name": "Gucci Blondie small top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-small-top-handle-bag/1-1850.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18330",
@@ -3745,9 +3745,9 @@
     "name": "GG Milano mini top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-milano-mini-top-handle-bag-11/1-1751.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18297",
@@ -3755,9 +3755,9 @@
     "name": "GG Milano mini top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-milano-mini-top-handle-bag-10/1-1750.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18296",
@@ -3765,9 +3765,9 @@
     "name": "GG Milano mini top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-milano-mini-top-handle-bag-9/1-1749.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18295",
@@ -3775,9 +3775,9 @@
     "name": "GG Milano mini top handle bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-milano-mini-top-handle-bag-8/1-1748.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18294",
@@ -3785,9 +3785,9 @@
     "name": "GG Milano mini top handle bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-milano-mini-top-handle-bag-7/1-1747.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18261",
@@ -3795,9 +3795,9 @@
     "name": "GG Milano mini top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-milano-mini-top-handle-bag-6/1-1746.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18260",
@@ -3805,9 +3805,9 @@
     "name": "GG Milano mini top handle bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-milano-mini-top-handle-bag-5/1-1745.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18259",
@@ -3815,9 +3815,9 @@
     "name": "GG Milano mini top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-milano-mini-top-handle-bag-4/1-1744.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18258",
@@ -3825,9 +3825,9 @@
     "name": "GG Milano mini top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-milano-mini-top-handle-bag-3/1-1743.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18225",
@@ -3835,9 +3835,9 @@
     "name": "GG Milano mini top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-milano-mini-top-handle-bag-2/1-1742.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "18224",
@@ -3845,9 +3845,9 @@
     "name": "GG Milano mini top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-milano-mini-top-handle-bag/1-1741.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16757",
@@ -3855,9 +3855,9 @@
     "name": "GG Mini crossbody bag with Interlocking G",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "crossbody",
     "thumb": "https://img.kynbag.com/products/gg-mini-crossbody-bag-with-interlocking-g/1-1578.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "crossbody"
   },
   {
     "id": "16756",
@@ -3865,9 +3865,9 @@
     "name": "GG Emblem mini bucket bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "crossbody",
     "thumb": "https://img.kynbag.com/products/gg-emblem-mini-bucket-bag-2/1-1577.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "crossbody"
   },
   {
     "id": "16755",
@@ -3875,9 +3875,9 @@
     "name": "GG Emblem mini bucket bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "crossbody",
     "thumb": "https://img.kynbag.com/products/gg-emblem-mini-bucket-bag/1-1576.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "crossbody"
   },
   {
     "id": "16722",
@@ -3885,9 +3885,9 @@
     "name": "GG crossbody bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "crossbody",
     "thumb": "https://img.kynbag.com/products/gg-crossbody-bag-2/1-1575.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "crossbody"
   },
   {
     "id": "16721",
@@ -3895,9 +3895,9 @@
     "name": "GG crossbody bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "crossbody",
     "thumb": "https://img.kynbag.com/products/gg-crossbody-bag/1-1574.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "crossbody"
   },
   {
     "id": "16720",
@@ -3905,9 +3905,9 @@
     "name": "GG Emblem small tote bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-small-tote-bag/1-1573.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "16719",
@@ -3915,9 +3915,9 @@
     "name": "GG Emblem large tote bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gg-emblem-medium-tote-bag/1-1572.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "16686",
@@ -3925,9 +3925,9 @@
     "name": "GG Emblem medium shoulder bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-medium-shoulder-bag-3/1-1571.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16685",
@@ -3935,9 +3935,9 @@
     "name": "GG Emblem medium shoulder bag",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-medium-shoulder-bag-2/1-1570.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16684",
@@ -3945,9 +3945,9 @@
     "name": "GG Emblem medium shoulder bag",
     "price": 259.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gg-emblem-medium-shoulder-bag/1-1569.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16683",
@@ -3955,9 +3955,9 @@
     "name": "Gucci Attache large shoulder bag",
     "price": 279.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-attache-large-shoulder-bag-5/1-1568.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "16650",
@@ -3965,9 +3965,9 @@
     "name": "Gucci Attache large shoulder bag",
     "price": 279.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-attache-large-shoulder-bag-4/1-1567.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "16649",
@@ -3975,9 +3975,9 @@
     "name": "Gucci Attache large shoulder bag",
     "price": 279.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-attache-large-shoulder-bag-3/1-1566.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "16648",
@@ -3985,9 +3985,9 @@
     "name": "Gucci Attache large shoulder bag",
     "price": 269.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-attache-large-shoulder-bag-2/1-1565.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "16647",
@@ -3995,9 +3995,9 @@
     "name": "Gucci Attache large shoulder bag",
     "price": 269.99,
     "brand": "Gucci",
-    "subcategory": "tote",
     "thumb": "https://img.kynbag.com/products/gucci-attache-large-shoulder-bag/1-1564.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "tote"
   },
   {
     "id": "16614",
@@ -4005,9 +4005,9 @@
     "name": "Gucci Ophidia small top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-top-handle-bag-8/1-1563.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16613",
@@ -4015,9 +4015,9 @@
     "name": "Gucci Ophidia small top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-top-handle-bag-7/1-1562.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16612",
@@ -4025,9 +4025,9 @@
     "name": "Gucci Ophidia small top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-top-handle-bag-6/1-1561.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16611",
@@ -4035,9 +4035,9 @@
     "name": "Gucci Ophidia small top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-top-handle-bag-5/1-1560.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16578",
@@ -4045,9 +4045,9 @@
     "name": "Gucci Ophidia small top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-top-handle-bag-4/1-1559.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16577",
@@ -4055,9 +4055,9 @@
     "name": "Gucci Ophidia small top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-top-handle-bag-3/1-1558.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16576",
@@ -4065,9 +4065,9 @@
     "name": "Gucci Ophidia small top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-top-handle-bag-2/1-1557.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "16575",
@@ -4075,9 +4075,9 @@
     "name": "Gucci Ophidia small top handle bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-ophidia-small-top-handle-bag/1-1556.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "14994",
@@ -4085,9 +4085,9 @@
     "name": "GG Velvet Small Marmont shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "marmont",
     "thumb": "https://img.kynbag.com/products/gg-velvet-small-marmont-shoulder-bag-4/1-1383.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "marmont"
   },
   {
     "id": "14993",
@@ -4095,9 +4095,9 @@
     "name": "GG Velvet Small Marmont shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "marmont",
     "thumb": "https://img.kynbag.com/products/gg-velvet-small-marmont-shoulder-bag-3/1-1382.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "marmont"
   },
   {
     "id": "14992",
@@ -4105,9 +4105,9 @@
     "name": "GG Velvet Small Marmont shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "marmont",
     "thumb": "https://img.kynbag.com/products/gg-velvet-small-marmont-shoulder-bag-2/1-1381.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "marmont"
   },
   {
     "id": "14991",
@@ -4115,9 +4115,9 @@
     "name": "GG Velvet Small Marmont shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "marmont",
     "thumb": "https://img.kynbag.com/products/gg-velvet-small-marmont-shoulder-bag/1-1380.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "marmont"
   },
   {
     "id": "14958",
@@ -4125,9 +4125,9 @@
     "name": "GG Marmont large shoulder bag(high-end grade)",
     "price": 349.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-large-shoulder-baghigh-end-grade-2/1-1379.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "14957",
@@ -4135,9 +4135,9 @@
     "name": "GG Marmont large shoulder bag(high-end grade)",
     "price": 349.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-large-shoulder-baghigh-end-grade/1-1378.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "14956",
@@ -4145,9 +4145,9 @@
     "name": "GG Marmont medium matelasse shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-medium-matelasse-shoulder-bag-4/1-1377.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "14955",
@@ -4155,9 +4155,9 @@
     "name": "GG Marmont medium matelasse shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-medium-matelasse-shoulder-bag-3/1-1376.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "14922",
@@ -4165,9 +4165,9 @@
     "name": "GG Marmont medium matelasse shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-medium-matelasse-shoulder-bag-2/1-1375.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "14921",
@@ -4175,9 +4175,9 @@
     "name": "GG Marmont medium matelasse shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-medium-matelasse-shoulder-bag/1-1374.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "13833",
@@ -4185,9 +4185,9 @@
     "name": "GUCCI SMALL TOTE BAG WITH HOOK CLOSURE",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-small-tote-bag-with-hook-closure-3/1-1254.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "13832",
@@ -4195,9 +4195,9 @@
     "name": "GUCCI SMALL TOTE BAG WITH HOOK CLOSURE",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-small-tote-bag-with-hook-closure-2/1-1253.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "13831",
@@ -4205,9 +4205,9 @@
     "name": "GUCCI SMALL TOTE BAG WITH HOOK CLOSURE",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/gucci-small-tote-bag-with-hook-closure/1-1252.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "13830",
@@ -4215,9 +4215,9 @@
     "name": "GUCCI DIANA MEDIUM SHOULDER BAG",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-diana-medium-shoulder-bag-4/1-1251.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13797",
@@ -4225,9 +4225,9 @@
     "name": "GUCCI DIANA MEDIUM SHOULDER BAG",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-diana-medium-shoulder-bag-3/1-1250.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13796",
@@ -4235,9 +4235,9 @@
     "name": "GUCCI DIANA MEDIUM SHOULDER BAG",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-diana-medium-shoulder-bag-2/1-1249.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13795",
@@ -4245,9 +4245,9 @@
     "name": "GUCCI DIANA MEDIUM SHOULDER BAG",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-diana-medium-shoulder-bag/1-1248.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13794",
@@ -4255,9 +4255,9 @@
     "name": "GUCCI PADLOCK GG MEDIUM SHOULDER BAG",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-padlock-gg-medium-shoulder-bag-3/1-1247.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13761",
@@ -4265,9 +4265,9 @@
     "name": "GUCCI PADLOCK GG MEDIUM SHOULDER BAG",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-padlock-gg-medium-shoulder-bag-2/1-1246.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13760",
@@ -4275,9 +4275,9 @@
     "name": "GUCCI PADLOCK GG MEDIUM SHOULDER BAG",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-padlock-gg-medium-shoulder-bag/1-1245.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "13020",
@@ -4285,9 +4285,9 @@
     "name": "GUCCI BAMBOO 1947 JUMBO GG SMALL TOP HANDLE BAG",
     "price": 279.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-1947-jumbo-gg-small-top-handle-bag-9/1-1161.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12987",
@@ -4295,9 +4295,9 @@
     "name": "GUCCI BAMBOO 1947 JUMBO GG SMALL TOP HANDLE BAG",
     "price": 279.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-1947-jumbo-gg-small-top-handle-bag-8/1-1160.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12986",
@@ -4305,9 +4305,9 @@
     "name": "GUCCI BAMBOO 1947 JUMBO GG SMALL TOP HANDLE BAG",
     "price": 279.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-1947-jumbo-gg-small-top-handle-bag-7/1-1159.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12985",
@@ -4315,9 +4315,9 @@
     "name": "GUCCI BAMBOO 1947 JUMBO GG SMALL TOP HANDLE BAG",
     "price": 279.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-1947-jumbo-gg-small-top-handle-bag-6/1-1158.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12960",
@@ -4325,9 +4325,9 @@
     "name": "GUCCI BAMBOO 1947 JUMBO GG SMALL TOP HANDLE BAG",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-1947-jumbo-gg-small-top-handle-bag-5/1-1157.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12959",
@@ -4335,9 +4335,9 @@
     "name": "GUCCI BAMBOO 1947 JUMBO GG SMALL TOP HANDLE BAG",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-1947-jumbo-gg-small-top-handle-bag-4/1-1156.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12958",
@@ -4345,9 +4345,9 @@
     "name": "GUCCI BAMBOO 1947 JUMBO GG SMALL TOP HANDLE BAG",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-1947-jumbo-gg-small-top-handle-bag-3/1-1155.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12957",
@@ -4355,9 +4355,9 @@
     "name": "GUCCI BAMBOO 1947 JUMBO GG SMALL TOP HANDLE BAG",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-1947-jumbo-gg-small-top-handle-bag-2/1-1154.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12924",
@@ -4365,9 +4365,9 @@
     "name": "GUCCI BAMBOO 1947 JUMBO GG SMALL TOP HANDLE BAG",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-1947-jumbo-gg-small-top-handle-bag/1-1153.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12923",
@@ -4375,9 +4375,9 @@
     "name": "GUCCI BAMBOO 1947 MEDIUM TOP HANDLE BAG",
     "price": 279.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-1947-medium-top-handle-bag-3/1-1152.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12922",
@@ -4385,9 +4385,9 @@
     "name": "GUCCI BAMBOO 1947 MEDIUM TOP HANDLE BAG",
     "price": 279.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-1947-medium-top-handle-bag-2/1-1151.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "12921",
@@ -4395,9 +4395,9 @@
     "name": "GUCCI BAMBOO 1947 MEDIUM TOP HANDLE BAG",
     "price": 279.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-bamboo-1947-medium-top-handle-bag/1-1150.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "9116",
@@ -4405,9 +4405,9 @@
     "name": "GUCCI HORSEBIT CHAIN SMALL SHOULDER BAG",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-chain-small-shoulder-bag-5/1-728.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "9115",
@@ -4415,9 +4415,9 @@
     "name": "GUCCI HORSEBIT CHAIN SMALL SHOULDER BAG",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-chain-small-shoulder-bag-4/1-727.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "9114",
@@ -4425,9 +4425,9 @@
     "name": "GUCCI HORSEBIT CHAIN SMALL SHOULDER BAG",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-chain-small-shoulder-bag-3/1-726.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "9073",
@@ -4435,9 +4435,9 @@
     "name": "GUCCI HORSEBIT CHAIN SMALL SHOULDER BAG",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-chain-small-shoulder-bag-2/1-725.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "9072",
@@ -4445,9 +4445,9 @@
     "name": "GUCCI HORSEBIT CHAIN SMALL SHOULDER BAG",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "horsebit",
     "thumb": "https://img.kynbag.com/products/gucci-horsebit-chain-small-shoulder-bag/1-724.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "horsebit"
   },
   {
     "id": "8217",
@@ -4455,9 +4455,9 @@
     "name": "GUCCI BLONDIE TOP HANDLE BAG",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-top-handle-bag-10/1-629.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8216",
@@ -4465,9 +4465,9 @@
     "name": "GUCCI BLONDIE TOP HANDLE BAG",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-top-handle-bag-9/1-628.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8215",
@@ -4475,9 +4475,9 @@
     "name": "GUCCI BLONDIE TOP HANDLE BAG",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-top-handle-bag-8/1-627.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8214",
@@ -4485,9 +4485,9 @@
     "name": "GUCCI BLONDIE TOP HANDLE BAG",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-top-handle-bag-7/1-626.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8173",
@@ -4495,9 +4495,9 @@
     "name": "GUCCI BLONDIE TOP HANDLE BAG",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-top-handle-bag-6/1-625.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8172",
@@ -4505,9 +4505,9 @@
     "name": "GUCCI BLONDIE TOP HANDLE BAG",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-top-handle-bag-5/1-624.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8171",
@@ -4515,9 +4515,9 @@
     "name": "GUCCI BLONDIE TOP HANDLE BAG",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-top-handle-bag-4/1-623.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8170",
@@ -4525,9 +4525,9 @@
     "name": "GUCCI BLONDIE TOP HANDLE BAG",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-top-handle-bag-3/1-622.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8169",
@@ -4535,9 +4535,9 @@
     "name": "GUCCI BLONDIE TOP HANDLE BAG",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-top-handle-bag-2/1-621.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "8168",
@@ -4545,9 +4545,9 @@
     "name": "GUCCI BLONDIE TOP HANDLE BAG",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-top-handle-bag/1-620.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "7900",
@@ -4555,9 +4555,9 @@
     "name": "PETITE GG SMALL TOTE BAG",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/petite-gg-small-tote-bag-4/1-592.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "7899",
@@ -4565,9 +4565,9 @@
     "name": "PETITE GG SMALL TOTE BAG",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/petite-gg-small-tote-bag-3/1-591.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "7898",
@@ -4575,9 +4575,9 @@
     "name": "PETITE GG SMALL TOTE BAG",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/petite-gg-small-tote-bag-2/1-590.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "7849",
@@ -4585,9 +4585,9 @@
     "name": "PETITE GG SMALL TOTE BAG",
     "price": 249.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/petite-gg-small-tote-bag/1-589.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "7848",
@@ -4595,9 +4595,9 @@
     "name": "PETITE GG SMALL SHOULDER BAG",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/petite-gg-small-shoulder-bag-2/1-588.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "7847",
@@ -4605,9 +4605,9 @@
     "name": "PETITE GG SMALL SHOULDER BAG",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/petite-gg-small-shoulder-bag/1-587.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "7846",
@@ -4615,9 +4615,9 @@
     "name": "GG MARMONT LARGE TOTE BAG",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-large-tote-bag-2/1-586.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "7845",
@@ -4625,9 +4625,9 @@
     "name": "GG MARMONT LARGE TOTE BAG",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-large-tote-bag/1-585.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "4593",
@@ -4635,9 +4635,9 @@
     "name": "GG Marmont half-moon-shaped mini bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-half-moon-shaped-mini-bag-2/1-240.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "4592",
@@ -4645,9 +4645,9 @@
     "name": "GG Marmont half-moon-shaped mini bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "gg-marmont",
     "thumb": "https://img.kynbag.com/products/gg-marmont-half-moon-shaped-mini-bag/1-239.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "gg-marmont"
   },
   {
     "id": "4591",
@@ -4655,9 +4655,9 @@
     "name": "Ophidia GG mini round shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/ophidia-gg-mini-round-shoulder-bag-3/1-238.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "4590",
@@ -4665,9 +4665,9 @@
     "name": "Ophidia GG mini round shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/ophidia-gg-mini-round-shoulder-bag-2/1-237.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "4589",
@@ -4675,9 +4675,9 @@
     "name": "Ophidia GG mini round shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "mini-bag",
     "thumb": "https://img.kynbag.com/products/ophidia-gg-mini-round-shoulder-bag/1-236.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "mini-bag"
   },
   {
     "id": "3954",
@@ -4685,9 +4685,9 @@
     "name": "Dionysus GG Blooms small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "dionysus",
     "thumb": "https://img.kynbag.com/products/dionysus-gg-blooms-small-shoulder-bag/1-169.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "dionysus"
   },
   {
     "id": "3953",
@@ -4695,9 +4695,9 @@
     "name": "Dionysus GG small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "dionysus",
     "thumb": "https://img.kynbag.com/products/dionysus-gg-small-shoulder-bag-12/1-168.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "dionysus"
   },
   {
     "id": "3952",
@@ -4705,9 +4705,9 @@
     "name": "Dionysus GG small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "dionysus",
     "thumb": "https://img.kynbag.com/products/dionysus-gg-small-shoulder-bag-11/1-167.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "dionysus"
   },
   {
     "id": "3951",
@@ -4715,9 +4715,9 @@
     "name": "Dionysus GG small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "dionysus",
     "thumb": "https://img.kynbag.com/products/dionysus-gg-small-shoulder-bag-10/1-166.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "dionysus"
   },
   {
     "id": "3852",
@@ -4725,9 +4725,9 @@
     "name": "Dionysus GG small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "dionysus",
     "thumb": "https://img.kynbag.com/products/dionysus-gg-small-shoulder-bag-9/1-155.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "dionysus"
   },
   {
     "id": "3851",
@@ -4735,9 +4735,9 @@
     "name": "Dionysus GG small shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "dionysus",
     "thumb": "https://img.kynbag.com/products/dionysus-gg-small-shoulder-bag-8/1-154.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "dionysus"
   },
   {
     "id": "3802",
@@ -4745,9 +4745,9 @@
     "name": "Dionysus GG small shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "dionysus",
     "thumb": "https://img.kynbag.com/products/dionysus-gg-small-shoulder-bag-7/1-153.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "dionysus"
   },
   {
     "id": "3801",
@@ -4755,9 +4755,9 @@
     "name": "Dionysus GG small shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "dionysus",
     "thumb": "https://img.kynbag.com/products/dionysus-gg-small-shoulder-bag-6/1-152.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "dionysus"
   },
   {
     "id": "3800",
@@ -4765,9 +4765,9 @@
     "name": "Dionysus GG small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "dionysus",
     "thumb": "https://img.kynbag.com/products/dionysus-gg-small-shoulder-bag-5/1-151.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "dionysus"
   },
   {
     "id": "3799",
@@ -4775,9 +4775,9 @@
     "name": "Dionysus GG small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "dionysus",
     "thumb": "https://img.kynbag.com/products/dionysus-gg-small-shoulder-bag-4/1-150.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "dionysus"
   },
   {
     "id": "3798",
@@ -4785,9 +4785,9 @@
     "name": "Dionysus GG small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "dionysus",
     "thumb": "https://img.kynbag.com/products/dionysus-gg-small-shoulder-bag-3/1-149.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "dionysus"
   },
   {
     "id": "3797",
@@ -4795,9 +4795,9 @@
     "name": "Dionysus GG small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "dionysus",
     "thumb": "https://img.kynbag.com/products/dionysus-gg-small-shoulder-bag-2/1-148.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "dionysus"
   },
   {
     "id": "3796",
@@ -4805,9 +4805,9 @@
     "name": "Dionysus GG small shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "dionysus",
     "thumb": "https://img.kynbag.com/products/dionysus-gg-small-shoulder-bag/1-147.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "dionysus"
   },
   {
     "id": "3739",
@@ -4815,9 +4815,9 @@
     "name": "GG Supreme Medium Dionysus Shoulder Bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "dionysus",
     "thumb": "https://img.kynbag.com/products/gg-supreme-medium-dionysus-shoulder-bag-3/1-146.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "dionysus"
   },
   {
     "id": "3738",
@@ -4825,9 +4825,9 @@
     "name": "GG Supreme Medium Dionysus Shoulder Bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "dionysus",
     "thumb": "https://img.kynbag.com/products/gg-supreme-medium-dionysus-shoulder-bag-2/1-145.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "dionysus"
   },
   {
     "id": "3737",
@@ -4835,9 +4835,9 @@
     "name": "GG Supreme Medium Dionysus Shoulder Bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "dionysus",
     "thumb": "https://img.kynbag.com/products/gg-supreme-medium-dionysus-shoulder-bag/1-144.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "dionysus"
   },
   {
     "id": "3423",
@@ -4845,9 +4845,9 @@
     "name": "Gucci Blondie mini bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-mini-bag-4/1-110.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "3422",
@@ -4855,9 +4855,9 @@
     "name": "Gucci Blondie mini bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-mini-bag-3/1-109.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "3421",
@@ -4865,9 +4865,9 @@
     "name": "Gucci Blondie mini bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-mini-bag-2/1-108.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "3420",
@@ -4875,9 +4875,9 @@
     "name": "Gucci Blondie mini bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-mini-bag/1-107.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "3419",
@@ -4885,9 +4885,9 @@
     "name": "Gucci Blondie shoulder bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-shoulder-bag-4/1-106.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "3362",
@@ -4895,9 +4895,9 @@
     "name": "Gucci Blondie shoulder bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-shoulder-bag-3/1-105.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "3361",
@@ -4905,9 +4905,9 @@
     "name": "Gucci Blondie shoulder bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-shoulder-bag-2/1-104.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "3360",
@@ -4915,9 +4915,9 @@
     "name": "Gucci Blondie shoulder bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-shoulder-bag/1-103.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "3359",
@@ -4925,9 +4925,9 @@
     "name": "Gucci Blondie belt bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "belt-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-belt-bag-2/1-102.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "belt-bag"
   },
   {
     "id": "3358",
@@ -4935,9 +4935,9 @@
     "name": "Gucci Blondie belt bag",
     "price": 209.99,
     "brand": "Gucci",
-    "subcategory": "belt-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-belt-bag/1-101.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "belt-bag"
   },
   {
     "id": "3357",
@@ -4945,9 +4945,9 @@
     "name": "Gucci Blondie medium shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-medium-shoulder-bag-3/1-100.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "3356",
@@ -4955,9 +4955,9 @@
     "name": "Gucci Blondie medium shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-medium-shoulder-bag-2/1-99.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "3299",
@@ -4965,9 +4965,9 @@
     "name": "Gucci Blondie medium shoulder bag",
     "price": 219.99,
     "brand": "Gucci",
-    "subcategory": "shoulder-bag",
     "thumb": "https://img.kynbag.com/products/gucci-blondie-medium-shoulder-bag/1-98.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "2683",
@@ -4975,9 +4975,9 @@
     "name": "Jackie 1961 medium shoulder bag",
     "price": 229.99,
     "brand": "Gucci",
-    "subcategory": "jackie",
     "thumb": "https://img.kynbag.com/products/jackie-1961-medium-shoulder-bag/1-27.jpg",
-    "imageCount": 5
+    "imageCount": 1,
+    "subcategory": "jackie"
   },
   {
     "id": "55114",
@@ -4985,9 +4985,9 @@
     "name": "Women&#8217;s Gucci Shift sneaker",
     "price": 189.99,
     "brand": "Gucci",
-    "subcategory": "clutch",
     "thumb": "https://img.kynbag.com/products/womens-gucci-shift-sneaker-7/1-5710.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "clutch"
   },
   {
     "id": "55098",
@@ -4995,9 +4995,9 @@
     "name": "Women&#8217;s Gucci Shift sneaker",
     "price": 189.99,
     "brand": "Gucci",
-    "subcategory": "clutch",
     "thumb": "https://img.kynbag.com/products/womens-gucci-shift-sneaker-6/1-5709.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "clutch"
   },
   {
     "id": "55082",
@@ -5005,9 +5005,9 @@
     "name": "Women&#8217;s Gucci Shift sneaker",
     "price": 189.99,
     "brand": "Gucci",
-    "subcategory": "clutch",
     "thumb": "https://img.kynbag.com/products/womens-gucci-shift-sneaker-5/1-5708.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "clutch"
   },
   {
     "id": "55066",
@@ -5015,9 +5015,9 @@
     "name": "Women&#8217;s Gucci Shift sneaker",
     "price": 189.99,
     "brand": "Gucci",
-    "subcategory": "clutch",
     "thumb": "https://img.kynbag.com/products/womens-gucci-shift-sneaker-4/1-5707.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "clutch"
   },
   {
     "id": "55050",
@@ -5025,9 +5025,9 @@
     "name": "Women&#8217;s Gucci Shift sneaker",
     "price": 189.99,
     "brand": "Gucci",
-    "subcategory": "clutch",
     "thumb": "https://img.kynbag.com/products/womens-gucci-shift-sneaker-3/1-5706.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "clutch"
   },
   {
     "id": "55034",
@@ -5035,9 +5035,9 @@
     "name": "Women&#8217;s Gucci Shift sneaker",
     "price": 189.99,
     "brand": "Gucci",
-    "subcategory": "clutch",
     "thumb": "https://img.kynbag.com/products/womens-gucci-shift-sneaker-2/1-5705.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "clutch"
   },
   {
     "id": "55018",
@@ -5045,9 +5045,9 @@
     "name": "Women&#8217;s Gucci Shift sneaker",
     "price": 189.99,
     "brand": "Gucci",
-    "subcategory": "clutch",
     "thumb": "https://img.kynbag.com/products/womens-gucci-shift-sneaker/1-5704.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "clutch"
   },
   {
     "id": "55002",
@@ -5055,9 +5055,9 @@
     "name": "GUCCI Women&#8217;s Screener sneaker",
     "price": 199.99,
     "brand": "Gucci",
-    "subcategory": "clutch",
     "thumb": "https://img.kynbag.com/products/gucci-womens-screener-sneaker/1-5703.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "clutch"
   },
   {
     "id": 10088,
@@ -5065,9 +5065,9 @@
     "name": "GUCCI DIANA SMALL SHOULDER BAG",
     "price": 0,
     "brand": "gucci",
-    "subcategory": "diana",
     "thumb": "https://yutulu.com/wp-content/uploads/2026/03/8-832.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "diana"
   },
   {
     "id": 10087,
@@ -5075,9 +5075,9 @@
     "name": "GUCCI DIANA SMALL SHOULDER BAG",
     "price": 0,
     "brand": "gucci",
-    "subcategory": "diana",
     "thumb": "https://yutulu.com/wp-content/uploads/2026/03/7-831.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "diana"
   },
   {
     "id": 10086,
@@ -5085,9 +5085,9 @@
     "name": "GUCCI DIANA SMALL SHOULDER BAG",
     "price": 0,
     "brand": "gucci",
-    "subcategory": "diana",
     "thumb": "https://yutulu.com/wp-content/uploads/2026/03/7-830.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "diana"
   },
   {
     "id": 10045,
@@ -5095,8 +5095,8 @@
     "name": "GUCCI DIANA SMALL SHOULDER BAG",
     "price": 0,
     "brand": "gucci",
-    "subcategory": "diana",
     "thumb": "https://yutulu.com/wp-content/uploads/2026/03/7-829.jpg",
-    "imageCount": 5
+    "imageCount": 8,
+    "subcategory": "diana"
   }
 ]
