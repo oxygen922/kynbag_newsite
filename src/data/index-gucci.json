@@ -5098,5 +5098,45 @@
     "thumb": "https://yutulu.com/wp-content/uploads/2026/03/7-829.jpg",
     "imageCount": 8,
     "subcategory": "diana"
+  },
+  {
+    "id": 62621,
+    "slug": "gucci-gossip-small-shoulder-bag-2",
+    "name": "Gucci Gossip small shoulder bag",
+    "price": 0,
+    "brand": "gucci",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/07/8-60.jpg",
+    "imageCount": 8,
+    "subcategory": "mini-bag"
+  },
+  {
+    "id": 62609,
+    "slug": "gucci-gossip-small-shoulder-bag",
+    "name": "Gucci Gossip small shoulder bag",
+    "price": 0,
+    "brand": "gucci",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/07/1-60.jpg",
+    "imageCount": 9,
+    "subcategory": "mini-bag"
+  },
+  {
+    "id": 62600,
+    "slug": "gucci-horsebit-ristretto-medium-shoulder-bag-2",
+    "name": "Gucci Horsebit Ristretto medium shoulder bag",
+    "price": 0,
+    "brand": "gucci",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/07/1-61.jpg",
+    "imageCount": 9,
+    "subcategory": "horsebit"
+  },
+  {
+    "id": 62591,
+    "slug": "gucci-horsebit-ristretto-medium-shoulder-bag",
+    "name": "Gucci Horsebit Ristretto medium shoulder bag",
+    "price": 0,
+    "brand": "gucci",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/07/1-62.jpg",
+    "imageCount": 9,
+    "subcategory": "horsebit"
   }
 ]

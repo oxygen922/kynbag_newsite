@@ -21231,6 +21231,34 @@
     "subcategory": "diana"
   },
   {
+    "id": 62621,
+    "slug": "gucci-gossip-small-shoulder-bag-2",
+    "name": "Gucci Gossip small shoulder bag",
+    "brand": "gucci",
+    "subcategory": "mini-bag"
+  },
+  {
+    "id": 62609,
+    "slug": "gucci-gossip-small-shoulder-bag",
+    "name": "Gucci Gossip small shoulder bag",
+    "brand": "gucci",
+    "subcategory": "mini-bag"
+  },
+  {
+    "id": 62600,
+    "slug": "gucci-horsebit-ristretto-medium-shoulder-bag-2",
+    "name": "Gucci Horsebit Ristretto medium shoulder bag",
+    "brand": "gucci",
+    "subcategory": "horsebit"
+  },
+  {
+    "id": 62591,
+    "slug": "gucci-horsebit-ristretto-medium-shoulder-bag",
+    "name": "Gucci Horsebit Ristretto medium shoulder bag",
+    "brand": "gucci",
+    "subcategory": "horsebit"
+  },
+  {
     "id": "60965",
     "slug": "medium-dior-medaillon-flap-baghigh-end-grade-6",
     "name": "Medium Dior Médaillon Flap Bag(HIGH-END GRADE)",
@@ -34550,6 +34578,13 @@
     "name": "PUFFER SMALL CHAIN BAG",
     "brand": "YSL",
     "subcategory": "puffer"
+  },
+  {
+    "id": 62582,
+    "slug": "ysl-icare-medium-in-raffiahigh-end-grade",
+    "name": "YSL ICARE medium in raffia(HIGH-END GRADE)",
+    "brand": "ysl",
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "60331",
