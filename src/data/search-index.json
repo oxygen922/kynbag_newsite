@@ -7476,6 +7476,27 @@
     "subcategory": "classic-flap"
   },
   {
+    "id": 62760,
+    "slug": "chanel-clutchhigh-end-grade-9",
+    "name": "CHANEL Clutch(HIGH-END GRADE)",
+    "brand": "chanel",
+    "subcategory": "clutch"
+  },
+  {
+    "id": 62751,
+    "slug": "chanel-clutchhigh-end-grade-8",
+    "name": "CHANEL Clutch(HIGH-END GRADE)",
+    "brand": "chanel",
+    "subcategory": "clutch"
+  },
+  {
+    "id": 62742,
+    "slug": "chanel-clutchhigh-end-grade-7",
+    "name": "CHANEL Clutch(HIGH-END GRADE)",
+    "brand": "chanel",
+    "subcategory": "clutch"
+  },
+  {
     "id": "60808",
     "slug": "lv-neverwoof",
     "name": "LV Neverwoof",
@@ -17657,6 +17678,34 @@
     "id": 62391,
     "slug": "lv-side-trunk-mmhigh-end-grade-8",
     "name": "LV Side Trunk MM(HIGH-END GRADE)",
+    "brand": "louis-vuitton",
+    "subcategory": "other"
+  },
+  {
+    "id": 62796,
+    "slug": "lv-pochette-papillon-2",
+    "name": "LV Pochette Papillon",
+    "brand": "louis-vuitton",
+    "subcategory": "other"
+  },
+  {
+    "id": 62787,
+    "slug": "lv-alma-trunk-bbhigh-end-grade-4",
+    "name": "LV Alma Trunk BB(HIGH-END GRADE)",
+    "brand": "louis-vuitton",
+    "subcategory": "other"
+  },
+  {
+    "id": 62778,
+    "slug": "lv-alma-trunk-bbhigh-end-grade-3",
+    "name": "LV Alma Trunk BB(HIGH-END GRADE)",
+    "brand": "louis-vuitton",
+    "subcategory": "other"
+  },
+  {
+    "id": 62769,
+    "slug": "lv-alma-bbhigh-end-grade-7",
+    "name": "LV Alma BB(HIGH-END GRADE)",
     "brand": "louis-vuitton",
     "subcategory": "other"
   },
@@ -31164,6 +31213,41 @@
     "subcategory": "clutch"
   },
   {
+    "id": 62670,
+    "slug": "hermes-birkin-40high-end-grade-5",
+    "name": "Hermes Birkin 40(HIGH-END GRADE)",
+    "brand": "hermes",
+    "subcategory": "birkin"
+  },
+  {
+    "id": 62661,
+    "slug": "hermes-birkin-40high-end-grade-4",
+    "name": "Hermes Birkin 40(HIGH-END GRADE)",
+    "brand": "hermes",
+    "subcategory": "birkin"
+  },
+  {
+    "id": 62652,
+    "slug": "hermes-birkin-40high-end-grade-3",
+    "name": "Hermes Birkin 40(HIGH-END GRADE)",
+    "brand": "hermes",
+    "subcategory": "birkin"
+  },
+  {
+    "id": 62643,
+    "slug": "hermes-birkin-40high-end-grade-2",
+    "name": "Hermes Birkin 40(HIGH-END GRADE)",
+    "brand": "hermes",
+    "subcategory": "birkin"
+  },
+  {
+    "id": 62634,
+    "slug": "hermes-birkin-40high-end-grade",
+    "name": "Hermes Birkin 40(HIGH-END GRADE)",
+    "brand": "hermes",
+    "subcategory": "birkin"
+  },
+  {
     "id": "59708",
     "slug": "ysl-sunset-medium-in-crocodile-embossed-leatherhigh-end-grade-8",
     "name": "YSL SUNSET MEDIUM IN CROCODILE-EMBOSSED LEATHER(HIGH-END GRADE)",
@@ -36629,6 +36713,55 @@
     "name": "Prada Mini leather shoulder bag(HIGH-END GRADE)",
     "brand": "prada",
     "subcategory": "saffiano"
+  },
+  {
+    "id": 62733,
+    "slug": "prada-bonnie-leather-mini-baghigh-end-grade-7",
+    "name": "Prada Bonnie leather mini-bag(HIGH-END GRADE)",
+    "brand": "prada",
+    "subcategory": "other"
+  },
+  {
+    "id": 62724,
+    "slug": "prada-bonnie-leather-mini-baghigh-end-grade-6",
+    "name": "Prada Bonnie leather mini-bag(HIGH-END GRADE)",
+    "brand": "prada",
+    "subcategory": "other"
+  },
+  {
+    "id": 62715,
+    "slug": "prada-bonnie-leather-mini-baghigh-end-grade-5",
+    "name": "Prada Bonnie leather mini-bag(HIGH-END GRADE)",
+    "brand": "prada",
+    "subcategory": "other"
+  },
+  {
+    "id": 62706,
+    "slug": "prada-bonnie-leather-mini-baghigh-end-grade-4",
+    "name": "Prada Bonnie leather mini-bag(HIGH-END GRADE)",
+    "brand": "prada",
+    "subcategory": "other"
+  },
+  {
+    "id": 62697,
+    "slug": "prada-bonnie-leather-mini-baghigh-end-grade-3",
+    "name": "Prada Bonnie leather mini-bag(HIGH-END GRADE)",
+    "brand": "prada",
+    "subcategory": "other"
+  },
+  {
+    "id": 62688,
+    "slug": "prada-bonnie-leather-mini-baghigh-end-grade-2",
+    "name": "Prada Bonnie leather mini-bag(HIGH-END GRADE)",
+    "brand": "prada",
+    "subcategory": "other"
+  },
+  {
+    "id": 62679,
+    "slug": "prada-bonnie-leather-mini-baghigh-end-grade",
+    "name": "Prada Bonnie leather mini-bag(HIGH-END GRADE)",
+    "brand": "prada",
+    "subcategory": "other"
   },
   {
     "id": "59606",

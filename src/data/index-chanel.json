@@ -10678,5 +10678,35 @@
     "thumb": "https://yutulu.com/wp-content/uploads/2026/03/7-400.jpg",
     "imageCount": 8,
     "subcategory": "classic-flap"
+  },
+  {
+    "id": 62760,
+    "slug": "chanel-clutchhigh-end-grade-9",
+    "name": "CHANEL Clutch(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "chanel",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/07/8-75.jpg",
+    "imageCount": 8,
+    "subcategory": "clutch"
+  },
+  {
+    "id": 62751,
+    "slug": "chanel-clutchhigh-end-grade-8",
+    "name": "CHANEL Clutch(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "chanel",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/07/8-74.jpg",
+    "imageCount": 8,
+    "subcategory": "clutch"
+  },
+  {
+    "id": 62742,
+    "slug": "chanel-clutchhigh-end-grade-7",
+    "name": "CHANEL Clutch(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "chanel",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/07/8-73.jpg",
+    "imageCount": 8,
+    "subcategory": "clutch"
   }
 ]

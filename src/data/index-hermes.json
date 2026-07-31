@@ -5518,5 +5518,55 @@
     "thumb": "https://img.kynbag.com/products/hermes-bouncing-sneaker/1-5634.jpg",
     "imageCount": 8,
     "subcategory": "clutch"
+  },
+  {
+    "id": 62670,
+    "slug": "hermes-birkin-40high-end-grade-5",
+    "name": "Hermes Birkin 40(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "hermes",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/07/8-65.jpg",
+    "imageCount": 8,
+    "subcategory": "birkin"
+  },
+  {
+    "id": 62661,
+    "slug": "hermes-birkin-40high-end-grade-4",
+    "name": "Hermes Birkin 40(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "hermes",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/07/8-64.jpg",
+    "imageCount": 8,
+    "subcategory": "birkin"
+  },
+  {
+    "id": 62652,
+    "slug": "hermes-birkin-40high-end-grade-3",
+    "name": "Hermes Birkin 40(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "hermes",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/07/8-63.jpg",
+    "imageCount": 8,
+    "subcategory": "birkin"
+  },
+  {
+    "id": 62643,
+    "slug": "hermes-birkin-40high-end-grade-2",
+    "name": "Hermes Birkin 40(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "hermes",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/07/8-62.jpg",
+    "imageCount": 8,
+    "subcategory": "birkin"
+  },
+  {
+    "id": 62634,
+    "slug": "hermes-birkin-40high-end-grade",
+    "name": "Hermes Birkin 40(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "hermes",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/07/8-61.jpg",
+    "imageCount": 8,
+    "subcategory": "birkin"
   }
 ]
