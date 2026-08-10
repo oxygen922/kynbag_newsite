@@ -46,7 +46,7 @@ export default function SubcategoryFilter({ subcategories }: SubcategoryFilterPr
           >
             All Styles
           </button>
-          {subcategories.subcategories.map((subcat) => {
+          {subcategories.subcategories.filter(s => s.count > 0).map((subcat) => {
             const isSelected = selectedId === subcat.id;
             return (
               <button
@@ -94,7 +94,7 @@ export default function SubcategoryFilter({ subcategories }: SubcategoryFilterPr
             >
               All Styles
             </button>
-            {subcategories.subcategories.map((subcat) => {
+            {subcategories.subcategories.filter(s => s.count > 0).map((subcat) => {
               const isSelected = selectedId === subcat.id;
               return (
                 <button

@@ -5,12 +5,12 @@
       {
         "id": "classic-flap",
         "name": "Classic Flap",
-        "count": 75
+        "count": 244
       },
       {
         "id": "2-55",
         "name": "2.55",
-        "count": 5
+        "count": 25
       },
       {
         "id": "cf",
@@ -20,57 +20,77 @@
       {
         "id": "boy-bag",
         "name": "Boy Bag",
-        "count": 16
+        "count": 0
       },
       {
         "id": "backpack",
         "name": "Backpack",
-        "count": 40
+        "count": 36
       },
       {
         "id": "wallet-on-chain",
         "name": "Wallet on Chain",
-        "count": 44
+        "count": 71
       },
       {
         "id": "tote",
         "name": "Tote",
-        "count": 72
+        "count": 76
       },
       {
         "id": "crossbody",
         "name": "Crossbody",
-        "count": 0
+        "count": 34
       },
       {
         "id": "mini-bag",
         "name": "Mini Bag",
-        "count": 72
+        "count": 7
       },
       {
         "id": "shoulder-bag",
         "name": "Shoulder Bag",
-        "count": 20
+        "count": 152
       },
       {
         "id": "evening-bag",
         "name": "Evening Bag",
-        "count": 2
+        "count": 5
       },
       {
         "id": "belt-bag",
         "name": "Belt Bag",
-        "count": 0
+        "count": 3
       },
       {
         "id": "shopping-bag",
         "name": "Shopping Bag",
-        "count": 72
+        "count": 85
       },
       {
         "id": "other",
         "name": "Other",
-        "count": 428
+        "count": 0
+      },
+      {
+        "id": "mini-flap",
+        "name": "Mini Flap",
+        "count": 167
+      },
+      {
+        "id": "clutch",
+        "name": "Clutch",
+        "count": 137
+      },
+      {
+        "id": "vanity",
+        "name": "Vanity",
+        "count": 47
+      },
+      {
+        "id": "pouch",
+        "name": "Pouch",
+        "count": 8
       }
     ]
   },
@@ -80,27 +100,27 @@
       {
         "id": "neverfull",
         "name": "Neverfull",
-        "count": 64
+        "count": 49
       },
       {
         "id": "speedy",
         "name": "Speedy",
-        "count": 131
+        "count": 47
       },
       {
         "id": "keepall",
         "name": "Keepall",
-        "count": 37
+        "count": 50
       },
       {
         "id": "carryall",
         "name": "Carryall",
-        "count": 60
+        "count": 86
       },
       {
         "id": "onthego",
         "name": "OnTheGo",
-        "count": 58
+        "count": 51
       },
       {
         "id": "neverwoof",
@@ -120,7 +140,7 @@
       {
         "id": "petite-malle",
         "name": "Petite Malle",
-        "count": 8
+        "count": 10
       },
       {
         "id": "capucines",
@@ -135,27 +155,72 @@
       {
         "id": "tote",
         "name": "Tote",
-        "count": 32
+        "count": 50
       },
       {
         "id": "backpack",
         "name": "Backpack",
-        "count": 45
+        "count": 76
       },
       {
         "id": "crossbody",
         "name": "Crossbody",
-        "count": 6
+        "count": 272
       },
       {
         "id": "belt-bag",
         "name": "Belt Bag",
-        "count": 0
+        "count": 21
       },
       {
         "id": "other",
         "name": "Other",
-        "count": 788
+        "count": 17
+      },
+      {
+        "id": "shoulder-bag",
+        "name": "Shoulder Bag",
+        "count": 346
+      },
+      {
+        "id": "clutch",
+        "name": "Clutch",
+        "count": 144
+      },
+      {
+        "id": "wallet-on-chain",
+        "name": "Wallet On Chain",
+        "count": 103
+      },
+      {
+        "id": "pouch",
+        "name": "Pouch",
+        "count": 20
+      },
+      {
+        "id": "mini-bag",
+        "name": "Mini Bag",
+        "count": 19
+      },
+      {
+        "id": "belvedere",
+        "name": "Belvedere",
+        "count": 11
+      },
+      {
+        "id": "vanity",
+        "name": "Vanity",
+        "count": 9
+      },
+      {
+        "id": "classic-flap",
+        "name": "Classic Flap",
+        "count": 5
+      },
+      {
+        "id": "diana",
+        "name": "Diana",
+        "count": 4
       }
     ]
   },
@@ -165,7 +230,7 @@
       {
         "id": "lady-dior",
         "name": "Lady Dior",
-        "count": 49
+        "count": 61
       },
       {
         "id": "saddle",
@@ -190,7 +255,7 @@
       {
         "id": "caro",
         "name": "Caro",
-        "count": 47
+        "count": 31
       },
       {
         "id": "bobby",
@@ -200,12 +265,12 @@
       {
         "id": "tote",
         "name": "Tote",
-        "count": 23
+        "count": 22
       },
       {
         "id": "crossbody",
         "name": "Crossbody",
-        "count": 0
+        "count": 4
       },
       {
         "id": "backpack",
@@ -215,7 +280,37 @@
       {
         "id": "other",
         "name": "Other",
-        "count": 265
+        "count": 0
+      },
+      {
+        "id": "shoulder-bag",
+        "name": "Shoulder Bag",
+        "count": 256
+      },
+      {
+        "id": "clutch",
+        "name": "Clutch",
+        "count": 25
+      },
+      {
+        "id": "mini-bag",
+        "name": "Mini Bag",
+        "count": 17
+      },
+      {
+        "id": "classic-flap",
+        "name": "Classic Flap",
+        "count": 6
+      },
+      {
+        "id": "pouch",
+        "name": "Pouch",
+        "count": 4
+      },
+      {
+        "id": "wallet-on-chain",
+        "name": "Wallet On Chain",
+        "count": 2
       }
     ]
   },
@@ -225,17 +320,17 @@
       {
         "id": "birkin",
         "name": "Birkin",
-        "count": 62
+        "count": 67
       },
       {
         "id": "kelly",
         "name": "Kelly",
-        "count": 116
+        "count": 84
       },
       {
         "id": "constance",
         "name": "Constance",
-        "count": 66
+        "count": 28
       },
       {
         "id": "lindy",
@@ -265,12 +360,42 @@
       {
         "id": "tote",
         "name": "Tote",
-        "count": 0
+        "count": 15
       },
       {
         "id": "other",
         "name": "Other",
-        "count": 161
+        "count": 0
+      },
+      {
+        "id": "clutch",
+        "name": "Clutch",
+        "count": 87
+      },
+      {
+        "id": "shoulder-bag",
+        "name": "Shoulder Bag",
+        "count": 81
+      },
+      {
+        "id": "wallet-on-chain",
+        "name": "Wallet On Chain",
+        "count": 73
+      },
+      {
+        "id": "mini-bag",
+        "name": "Mini Bag",
+        "count": 36
+      },
+      {
+        "id": "crossbody",
+        "name": "Crossbody",
+        "count": 18
+      },
+      {
+        "id": "backpack",
+        "name": "Backpack",
+        "count": 12
       }
     ]
   },
@@ -280,7 +405,7 @@
       {
         "id": "horsebit",
         "name": "Horsebit",
-        "count": 56
+        "count": 52
       },
       {
         "id": "dionysus",
@@ -300,12 +425,12 @@
       {
         "id": "bamboo",
         "name": "Bamboo",
-        "count": 17
+        "count": 5
       },
       {
         "id": "diana",
         "name": "Diana",
-        "count": 25
+        "count": 22
       },
       {
         "id": "tori",
@@ -315,17 +440,17 @@
       {
         "id": "gg-marmont",
         "name": "GG Marmont",
-        "count": 68
+        "count": 66
       },
       {
         "id": "tote",
         "name": "Tote",
-        "count": 77
+        "count": 42
       },
       {
         "id": "crossbody",
         "name": "Crossbody",
-        "count": 6
+        "count": 25
       },
       {
         "id": "backpack",
@@ -335,7 +460,37 @@
       {
         "id": "other",
         "name": "Other",
-        "count": 85
+        "count": 0
+      },
+      {
+        "id": "shoulder-bag",
+        "name": "Shoulder Bag",
+        "count": 191
+      },
+      {
+        "id": "mini-bag",
+        "name": "Mini Bag",
+        "count": 51
+      },
+      {
+        "id": "clutch",
+        "name": "Clutch",
+        "count": 8
+      },
+      {
+        "id": "wallet-on-chain",
+        "name": "Wallet On Chain",
+        "count": 2
+      },
+      {
+        "id": "belt-bag",
+        "name": "Belt Bag",
+        "count": 2
+      },
+      {
+        "id": "vanity",
+        "name": "Vanity",
+        "count": 1
       }
     ]
   },
@@ -345,22 +500,22 @@
       {
         "id": "loulou",
         "name": "Loulou",
-        "count": 31
+        "count": 11
       },
       {
         "id": "kate",
         "name": "Kate",
-        "count": 19
+        "count": 0
       },
       {
         "id": "niki",
         "name": "Niki",
-        "count": 49
+        "count": 6
       },
       {
         "id": "puffer",
         "name": "Puffer",
-        "count": 40
+        "count": 33
       },
       {
         "id": "manhattan",
@@ -375,27 +530,47 @@
       {
         "id": "le-5-a-7",
         "name": "Le 5 à 7",
-        "count": 24
+        "count": 0
       },
       {
         "id": "wallet-on-chain",
         "name": "Wallet on Chain",
-        "count": 17
+        "count": 8
       },
       {
         "id": "crossbody",
         "name": "Crossbody",
-        "count": 0
+        "count": 10
       },
       {
         "id": "tote",
         "name": "Tote",
-        "count": 17
+        "count": 66
       },
       {
         "id": "other",
         "name": "Other",
-        "count": 230
+        "count": 0
+      },
+      {
+        "id": "shoulder-bag",
+        "name": "Shoulder Bag",
+        "count": 302
+      },
+      {
+        "id": "mini-bag",
+        "name": "Mini Bag",
+        "count": 19
+      },
+      {
+        "id": "pouch",
+        "name": "Pouch",
+        "count": 18
+      },
+      {
+        "id": "clutch",
+        "name": "Clutch",
+        "count": 3
       }
     ]
   },
@@ -410,17 +585,17 @@
       {
         "id": "nylon",
         "name": "Nylon",
-        "count": 14
+        "count": 0
       },
       {
         "id": "saffiano",
         "name": "Saffiano",
-        "count": 43
+        "count": 152
       },
       {
         "id": "symbol",
         "name": "Symbol",
-        "count": 6
+        "count": 0
       },
       {
         "id": "cleo",
@@ -430,12 +605,12 @@
       {
         "id": "tote",
         "name": "Tote",
-        "count": 25
+        "count": 9
       },
       {
         "id": "crossbody",
         "name": "Crossbody",
-        "count": 0
+        "count": 11
       },
       {
         "id": "backpack",
@@ -445,7 +620,7 @@
       {
         "id": "other",
         "name": "Other",
-        "count": 76
+        "count": 108
       }
     ]
   },
@@ -480,22 +655,27 @@
       {
         "id": "tote",
         "name": "Tote",
-        "count": 0
+        "count": 3
       },
       {
         "id": "crossbody",
         "name": "Crossbody",
-        "count": 0
+        "count": 10
       },
       {
         "id": "shoulder-bag",
         "name": "Shoulder Bag",
-        "count": 0
+        "count": 132
       },
       {
         "id": "other",
         "name": "Other",
-        "count": 138
+        "count": 0
+      },
+      {
+        "id": "mini-bag",
+        "name": "Mini Bag",
+        "count": 4
       }
     ]
   },
@@ -510,7 +690,7 @@
       {
         "id": "ava",
         "name": "Ava",
-        "count": 1
+        "count": 0
       },
       {
         "id": "belt",
@@ -520,7 +700,7 @@
       {
         "id": "luggage",
         "name": "Luggage",
-        "count": 19
+        "count": 6
       },
       {
         "id": "box",
@@ -530,22 +710,37 @@
       {
         "id": "tote",
         "name": "Tote",
-        "count": 0
+        "count": 2
       },
       {
         "id": "crossbody",
         "name": "Crossbody",
-        "count": 0
+        "count": 1
       },
       {
         "id": "shoulder-bag",
         "name": "Shoulder Bag",
-        "count": 11
+        "count": 138
       },
       {
         "id": "other",
         "name": "Other",
-        "count": 105
+        "count": 0
+      },
+      {
+        "id": "mini-bag",
+        "name": "Mini Bag",
+        "count": 4
+      },
+      {
+        "id": "wallet-on-chain",
+        "name": "Wallet On Chain",
+        "count": 3
+      },
+      {
+        "id": "clutch",
+        "name": "Clutch",
+        "count": 1
       }
     ]
   },
@@ -585,7 +780,22 @@
       {
         "id": "other",
         "name": "Other",
-        "count": 96
+        "count": 0
+      },
+      {
+        "id": "shoulder-bag",
+        "name": "Shoulder Bag",
+        "count": 118
+      },
+      {
+        "id": "mini-bag",
+        "name": "Mini Bag",
+        "count": 31
+      },
+      {
+        "id": "backpack",
+        "name": "Backpack",
+        "count": 11
       }
     ]
   },
@@ -605,7 +815,7 @@
       {
         "id": "gate",
         "name": "Gate",
-        "count": 6
+        "count": 0
       },
       {
         "id": "balloon",
@@ -620,22 +830,32 @@
       {
         "id": "tote",
         "name": "Tote",
-        "count": 0
+        "count": 4
       },
       {
         "id": "crossbody",
         "name": "Crossbody",
-        "count": 0
+        "count": 14
       },
       {
         "id": "shoulder-bag",
         "name": "Shoulder Bag",
-        "count": 0
+        "count": 38
       },
       {
         "id": "other",
         "name": "Other",
-        "count": 60
+        "count": 0
+      },
+      {
+        "id": "pouch",
+        "name": "Pouch",
+        "count": 39
+      },
+      {
+        "id": "mini-bag",
+        "name": "Mini Bag",
+        "count": 6
       }
     ]
   },
@@ -645,7 +865,7 @@
       {
         "id": "city",
         "name": "City",
-        "count": 17
+        "count": 0
       },
       {
         "id": "hourglass",
@@ -675,7 +895,17 @@
       {
         "id": "other",
         "name": "Other",
-        "count": 44
+        "count": 0
+      },
+      {
+        "id": "shoulder-bag",
+        "name": "Shoulder Bag",
+        "count": 74
+      },
+      {
+        "id": "mini-bag",
+        "name": "Mini Bag",
+        "count": 9
       }
     ]
   },
@@ -685,12 +915,12 @@
       {
         "id": "wander",
         "name": "Wander",
-        "count": 20
+        "count": 0
       },
       {
         "id": "arcadie",
         "name": "Arcadie",
-        "count": 21
+        "count": 10
       },
       {
         "id": "muse",
@@ -710,7 +940,12 @@
       {
         "id": "other",
         "name": "Other",
-        "count": 40
+        "count": 0
+      },
+      {
+        "id": "shoulder-bag",
+        "name": "Shoulder Bag",
+        "count": 83
       }
     ]
   },
@@ -730,12 +965,12 @@
       {
         "id": "first",
         "name": "First",
-        "count": 9
+        "count": 5
       },
       {
         "id": "tote",
         "name": "Tote",
-        "count": 1
+        "count": 6
       },
       {
         "id": "crossbody",
@@ -745,7 +980,17 @@
       {
         "id": "other",
         "name": "Other",
-        "count": 20
+        "count": 0
+      },
+      {
+        "id": "shoulder-bag",
+        "name": "Shoulder Bag",
+        "count": 15
+      },
+      {
+        "id": "mini-bag",
+        "name": "Mini Bag",
+        "count": 4
       }
     ]
   },
@@ -765,7 +1010,7 @@
       {
         "id": "tote",
         "name": "Tote",
-        "count": 5
+        "count": 2
       },
       {
         "id": "crossbody",
@@ -775,7 +1020,17 @@
       {
         "id": "other",
         "name": "Other",
-        "count": 20
+        "count": 0
+      },
+      {
+        "id": "mini-bag",
+        "name": "Mini Bag",
+        "count": 14
+      },
+      {
+        "id": "shoulder-bag",
+        "name": "Shoulder Bag",
+        "count": 9
       }
     ]
   },
@@ -800,6 +1055,11 @@
       {
         "id": "other",
         "name": "Other",
+        "count": 0
+      },
+      {
+        "id": "shoulder-bag",
+        "name": "Shoulder Bag",
         "count": 20
       }
     ]

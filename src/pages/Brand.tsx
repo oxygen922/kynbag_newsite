@@ -143,11 +143,11 @@ export default function BrandPage() {
                     {brandSubcategories.name} Styles
                   </h3>
                   <div className="space-y-2">
-                    {brandSubcategories.subcategories.map((subcat) => (
+                    {brandSubcategories.subcategories.filter(s => s.count > 0).map((subcat) => (
                       <label
                         key={subcat.id}
                         className="flex items-center gap-2 cursor-pointer group"
-                      >
+                        >
                         <input
                           type="checkbox"
                           checked={selectedSubcategories.includes(subcat.id)}
@@ -234,7 +234,7 @@ export default function BrandPage() {
                         {brandSubcategories.name} Styles
                       </p>
                       <div className="grid grid-cols-2 gap-2">
-                        {brandSubcategories.subcategories.map((subcat) => (
+                        {brandSubcategories.subcategories.filter(s => s.count > 0).map((subcat) => (
                           <label key={subcat.id} className="flex items-center gap-2 cursor-pointer">
                             <input
                               type="checkbox"

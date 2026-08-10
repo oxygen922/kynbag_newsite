@@ -152,24 +152,24 @@ export default function Products() {
                     {selectedBrandSubcategories.name} Styles
                   </h3>
                   <div className="space-y-2">
-                    {selectedBrandSubcategories.subcategories.map((subcat) => (
-                      <label
-                        key={subcat.id}
-                        className="flex items-center gap-2 cursor-pointer group"
-                      >
-                        <input
-                          type="checkbox"
-                          checked={selectedSubcategories.includes(subcat.id)}
-                          onChange={() => toggleSubcategory(subcat.id)}
-                          className="w-4 h-4 accent-champagne border-champagne/30 rounded"
-                        />
-                        <span className="text-sm text-ink/70 group-hover:text-ink transition-colors">
-                          {subcat.name}
-                          <span className="text-ink/30 ml-1">({subcat.count})</span>
-                        </span>
-                      </label>
-                    ))}
-                  </div>
+                  {selectedBrandSubcategories.subcategories.filter(s => s.count > 0).map((subcat) => (
+                    <label
+                      key={subcat.id}
+                      className="flex items-center gap-2 cursor-pointer group"
+                    >
+                      <input
+                        type="checkbox"
+                        checked={selectedSubcategories.includes(subcat.id)}
+                        onChange={() => toggleSubcategory(subcat.id)}
+                        className="w-4 h-4 accent-champagne border-champagne/30 rounded"
+                      />
+                      <span className="text-sm text-ink/70 group-hover:text-ink transition-colors">
+                        {subcat.name}
+                        <span className="text-ink/30 ml-1">({subcat.count})</span>
+                      </span>
+                    </label>
+                  ))}
+                </div>
                 </div>
               )}
 
@@ -281,7 +281,7 @@ export default function Products() {
                         {selectedBrandSubcategories.name} Styles
                       </p>
                       <div className="grid grid-cols-2 gap-2">
-                        {selectedBrandSubcategories.subcategories.map((subcat) => (
+                        {selectedBrandSubcategories.subcategories.filter(s => s.count > 0).map((subcat) => (
                           <label key={subcat.id} className="flex items-center gap-2 cursor-pointer">
                             <input
                               type="checkbox"

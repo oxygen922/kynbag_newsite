@@ -2,31 +2,31 @@
   {
     "name": "Louis Vuitton",
     "slug": "louis-vuitton",
-    "count": 1420,
+    "count": 1463,
     "description": "French fashion house renowned for its iconic monogram canvas and timeless travel heritage since 1854."
   },
   {
     "name": "Chanel",
     "slug": "chanel",
-    "count": 1033,
+    "count": 1097,
     "description": "Synonymous with timeless elegance, Chanel defines Parisian luxury with the iconic 2.55 and Classic Flap."
   },
   {
     "name": "Dior",
     "slug": "dior",
-    "count": 628,
+    "count": 658,
     "description": "Christian Dior's vision of refined femininity, crafting the legendary Lady Dior and Saddle bags."
   },
   {
     "name": "YSL",
     "slug": "ysl",
-    "count": 488,
+    "count": 489,
     "description": "Saint Laurent's edgy Parisian-chic, defining modern luxury with the Loulou, Kate, and Niki."
   },
   {
     "name": "Prada",
     "slug": "prada",
-    "count": 287,
+    "count": 299,
     "description": "Miuccia Prada's intellectual luxury, blending nylon innovation with refined Italian leather goods."
   },
   {
@@ -92,13 +92,13 @@
   {
     "name": "Hermes",
     "slug": "hermes",
-    "count": 552,
+    "count": 557,
     "description": "The pinnacle of artisanal leather goods, famed for the Birkin, Kelly, and unparalleled craftsmanship."
   },
   {
     "name": "Gucci",
     "slug": "gucci",
-    "count": 506,
+    "count": 514,
     "description": "Italian maximalism meets heritage craftsmanship, home to the Horsebit, Dionysus, and Marmont."
   }
 ]
