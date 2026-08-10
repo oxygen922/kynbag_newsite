@@ -18,18 +18,6 @@
     "description": "Christian Dior's vision of refined femininity, crafting the legendary Lady Dior and Saddle bags."
   },
   {
-    "name": "Hermes",
-    "slug": "hermes",
-    "count": 552,
-    "description": "The pinnacle of artisanal leather goods, famed for the Birkin, Kelly, and unparalleled craftsmanship."
-  },
-  {
-    "name": "Gucci",
-    "slug": "gucci",
-    "count": 506,
-    "description": "Italian maximalism meets heritage craftsmanship, home to the Horsebit, Dionysus, and Marmont."
-  },
-  {
     "name": "YSL",
     "slug": "ysl",
     "count": 488,
@@ -100,5 +88,17 @@
     "slug": "givenchy",
     "count": 4,
     "description": "Hubert de Givenchy's aristocratic elegance, beloved by Audrey Hepburn."
+  },
+  {
+    "name": "Hermes",
+    "slug": "hermes",
+    "count": 552,
+    "description": "The pinnacle of artisanal leather goods, famed for the Birkin, Kelly, and unparalleled craftsmanship."
+  },
+  {
+    "name": "Gucci",
+    "slug": "gucci",
+    "count": 506,
+    "description": "Italian maximalism meets heritage craftsmanship, home to the Horsebit, Dionysus, and Marmont."
   }
 ]

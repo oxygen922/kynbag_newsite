@@ -16,8 +16,8 @@ export default function Home() {
       { slug: 'chanel', count: 6 },
       { slug: 'louis-vuitton', count: 6 },
       { slug: 'dior', count: 4 },
-      { slug: 'hermes', count: 4 },
-      { slug: 'gucci', count: 4 },
+      { slug: 'ysl', count: 4 },
+      { slug: 'prada', count: 4 },
     ];
     Promise.all(brandConfigs.map(({ slug }) => getProductsByBrand(slug))).then((results) => {
       const combined = results.flatMap((products, i) =>
