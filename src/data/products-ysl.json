@@ -16315,31 +16315,33 @@
     "subcategory": "puffer"
   },
   {
-    "id": 62582,
+    "id": "62582",
     "slug": "ysl-icare-medium-in-raffiahigh-end-grade",
     "name": "YSL ICARE medium in raffia(HIGH-END GRADE)",
-    "description": "",
-    "price": 0,
-    "originalPrice": 0,
-    "brand": "ysl",
-    "images": [
-      "https://yutulu.com/wp-content/uploads/2026/07/8-56.jpg",
-      "https://yutulu.com/wp-content/uploads/2026/07/7-56.jpg",
-      "https://yutulu.com/wp-content/uploads/2026/07/6-56.jpg",
-      "https://yutulu.com/wp-content/uploads/2026/07/5-56.jpg",
-      "https://yutulu.com/wp-content/uploads/2026/07/4-56.jpg",
-      "https://yutulu.com/wp-content/uploads/2026/07/3-56.jpg",
-      "https://yutulu.com/wp-content/uploads/2026/07/2-56.jpg",
-      "https://yutulu.com/wp-content/uploads/2026/07/1-56.jpg"
+    "brand": "Ysl",
+    "category": "Bags",
+    "details": [
+      "DIMENSIONS: 31–46 x 28 x 5–15 cm / 12.2–18.1&#8243; x 11&#8243; x 2–5.9&#8243;",
+      "Style:868748",
+      "NATURAL",
+      "RAFFIA, BRASS",
+      "bronze-tone hardware",
+      "handle drop: 20 cm / 7.9&#8243;"
     ],
-    "categories": [],
-    "subcategory": "shoulder-bag",
-    "colors": [],
-    "rating": 0,
-    "reviewCount": 0,
-    "isNew": true,
-    "isFeatured": false,
-    "tags": [],
-    "createdAt": "2026-07-23T02:41:41"
+    "shipping": "Free worldwide shipping, 7-15 days delivery.",
+    "price": 319.99,
+    "originalPrice": 629.99,
+    "images": [
+      "https://img.kynbag.com/products/ysl-icare-medium-in-raffiahigh-end-grade/1-56.jpg",
+      "https://img.kynbag.com/products/ysl-icare-medium-in-raffiahigh-end-grade/2-56.jpg",
+      "https://img.kynbag.com/products/ysl-icare-medium-in-raffiahigh-end-grade/3-56.jpg",
+      "https://img.kynbag.com/products/ysl-icare-medium-in-raffiahigh-end-grade/4-56.jpg",
+      "https://img.kynbag.com/products/ysl-icare-medium-in-raffiahigh-end-grade/5-56.jpg",
+      "https://img.kynbag.com/products/ysl-icare-medium-in-raffiahigh-end-grade/6-56.jpg",
+      "https://img.kynbag.com/products/ysl-icare-medium-in-raffiahigh-end-grade/7-56.jpg",
+      "https://img.kynbag.com/products/ysl-icare-medium-in-raffiahigh-end-grade/8-56.jpg"
+    ],
+    "createdAt": "2026-07-23T02:41:41",
+    "subcategory": "shoulder-bag"
   }
 ]

@@ -500,48 +500,48 @@
     "price": 209.99
   },
   "goyard-belvedere-pm-bag-11": {
-    "originalPrice": 369.99,
-    "price": 189.99
+    "price": 183.33,
+    "originalPrice": 366.66
   },
   "goyard-belvedere-pm-bag-10": {
-    "originalPrice": 369.99,
-    "price": 189.99
+    "price": 183.33,
+    "originalPrice": 366.66
   },
   "goyard-belvedere-pm-bag-9": {
-    "originalPrice": 369.99,
-    "price": 189.99
+    "price": 183.33,
+    "originalPrice": 366.66
   },
   "goyard-belvedere-pm-bag-8": {
-    "originalPrice": 369.99,
-    "price": 189.99
+    "price": 183.33,
+    "originalPrice": 366.66
   },
   "goyard-belvedere-pm-bag-7": {
-    "originalPrice": 369.99,
-    "price": 189.99
+    "price": 183.33,
+    "originalPrice": 366.66
   },
   "goyard-belvedere-pm-bag-6": {
-    "originalPrice": 369.99,
-    "price": 189.99
+    "price": 183.33,
+    "originalPrice": 366.66
   },
   "goyard-belvedere-pm-bag-5": {
-    "originalPrice": 369.99,
-    "price": 189.99
+    "price": 183.33,
+    "originalPrice": 366.66
   },
   "goyard-belvedere-pm-bag-4": {
-    "originalPrice": 369.99,
-    "price": 189.99
+    "price": 183.33,
+    "originalPrice": 366.66
   },
   "goyard-belvedere-pm-bag-3": {
-    "originalPrice": 369.99,
-    "price": 189.99
+    "price": 183.33,
+    "originalPrice": 366.66
   },
   "goyard-belvedere-pm-bag-2": {
-    "originalPrice": 369.99,
-    "price": 189.99
+    "price": 183.33,
+    "originalPrice": 366.66
   },
   "goyard-belvedere-pm-bag": {
-    "originalPrice": 369.99,
-    "price": 189.99
+    "price": 183.33,
+    "originalPrice": 366.66
   },
   "celine-medium-triomphe-folio-in-shiny-calfskinhigh-end-grade-2": {
     "originalPrice": 549.99,
@@ -17952,20 +17952,20 @@
     "price": 189.99
   },
   "gg-velvet-small-marmont-shoulder-bag-4": {
-    "originalPrice": 395.99,
-    "price": 195.99
+    "price": 191.66,
+    "originalPrice": 391.66
   },
   "gg-velvet-small-marmont-shoulder-bag-3": {
-    "originalPrice": 395.99,
-    "price": 195.99
+    "price": 191.66,
+    "originalPrice": 391.66
   },
   "gg-velvet-small-marmont-shoulder-bag-2": {
-    "originalPrice": 395.99,
-    "price": 195.99
+    "price": 191.66,
+    "originalPrice": 391.66
   },
   "gg-velvet-small-marmont-shoulder-bag": {
-    "originalPrice": 395.99,
-    "price": 195.99
+    "price": 191.66,
+    "originalPrice": 391.66
   },
   "gg-marmont-large-shoulder-baghigh-end-grade-2": {
     "originalPrice": 599.99,
@@ -20076,20 +20076,20 @@
     "price": 189.99
   },
   "gucci-diana-small-shoulder-bag-4": {
-    "originalPrice": 395.99,
-    "price": 195.99
+    "price": 191.66,
+    "originalPrice": 391.66
   },
   "gucci-diana-small-shoulder-bag-3": {
-    "originalPrice": 395.99,
-    "price": 195.99
+    "price": 191.66,
+    "originalPrice": 391.66
   },
   "gucci-diana-small-shoulder-bag-2": {
-    "originalPrice": 395.99,
-    "price": 195.99
+    "price": 191.66,
+    "originalPrice": 391.66
   },
   "gucci-diana-small-shoulder-bag": {
-    "originalPrice": 395.99,
-    "price": 195.99
+    "price": 191.66,
+    "originalPrice": 391.66
   },
   "loewe-small-squeeze-bag-in-nappa-lambskin-5": {
     "originalPrice": 539.99,
@@ -21632,24 +21632,24 @@
     "price": 189.99
   },
   "chanel-19-handbag-5": {
-    "originalPrice": 489.99,
-    "price": 269.99
+    "price": 266.66,
+    "originalPrice": 483.33
   },
   "chanel-19-handbag-4": {
-    "originalPrice": 489.99,
-    "price": 269.99
+    "price": 266.66,
+    "originalPrice": 483.33
   },
   "chanel-19-handbag-3": {
-    "originalPrice": 489.99,
-    "price": 269.99
+    "price": 266.66,
+    "originalPrice": 483.33
   },
   "chanel-19-handbag-2": {
-    "originalPrice": 499.99,
-    "price": 279.99
+    "price": 274.99,
+    "originalPrice": 491.66
   },
   "chanel-19-handbag": {
-    "originalPrice": 469.99,
-    "price": 239.99
+    "price": 233.33,
+    "originalPrice": 466.66
   },
   "medium-dior-caro-bag-6": {
     "originalPrice": 399.99,
@@ -24246,5 +24246,473 @@
   "chanel-large-vanity-with-chainhigh-end-grade-2": {
     "originalPrice": 509.99,
     "price": 259.99
+  },
+  "chanel-wallet-on-chainhigh-end-grade-3": {
+    "price": 241.66,
+    "originalPrice": 483.33
+  },
+  "chanel-wallet-on-chainhigh-end-grade-2": {
+    "price": 241.66,
+    "originalPrice": 483.33
+  },
+  "chanel-small-wallet-on-chainhigh-end-grade-2": {
+    "price": 266.66,
+    "originalPrice": 524.99
+  },
+  "chanel-small-wallet-on-chainhigh-end-grade": {
+    "price": 266.66,
+    "originalPrice": 524.99
+  },
+  "chanel-vanity-with-chainhigh-end-grade-6": {
+    "price": 241.66,
+    "originalPrice": 483.33
+  },
+  "chanel-vanity-with-chainhigh-end-grade-5": {
+    "price": 241.66,
+    "originalPrice": 483.33
+  },
+  "chanel-mini-flap-baghigh-end-grade-38": {
+    "price": 283.33,
+    "originalPrice": 566.66
+  },
+  "chanel-mini-flap-baghigh-end-grade-37": {
+    "price": 283.33,
+    "originalPrice": 566.66
+  },
+  "chanel-mini-flap-baghigh-end-grade-36": {
+    "price": 283.33,
+    "originalPrice": 566.66
+  },
+  "chanel-large-zipped-pouchhigh-end-grade-3": {
+    "price": 258.33,
+    "originalPrice": 508.33
+  },
+  "chanel-large-zipped-pouchhigh-end-grade-2": {
+    "price": 241.66,
+    "originalPrice": 483.33
+  },
+  "chanel-large-zipped-pouchhigh-end-grade": {
+    "price": 241.66,
+    "originalPrice": 483.33
+  },
+  "chanel-shopping-baghigh-end-grade-15": {
+    "price": 316.66,
+    "originalPrice": 616.66
+  },
+  "chanel-small-totehigh-end-grade-2": {
+    "price": 283.33,
+    "originalPrice": 566.66
+  },
+  "chanel-small-totehigh-end-grade": {
+    "price": 283.33,
+    "originalPrice": 566.66
+  },
+  "chanel-small-shopping-baghigh-end-grade-35": {
+    "price": 324.99,
+    "originalPrice": 641.66
+  },
+  "chanel-small-shopping-baghigh-end-grade-34": {
+    "price": 324.99,
+    "originalPrice": 641.66
+  },
+  "chanel-small-shopping-baghigh-end-grade-33": {
+    "price": 324.99,
+    "originalPrice": 641.66
+  },
+  "chanel-small-shopping-baghigh-end-grade-32": {
+    "price": 324.99,
+    "originalPrice": 641.66
+  },
+  "chanel-small-shopping-baghigh-end-grade-31": {
+    "price": 324.99,
+    "originalPrice": 641.66
+  },
+  "chanel-small-shopping-baghigh-end-grade-30": {
+    "price": 324.99,
+    "originalPrice": 641.66
+  },
+  "chanel-large-shopping-baghigh-end-grade-7": {
+    "price": 341.66,
+    "originalPrice": 683.33
+  },
+  "chanel-large-shopping-baghigh-end-grade-6": {
+    "price": 341.66,
+    "originalPrice": 683.33
+  },
+  "chanel-large-shopping-baghigh-end-grade-5": {
+    "price": 341.66,
+    "originalPrice": 683.33
+  },
+  "chanel-large-shopping-baghigh-end-grade-4": {
+    "price": 341.66,
+    "originalPrice": 683.33
+  },
+  "chanel-large-shopping-baghigh-end-grade-3": {
+    "price": 341.66,
+    "originalPrice": 683.33
+  },
+  "chanel-mini-flap-bag-with-top-handlehigh-end-grade-17": {
+    "price": 283.33,
+    "originalPrice": 566.66
+  },
+  "chanel-mini-flap-bag-with-top-handlehigh-end-grade-16": {
+    "price": 283.33,
+    "originalPrice": 566.66
+  },
+  "chanel-shopping-baghigh-end-grade-14": {
+    "price": 366.66,
+    "originalPrice": 724.99
+  },
+  "chanel-clutchhigh-end-grade-9": {
+    "price": 291.66,
+    "originalPrice": 591.66
+  },
+  "chanel-clutchhigh-end-grade-8": {
+    "price": 291.66,
+    "originalPrice": 591.66
+  },
+  "chanel-clutchhigh-end-grade-7": {
+    "price": 291.66,
+    "originalPrice": 591.66
+  },
+  "chanel-mini-flap-baghigh-end-grade-46": {
+    "price": 258.33,
+    "originalPrice": 508.33
+  },
+  "chanel-mini-flap-baghigh-end-grade-45": {
+    "price": 258.33,
+    "originalPrice": 508.33
+  },
+  "chanel-mini-flap-baghigh-end-grade-44": {
+    "price": 258.33,
+    "originalPrice": 508.33
+  },
+  "chanel-mini-flap-baghigh-end-grade-43": {
+    "price": 258.33,
+    "originalPrice": 508.33
+  },
+  "chanel-mini-flap-baghigh-end-grade-42": {
+    "price": 258.33,
+    "originalPrice": 508.33
+  },
+  "chanel-mini-flap-baghigh-end-grade-41": {
+    "price": 258.33,
+    "originalPrice": 508.33
+  },
+  "chanel-mini-flap-baghigh-end-grade-40": {
+    "price": 258.33,
+    "originalPrice": 508.33
+  },
+  "chanel-mini-flap-baghigh-end-grade-39": {
+    "price": 258.33,
+    "originalPrice": 508.33
+  },
+  "lv-victorine-wallet-12": {
+    "price": 91.66,
+    "originalPrice": 191.66
+  },
+  "lv-victorine-wallet-11": {
+    "price": 91.66,
+    "originalPrice": 191.66
+  },
+  "lv-victorine-wallet-10": {
+    "price": 91.66,
+    "originalPrice": 191.66
+  },
+  "lv-victorine-wallet-9": {
+    "price": 91.66,
+    "originalPrice": 191.66
+  },
+  "lv-victorine-wallet-8": {
+    "price": 91.66,
+    "originalPrice": 191.66
+  },
+  "lv-victorine-wallet-7": {
+    "price": 91.66,
+    "originalPrice": 191.66
+  },
+  "lv-x-tm-victorine-wallet": {
+    "price": 91.66,
+    "originalPrice": 191.66
+  },
+  "lv-6-key-holder-3": {
+    "price": 83.33,
+    "originalPrice": 166.66
+  },
+  "lv-6-key-holder-2": {
+    "price": 83.33,
+    "originalPrice": 166.66
+  },
+  "lv-6-key-holder": {
+    "price": 83.33,
+    "originalPrice": 166.66
+  },
+  "lv-all-in-mm": {
+    "price": 191.66,
+    "originalPrice": 391.66
+  },
+  "lv-pochette-papillon": {
+    "price": 174.99,
+    "originalPrice": 341.66
+  },
+  "lv-nano-madeleinehigh-end-grade-5": {
+    "price": 241.66,
+    "originalPrice": 483.33
+  },
+  "lv-neverfull-mmhigh-end-grade-9": {
+    "price": 233.33,
+    "originalPrice": 466.66
+  },
+  "lv-carryall-east-westhigh-end-grade-2": {
+    "price": 233.33,
+    "originalPrice": 466.66
+  },
+  "lv-speedy-soft-30high-end-grade-6": {
+    "price": 258.33,
+    "originalPrice": 508.33
+  },
+  "lv-speedy-bandouliere-20high-end-grade-5": {
+    "price": 233.33,
+    "originalPrice": 466.66
+  },
+  "lv-diane-pmhigh-end-grade": {
+    "price": 233.33,
+    "originalPrice": 466.66
+  },
+  "lv-alma-bbhigh-end-grade-6": {
+    "price": 241.66,
+    "originalPrice": 483.33
+  },
+  "lv-side-trunk-mmhigh-end-grade-8": {
+    "price": 241.66,
+    "originalPrice": 483.33
+  },
+  "lv-pochette-papillon-2": {
+    "price": 166.66,
+    "originalPrice": 324.99
+  },
+  "lv-alma-trunk-bbhigh-end-grade-4": {
+    "price": 241.66,
+    "originalPrice": 483.33
+  },
+  "lv-alma-trunk-bbhigh-end-grade-3": {
+    "price": 241.66,
+    "originalPrice": 483.33
+  },
+  "lv-alma-bbhigh-end-grade-7": {
+    "price": 241.66,
+    "originalPrice": 483.33
+  },
+  "gucci-gossip-small-shoulder-bag-2": {
+    "price": 166.66,
+    "originalPrice": 324.99
+  },
+  "gucci-gossip-small-shoulder-bag": {
+    "price": 166.66,
+    "originalPrice": 324.99
+  },
+  "gucci-horsebit-ristretto-medium-shoulder-bag-2": {
+    "price": 174.99,
+    "originalPrice": 341.66
+  },
+  "gucci-horsebit-ristretto-medium-shoulder-bag": {
+    "price": 183.33,
+    "originalPrice": 366.66
+  },
+  "lady-dior-glycine-wallet-2": {
+    "price": 108.33,
+    "originalPrice": 208.33
+  },
+  "lady-dior-glycine-wallet": {
+    "price": 108.33,
+    "originalPrice": 208.33
+  },
+  "lady-dior-freesia-card-holder-2": {
+    "price": 91.66,
+    "originalPrice": 191.66
+  },
+  "lady-dior-freesia-card-holder": {
+    "price": 91.66,
+    "originalPrice": 191.66
+  },
+  "my-dior-mini-baghigh-end-grade-4": {
+    "price": 266.66,
+    "originalPrice": 524.99
+  },
+  "my-dior-mini-baghigh-end-grade-3": {
+    "price": 266.66,
+    "originalPrice": 524.99
+  },
+  "my-dior-mini-baghigh-end-grade-2": {
+    "price": 266.66,
+    "originalPrice": 524.99
+  },
+  "my-dior-mini-baghigh-end-grade": {
+    "price": 266.66,
+    "originalPrice": 524.99
+  },
+  "my-tender-dior-top-handle-mini-baghigh-end-grade-6": {
+    "price": 274.99,
+    "originalPrice": 541.66
+  },
+  "my-tender-dior-top-handle-mini-baghigh-end-grade-5": {
+    "price": 274.99,
+    "originalPrice": 541.66
+  },
+  "my-tender-dior-top-handle-mini-baghigh-end-grade-4": {
+    "price": 274.99,
+    "originalPrice": 541.66
+  },
+  "my-tender-dior-top-handle-mini-baghigh-end-grade-3": {
+    "price": 274.99,
+    "originalPrice": 541.66
+  },
+  "my-tender-dior-top-handle-mini-baghigh-end-grade-2": {
+    "price": 274.99,
+    "originalPrice": 541.66
+  },
+  "my-tender-dior-top-handle-mini-baghigh-end-grade": {
+    "price": 274.99,
+    "originalPrice": 541.66
+  },
+  "small-dior-toujours-hobo-baghigh-end-grade-5": {
+    "price": 266.66,
+    "originalPrice": 524.99
+  },
+  "small-dior-toujours-hobo-baghigh-end-grade-4": {
+    "price": 266.66,
+    "originalPrice": 524.99
+  },
+  "small-dior-toujours-hobo-baghigh-end-grade-3": {
+    "price": 266.66,
+    "originalPrice": 524.99
+  },
+  "small-dior-toujours-hobo-baghigh-end-grade-2": {
+    "price": 266.66,
+    "originalPrice": 524.99
+  },
+  "small-dior-toujours-hobo-baghigh-end-grade": {
+    "price": 266.66,
+    "originalPrice": 524.99
+  },
+  "small-dior-promenade-shopping-baghigh-end-grade": {
+    "price": 266.66,
+    "originalPrice": 524.99
+  },
+  "mini-lady-dior-bag-with-chainhigh-end-grade-5": {
+    "price": 274.99,
+    "originalPrice": 541.66
+  },
+  "mini-lady-dior-bag-with-chainhigh-end-grade-4": {
+    "price": 274.99,
+    "originalPrice": 541.66
+  },
+  "mini-lady-dior-bag-with-chainhigh-end-grade-3": {
+    "price": 274.99,
+    "originalPrice": 541.66
+  },
+  "mini-lady-dior-bag-with-chainhigh-end-grade-2": {
+    "price": 274.99,
+    "originalPrice": 541.66
+  },
+  "mini-lady-dior-bag-with-chainhigh-end-grade": {
+    "price": 274.99,
+    "originalPrice": 541.66
+  },
+  "small-lady-dior-bag-with-straphigh-end-grade-5": {
+    "price": 283.33,
+    "originalPrice": 566.66
+  },
+  "small-lady-dior-bag-with-straphigh-end-grade-4": {
+    "price": 283.33,
+    "originalPrice": 566.66
+  },
+  "small-lady-dior-bag-with-straphigh-end-grade-3": {
+    "price": 283.33,
+    "originalPrice": 566.66
+  },
+  "small-lady-dior-bag-with-straphigh-end-grade-2": {
+    "price": 283.33,
+    "originalPrice": 566.66
+  },
+  "small-lady-dior-bag-with-straphigh-end-grade": {
+    "price": 283.33,
+    "originalPrice": 566.66
+  },
+  "hermes-birkin-40high-end-grade-5": {
+    "price": 899.99,
+    "originalPrice": 1799.99
+  },
+  "hermes-birkin-40high-end-grade-4": {
+    "price": 899.99,
+    "originalPrice": 1799.99
+  },
+  "hermes-birkin-40high-end-grade-3": {
+    "price": 899.99,
+    "originalPrice": 1799.99
+  },
+  "hermes-birkin-40high-end-grade-2": {
+    "price": 899.99,
+    "originalPrice": 1799.99
+  },
+  "hermes-birkin-40high-end-grade": {
+    "price": 899.99,
+    "originalPrice": 1799.99
+  },
+  "ysl-icare-medium-in-raffiahigh-end-grade": {
+    "price": 266.66,
+    "originalPrice": 524.99
+  },
+  "prada-mini-leather-shoulder-baghigh-end-grade-5": {
+    "price": 241.66,
+    "originalPrice": 483.33
+  },
+  "prada-mini-leather-shoulder-baghigh-end-grade-4": {
+    "price": 241.66,
+    "originalPrice": 483.33
+  },
+  "prada-mini-leather-shoulder-baghigh-end-grade-3": {
+    "price": 241.66,
+    "originalPrice": 483.33
+  },
+  "prada-mini-leather-shoulder-baghigh-end-grade-2": {
+    "price": 241.66,
+    "originalPrice": 483.33
+  },
+  "prada-mini-leather-shoulder-baghigh-end-grade": {
+    "price": 241.66,
+    "originalPrice": 483.33
+  },
+  "prada-bonnie-leather-mini-baghigh-end-grade-7": {
+    "price": 241.66,
+    "originalPrice": 483.33
+  },
+  "prada-bonnie-leather-mini-baghigh-end-grade-6": {
+    "price": 241.66,
+    "originalPrice": 483.33
+  },
+  "prada-bonnie-leather-mini-baghigh-end-grade-5": {
+    "price": 241.66,
+    "originalPrice": 483.33
+  },
+  "prada-bonnie-leather-mini-baghigh-end-grade-4": {
+    "price": 241.66,
+    "originalPrice": 483.33
+  },
+  "prada-bonnie-leather-mini-baghigh-end-grade-3": {
+    "price": 241.66,
+    "originalPrice": 483.33
+  },
+  "prada-bonnie-leather-mini-baghigh-end-grade-2": {
+    "price": 241.66,
+    "originalPrice": 483.33
+  },
+  "prada-bonnie-leather-mini-baghigh-end-grade": {
+    "price": 241.66,
+    "originalPrice": 483.33
+  },
+  "chanel-large-vanity-with-chainhigh-end-grade": {
+    "price": 259.99,
+    "originalPrice": 509.99
   }
 }

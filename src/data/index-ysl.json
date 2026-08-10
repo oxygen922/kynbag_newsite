@@ -4880,13 +4880,16 @@
     "subcategory": "puffer"
   },
   {
-    "id": 62582,
+    "id": "62582",
     "slug": "ysl-icare-medium-in-raffiahigh-end-grade",
     "name": "YSL ICARE medium in raffia(HIGH-END GRADE)",
-    "price": 0,
-    "brand": "ysl",
-    "thumb": "https://yutulu.com/wp-content/uploads/2026/07/8-56.jpg",
+    "brand": "Ysl",
+    "category": "Bags",
+    "price": 319.99,
+    "originalPrice": 629.99,
+    "thumb": "https://img.kynbag.com/products/ysl-icare-medium-in-raffiahigh-end-grade/1-56.jpg",
     "imageCount": 8,
+    "createdAt": "2026-07-23T02:41:41",
     "subcategory": "shoulder-bag"
   }
 ]
