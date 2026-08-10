@@ -14588,5 +14588,57 @@
     "thumb": "https://yutulu.com/wp-content/uploads/2026/07/8-76.jpg",
     "imageCount": 8,
     "subcategory": "other"
+  },
+  {
+    "id": "63225",
+    "slug": "lv-multipass-mini-2",
+    "name": "LV Multipass Mini",
+    "brand": "Louis Vuitton",
+    "category": "Bags",
+    "price": 219.99,
+    "originalPrice": 439.99,
+    "thumb": "https://img.kynbag.com/products/lv-multipass-mini-2/1-20.jpg",
+    "imageCount": 8,
+    "createdAt": "2026-08-06T15:01:15",
+    "subcategory": "wallet-on-chain"
+  },
+  {
+    "id": "63216",
+    "slug": "lv-multipass-mini",
+    "name": "LV Multipass Mini",
+    "brand": "Louis Vuitton",
+    "category": "Bags",
+    "price": 219.99,
+    "originalPrice": 439.99,
+    "thumb": "https://img.kynbag.com/products/lv-multipass-mini/1-19.jpg",
+    "imageCount": 8,
+    "createdAt": "2026-08-06T14:59:25",
+    "subcategory": "wallet-on-chain"
+  },
+  {
+    "id": "63207",
+    "slug": "lv-margot-wallet",
+    "name": "LV Margot Wallet",
+    "brand": "Louis Vuitton",
+    "category": "Bags",
+    "price": 189.99,
+    "originalPrice": 369.99,
+    "thumb": "https://img.kynbag.com/products/lv-margot-wallet/1-18.jpg",
+    "imageCount": 8,
+    "createdAt": "2026-08-06T14:57:02",
+    "subcategory": "wallet-on-chain"
+  },
+  {
+    "id": "63198",
+    "slug": "lv-charms-pocket-wallet",
+    "name": "LV Charms Pocket Wallet",
+    "brand": "Louis Vuitton",
+    "category": "Bags",
+    "price": 149.99,
+    "originalPrice": 289.99,
+    "thumb": "https://img.kynbag.com/products/lv-charms-pocket-wallet/1-17.jpg",
+    "imageCount": 8,
+    "createdAt": "2026-08-06T14:28:40",
+    "subcategory": "wallet-on-chain"
   }
 ]

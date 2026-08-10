@@ -24158,5 +24158,93 @@
   "lv-shopper-tote-mm": {
     "originalPrice": 399.99,
     "price": 299.99
+  },
+  "lv-multipass-mini-2": {
+    "originalPrice": 369.99,
+    "price": 189.99
+  },
+  "lv-multipass-mini": {
+    "originalPrice": 369.99,
+    "price": 189.99
+  },
+  "lv-margot-wallet": {
+    "originalPrice": 309.99,
+    "price": 159.99
+  },
+  "lv-charms-pocket-wallet": {
+    "originalPrice": 249.99,
+    "price": 129.99
+  },
+  "chanel-large-classic-handbagtax-free-grade": {
+    "originalPrice": 769.99,
+    "price": 389.99
+  },
+  "chanel-vanity-with-chainhigh-end-grade-10": {
+    "originalPrice": 489.99,
+    "price": 249.99
+  },
+  "chanel-vanity-with-chainhigh-end-grade-9": {
+    "originalPrice": 489.99,
+    "price": 249.99
+  },
+  "chanel-vanity-with-chainhigh-end-grade-8": {
+    "originalPrice": 489.99,
+    "price": 249.99
+  },
+  "chanel-vanity-with-chainhigh-end-grade-7": {
+    "originalPrice": 489.99,
+    "price": 249.99
+  },
+  "chanel-vanity-with-chainhigh-end-grade-11": {
+    "originalPrice": 489.99,
+    "price": 249.99
+  },
+  "chanel-medium-vanity-with-chainhigh-end-grade-3": {
+    "originalPrice": 509.99,
+    "price": 259.99
+  },
+  "chanel-medium-vanity-with-chainhigh-end-grade-2": {
+    "originalPrice": 509.99,
+    "price": 259.99
+  },
+  "chanel-medium-vanity-with-chainhigh-end-grade": {
+    "originalPrice": 509.99,
+    "price": 259.99
+  },
+  "chanel-large-vanity-with-chainhigh-end-grade-10": {
+    "originalPrice": 509.99,
+    "price": 259.99
+  },
+  "chanel-large-vanity-with-chainhigh-end-grade-9": {
+    "originalPrice": 509.99,
+    "price": 259.99
+  },
+  "chanel-large-vanity-with-chainhigh-end-grade-8": {
+    "originalPrice": 509.99,
+    "price": 259.99
+  },
+  "chanel-large-vanity-with-chainhigh-end-grade-7": {
+    "originalPrice": 509.99,
+    "price": 259.99
+  },
+  "chanel-large-vanity-with-chainhigh-end-grade-6": {
+    "originalPrice": 509.99,
+    "price": 259.99
+  },
+  "chanel-large-vanity-with-chainhigh-end-grade-5": {
+    "originalPrice": 509.99,
+    "price": 259.99
+  },
+  "chanel-large-vanity-with-chainhigh-end-grade-4": {
+    "originalPrice": 509.99,
+    "price": 259.99
+  },
+  "chanel-large-vanity-with-chainhigh-end-grade-3": {
+    "originalPrice": 509.99,
+    "price": 259.99
+  },
+  "chanel-large-vanity-with-chainhigh-end-grade-2": {
+    "originalPrice": 509.99,
+    "price": 259.99
   }
 }
