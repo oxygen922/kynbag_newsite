@@ -56801,5 +56801,61 @@
     ],
     "createdAt": "2026-08-06T14:28:40",
     "subcategory": "clutch"
+  },
+  {
+    "id": 63527,
+    "slug": "lv-keepall-bandouliere-45-7",
+    "name": "LV Keepall Bandoulière 45",
+    "description": "",
+    "price": 0,
+    "originalPrice": 0,
+    "brand": "louis-vuitton",
+    "images": [
+      "https://yutulu.com/wp-content/uploads/2026/08/8-53.jpg",
+      "https://yutulu.com/wp-content/uploads/2026/08/7-53.jpg",
+      "https://yutulu.com/wp-content/uploads/2026/08/6-53.jpg",
+      "https://yutulu.com/wp-content/uploads/2026/08/5-52.jpg",
+      "https://yutulu.com/wp-content/uploads/2026/08/4-53.jpg",
+      "https://yutulu.com/wp-content/uploads/2026/08/3-53.jpg",
+      "https://yutulu.com/wp-content/uploads/2026/08/2-53.jpg",
+      "https://yutulu.com/wp-content/uploads/2026/08/1-52.jpg"
+    ],
+    "categories": [],
+    "subcategory": "other",
+    "colors": [],
+    "rating": 0,
+    "reviewCount": 0,
+    "isNew": true,
+    "isFeatured": false,
+    "tags": [],
+    "createdAt": "2026-08-19T10:58:03"
+  },
+  {
+    "id": 63518,
+    "slug": "lv-louis-bear-bee-bag-charm",
+    "name": "LV Louis Bear Bee Bag Charm",
+    "description": "",
+    "price": 0,
+    "originalPrice": 0,
+    "brand": "louis-vuitton",
+    "images": [
+      "https://yutulu.com/wp-content/uploads/2026/08/8-52.jpg",
+      "https://yutulu.com/wp-content/uploads/2026/08/7-52.jpg",
+      "https://yutulu.com/wp-content/uploads/2026/08/6-52.jpg",
+      "https://yutulu.com/wp-content/uploads/2026/08/5-51.jpg",
+      "https://yutulu.com/wp-content/uploads/2026/08/4-52.jpg",
+      "https://yutulu.com/wp-content/uploads/2026/08/3-52.jpg",
+      "https://yutulu.com/wp-content/uploads/2026/08/2-52.jpg",
+      "https://yutulu.com/wp-content/uploads/2026/08/1-51.jpg"
+    ],
+    "categories": [],
+    "subcategory": "other",
+    "colors": [],
+    "rating": 0,
+    "reviewCount": 0,
+    "isNew": true,
+    "isFeatured": false,
+    "tags": [],
+    "createdAt": "2026-08-19T10:56:36"
   }
 ]

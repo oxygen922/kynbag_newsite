@@ -14628,5 +14628,25 @@
     "thumb": "https://img.kynbag.com/products/lv-charms-pocket-wallet/1-17.jpg",
     "imageCount": 8,
     "subcategory": "clutch"
+  },
+  {
+    "id": 63527,
+    "slug": "lv-keepall-bandouliere-45-7",
+    "name": "LV Keepall Bandoulière 45",
+    "price": 0,
+    "brand": "louis-vuitton",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/08/8-53.jpg",
+    "imageCount": 8,
+    "subcategory": "other"
+  },
+  {
+    "id": 63518,
+    "slug": "lv-louis-bear-bee-bag-charm",
+    "name": "LV Louis Bear Bee Bag Charm",
+    "price": 0,
+    "brand": "louis-vuitton",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/08/8-52.jpg",
+    "imageCount": 8,
+    "subcategory": "other"
   }
 ]
