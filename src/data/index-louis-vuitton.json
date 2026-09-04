@@ -14648,5 +14648,35 @@
     "thumb": "https://yutulu.com/wp-content/uploads/2026/08/8-52.jpg",
     "imageCount": 8,
     "subcategory": "other"
+  },
+  {
+    "id": 63799,
+    "slug": "lv-malle-de-jourhigh-end-grade",
+    "name": "LV Malle De Jour(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "louis-vuitton",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/09/8-13.jpg",
+    "imageCount": 8,
+    "subcategory": "other"
+  },
+  {
+    "id": 63790,
+    "slug": "lv-pochette-metis-softhigh-end-grade",
+    "name": "LV Pochette Métis Soft(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "louis-vuitton",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/09/8-12.jpg",
+    "imageCount": 8,
+    "subcategory": "other"
+  },
+  {
+    "id": 63781,
+    "slug": "lv-speedpockethigh-end-grade",
+    "name": "LV Speedpocket(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "louis-vuitton",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/09/8-11.jpg",
+    "imageCount": 8,
+    "subcategory": "other"
   }
 ]

@@ -7798,6 +7798,27 @@
     "subcategory": "mini-flap"
   },
   {
+    "id": 63574,
+    "slug": "chanel-bucket-baghigh-end-grade-3",
+    "name": "Chanel Bucket Bag(HIGH-END GRADE)",
+    "brand": "chanel",
+    "subcategory": "crossbody"
+  },
+  {
+    "id": 63565,
+    "slug": "chanel-bucket-baghigh-end-grade-2",
+    "name": "Chanel Bucket Bag(HIGH-END GRADE)",
+    "brand": "chanel",
+    "subcategory": "crossbody"
+  },
+  {
+    "id": 63556,
+    "slug": "chanel-bucket-baghigh-end-grade",
+    "name": "Chanel Bucket Bag(HIGH-END GRADE)",
+    "brand": "chanel",
+    "subcategory": "crossbody"
+  },
+  {
     "id": "60808",
     "slug": "lv-neverwoof",
     "name": "LV Neverwoof",
@@ -18053,6 +18074,27 @@
     "subcategory": "other"
   },
   {
+    "id": 63799,
+    "slug": "lv-malle-de-jourhigh-end-grade",
+    "name": "LV Malle De Jour(HIGH-END GRADE)",
+    "brand": "louis-vuitton",
+    "subcategory": "other"
+  },
+  {
+    "id": 63790,
+    "slug": "lv-pochette-metis-softhigh-end-grade",
+    "name": "LV Pochette Métis Soft(HIGH-END GRADE)",
+    "brand": "louis-vuitton",
+    "subcategory": "other"
+  },
+  {
+    "id": 63781,
+    "slug": "lv-speedpockethigh-end-grade",
+    "name": "LV Speedpocket(HIGH-END GRADE)",
+    "brand": "louis-vuitton",
+    "subcategory": "other"
+  },
+  {
     "id": "61133",
     "slug": "gucci-horsebit-1955-small-shoulder-bag-8",
     "name": "Gucci Horsebit 1955 small shoulder bag",
@@ -21649,6 +21691,97 @@
     "name": "Gucci Horsebit Ristretto medium shoulder bag",
     "brand": "Gucci",
     "subcategory": "horsebit"
+  },
+  {
+    "id": 63772,
+    "slug": "gucci-horsebit-duomo-small-top-handle-baghigh-end-grade-5",
+    "name": "GUCCI Horsebit Duomo small top handle bag(HIGH-END GRADE)",
+    "brand": "gucci",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 63763,
+    "slug": "gucci-horsebit-duomo-small-top-handle-baghigh-end-grade-4",
+    "name": "GUCCI Horsebit Duomo small top handle bag(HIGH-END GRADE)",
+    "brand": "gucci",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 63753,
+    "slug": "gucci-horsebit-duomo-small-top-handle-baghigh-end-grade-3",
+    "name": "GUCCI Horsebit Duomo small top handle bag(HIGH-END GRADE)",
+    "brand": "gucci",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 63744,
+    "slug": "gucci-horsebit-duomo-small-top-handle-baghigh-end-grade-2",
+    "name": "GUCCI Horsebit Duomo small top handle bag(HIGH-END GRADE)",
+    "brand": "gucci",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 63734,
+    "slug": "gucci-horsebit-duomo-small-top-handle-baghigh-end-grade",
+    "name": "GUCCI Horsebit Duomo small top handle bag(HIGH-END GRADE)",
+    "brand": "gucci",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 63724,
+    "slug": "gucci-horsebit-duomo-medium-top-handle-baghigh-end-grade-6",
+    "name": "GUCCI Horsebit Duomo medium top handle bag(HIGH-END GRADE)",
+    "brand": "gucci",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 63714,
+    "slug": "gucci-horsebit-duomo-medium-top-handle-baghigh-end-grade-5",
+    "name": "GUCCI Horsebit Duomo medium top handle bag(HIGH-END GRADE)",
+    "brand": "gucci",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 63704,
+    "slug": "gucci-horsebit-duomo-medium-top-handle-baghigh-end-grade-4",
+    "name": "GUCCI Horsebit Duomo medium top handle bag(HIGH-END GRADE)",
+    "brand": "gucci",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 63694,
+    "slug": "gucci-horsebit-duomo-medium-top-handle-baghigh-end-grade-3",
+    "name": "GUCCI Horsebit Duomo medium top handle bag(HIGH-END GRADE)",
+    "brand": "gucci",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 63684,
+    "slug": "gucci-horsebit-duomo-medium-top-handle-baghigh-end-grade-2",
+    "name": "GUCCI Horsebit Duomo medium top handle bag(HIGH-END GRADE)",
+    "brand": "gucci",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 63674,
+    "slug": "gucci-horsebit-duomo-medium-top-handle-baghigh-end-grade",
+    "name": "GUCCI Horsebit Duomo medium top handle bag(HIGH-END GRADE)",
+    "brand": "gucci",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 63592,
+    "slug": "gucci-ophidia-small-shoulder-bag-4",
+    "name": "Gucci Ophidia small shoulder bag",
+    "brand": "gucci",
+    "subcategory": "mini-bag"
+  },
+  {
+    "id": 63583,
+    "slug": "gucci-ophidia-small-shoulder-bag-3",
+    "name": "Gucci Ophidia small shoulder bag",
+    "brand": "gucci",
+    "subcategory": "mini-bag"
   },
   {
     "id": "60965",

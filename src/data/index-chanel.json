@@ -11138,5 +11138,35 @@
     "thumb": "https://yutulu.com/wp-content/uploads/2026/08/8-35.jpg",
     "imageCount": 8,
     "subcategory": "mini-flap"
+  },
+  {
+    "id": 63574,
+    "slug": "chanel-bucket-baghigh-end-grade-3",
+    "name": "Chanel Bucket Bag(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "chanel",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/08/8-57.jpg",
+    "imageCount": 8,
+    "subcategory": "crossbody"
+  },
+  {
+    "id": 63565,
+    "slug": "chanel-bucket-baghigh-end-grade-2",
+    "name": "Chanel Bucket Bag(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "chanel",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/08/8-56.jpg",
+    "imageCount": 8,
+    "subcategory": "crossbody"
+  },
+  {
+    "id": 63556,
+    "slug": "chanel-bucket-baghigh-end-grade",
+    "name": "Chanel Bucket Bag(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "chanel",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/08/8-55.jpg",
+    "imageCount": 8,
+    "subcategory": "crossbody"
   }
 ]
