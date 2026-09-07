@@ -26432,6 +26432,27 @@
     "subcategory": "classic-flap"
   },
   {
+    "id": 63971,
+    "slug": "dior-medaillon-envelope-pouch-with-straphigh-end-grade-3",
+    "name": "Dior Médaillon Envelope Pouch with Strap(HIGH-END GRADE)",
+    "brand": "dior",
+    "subcategory": "classic-flap"
+  },
+  {
+    "id": 63961,
+    "slug": "dior-medaillon-envelope-pouch-with-straphigh-end-grade-2",
+    "name": "Dior Médaillon Envelope Pouch with Strap(HIGH-END GRADE)",
+    "brand": "dior",
+    "subcategory": "classic-flap"
+  },
+  {
+    "id": 63952,
+    "slug": "dior-medaillon-envelope-pouch-with-straphigh-end-grade",
+    "name": "Dior Médaillon Envelope Pouch with Strap(HIGH-END GRADE)",
+    "brand": "dior",
+    "subcategory": "classic-flap"
+  },
+  {
     "id": "59301",
     "slug": "celine-medium-triomphe-folio-in-shiny-calfskinhigh-end-grade-2",
     "name": "CELINE MEDIUM TRIOMPHE FOLIO IN SHINY CALFSKIN(HIGH-END GRADE)",
@@ -43712,6 +43733,83 @@
     "slug": "matelasse-nappa-leather-top-handle-bag",
     "name": "Matelasse nappa leather top-handle bag",
     "brand": "MiuMiu",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 63943,
+    "slug": "miumiu-arcadie-studded-leather-baghigh-end-grade-3",
+    "name": "MiuMiu Arcadie studded leather bag(HIGH-END GRADE)",
+    "brand": "miumiu",
+    "subcategory": "arcadie"
+  },
+  {
+    "id": 63934,
+    "slug": "miumiu-arcadie-studded-leather-baghigh-end-grade-2",
+    "name": "MiuMiu Arcadie studded leather bag(HIGH-END GRADE)",
+    "brand": "miumiu",
+    "subcategory": "arcadie"
+  },
+  {
+    "id": 63925,
+    "slug": "miumiu-arcadie-studded-leather-baghigh-end-grade",
+    "name": "MiuMiu Arcadie studded leather bag(HIGH-END GRADE)",
+    "brand": "miumiu",
+    "subcategory": "arcadie"
+  },
+  {
+    "id": 63916,
+    "slug": "miumiu-arcadie-leather-baghigh-end-grade-4",
+    "name": "MiuMiu Arcadie leather bag(HIGH-END GRADE)",
+    "brand": "miumiu",
+    "subcategory": "arcadie"
+  },
+  {
+    "id": 63907,
+    "slug": "miumiu-arcadie-leather-baghigh-end-grade-3",
+    "name": "MiuMiu Arcadie leather bag(HIGH-END GRADE)",
+    "brand": "miumiu",
+    "subcategory": "arcadie"
+  },
+  {
+    "id": 63898,
+    "slug": "miumiu-arcadie-leather-baghigh-end-grade-2",
+    "name": "MiuMiu Arcadie leather bag(HIGH-END GRADE)",
+    "brand": "miumiu",
+    "subcategory": "arcadie"
+  },
+  {
+    "id": 63889,
+    "slug": "miumiu-arcadie-leather-baghigh-end-grade",
+    "name": "MiuMiu Arcadie leather bag(HIGH-END GRADE)",
+    "brand": "miumiu",
+    "subcategory": "arcadie"
+  },
+  {
+    "id": 63880,
+    "slug": "miumiu-aventure-nappa-leather-baghigh-end-grade-4",
+    "name": "MiuMiu Aventure nappa leather bag(HIGH-END GRADE)",
+    "brand": "miumiu",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 63871,
+    "slug": "miumiu-aventure-nappa-leather-baghigh-end-grade-3",
+    "name": "MiuMiu Aventure nappa leather bag(HIGH-END GRADE)",
+    "brand": "miumiu",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 63862,
+    "slug": "miumiu-aventure-nappa-leather-baghigh-end-grade-2",
+    "name": "MiuMiu Aventure nappa leather bag(HIGH-END GRADE)",
+    "brand": "miumiu",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 63853,
+    "slug": "miumiu-aventure-nappa-leather-baghigh-end-grade",
+    "name": "MiuMiu Aventure nappa leather bag(HIGH-END GRADE)",
+    "brand": "miumiu",
     "subcategory": "shoulder-bag"
   },
   {
