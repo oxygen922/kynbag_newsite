@@ -2428,5 +2428,85 @@
     "thumb": "https://img.kynbag.com/products/mini-jodie/1-60.jpg",
     "imageCount": 8,
     "subcategory": "jodie"
+  },
+  {
+    "id": 64334,
+    "slug": "bottega-veneta-andiamo-clutch-25high-end-grade-2",
+    "name": "Bottega Veneta Andiamo Clutch 25(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "bottega-veneta",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/09/9-42.jpg",
+    "imageCount": 9,
+    "subcategory": "andiamo"
+  },
+  {
+    "id": 64324,
+    "slug": "bottega-veneta-andiamo-clutch-25high-end-grade",
+    "name": "Bottega Veneta Andiamo Clutch 25(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "bottega-veneta",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/09/9-41.jpg",
+    "imageCount": 9,
+    "subcategory": "andiamo"
+  },
+  {
+    "id": 64314,
+    "slug": "bottega-veneta-madisonhigh-end-grade-4",
+    "name": "Bottega Veneta Madison(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "bottega-veneta",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/09/9-40.jpg",
+    "imageCount": 9,
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 64304,
+    "slug": "bottega-veneta-madisonhigh-end-grade-3",
+    "name": "Bottega Veneta Madison(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "bottega-veneta",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/09/9-39.jpg",
+    "imageCount": 9,
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 64294,
+    "slug": "bottega-veneta-madisonhigh-end-grade-2",
+    "name": "Bottega Veneta Madison(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "bottega-veneta",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/09/9-38.jpg",
+    "imageCount": 9,
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 64284,
+    "slug": "bottega-veneta-madisonhigh-end-grade",
+    "name": "Bottega Veneta Madison(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "bottega-veneta",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/09/9-37.jpg",
+    "imageCount": 9,
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 64274,
+    "slug": "bottega-veneta-baby-madisonhigh-end-grade-2",
+    "name": "Bottega Veneta Baby Madison(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "bottega-veneta",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/09/9-36.jpg",
+    "imageCount": 9,
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 64264,
+    "slug": "bottega-veneta-baby-madisonhigh-end-grade",
+    "name": "Bottega Veneta Baby Madison(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "bottega-veneta",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/09/9-35.jpg",
+    "imageCount": 9,
+    "subcategory": "shoulder-bag"
   }
 ]

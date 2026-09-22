@@ -748,5 +748,65 @@
     "thumb": "https://img.kynbag.com/products/fendi-small-runaway-shopper-bag/1-75.jpg",
     "imageCount": 8,
     "subcategory": "tote"
+  },
+  {
+    "id": 64438,
+    "slug": "fendi-baguette-minihigh-end-grade-2",
+    "name": "Fendi Baguette® Mini(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "fendi",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/09/9-52.jpg",
+    "imageCount": 9,
+    "subcategory": "baguette"
+  },
+  {
+    "id": 64428,
+    "slug": "fendi-baguette-minihigh-end-grade",
+    "name": "Fendi Baguette® Mini(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "fendi",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/09/9-51.jpg",
+    "imageCount": 9,
+    "subcategory": "baguette"
+  },
+  {
+    "id": 64418,
+    "slug": "fendi-zipper-top-small",
+    "name": "Fendi Zipper Top Small",
+    "price": 0,
+    "brand": "fendi",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/09/9-50.jpg",
+    "imageCount": 9,
+    "subcategory": "mini-bag"
+  },
+  {
+    "id": 64408,
+    "slug": "fendi-zipper-top-smallhigh-end-grade",
+    "name": "Fendi Zipper Top Small(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "fendi",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/09/9-49.jpg",
+    "imageCount": 9,
+    "subcategory": "mini-bag"
+  },
+  {
+    "id": 64398,
+    "slug": "fendi-baguette-26424high-end-grade-2",
+    "name": "Fendi Baguette® 26424(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "fendi",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/09/9-48.jpg",
+    "imageCount": 9,
+    "subcategory": "baguette"
+  },
+  {
+    "id": 64384,
+    "slug": "fendi-baguette-26424high-end-grade",
+    "name": "Fendi Baguette® 26424(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "fendi",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/09/9-47.jpg",
+    "imageCount": 9,
+    "subcategory": "baguette"
   }
 ]

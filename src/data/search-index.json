@@ -7819,6 +7819,97 @@
     "subcategory": "crossbody"
   },
   {
+    "id": 64374,
+    "slug": "chanel-flap-baghigh-end-grade-6",
+    "name": "Chanel Flap Bag(HIGH-END GRADE)",
+    "brand": "chanel",
+    "subcategory": "classic-flap"
+  },
+  {
+    "id": 64364,
+    "slug": "chanel-flap-baghigh-end-grade-5",
+    "name": "Chanel Flap Bag(HIGH-END GRADE)",
+    "brand": "chanel",
+    "subcategory": "classic-flap"
+  },
+  {
+    "id": 64354,
+    "slug": "chanel-small-backpackhigh-end-grade",
+    "name": "Chanel Small Backpack(HIGH-END GRADE)",
+    "brand": "chanel",
+    "subcategory": "backpack"
+  },
+  {
+    "id": 64086,
+    "slug": "chanel-medium-flap-baghigh-end-grade-10",
+    "name": "CHANEL Medium Flap bag(HIGH-END GRADE)",
+    "brand": "chanel",
+    "subcategory": "classic-flap"
+  },
+  {
+    "id": 64076,
+    "slug": "chanel-medium-flap-baghigh-end-grade-9",
+    "name": "CHANEL Medium Flap bag(HIGH-END GRADE)",
+    "brand": "chanel",
+    "subcategory": "classic-flap"
+  },
+  {
+    "id": 64066,
+    "slug": "chanel-medium-flap-baghigh-end-grade-8",
+    "name": "CHANEL Medium Flap bag(HIGH-END GRADE)",
+    "brand": "chanel",
+    "subcategory": "classic-flap"
+  },
+  {
+    "id": 64056,
+    "slug": "chanel-medium-flap-baghigh-end-grade-7",
+    "name": "CHANEL Medium Flap bag(HIGH-END GRADE)",
+    "brand": "chanel",
+    "subcategory": "classic-flap"
+  },
+  {
+    "id": 64046,
+    "slug": "chanel-medium-flap-baghigh-end-grade-6",
+    "name": "CHANEL Medium Flap bag(HIGH-END GRADE)",
+    "brand": "chanel",
+    "subcategory": "classic-flap"
+  },
+  {
+    "id": 64036,
+    "slug": "chanel-medium-flap-baghigh-end-grade-5",
+    "name": "CHANEL Medium Flap bag(HIGH-END GRADE)",
+    "brand": "chanel",
+    "subcategory": "classic-flap"
+  },
+  {
+    "id": 64026,
+    "slug": "chanel-medium-flap-baghigh-end-grade-4",
+    "name": "CHANEL Medium Flap bag(HIGH-END GRADE)",
+    "brand": "chanel",
+    "subcategory": "classic-flap"
+  },
+  {
+    "id": 64016,
+    "slug": "chanel-medium-flap-baghigh-end-grade-3",
+    "name": "CHANEL Medium Flap bag(HIGH-END GRADE)",
+    "brand": "chanel",
+    "subcategory": "classic-flap"
+  },
+  {
+    "id": 64006,
+    "slug": "chanel-medium-flap-baghigh-end-grade-2",
+    "name": "CHANEL Medium Flap bag(HIGH-END GRADE)",
+    "brand": "chanel",
+    "subcategory": "classic-flap"
+  },
+  {
+    "id": 63996,
+    "slug": "chanel-medium-flap-baghigh-end-grade",
+    "name": "CHANEL Medium Flap bag(HIGH-END GRADE)",
+    "brand": "chanel",
+    "subcategory": "classic-flap"
+  },
+  {
     "id": "60808",
     "slug": "lv-neverwoof",
     "name": "LV Neverwoof",
@@ -18093,6 +18184,111 @@
     "name": "LV Speedpocket(HIGH-END GRADE)",
     "brand": "louis-vuitton",
     "subcategory": "other"
+  },
+  {
+    "id": 64240,
+    "slug": "lv-carryall-pmhigh-end-grade-7",
+    "name": "LV CarryAll PM(HIGH-END GRADE)",
+    "brand": "louis-vuitton",
+    "subcategory": "other"
+  },
+  {
+    "id": 64230,
+    "slug": "lv-pochette-hillshigh-end-grade-2",
+    "name": "LV Pochette Hills(HIGH-END GRADE)",
+    "brand": "louis-vuitton",
+    "subcategory": "other"
+  },
+  {
+    "id": 64220,
+    "slug": "lv-pochette-hillshigh-end-grade",
+    "name": "LV Pochette Hills(HIGH-END GRADE)",
+    "brand": "louis-vuitton",
+    "subcategory": "other"
+  },
+  {
+    "id": 64210,
+    "slug": "lv-neverfull-mmhigh-end-grade-10",
+    "name": "LV Neverfull MM(HIGH-END GRADE)",
+    "brand": "louis-vuitton",
+    "subcategory": "other"
+  },
+  {
+    "id": 64200,
+    "slug": "lv-pochette-livhigh-end-grade-2",
+    "name": "LV Pochette Liv(HIGH-END GRADE)",
+    "brand": "louis-vuitton",
+    "subcategory": "other"
+  },
+  {
+    "id": 64190,
+    "slug": "lv-speedy-bandouliere-20high-end-grade-6",
+    "name": "LV Speedy Bandoulière 20(HIGH-END GRADE)",
+    "brand": "louis-vuitton",
+    "subcategory": "other"
+  },
+  {
+    "id": 64170,
+    "slug": "lv-all-in-onehigh-end-grade",
+    "name": "LV All In One(HIGH-END GRADE)",
+    "brand": "louis-vuitton",
+    "subcategory": "other"
+  },
+  {
+    "id": 64160,
+    "slug": "lv-pochette-miahigh-end-grade-3",
+    "name": "LV Pochette Mia(HIGH-END GRADE)",
+    "brand": "louis-vuitton",
+    "subcategory": "other"
+  },
+  {
+    "id": 64150,
+    "slug": "lv-all-in-bbhigh-end-grade-4",
+    "name": "LV All In BB(HIGH-END GRADE)",
+    "brand": "louis-vuitton",
+    "subcategory": "other"
+  },
+  {
+    "id": 64140,
+    "slug": "lv-speedy-bandouliere-25high-end-grade-7",
+    "name": "LV Speedy Bandoulière 25(HIGH-END GRADE)",
+    "brand": "louis-vuitton",
+    "subcategory": "other"
+  },
+  {
+    "id": 64130,
+    "slug": "lv-alma-bbhigh-end-grade-10",
+    "name": "LV Alma BB(HIGH-END GRADE)",
+    "brand": "louis-vuitton",
+    "subcategory": "other"
+  },
+  {
+    "id": 64120,
+    "slug": "lv-alma-bbhigh-end-grade-9",
+    "name": "LV Alma BB(HIGH-END GRADE)",
+    "brand": "louis-vuitton",
+    "subcategory": "other"
+  },
+  {
+    "id": 64110,
+    "slug": "lv-alma-bbhigh-end-grade-8",
+    "name": "LV Alma BB(HIGH-END GRADE)",
+    "brand": "louis-vuitton",
+    "subcategory": "other"
+  },
+  {
+    "id": 64180,
+    "slug": "lv-pochette-metis-mmhigh-end-grade",
+    "name": "LV Pochette Metis MM(HIGH-END GRADE)",
+    "brand": "louis-vuitton",
+    "subcategory": "other"
+  },
+  {
+    "id": 64100,
+    "slug": "lv-wallet-on-chain-trotter",
+    "name": "LV Wallet On Chain Trotter",
+    "brand": "louis-vuitton",
+    "subcategory": "wallet-on-chain"
   },
   {
     "id": "61133",
@@ -37415,6 +37611,13 @@
     "subcategory": "other"
   },
   {
+    "id": 63986,
+    "slug": "prada-small-leather-shoulder-baghigh-end-grade",
+    "name": "Prada Small leather shoulder bag(HIGH-END GRADE)",
+    "brand": "prada",
+    "subcategory": "saffiano"
+  },
+  {
     "id": "59606",
     "slug": "loewe-mini-amazona-180-bag-in-soft-calfskinhigh-end-grade-2",
     "name": "LOEWE Mini Amazona 180 bag in soft calfskin(HIGH-END GRADE)",
@@ -40684,6 +40887,48 @@
     "subcategory": "tote"
   },
   {
+    "id": 64438,
+    "slug": "fendi-baguette-minihigh-end-grade-2",
+    "name": "Fendi Baguette® Mini(HIGH-END GRADE)",
+    "brand": "fendi",
+    "subcategory": "baguette"
+  },
+  {
+    "id": 64428,
+    "slug": "fendi-baguette-minihigh-end-grade",
+    "name": "Fendi Baguette® Mini(HIGH-END GRADE)",
+    "brand": "fendi",
+    "subcategory": "baguette"
+  },
+  {
+    "id": 64418,
+    "slug": "fendi-zipper-top-small",
+    "name": "Fendi Zipper Top Small",
+    "brand": "fendi",
+    "subcategory": "mini-bag"
+  },
+  {
+    "id": 64408,
+    "slug": "fendi-zipper-top-smallhigh-end-grade",
+    "name": "Fendi Zipper Top Small(HIGH-END GRADE)",
+    "brand": "fendi",
+    "subcategory": "mini-bag"
+  },
+  {
+    "id": 64398,
+    "slug": "fendi-baguette-26424high-end-grade-2",
+    "name": "Fendi Baguette® 26424(HIGH-END GRADE)",
+    "brand": "fendi",
+    "subcategory": "baguette"
+  },
+  {
+    "id": 64384,
+    "slug": "fendi-baguette-26424high-end-grade",
+    "name": "Fendi Baguette® 26424(HIGH-END GRADE)",
+    "brand": "fendi",
+    "subcategory": "baguette"
+  },
+  {
     "id": "36473",
     "slug": "balenciaga-womens-bel-air-shoulder-bag-smallhigh-end-grade-2",
     "name": "Balenciaga Women&#8217;s Bel Air Shoulder Bag Small(HIGH-END GRADE)",
@@ -43083,6 +43328,62 @@
     "name": "Mini Jodie",
     "brand": "Bottega Veneta",
     "subcategory": "jodie"
+  },
+  {
+    "id": 64334,
+    "slug": "bottega-veneta-andiamo-clutch-25high-end-grade-2",
+    "name": "Bottega Veneta Andiamo Clutch 25(HIGH-END GRADE)",
+    "brand": "bottega-veneta",
+    "subcategory": "andiamo"
+  },
+  {
+    "id": 64324,
+    "slug": "bottega-veneta-andiamo-clutch-25high-end-grade",
+    "name": "Bottega Veneta Andiamo Clutch 25(HIGH-END GRADE)",
+    "brand": "bottega-veneta",
+    "subcategory": "andiamo"
+  },
+  {
+    "id": 64314,
+    "slug": "bottega-veneta-madisonhigh-end-grade-4",
+    "name": "Bottega Veneta Madison(HIGH-END GRADE)",
+    "brand": "bottega-veneta",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 64304,
+    "slug": "bottega-veneta-madisonhigh-end-grade-3",
+    "name": "Bottega Veneta Madison(HIGH-END GRADE)",
+    "brand": "bottega-veneta",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 64294,
+    "slug": "bottega-veneta-madisonhigh-end-grade-2",
+    "name": "Bottega Veneta Madison(HIGH-END GRADE)",
+    "brand": "bottega-veneta",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 64284,
+    "slug": "bottega-veneta-madisonhigh-end-grade",
+    "name": "Bottega Veneta Madison(HIGH-END GRADE)",
+    "brand": "bottega-veneta",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 64274,
+    "slug": "bottega-veneta-baby-madisonhigh-end-grade-2",
+    "name": "Bottega Veneta Baby Madison(HIGH-END GRADE)",
+    "brand": "bottega-veneta",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 64264,
+    "slug": "bottega-veneta-baby-madisonhigh-end-grade",
+    "name": "Bottega Veneta Baby Madison(HIGH-END GRADE)",
+    "brand": "bottega-veneta",
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "39622",

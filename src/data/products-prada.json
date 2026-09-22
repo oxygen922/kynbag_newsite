@@ -10353,5 +10353,33 @@
     ],
     "createdAt": "2026-07-28T03:16:30",
     "subcategory": "other"
+  },
+  {
+    "id": 63986,
+    "slug": "prada-small-leather-shoulder-baghigh-end-grade",
+    "name": "Prada Small leather shoulder bag(HIGH-END GRADE)",
+    "description": "",
+    "price": 0,
+    "originalPrice": 0,
+    "brand": "prada",
+    "images": [
+      "https://yutulu.com/wp-content/uploads/2026/09/8-31.jpg",
+      "https://yutulu.com/wp-content/uploads/2026/09/7-32.jpg",
+      "https://yutulu.com/wp-content/uploads/2026/09/6-31.jpg",
+      "https://yutulu.com/wp-content/uploads/2026/09/5-31.jpg",
+      "https://yutulu.com/wp-content/uploads/2026/09/4-31.jpg",
+      "https://yutulu.com/wp-content/uploads/2026/09/3-31.jpg",
+      "https://yutulu.com/wp-content/uploads/2026/09/2-31.jpg",
+      "https://yutulu.com/wp-content/uploads/2026/09/1-31.jpg"
+    ],
+    "categories": [],
+    "subcategory": "saffiano",
+    "colors": [],
+    "rating": 0,
+    "reviewCount": 0,
+    "isNew": true,
+    "isFeatured": false,
+    "tags": [],
+    "createdAt": "2026-09-08T01:30:24"
   }
 ]
