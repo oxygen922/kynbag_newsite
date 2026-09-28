@@ -14828,5 +14828,35 @@
     "thumb": "https://yutulu.com/wp-content/uploads/2026/09/9-20.jpg",
     "imageCount": 9,
     "subcategory": "wallet-on-chain"
+  },
+  {
+    "id": 64527,
+    "slug": "lv-croisettehigh-end-grade-3",
+    "name": "LV Croisette(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "louis-vuitton",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/09/10-1.jpg",
+    "imageCount": 9,
+    "subcategory": "other"
+  },
+  {
+    "id": 64517,
+    "slug": "lv-croisettehigh-end-grade-2",
+    "name": "LV Croisette(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "louis-vuitton",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/09/10.jpg",
+    "imageCount": 9,
+    "subcategory": "other"
+  },
+  {
+    "id": 64507,
+    "slug": "lv-croisettehigh-end-grade",
+    "name": "LV Croisette(HIGH-END GRADE)",
+    "price": 0,
+    "brand": "louis-vuitton",
+    "thumb": "https://yutulu.com/wp-content/uploads/2026/09/9-53.jpg",
+    "imageCount": 9,
+    "subcategory": "other"
   }
 ]

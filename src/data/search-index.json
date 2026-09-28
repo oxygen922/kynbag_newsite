@@ -18291,6 +18291,27 @@
     "subcategory": "wallet-on-chain"
   },
   {
+    "id": 64527,
+    "slug": "lv-croisettehigh-end-grade-3",
+    "name": "LV Croisette(HIGH-END GRADE)",
+    "brand": "louis-vuitton",
+    "subcategory": "other"
+  },
+  {
+    "id": 64517,
+    "slug": "lv-croisettehigh-end-grade-2",
+    "name": "LV Croisette(HIGH-END GRADE)",
+    "brand": "louis-vuitton",
+    "subcategory": "other"
+  },
+  {
+    "id": 64507,
+    "slug": "lv-croisettehigh-end-grade",
+    "name": "LV Croisette(HIGH-END GRADE)",
+    "brand": "louis-vuitton",
+    "subcategory": "other"
+  },
+  {
     "id": "61133",
     "slug": "gucci-horsebit-1955-small-shoulder-bag-8",
     "name": "Gucci Horsebit 1955 small shoulder bag",
@@ -35515,6 +35536,48 @@
     "slug": "ysl-icare-medium-in-raffiahigh-end-grade",
     "name": "YSL ICARE medium in raffia(HIGH-END GRADE)",
     "brand": "Ysl",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 64498,
+    "slug": "ysl-le-5-a-7-baby-bea-in-grained-leatherhigh-end-grade-2",
+    "name": "YSL LE 5 À 7 BABY BEA in grained leather(HIGH-END GRADE)",
+    "brand": "ysl",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 64489,
+    "slug": "ysl-le-5-a-7-baby-bea-in-grained-leatherhigh-end-grade",
+    "name": "YSL LE 5 À 7 BABY BEA in grained leather(HIGH-END GRADE)",
+    "brand": "ysl",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 64480,
+    "slug": "ysl-le-5-a-7-baby-bea-in-suedehigh-end-grade",
+    "name": "YSL LE 5 À 7 BABY BEA in suede(HIGH-END GRADE)",
+    "brand": "ysl",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 64471,
+    "slug": "ysl-le-5-a-7-baby-bea-in-pony-hair-leatherhigh-end-grade",
+    "name": "YSL LE 5 À 7 BABY BEA in pony hair leather(HIGH-END GRADE)",
+    "brand": "ysl",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 64462,
+    "slug": "ysl-sac-de-jour-boston-in-box-saint-laurent-minihigh-end-grade-2",
+    "name": "YSL SAC DE JOUR boston in BOX SAINT LAURENT – mini(HIGH-END GRADE)",
+    "brand": "ysl",
+    "subcategory": "shoulder-bag"
+  },
+  {
+    "id": 64453,
+    "slug": "ysl-sac-de-jour-boston-in-box-saint-laurent-minihigh-end-grade",
+    "name": "YSL SAC DE JOUR boston in BOX SAINT LAURENT – mini(HIGH-END GRADE)",
+    "brand": "ysl",
     "subcategory": "shoulder-bag"
   },
   {
