@@ -5,7 +5,6 @@
  */
 import fs from "fs";
 import path from "path";
-import https from "https";
 import { fileURLToPath } from "url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -19,31 +18,14 @@ const BRAND_SLUGS = [
   "miumiu", "loro-piana", "givenchy", "burberry",
 ];
 
-function fetchJSON(url) {
-  return new Promise((resolve, reject) => {
-    const get = (u, redirects = 0) => {
-      const req = https.get(
-        u,
-        { headers: { "User-Agent": "Mozilla/5.0", Accept: "application/json" } },
-        (res) => {
-          if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
-            if (redirects > 5) return reject(new Error("Too many redirects"));
-            return get(res.headers.location, redirects + 1);
-          }
-          if (res.statusCode !== 200) return reject(new Error(`HTTP ${res.statusCode}`));
-          let data = "";
-          res.on("data", (c) => (data += c));
-          res.on("end", () => {
-            try { resolve({ data: JSON.parse(data), headers: res.headers }); }
-            catch (e) { reject(e); }
-          });
-        }
-      );
-      req.on("error", reject);
-      req.setTimeout(30000, () => req.destroy(new Error("timeout")));
-    };
-    get(url);
+async function fetchJSON(url) {
+  const resp = await fetch(url, {
+    headers: { "User-Agent": "Mozilla/5.0", Accept: "application/json" },
+    redirect: "follow",
+    signal: AbortSignal.timeout(30000),
   });
+  if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+  return { data: await resp.json(), headers: Object.fromEntries(resp.headers) };
 }
 
 async function fetchAllYutuluSlugs() {

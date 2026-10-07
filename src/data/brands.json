@@ -2,37 +2,37 @@
   {
     "name": "Louis Vuitton",
     "slug": "louis-vuitton",
-    "count": 1463,
+    "count": 1470,
     "description": "French fashion house renowned for its iconic monogram canvas and timeless travel heritage since 1854."
   },
   {
     "name": "Chanel",
     "slug": "chanel",
-    "count": 1097,
+    "count": 1153,
     "description": "Synonymous with timeless elegance, Chanel defines Parisian luxury with the iconic 2.55 and Classic Flap."
   },
   {
     "name": "Dior",
     "slug": "dior",
-    "count": 658,
+    "count": 666,
     "description": "Christian Dior's vision of refined femininity, crafting the legendary Lady Dior and Saddle bags."
   },
   {
     "name": "YSL",
     "slug": "ysl",
-    "count": 489,
+    "count": 495,
     "description": "Saint Laurent's edgy Parisian-chic, defining modern luxury with the Loulou, Kate, and Niki."
   },
   {
     "name": "Prada",
     "slug": "prada",
-    "count": 299,
+    "count": 300,
     "description": "Miuccia Prada's intellectual luxury, blending nylon innovation with refined Italian leather goods."
   },
   {
     "name": "Bottega Veneta",
     "slug": "bottega-veneta",
-    "count": 243,
+    "count": 252,
     "description": "Master of intrecciato woven leather, understated luxury with the Cassette and Jodie."
   },
   {
@@ -50,7 +50,7 @@
   {
     "name": "Loewe",
     "slug": "loewe",
-    "count": 177,
+    "count": 184,
     "description": "Jonathan Anderson's craft revival, blending Spanish leather heritage with modern artistry."
   },
   {
@@ -62,13 +62,13 @@
   {
     "name": "MiuMiu",
     "slug": "miumiu",
-    "count": 93,
+    "count": 105,
     "description": "Playful, rebellious sister to Prada, defining youthful luxury."
   },
   {
     "name": "Fendi",
     "slug": "fendi",
-    "count": 75,
+    "count": 81,
     "description": "Roman luxury with the iconic Baguette and Peekaboo, defined by Karl Lagerfeld's vision."
   },
   {
@@ -98,7 +98,7 @@
   {
     "name": "Gucci",
     "slug": "gucci",
-    "count": 514,
+    "count": 533,
     "description": "Italian maximalism meets heritage craftsmanship, home to the Horsebit, Dionysus, and Marmont."
   }
 ]
