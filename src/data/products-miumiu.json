@@ -3239,7 +3239,7 @@
       "https://img.kynbag.com/products/dior-medaillon-envelope-pouch-with-straphigh-end-grade-3/9-9.jpg"
     ],
     "createdAt": "2026-09-05T09:42:20",
-    "subcategory": "pouch"
+    "subcategory": "classic-flap"
   },
   {
     "id": "63943",
@@ -3274,7 +3274,7 @@
       "https://img.kynbag.com/products/miumiu-arcadie-studded-leather-baghigh-end-grade-3/8-27.jpg"
     ],
     "createdAt": "2026-09-05T09:36:33",
-    "subcategory": "other"
+    "subcategory": "arcadie"
   },
   {
     "id": "63934",
@@ -3309,7 +3309,7 @@
       "https://img.kynbag.com/products/miumiu-arcadie-studded-leather-baghigh-end-grade-2/8-26.jpg"
     ],
     "createdAt": "2026-09-05T09:33:56",
-    "subcategory": "other"
+    "subcategory": "arcadie"
   },
   {
     "id": "63925",
@@ -3344,7 +3344,7 @@
       "https://img.kynbag.com/products/miumiu-arcadie-studded-leather-baghigh-end-grade/8-25.jpg"
     ],
     "createdAt": "2026-09-05T09:32:58",
-    "subcategory": "other"
+    "subcategory": "arcadie"
   },
   {
     "id": "63916",
@@ -3380,7 +3380,7 @@
       "https://img.kynbag.com/products/miumiu-arcadie-leather-baghigh-end-grade-4/8-24.jpg"
     ],
     "createdAt": "2026-09-05T09:31:58",
-    "subcategory": "other"
+    "subcategory": "arcadie"
   },
   {
     "id": "63907",
@@ -3416,7 +3416,7 @@
       "https://img.kynbag.com/products/miumiu-arcadie-leather-baghigh-end-grade-3/8-23.jpg"
     ],
     "createdAt": "2026-09-05T09:31:03",
-    "subcategory": "other"
+    "subcategory": "arcadie"
   },
   {
     "id": "63898",
@@ -3452,7 +3452,7 @@
       "https://img.kynbag.com/products/miumiu-arcadie-leather-baghigh-end-grade-2/8-22.jpg"
     ],
     "createdAt": "2026-09-05T09:30:01",
-    "subcategory": "other"
+    "subcategory": "arcadie"
   },
   {
     "id": "63889",
@@ -3488,7 +3488,7 @@
       "https://img.kynbag.com/products/miumiu-arcadie-leather-baghigh-end-grade/8-21.jpg"
     ],
     "createdAt": "2026-09-05T09:28:54",
-    "subcategory": "other"
+    "subcategory": "arcadie"
   },
   {
     "id": "63880",
@@ -3522,7 +3522,7 @@
       "https://img.kynbag.com/products/miumiu-aventure-nappa-leather-baghigh-end-grade-4/8-20.jpg"
     ],
     "createdAt": "2026-09-05T09:28:03",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "63871",
@@ -3556,7 +3556,7 @@
       "https://img.kynbag.com/products/miumiu-aventure-nappa-leather-baghigh-end-grade-3/8-19.jpg"
     ],
     "createdAt": "2026-09-05T09:27:11",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "63862",
@@ -3590,7 +3590,7 @@
       "https://img.kynbag.com/products/miumiu-aventure-nappa-leather-baghigh-end-grade-2/8-18.jpg"
     ],
     "createdAt": "2026-09-05T09:26:20",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "63853",
@@ -3624,6 +3624,6 @@
       "https://img.kynbag.com/products/miumiu-aventure-nappa-leather-baghigh-end-grade/8-17.jpg"
     ],
     "createdAt": "2026-09-05T09:25:20",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   }
 ]

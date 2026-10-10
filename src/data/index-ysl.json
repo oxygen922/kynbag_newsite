@@ -4903,7 +4903,7 @@
     "thumb": "https://img.kynbag.com/products/ysl-le-5-a-7-baby-bea-in-grained-leatherhigh-end-grade-2/1-81.jpg",
     "imageCount": 8,
     "createdAt": "2026-09-25T14:17:04",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "64489",
@@ -4916,7 +4916,7 @@
     "thumb": "https://img.kynbag.com/products/ysl-le-5-a-7-baby-bea-in-grained-leatherhigh-end-grade/1-80.jpg",
     "imageCount": 8,
     "createdAt": "2026-09-25T14:14:52",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "64480",
@@ -4929,7 +4929,7 @@
     "thumb": "https://img.kynbag.com/products/ysl-le-5-a-7-baby-bea-in-suedehigh-end-grade/1-79.jpg",
     "imageCount": 8,
     "createdAt": "2026-09-25T14:13:50",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "64471",
@@ -4942,7 +4942,7 @@
     "thumb": "https://img.kynbag.com/products/ysl-le-5-a-7-baby-bea-in-pony-hair-leatherhigh-end-grade/1-78.jpg",
     "imageCount": 8,
     "createdAt": "2026-09-25T14:12:56",
-    "subcategory": "other"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "64462",
@@ -4955,7 +4955,7 @@
     "thumb": "https://img.kynbag.com/products/ysl-sac-de-jour-boston-in-box-saint-laurent-minihigh-end-grade-2/1-77.jpg",
     "imageCount": 8,
     "createdAt": "2026-09-25T14:10:25",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   },
   {
     "id": "64453",
@@ -4968,6 +4968,6 @@
     "thumb": "https://img.kynbag.com/products/ysl-sac-de-jour-boston-in-box-saint-laurent-minihigh-end-grade/1-76.jpg",
     "imageCount": 8,
     "createdAt": "2026-09-25T13:11:06",
-    "subcategory": "mini-bag"
+    "subcategory": "shoulder-bag"
   }
 ]
